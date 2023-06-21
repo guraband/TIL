@@ -6,7 +6,22 @@
 
 ### 2023.06.19
 - 트위터 클론코딩
-    - #1.0 React + Firebase Setup 학습 완료
+    - #1.0 React + Firebase Setup
         - 2년 전에 따라하다가 중지했던 nwitter 프로젝트를 삭제하고 새로 세팅
         - npm audit fix --force 실행
         - firebase 세팅 완료
+
+### 2023.06.20
+- 트위터 클론코딩
+    - #1.1 Securing the Keys
+        - .env 파일 분리
+    - #1.2 Router Setup
+        - router 설정
+            - 강의 속 react-router-dom의 버전(v5)과 현재의 버전(v6)이 달라서 v6에 맞춰 수정함
+
+### 2023.06.21
+- [개발자를 위한 ChatGPT : 순식간에 파이썬 앱 구축하기](https://www.udemy.com/course/chatgpt-for-programmers-korean/) 강의 구입 후 수강
+    - chatGPT로 BMI를 계산하는 web-app을 만드는 과정을 보고 환율 계산기 GUI app 을 만들어봤다.
+    - 색상을 지정하는 부분에서 혼선이 있었지만 결과물이 나쁘지 않았다.
+    - 과거 7일간의 환율 정보도 추가하려고 했지만 환율 정보 API의 제약으로 결과 파싱에 실패했다.
+
