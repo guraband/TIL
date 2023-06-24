@@ -35,3 +35,13 @@
 - 트위터 클론코딩
     - #2.0 Using Firebase Auth 학습
 
+### 2023.06.24
+- 개발 관련 유튜브 시청
+    - [님들이 수강신청, 티켓팅 실패하는 이유 (자바스크립트 몰라서)] (https://www.youtube.com/watch?v=oWSNOrBbOIU)
+        - http 통신에서 발생하는 처리시간과 자바스크립트의 setInterval, setTimeout에 오차가 있다는 내용
+    - [GPT4를 최단기 퇴물로 만들어버릴 PaLM2] (https://www.youtube.com/watch?v=w9YnsVkI980)
+        - 구글 Bard에 사용된 PaML2에 대한 설명
+    - [GPT로 이상한거 만들어서 월4천 버는 분] (https://www.youtube.com/watch?v=CHzNNxZOIYI)
+        - AutoGTP에 대한 소개
+    - [댓글달면 AI가 저 대신 답변해드립니다 (ChatGPT)] (https://www.youtube.com/watch?v=bQ8anzYwaKY)
+        - selenium과 ChatGTP API, YoutubeAPI를 사용해 자동 답글 봇을 만든 내용
