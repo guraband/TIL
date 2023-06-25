@@ -45,3 +45,10 @@
         - AutoGTP에 대한 소개
     - [댓글달면 AI가 저 대신 답변해드립니다 (ChatGPT)] (https://www.youtube.com/watch?v=bQ8anzYwaKY)
         - selenium과 ChatGTP API, YoutubeAPI를 사용해 자동 답글 봇을 만든 내용
+
+### 2023.06.25
+- 개발 관련 유튜브 시청
+    - [찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo] (https://www.youtube.com/watch?v=fYb2DkFo01U)
+        - 파이썬의 상위 호환 언어인 Moji에 대한 소개. 아직 v0.1이라고 함.
+    - [Deno 스택 vs. React. NodeJS 스택과 비교해봤다...!] (https://www.youtube.com/watch?v=Knn4xh79qTU)
+        - Deno에 대한 소개와 예제 프로그래밍 코드
