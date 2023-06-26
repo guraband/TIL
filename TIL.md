@@ -37,18 +37,25 @@
 
 ### 2023.06.24
 - 개발 관련 유튜브 시청
-    - [님들이 수강신청, 티켓팅 실패하는 이유 (자바스크립트 몰라서)] (https://www.youtube.com/watch?v=oWSNOrBbOIU)
+    - [님들이 수강신청, 티켓팅 실패하는 이유 (자바스크립트 몰라서)](https://www.youtube.com/watch?v=oWSNOrBbOIU)
         - http 통신에서 발생하는 처리시간과 자바스크립트의 setInterval, setTimeout에 오차가 있다는 내용
-    - [GPT4를 최단기 퇴물로 만들어버릴 PaLM2] (https://www.youtube.com/watch?v=w9YnsVkI980)
+    - [GPT4를 최단기 퇴물로 만들어버릴 PaLM2](https://www.youtube.com/watch?v=w9YnsVkI980)
         - 구글 Bard에 사용된 PaML2에 대한 설명
-    - [GPT로 이상한거 만들어서 월4천 버는 분] (https://www.youtube.com/watch?v=CHzNNxZOIYI)
+    - [GPT로 이상한거 만들어서 월4천 버는 분](https://www.youtube.com/watch?v=CHzNNxZOIYI)
         - AutoGTP에 대한 소개
-    - [댓글달면 AI가 저 대신 답변해드립니다 (ChatGPT)] (https://www.youtube.com/watch?v=bQ8anzYwaKY)
+    - [댓글달면 AI가 저 대신 답변해드립니다 (ChatGPT)](https://www.youtube.com/watch?v=bQ8anzYwaKY)
         - selenium과 ChatGTP API, YoutubeAPI를 사용해 자동 답글 봇을 만든 내용
 
 ### 2023.06.25
 - 개발 관련 유튜브 시청
-    - [찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo] (https://www.youtube.com/watch?v=fYb2DkFo01U)
+    - [찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo](https://www.youtube.com/watch?v=fYb2DkFo01U)
         - 파이썬의 상위 호환 언어인 Moji에 대한 소개. 아직 v0.1이라고 함.
-    - [Deno 스택 vs. React. NodeJS 스택과 비교해봤다...!] (https://www.youtube.com/watch?v=Knn4xh79qTU)
+    - [Deno 스택 vs. React. NodeJS 스택과 비교해봤다...!](https://www.youtube.com/watch?v=Knn4xh79qTU)
         - Deno에 대한 소개와 예제 프로그래밍 코드
+
+### 2023.06.26
+- 회사 발표 자료 준비
+    - 주제를 'JS Fuck'로 정하고 난해한 프로그래밍 언어와 JS Fuck의 원리에 대해 찾아봄
+    - [난해한 프로그래밍 언어 - 나무위키](https://namu.wiki/w/난해한%20프로그래밍%20언어)
+    - [JS Fuck - 나무위키](https://namu.wiki/w/JSFuck)
+    - [JS Fuck - 공식 페이지](https://jsfuck.com)
