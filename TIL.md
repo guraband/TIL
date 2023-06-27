@@ -59,3 +59,15 @@
     - [난해한 프로그래밍 언어 - 나무위키](https://namu.wiki/w/난해한%20프로그래밍%20언어)
     - [JS Fuck - 나무위키](https://namu.wiki/w/JSFuck)
     - [JS Fuck - 공식 페이지](https://jsfuck.com)
+
+### 2023.06.27
+- 회사 발표 자료 준비
+    - JS Fuck 관련 내용 확인
+        - [github 링크](https://github.com/aemkei/jsfuck)
+- 개발 관련 유튜브 시청
+    - [(Next.js 0강) 요즘 프론트엔드만으로 먹고살기 힘든 이유](https://www.youtube.com/watch?v=jYJ3ygUfPrU)
+        - Next.js 강의 서론
+    - [내 목소리로 노래하는 AI 만들기](https://www.youtube.com/watch?v=JMCxsc-kJ24)
+        - Diff-SVC에 대한 소개 (Diffusion의 음성 버전?)
+    - [플러터로 게임만들었는데 생각보다 좋음](https://www.youtube.com/watch?v=9t1oGuaaEz4)
+        - 플러터의 게임 프레임워크 소개
