@@ -71,3 +71,7 @@
         - Diff-SVC에 대한 소개 (Diffusion의 음성 버전?)
     - [플러터로 게임만들었는데 생각보다 좋음](https://www.youtube.com/watch?v=9t1oGuaaEz4)
         - 플러터의 게임 프레임워크 소개
+
+### 2023.06.28
+- 회사 발표 자료 작성
+    - [JSFuck 발표자료 PDF]()
