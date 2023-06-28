@@ -74,4 +74,4 @@
 
 ### 2023.06.28
 - 회사 발표 자료 작성
-    - [JSFuck 발표자료 PDF]()
+    - [JSFuck 발표자료 PDF](https://github.com/guraband/TIL/blob/main/pdf/JSFuck.pdf)
