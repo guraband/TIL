@@ -75,3 +75,9 @@
 ### 2023.06.28
 - 회사 발표 자료 작성
     - [JSFuck 발표자료 PDF](https://github.com/guraband/TIL/blob/main/pdf/JSFuck.pdf)
+
+### 2023.06.29
+- 【한글자막】 OpenAI API 마스터하기: GPT-4의 무한한 창의성 끌어내기
+    - 강의 학습 시작
+        - '섹션1: 강좌 소개'의 강의들 학습
+    - 강의 링크 : https://www.udemy.com/course/mastering-openai-korean
