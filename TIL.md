@@ -81,3 +81,12 @@
     - 강의 학습 시작
         - '섹션1: 강좌 소개'의 강의들 학습
     - 강의 링크 : https://www.udemy.com/course/mastering-openai-korean
+- 트위터 클론코딩
+    - #2.1 Login Form part One 학습
+        - firebase에서 인증 방식 설정
+            - Authentication > Sign-in method
+        - react로 로그인 폼 추가
+
+### 2023.06.30
+- 트위터 클론코딩
+    - #2.2 Recap 학습
