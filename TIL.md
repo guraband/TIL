@@ -90,3 +90,6 @@
 ### 2023.06.30
 - 트위터 클론코딩
     - #2.2 Recap 학습
+    - #2.3 Creating Account 학습
+    - #2.4 Log In
+        - email 회원 가입, 로그인/로그아웃 구현, firebase sdk 매우 간단히 구현했음
