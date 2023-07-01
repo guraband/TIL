@@ -93,3 +93,11 @@
     - #2.3 Creating Account 학습
     - #2.4 Log In
         - email 회원 가입, 로그인/로그아웃 구현, firebase sdk 매우 간단히 구현했음
+
+### 2023.07.01
+- 트위터 클론코딩
+    - #2.5 Social Login 학습
+        - google 로그인 구현
+    - #2.6 LogOut 학습
+        - 로그아웃 후 redirect 처리 구현
+
