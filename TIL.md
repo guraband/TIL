@@ -103,3 +103,18 @@
 
 ### 2023.07.02
 - 회사 서비스 장애 대응
+
+### 2023.07.03
+- 트위터 클론코딩
+    - #3.0 Form and Database Setup 학습
+        - 기본 form 추가
+        - DB 기본 세팅
+    - #3.1 Nweeting! 학습
+        - firebase > firestore 세팅
+        - document add 구현
+
+### 2023.07.04
+- 트위터 클론코딩
+    - #3.2 Getting the Nweets 학습
+        - 목록 불러오기 구현
+        - 동일 데이터가 두 번씩 호출되고 있어서 index.js의 <React.StrictMode> 주석 처리
