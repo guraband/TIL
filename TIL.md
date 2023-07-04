@@ -118,3 +118,10 @@
     - #3.2 Getting the Nweets 학습
         - 목록 불러오기 구현
         - 동일 데이터가 두 번씩 호출되고 있어서 index.js의 <React.StrictMode> 주석 처리
+
+### 2023.07.05
+- 트위터 클론코딩
+    - #3.3 Realtime Nweets 학습
+        - db collection의 snapshot이라는 listener가 collection에서 변경 감지시 결과를 전송해줌.
+            - 덕분에 구현 자체는 매우 간단했다.
+        - 데이터 추가시 fcm으로 각 client에 발송하는 방식이 아니었음.
