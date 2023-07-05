@@ -77,7 +77,7 @@
     - [JSFuck 발표자료 PDF](https://github.com/guraband/TIL/blob/main/pdf/JSFuck.pdf)
 
 ### 2023.06.29
-- 【한글자막】 OpenAI API 마스터하기: GPT-4의 무한한 창의성 끌어내기
+- OpenAI API 마스터하기: GPT-4의 무한한 창의성 끌어내기
     - 강의 학습 시작
         - '섹션1: 강좌 소개'의 강의들 학습
     - 강의 링크 : https://www.udemy.com/course/mastering-openai-korean
@@ -125,3 +125,14 @@
         - db collection의 snapshot이라는 listener가 collection에서 변경 감지시 결과를 전송해줌.
             - 덕분에 구현 자체는 매우 간단했다.
         - 데이터 추가시 fcm으로 각 client에 발송하는 방식이 아니었음.
+- OpenAI API 마스터하기: GPT-4의 무한한 창의성 끌어내기
+    - 5. 선택 강의: 트랜스포머 구조 학습
+    - 6. 계정 생성하기 학습
+
+### 2023.07.06
+- 트위터 클론코딩
+    - #3.4 Delete and Update part One 학습
+    - #3.5 Delete and Update part Two 학습
+- 개발 관련 유튜브 시청
+    - [유저 천만명을 위한 최고의 서버 아키텍처는? 👀](https://www.youtube.com/watch?v=-03fvKbziPU)
+
