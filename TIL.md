@@ -137,3 +137,9 @@
 - 트위터 클론코딩
     - #4.0 Preview Images part One 학습
     - #4.1 Preview Images part Two 학습
+
+### 2023.07.06
+- 트위터 클론코딩
+    - #4.2 Uploading 학습
+    - #4.3 File URL and Nweet 학습
+
