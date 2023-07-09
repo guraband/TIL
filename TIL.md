@@ -127,6 +127,7 @@
         - 데이터 추가시 fcm으로 각 client에 발송하는 방식이 아니었음.
     - #3.4 Delete and Update part One 학습
     - #3.5 Delete and Update part Two 학습
+        - 수정, 삭제 구현
 - OpenAI API 마스터하기: GPT-4의 무한한 창의성 끌어내기
     - 5. 선택 강의: 트랜스포머 구조 학습
     - 6. 계정 생성하기 학습
@@ -137,9 +138,22 @@
 - 트위터 클론코딩
     - #4.0 Preview Images part One 학습
     - #4.1 Preview Images part Two 학습
+        - 첨부 이미지 미리보기 구현
 
-### 2023.07.06
+### 2023.07.07
 - 트위터 클론코딩
     - #4.2 Uploading 학습
     - #4.3 File URL and Nweet 학습
+        - 파일 업로드 구현
 
+### 2023.07.08
+- 트위터 클론코딩
+    - #4.4 Deleting Files 학습
+        - 첨부 파일 삭제 구현
+
+### 2023.07.09
+- 트위터 클론코딩
+    - #5 EDIT PROFILE 강의들 학습
+        - user displayName 변경 구현
+        - 하위 컴포넌트에서 변경된 내용을 상위에 적용하는 방법 학습
+        - useState 사용시 객체의 변경 파악이 어려운 경우 상태 갱신이 제때 이뤄지지 않을 수 있음
