@@ -194,3 +194,11 @@
         - 20. 데이터 추출 프롬프트
         - 21. 감정 분석 프롬프트
 
+### 2023.07.15
+- 가상 면접 사례로 배우는 대규모 시스템 설계 기초
+    - <img src="https://github.com/guraband/TIL/blob/main/images/IMG_5580.jpg?raw=true" width=300/>
+    - 2~4장 읽음
+
+### 2023.07.16
+- 개발 관련 유튜브 시청
+    - [스프링캠프 2019 [Track 2 Session 2] : spring websocket](https://youtu.be/Ax0fDdlBev8)
