@@ -202,3 +202,9 @@
 ### 2023.07.16
 - 개발 관련 유튜브 시청
     - [스프링캠프 2019 [Track 2 Session 2] : spring websocket](https://youtu.be/Ax0fDdlBev8)
+
+### 2023.07.17
+- 개발 관련 유튜브 시청
+    - [[10분 테코톡] 🍦라빈의 Spring Batch](https://www.youtube.com/watch?v=1xJU8HfBREY)
+    - [아직도 이 API 모르셨다고요? 개발자 인생 꿀템 소개!](https://www.youtube.com/watch?v=iZhq7I42uaI)
+        - 무한 스크롤 개발에 유용한 Intersection Observer API에 대한 소개
