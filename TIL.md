@@ -208,3 +208,7 @@
     - [[10분 테코톡] 🍦라빈의 Spring Batch](https://www.youtube.com/watch?v=1xJU8HfBREY)
     - [아직도 이 API 모르셨다고요? 개발자 인생 꿀템 소개!](https://www.youtube.com/watch?v=iZhq7I42uaI)
         - 무한 스크롤 개발에 유용한 Intersection Observer API에 대한 소개
+
+### 2023.07.18
+- fastcampus의 '실무 프로젝트로 배우는 Kotlin & Spring : 리팩토링부터 서비스 구현까지' 강의에서 리액티브 프로그래밍 강의 학습 시작
+- Part 6 > Ch01 > 01. 비동기-논블로킹 프로그래밍 학습
