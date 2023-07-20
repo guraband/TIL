@@ -211,4 +211,24 @@
 
 ### 2023.07.18
 - fastcampus의 '실무 프로젝트로 배우는 Kotlin & Spring : 리팩토링부터 서비스 구현까지' 강의에서 리액티브 프로그래밍 강의 학습 시작
-- Part 6 > Ch01 > 01. 비동기-논블로킹 프로그래밍 학습
+- 실무 프로젝트로 배우는 Kotlin & Spring
+  - Part 6 > Ch01 > 01. 비동기-논블로킹 프로그래밍 학습
+
+### 2023.07.19
+- 실무 프로젝트로 배우는 Kotlin & Spring
+  - Part 6 > Ch01 > 02. 옵저버 패턴 학습
+
+### 2023.07.20
+- 실무 프로젝트로 배우는 Kotlin & Spring
+  - Part 6 > Ch01 학습 완료
+  - Part 6 > Ch02 스프링 WebFlux 이해하기 학습 시작
+    - 01.스프링 WebFlux 학습
+      - Spring Reactive Web 관련 의존성 추가
+      - Hello WebFlux 출력 예제 따라하기
+- 개발 관련 유튜브 시청
+  - [백엔드 개발자로 카카오 취업을 원하는 당신, 그래서 무엇을 준비 했는지?](https://www.youtube.com/watch?v=b_IW-1NC2WU)
+    - 원하는 회사의 테크 영상을 보고 발표자의 동료가 되려면 어느 정도의 실력을 갖춰야하는지 생각해보라는 조언이 인상적이었다.
+  - [Java 공부를 위해 구매한 책 3권 (내돈내산)](https://www.youtube.com/watch?v=31kjM7gnu9s)
+    - 혼자 공부하는 자바
+    - Modern Java in Action
+    - 자바 성능 튜닝 이야기
