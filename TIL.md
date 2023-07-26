@@ -240,5 +240,25 @@
 ### 2023.07.22
 - 실무 프로젝트로 배우는 Kotlin & Spring
   - Part 6 > Ch02 > 03. 애노테이션 컨트롤러 학습
+
+### 2023.07.2
+- 실무 프로젝트로 배우는 Kotlin & Spring
   - Part 6 > Ch02 > 04. 웹클라이언트 학습
 - Replit 설정 추가
+
+### 2023.07.24
+- 실무 프로젝트로 배우는 Kotlin & Spring
+  - Part 6 > Ch02 > 05. 스프링 데이터 R2DBC 학습
+    - R2DBC 예제 따라하기
+  - Part 6 > Ch02 > 06. 스프링 WebFlux의 코루틴 지원 학습
+
+### 2023.07.25
+- 실무 프로젝트로 배우는 Kotlin & Spring
+    - Part 6 > Ch02 > 07. 코루틴 기초
+      - 어렵다 ㅠㅠ
+
+### 2023.07.26
+- 새차원의 코틀린 코루틴(Coroutines) 강좌 
+  - https://www.inflearn.com/course/새차원-코틀린-코루틴
+  - '실무 프로젝트로 배우는 Kotlin & Spring' 강의에서 코루틴에 대한 내용이 있었지만 그것만으로는 부족한 것 같아서 새로운 강의를 찾아봄 
+  - 1. why coroutines 학습
