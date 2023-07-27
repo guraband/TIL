@@ -262,3 +262,7 @@
   - https://www.inflearn.com/course/새차원-코틀린-코루틴
   - '실무 프로젝트로 배우는 Kotlin & Spring' 강의에서 코루틴에 대한 내용이 있었지만 그것만으로는 부족한 것 같아서 새로운 강의를 찾아봄 
   - 1. why coroutines 학습
+
+### 2023.07.26
+- 새차원의 코틀린 코루틴(Coroutines) 강좌
+  - 2. basics 학습
