@@ -266,3 +266,7 @@
 ### 2023.07.26
 - 새차원의 코틀린 코루틴(Coroutines) 강좌
   - 2. basics 학습
+
+### 2023.07.26
+- 새차원의 코틀린 코루틴(Coroutines) 강좌
+  - 3. Cancellation and Timeouts 학습 
