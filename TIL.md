@@ -263,10 +263,23 @@
   - '실무 프로젝트로 배우는 Kotlin & Spring' 강의에서 코루틴에 대한 내용이 있었지만 그것만으로는 부족한 것 같아서 새로운 강의를 찾아봄 
   - 1. why coroutines 학습
 
-### 2023.07.26
+### 2023.07.27
 - 새차원의 코틀린 코루틴(Coroutines) 강좌
   - 2. basics 학습
 
-### 2023.07.26
+### 2023.07.28
 - 새차원의 코틀린 코루틴(Coroutines) 강좌
-  - 3. Cancellation and Timeouts 학습 
+  - 3. Cancellation and Timeouts 학습
+    - coroutine을 취소하는 방법들에 대해 학습
+
+### 2023.07.29
+- 새차원의 코틀린 코루틴(Coroutines) 강좌
+    - 4. Composing Suspending Functions 학습
+    - 5. Coroutines under the hood 학습
+- 개발 관련 유튜브 시청
+  - [지금부터 토스를 해킹합니다ㅣHELLSONIC](https://youtu.be/tAqgvP07RnQ)
+    - 다루고 있는 '해킹'의 범주가 넓어서 (물리적 해킹, 피싱, 블랙마켓에서 정보 구입 시도 등) 개발 보안과 관련된 내용이 적은 점이 아쉬웠다.
+    - 편집과 영상에 공을 많이 들인 것으로 보임.
+    - 개발자를 위한 영상이라기 보다는 토스가 이만큼 보안을 위해 신경 쓰고 있다는 홍보의 성격이 강한 영상.
+    - 이런 조직을 보유하고 있고 이런 영상까지 만들 수 있다는 점이 부럽고 한 번쯤은 볼만하다고 생각.
+
