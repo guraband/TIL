@@ -288,3 +288,11 @@
   - 6. Coroutine Context and Dispatchers 학습
   - 강의를 다 들어봤지만 이것을 웹서비스에 어떻게 적용할 수 있을지는 감이 잡히지 않는다. 
   - 안드로이드쪽이라면 UI나 API 호출 등의 작업을 병렬로 처리하면서 유용하게 쓸 수 있을 것 같지만 웹쪽은 모르겠다. 다른 강의도 들어봐야할 것 같다.
+- Spring Webflux 완전 정복 : 코루틴부터 리액티브 MSA 프로젝트까지 강좌
+  - Part 1 > Ch03 비동기 Programming 학습
+    - 01. 함수 관점에서 동기와 비동기의 차이
+    - 02. 함수 관점에서 blocking과 non-blocking의 차이
+    - 03. IO 관점에서 blocking과 non-blocking의 차이
+
+
+
