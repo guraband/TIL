@@ -294,5 +294,10 @@
     - 02. 함수 관점에서 blocking과 non-blocking의 차이
     - 03. IO 관점에서 blocking과 non-blocking의 차이
 
+### 2023.07.31
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+  - Part 14 > Ch01  Spring batch 원리와 철학 이해
+    - 01. 배치 프로그램이란 무엇인가 학습
+
 
 
