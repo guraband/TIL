@@ -327,3 +327,8 @@
     - 01-1. Spring Batch 도메인 용어 익히기
     - 01-2. Spring Batch 도메인 용어 익히기 - 적용
     - 02\. Job
+
+### 2023.08.04
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 13 > Ch03 마이크로서비스 맛보기 학습
+      - 03\. Spring Cloud API Gateway -1
