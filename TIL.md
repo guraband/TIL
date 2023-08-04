@@ -325,3 +325,5 @@
     - 02\. API Gateway
   - Part 14 > Ch02 Spring batch 적용
     - 01-1. Spring Batch 도메인 용어 익히기
+    - 01-2. Spring Batch 도메인 용어 익히기 - 적용
+    - 02\. Job
