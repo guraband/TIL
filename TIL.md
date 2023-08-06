@@ -337,3 +337,6 @@
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
     - Part 13 > Ch03 마이크로서비스 맛보기 학습
       - 04\. Spring Cloud API Gateway - 2
+
+### 2023.08.06
+- replit 연동 테스트
