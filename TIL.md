@@ -404,3 +404,12 @@
 - [The RED : 프롬프트 엔지니어링, LLM(ChatGPT) 기반의 AI 서비스 개발](https://fastcampus.co.kr/data_red_golbin) 강의 학습
   - Part 1, Part 2 > CH01. Machine Learning Concept 학습 완료
 
+### 2023.08.18
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+  - Part 12 > Ch 04. 실전 프로젝트 3: 사용자 도메인 개발 학습
+    - 01~02. UserEntity 개발
+
+### 2023.08.19
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 12 > Ch 04. 실전 프로젝트 3: 사용자 도메인 개발 학습
+        - 03\. 사용자 서비스 로직
