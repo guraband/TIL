@@ -468,5 +468,10 @@
         - 04~06. 학습
           - rabbitMq producer, consumer 추가
 
+### 2023.08.31
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 12 > Ch 08. 실전 프로젝트 7 : 비동기 주문 개발
+        - 07\. SSE Server Sent Events 란? 학습
+
 
 
