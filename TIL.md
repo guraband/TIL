@@ -24,3 +24,8 @@
       - 04\. Kotlin과 Java 코드 비교하며 배워보기 - 3 가변, 불변 컬렉션 학습
 - TIL
   - 월별 파일 분리
+
+### 2023.09.06
+- 개발 관련 유튜브 시청
+    - [내 스팀비번이 맨날 털리는 이유 (서버개발자 탓임)](https://youtu.be/1BKATk8hGTU?si=FhNhV0P21GQzpwg2)
+    - [html은 프로그래밍 언어 맞네요 역시](https://youtu.be/vZ_oT0p113I?si=q4_imkzzKOvSkzFS)
