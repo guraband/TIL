@@ -56,4 +56,5 @@
 ### 2023.09.12
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
     - Part 12 > Ch 01. Kotlin 소개
-        - 08\. Kotlin과 Java 코드 비교하며 배워보기 - 7 default value
+        - 08\. Kotlin과 Java 코드 비교하며 배워보기 - 7 default value 학습
+        - 09\. Kotlin과 Java 코드 비교하며 배워보기 - 8 when 학습
