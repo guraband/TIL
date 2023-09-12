@@ -41,3 +41,19 @@
 ### 2023.09.09
 - SQLD 요약집 보기
 - SQLD 시험
+
+### 2023.09.10
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 12 > Ch 01. Kotlin 소개
+        - 05\. Kotlin과 Java 코드 비교하며 배워보기 - 4 고차함수 학습
+
+### 2023.09.11
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 12 > Ch 01. Kotlin 소개
+        - 06\. Kotlin과 Java 코드 비교하며 배워보기 - 5 클래스 학습
+        - 07\.Kotlin과 Java 코드 비교하며 배워보기 - 6 data class 학습
+
+### 2023.09.12
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 12 > Ch 01. Kotlin 소개
+        - 08\. Kotlin과 Java 코드 비교하며 배워보기 - 7 default value
