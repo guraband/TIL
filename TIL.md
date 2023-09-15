@@ -73,3 +73,8 @@
     - Part 12 > Ch 02. Spring 과 Kotlin 학습
       - 01\. Java에서 Kotlin 함께 사용하기
       - 02\. Spring 에서 Kotlin 적용하기
+
+### 2023.09.16
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 12 > Ch 02. Spring 과 Kotlin 학습
+      - 03\. 기존 프로젝트를 Kotlin 으로 변경하기 - 1 kotlin 설정 추가하기_1
