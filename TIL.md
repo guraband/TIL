@@ -78,3 +78,9 @@
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
     - Part 12 > Ch 02. Spring 과 Kotlin 학습
       - 03\. 기존 프로젝트를 Kotlin 으로 변경하기 - 1 kotlin 설정 추가하기_1
+
+### 2023.09.17
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 12 > Ch 02. Spring 과 Kotlin 학습
+      - 04~05. 기존 프로젝트를 Kotlin 으로 변경하기 - 3 common 모듈 옮기기
+
