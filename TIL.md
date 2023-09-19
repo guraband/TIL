@@ -89,3 +89,9 @@
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
     - Part 12 > Ch 02. Spring 과 Kotlin 학습
       - 07\. 기존 프로젝트를 Kotlin 으로 변경하기 - 5 JPA 연관관계 설정
+
+### 2023.09.19
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 12 > Ch 02. Spring 과 Kotlin 학습
+      - 08\. 기존 프로젝트를 Kotlin 으로 변경하기 - 6 Entity
+
