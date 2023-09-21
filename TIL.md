@@ -107,3 +107,5 @@
     - [How To Scrape ANY Website (ft. Scraping Browser)](https://youtu.be/tcFz6NY3zpc?si=cOgmxHDQiTwfq8IT)
       - 클라우드 방식의 스크래핑 서비스 - '스크래핑 브라우저'에 대한 소개
     - [자료구조 Binary Search Tree | 코딩테스트 필수 개념](https://youtu.be/wQwB5gdnEDg?si=dHLgOu461Ig_grKW)
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 12 > Ch 02. Spring 과 Kotlin 학습 완료
