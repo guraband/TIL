@@ -9,18 +9,18 @@
 
 ### 2023.09.03
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-  - Part 12 > Ch 01. Kotlin 소개
+  - Part 13 > Ch 01. Kotlin 소개
     - 01~02 학습
       - Kotlin 복습 시작
 
 ### 2023.09.04
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 01. Kotlin 소개
+    - Part 13 > Ch 01. Kotlin 소개
       - 03\. Kotlin과 Java 코드 비교하며 배워보기 - 2 null 안정성과 엘비스 연산자 학습
 
 ### 2023.09.05
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 01. Kotlin 소개
+    - Part 13 > Ch 01. Kotlin 소개
       - 04\. Kotlin과 Java 코드 비교하며 배워보기 - 3 가변, 불변 컬렉션 학습
 - TIL
   - 월별 파일 분리
@@ -44,60 +44,60 @@
 
 ### 2023.09.10
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 01. Kotlin 소개
+    - Part 13 > Ch 01. Kotlin 소개
         - 05\. Kotlin과 Java 코드 비교하며 배워보기 - 4 고차함수 학습
 
 ### 2023.09.11
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 01. Kotlin 소개
+    - Part 13 > Ch 01. Kotlin 소개
         - 06\. Kotlin과 Java 코드 비교하며 배워보기 - 5 클래스 학습
         - 07\.Kotlin과 Java 코드 비교하며 배워보기 - 6 data class 학습
 
 ### 2023.09.12
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 01. Kotlin 소개
+    - Part 13 > Ch 01. Kotlin 소개
         - 08\. Kotlin과 Java 코드 비교하며 배워보기 - 7 default value 학습
         - 09\. Kotlin과 Java 코드 비교하며 배워보기 - 8 when 학습
 
 ### 2023.09.13
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 01. Kotlin 소개
+    - Part 13 > Ch 01. Kotlin 소개
         - 10\. Kotlin과 Java 코드 비교하며 배워보기 - 9 확장함수 학습
 
 ### 2023.09.14
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 01. Kotlin 소개 완료
+    - Part 13 > Ch 01. Kotlin 소개 완료
 
 ### 2023.09.15
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 02. Spring 과 Kotlin 학습
+    - Part 13 > Ch 02. Spring 과 Kotlin 학습
       - 01\. Java에서 Kotlin 함께 사용하기
       - 02\. Spring 에서 Kotlin 적용하기
 
 ### 2023.09.16
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 02. Spring 과 Kotlin 학습
+    - Part 13 > Ch 02. Spring 과 Kotlin 학습
       - 03\. 기존 프로젝트를 Kotlin 으로 변경하기 - 1 kotlin 설정 추가하기_1
 
 ### 2023.09.17
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 02. Spring 과 Kotlin 학습
+    - Part 13 > Ch 02. Spring 과 Kotlin 학습
       - 04~05. 기존 프로젝트를 Kotlin 으로 변경하기 - 3 common 모듈 옮기기
       - 06\. 기존 프로젝트를 Kotlin 으로 변경하기 - 4 JPA 다루기
 
 ### 2023.09.18
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 02. Spring 과 Kotlin 학습
+    - Part 13 > Ch 02. Spring 과 Kotlin 학습
       - 07\. 기존 프로젝트를 Kotlin 으로 변경하기 - 5 JPA 연관관계 설정
 
 ### 2023.09.19
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 02. Spring 과 Kotlin 학습
+    - Part 13 > Ch 02. Spring 과 Kotlin 학습
       - 08\. 기존 프로젝트를 Kotlin 으로 변경하기 - 6 Entity
 
 ### 2023.09.20
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 02. Spring 과 Kotlin 학습
+    - Part 13 > Ch 02. Spring 과 Kotlin 학습
       - 09\. 기존 프로젝트를 Kotlin 으로 변경하기 - 7 Kotlin Entity
 
 ### 2023.09.21
@@ -108,4 +108,9 @@
       - 클라우드 방식의 스크래핑 서비스 - '스크래핑 브라우저'에 대한 소개
     - [자료구조 Binary Search Tree | 코딩테스트 필수 개념](https://youtu.be/wQwB5gdnEDg?si=dHLgOu461Ig_grKW)
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
-    - Part 12 > Ch 02. Spring 과 Kotlin 학습 완료
+    - Part 13 > Ch 02. Spring 과 Kotlin 학습 완료
+
+### 2023.09.22
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 13 > Ch 03. 마이크로서비스 맛보기 학습
+        - 01\. 마이크로서비스란-
