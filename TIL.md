@@ -125,3 +125,8 @@
     - Part 13 > Ch 03. 마이크로서비스 맛보기 학습
         - 03\. Spring Cloud API Gateway -1
         - 04\. Spring Cloud API Gateway - 2
+
+### 2023.09.25
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+    - Part 13 > Ch 03. 마이크로서비스 맛보기 학습
+        - 05\. API Gateway 인증 -1
