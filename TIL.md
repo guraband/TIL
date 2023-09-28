@@ -143,5 +143,7 @@
 
 ### 2023.09.28
 - replit 재연동
+  - git unset user.email
+  - git unset user.name
 - 개발 관련 서적 읽음
   - "가상 면접 사례로 배우는 대규모 시스템 설계 기초"
