@@ -20,3 +20,8 @@
 - 개발 관련 유튜브 시청
   - [[10분 테코톡] 코난의 자바스크립트 메모리 관리](https://youtu.be/1BoJZqxFYfQ?si=apIdSdTdJ-qJ0nsi)
   - [바이너리 트리 리트코드 풀어준다](https://youtu.be/OaCtvpXY5vU?si=3Cf_XvOoyCZaCibN)
+
+### 2023.10.05
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+  - Part 14 > Ch 03. 정산 시스템 만들기
+    - 01~02 학습
