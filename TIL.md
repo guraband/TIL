@@ -67,3 +67,8 @@
   - [[10분 테코톡] 코비의 Kotlin Coroutine](https://youtu.be/PaGOJ3887Js?si=g-o_xfUCkcTKM0LK)
 - 개발 관련 도서 읽음
   - '개발자로 살아남기' 완독
+
+### 2023.10.16
+- 개발 관련 유튜브 시청
+  - [[10분 테코톡] 둘리의 Localization](https://youtu.be/pXb1viEtEsE?si=uqUwRfNzinDpCHRH)
+  - [아직도 크롬 써요? 업무효율 미친 브라우저 등장!](https://youtu.be/TffkMbgsE2E?si=_xb7j3krMlaqiR_o)
