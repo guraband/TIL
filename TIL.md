@@ -72,3 +72,7 @@
 - 개발 관련 유튜브 시청
   - [[10분 테코톡] 둘리의 Localization](https://youtu.be/pXb1viEtEsE?si=uqUwRfNzinDpCHRH)
   - [아직도 크롬 써요? 업무효율 미친 브라우저 등장!](https://youtu.be/TffkMbgsE2E?si=_xb7j3krMlaqiR_o)
+
+### 2023.10.17
+- 개발 관련 유튜브 시청
+  - [[10분 테코톡] 키아라의 스프링 트랜잭션 전파](https://youtu.be/b0s9RzKyHN0?si=UjClU_4pY0qWEvtO)
