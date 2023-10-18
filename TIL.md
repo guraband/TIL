@@ -76,3 +76,8 @@
 ### 2023.10.17
 - 개발 관련 유튜브 시청
   - [[10분 테코톡] 키아라의 스프링 트랜잭션 전파](https://youtu.be/b0s9RzKyHN0?si=UjClU_4pY0qWEvtO)
+
+### 2023.10.18
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+  - Part 13 > Ch 04. 모니터링
+    - 03\. ELK Stack 을 통한 Log 모니터링 학습
