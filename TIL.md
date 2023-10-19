@@ -81,3 +81,8 @@
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
   - Part 13 > Ch 04. 모니터링
     - 03\. ELK Stack 을 통한 Log 모니터링 학습
+
+### 2023.10.19
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+  - Part 13 > Ch 04. 모니터링
+    - 04\. Spring Boot Admin 을 통한 모니터링
