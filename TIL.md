@@ -86,3 +86,8 @@
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
   - Part 13 > Ch 04. 모니터링
     - 04\. Spring Boot Admin 을 통한 모니터링
+
+### 2023.10.20
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+  - Part 13 > Ch 04. 모니터링
+    - 05\. Prometheus Grafana 를 통한 모니터링
