@@ -104,4 +104,7 @@
   - Part 15 > Ch 01. 들어가며
   - Part 15 > Ch 03. Webflux
     - 01~02. 학습
-
+- 개발 관련 도서 읽음
+  - '요즘 우아한 개발' 읽기 시작
+    - <img src="https://github.com/guraband/TIL/blob/main/images/wooah.png" width=300/>
+    - 1장 배민다움 만들기 > 01. 내가 경험한 B마트 프론트엔드의 온보딩 프로세스 읽음
