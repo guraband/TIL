@@ -106,10 +106,14 @@
     - 01~02. 학습
 - 개발 관련 도서 읽음
   - '요즘 우아한 개발' 읽기 시작
-    - <img src="https://github.com/guraband/TIL/blob/main/images/wooah.png" width=300/>
+    - <img src="https://github.com/guraband/TIL/blob/main/images/wooah.png?raw=true" width=300/>
     - 1장 배민다움 만들기 > 01. 내가 경험한 B마트 프론트엔드의 온보딩 프로세스 읽음
 
 ### 2023.10.23
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
   - Part 15 > Ch 03. Webflux
     - 03~05. 학습
+
+### 2023.10.24
+- 개발 관련 유튜브 시청
+  - [Reveal2021 - 쿠팡의 대규모 트래픽을 다루는 백앤드 전략](https://www.youtube.com/watch?v=qzHjK1-07fI&ab_channel=CoupangReveal)
