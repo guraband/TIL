@@ -117,3 +117,9 @@
 ### 2023.10.24
 - 개발 관련 유튜브 시청
   - [Reveal2021 - 쿠팡의 대규모 트래픽을 다루는 백앤드 전략](https://www.youtube.com/watch?v=qzHjK1-07fI&ab_channel=CoupangReveal)
+
+### 2023.10.25
+- 개발 관련 유튜브 시청
+  - [[10분 테코톡] 베베, 허브의 성능 테스트](https://youtu.be/3cTn53dtzJI?si=8G3fHRRst0UuO67X)
+- 개발 관련 도서 읽음
+  - '요즘 우아한 개발' > 1장 배민다움 만들기 > 02~03. 읽음
