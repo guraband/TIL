@@ -129,4 +129,7 @@
   - [[10분 테코톡] 아코의 MySQL 아키텍처](https://youtu.be/w27fZGbtvZ0?si=xlH6qlvbRJgk6y4n)
 - 개발 관련 도서 읽음
   - '요즘 우아한 개발' > 1장 배민다움 만들기 완독
-
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌
+  - Part 15 > Ch 01. 들어가며
+  - Part 15 > Ch 03. Webflux
+    - 06\. Reactor 실습 부분 학습
