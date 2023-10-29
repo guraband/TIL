@@ -142,3 +142,10 @@
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌
   - Part 15 > Ch 03. Webflux
     - 06\. Reactor > Test 부분 학습
+
+### 2023.10.29
+- 개발 관련 유튜브 시청
+  - [전설의 프로그래머 형님들의 찐 공부 비법!](https://youtu.be/NLGUkiMDIZg?si=hrT0TNa0y9mtwPEH)
+    - 토이 프로젝트라도 하면서 실제 경험을 쌓으라는 내용
+
+
