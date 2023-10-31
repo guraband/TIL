@@ -151,3 +151,10 @@
 ### 2023.10.30
 - 개발 관련 유튜브 시청
   - [10분 테코톡] 깃짱, 이리내의 람다와 스트림](https://youtu.be/4ZtKiSvZNu4?si=JR-0lPe0iZzO9JwD)
+
+### 2023.10.31
+- 개발 관련 유튜브 시청
+  - [[10분 테코톡] 연어의 DB Partitioning](https://youtu.be/VAhZa30j8hA?si=6467UKiIgaluYuDz)
+  - [[우아콘2020] 수십억건에서 QUERYDSL 사용하기](https://youtu.be/zMAX7g6rO_Y?si=Xn9owGED8wUdln8J)
+    - 몇 년 전 내용이지만 흥미롭게 시청했다. 퍼포먼스와 생산성에 도둠이 될 유용한 경험담이었다.
+    - 현재 실무에서 legacy 시스템을 유지보수 중이라 JPA를 거의 쓰고 있지 않아서 당장 참고는 안되지만, 다시 JPA를 쓸 때 다시 한 번 봐야겠다.
