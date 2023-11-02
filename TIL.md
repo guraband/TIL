@@ -11,4 +11,19 @@
     - '2장 프론트엔드 개발자로 성장하기' 다 읽음
       - 안드로이드 개발자가 초성검색을 개발하며 겪은 시행착오에 대한 이야기가 흥미로웠다.
     - '3장 백엔드 개발자로 성장하기' 읽기 시작
+- python
+  - 외부 API 호출 테스트
+    - 오랜만에 해봐서 기억이 가물가물하다.
+    - chatGPT에게 도움 받음.
+```
+# 내가 요구한 내용을 요약해달라고 한 내용
 
+Creating a Python App
+  - Requirements:
+    - Making an HTTP request to an external API.
+    - Managing two cookies (user-agent and "T") in the request.
+    - Managing the value of the "T" cookie using a file.
+    - Handling JSON responses from the API.
+    - Storing the response data in a MySQL database.
+    - Storing sensitive information, such as database user info, in a separate configuration file (e.g., ".env") for security and code organization.
+```
