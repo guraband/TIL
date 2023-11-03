@@ -27,3 +27,8 @@ Creating a Python App
     - Storing the response data in a MySQL database.
     - Storing sensitive information, such as database user info, in a separate configuration file (e.g., ".env") for security and code organization.
 ```
+
+### 2023.11.03
+- 개발 관련 유튜브 시청
+- [[NHN FORWARD 22]  엘라스틱서치를 이용한 상품 검색 엔진 개발 일지](https://youtu.be/fBfUr_8Pq8A?si=Hs6Ez5LlDvexjKc-)
+- 기본적인 검색엔진 구축에 대한 내용을 다루고 있고 내용이 어렵지 않아서 신규로 구축해야할 일이 있을 때 참고가 많이 될 것 같았다.
