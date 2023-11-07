@@ -45,3 +45,9 @@ Creating a Python App
 
 ### 2023.11.06
 - 개발 관련 유튜브 시청
+  - [[10분 테코톡] 유스의 상태관리 패턴과 반응형 프로그래밍](https://youtu.be/xOejgF8uSsg?si=0u_-ZS2a-MD0GZ6v)
+
+### 2023.11.07
+- 개발 관련 유튜브 시청
+  - [[10분 테코톡] 바론, 블랙캣의 Querydsl with JPA](https://youtu.be/Dz-46mPfkGo?si=MzpLFaoG6N8DIs6i)
+    - 내용이 어렵지는 않아서 QueryDsl 복습용으로 들을 만한 정도였다.
