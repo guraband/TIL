@@ -51,3 +51,8 @@ Creating a Python App
 - 개발 관련 유튜브 시청
   - [[10분 테코톡] 바론, 블랙캣의 Querydsl with JPA](https://youtu.be/Dz-46mPfkGo?si=MzpLFaoG6N8DIs6i)
     - 내용이 어렵지는 않아서 QueryDsl 복습용으로 들을 만한 정도였다.
+
+### 2023.11.08
+- 대한항공 마일리지 항공권 조회 api 분석
+  - 날짜별 마일리지 좌석 조회 API는 쿠키를 세팅해도 http status 428 응답이 내려와서 직접 호출로는 어려울 것 같다.
+  - python + selenium으로 접근하는 것을 검토중
