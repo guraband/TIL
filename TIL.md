@@ -56,6 +56,7 @@ Creating a Python App
 - 대한항공 마일리지 항공권 조회 api 분석
   - 날짜별 마일리지 좌석 조회 API는 쿠키를 세팅해도 http status 428 응답이 내려와서 직접 호출로는 어려울 것 같다.
   - python + selenium으로 접근하는 것을 검토중
+  - python + selenium 초기 세팅
 
 ### 2023.11.09
 - '한 번에 끝내는 파이썬 웹 개발 초격차 패키지 Online' 강의 시청
