@@ -78,3 +78,7 @@ Creating a Python App
 - 개발 관련 도서 읽음
   - 요즘 우아한 개발
     - '3장 백엔드 개발자로 성장하기' 다 읽음
+- 파이썬 json 파싱 테스트
+  - 오랜만에 복습. 그래도 문법이 간단해서 적응이 수월했다.
+- 개발 관련 유튜브 시청
+  - [그 많던 jQuery를 누가 죽였나?](https://youtu.be/j3I0yG0ASlo?si=on5AgNPmDLMG-bcF)
