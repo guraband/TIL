@@ -89,3 +89,8 @@ Creating a Python App
     - 4장 다 읽음
 - 개발 관련 유튜브 시청
   - [OpenAI DevDay이후 나만의 GPT 만들기 열풍! 논문 분석과 교정, 여자친구, 웹페이지 만들기, 마음 건강 상담 등 유용한 사이트부터 만드는 방법, 기본제공서비스까지 정리](https://youtu.be/kIIh1MjHCcw?si=d8f9BlqefAi4a85m)
+
+### 2023.11.14
+- 토이 프로젝트
+  - 대한항공 마일리지 좌석 조회 기능 개발
+    - python으로 테스트 버전 구현
