@@ -82,3 +82,10 @@ Creating a Python App
   - 오랜만에 복습. 그래도 문법이 간단해서 적응이 수월했다.
 - 개발 관련 유튜브 시청
   - [그 많던 jQuery를 누가 죽였나?](https://youtu.be/j3I0yG0ASlo?si=on5AgNPmDLMG-bcF)
+
+### 2023.11.13
+- 개발 관련 도서 읽음
+  - 요즘 우아한 개발
+    - 4장 다 읽음
+- 개발 관련 유튜브 시청
+  - [OpenAI DevDay이후 나만의 GPT 만들기 열풍! 논문 분석과 교정, 여자친구, 웹페이지 만들기, 마음 건강 상담 등 유용한 사이트부터 만드는 방법, 기본제공서비스까지 정리](https://youtu.be/kIIh1MjHCcw?si=d8f9BlqefAi4a85m)
