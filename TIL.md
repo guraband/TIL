@@ -156,3 +156,5 @@ Creating a Python App
   - 대한항공 마일리지 좌석 조회 기능 개발
     - 좌석 수 조회 기능 개발 시작
       - 셀레니움으로 로그인 > 검색 조건 입력 > 검색 시작까지 구현
+- 개발 관련 유튜브 시청
+  - [Open AI 사태의 진짜 배경은? 특이점을 넘겼나!?](https://youtu.be/ZcBv5uvGLQI?si=LmUnRBMXsm9EsdEo)
