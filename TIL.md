@@ -158,3 +158,7 @@ Creating a Python App
       - 셀레니움으로 로그인 > 검색 조건 입력 > 검색 시작까지 구현
 - 개발 관련 유튜브 시청
   - [Open AI 사태의 진짜 배경은? 특이점을 넘겼나!?](https://youtu.be/ZcBv5uvGLQI?si=LmUnRBMXsm9EsdEo)
+
+### 2023.11.24
+- 개발 관련 유튜브 시청
+  - [(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식](https://youtu.be/EV3FZ3cWBp8?si=q6J1PPlsikfZZKca)
