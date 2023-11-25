@@ -162,3 +162,9 @@ Creating a Python App
 ### 2023.11.24
 - 개발 관련 유튜브 시청
   - [(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식](https://youtu.be/EV3FZ3cWBp8?si=q6J1PPlsikfZZKca)
+
+### 2023.11.24
+- 개발 관련 유튜브 시청
+  - [[10분 테코톡] 우가의 Virtual Thread](https://youtu.be/Q1jZtN8oMnU?si=47Uqmc8v4rC75nVR)
+  - [[10분 테코톡] 푸우의 Tomcat Thread Pool](https://youtu.be/prniILbdOYA?si=DqCafg5TH8O2olHf)
+    - 이 내용은 유익한 것 같아서 다음에 한 번 더 봐야겠다.
