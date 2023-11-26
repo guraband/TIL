@@ -163,8 +163,14 @@ Creating a Python App
 - 개발 관련 유튜브 시청
   - [(알아두면 개발팀장가능) GitFlow vs Trunk-based 협업방식](https://youtu.be/EV3FZ3cWBp8?si=q6J1PPlsikfZZKca)
 
-### 2023.11.24
+### 2023.11.25
 - 개발 관련 유튜브 시청
   - [[10분 테코톡] 우가의 Virtual Thread](https://youtu.be/Q1jZtN8oMnU?si=47Uqmc8v4rC75nVR)
   - [[10분 테코톡] 푸우의 Tomcat Thread Pool](https://youtu.be/prniILbdOYA?si=DqCafg5TH8O2olHf)
     - 이 내용은 유익한 것 같아서 다음에 한 번 더 봐야겠다.
+
+### 2023.11.26
+- '한 번에 끝내는 파이썬 웹 개발 초격차 패키지 Online' 강의 시청
+  - Part 5. 동적 페이지 크롤링 & 업무 자동화
+    - selenium 관련 강의 시청
+      - CH01_15. [프로젝트] 네이버 쇼핑 구매하기(3) - 상품 검색 및 출력
