@@ -62,3 +62,10 @@
       - Ch 04. 백엔드 개발자를 위한 컨테이너 서비스 - Docker
         - 06\. Best Practice & Security를 고려한 컨테이너 빌드(1)
           - 드디어 dockerfile 등장!
+
+### 2023.12.10
+- Docker 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 8] 백엔드 개발자를 위한 DevOps 맛보기
+      - Ch 04. 백엔드 개발자를 위한 컨테이너 서비스 - Docker
+        - 07\. Best Practice & Security를 고려한 컨테이너 빌드(2)
