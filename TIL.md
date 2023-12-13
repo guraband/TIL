@@ -97,3 +97,5 @@
     - 오늘은 삘 받아서 이 강의의 여러 영상들을 학습했다. 흥미가 생겼다.
 - 개발 유튜브 시청
   - [06. ChatGPT API로 챗봇 웹앱 만들기 - 빵형의 AI 활용 개발 강의](https://youtu.be/2a5V3oiaWUI?si=IsVBFWU3YI0WVkbB)
+- 토이 프로젝트
+  - chatGPT API를 사용해서 텍스트를 요약하고 해시태그를 생성하는 기능 구현
