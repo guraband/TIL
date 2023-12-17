@@ -123,5 +123,7 @@
     - 데이터 가공과 정제가 필요하고, 더 많은 데이터가 필요한 것 같다.
 
 ### 2023.12.16
-- Stable-diffusion 로컬 설치
+- Stable-diffusion 로컬 설치 & 테스트
 
+### 2023.12.17
+- 유튜브에서 Stable-diffusion, koalpaca 관련 영상 시청
