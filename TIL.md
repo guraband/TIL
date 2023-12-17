@@ -127,3 +127,8 @@
 
 ### 2023.12.17
 - 유튜브에서 Stable-diffusion, koalpaca 관련 영상 시청
+- 회사 발표 자료 준비
+  - gradio로 UI 추가
+  - 데이터셋 새로 만듦
+  - epoch 설정 추가 : 3 -> 10
+  - 모델 교체 : gpt 3.5 turbo 6월 버전 -> 11월 버전
