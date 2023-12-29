@@ -229,3 +229,7 @@
   - [02. 티쳐블 머신으로 AI 웹앱 만들기 - 빵형의 AI 활용 개발 강의](https://youtu.be/0OCzeBysaUs?si=gmWUbnkyRD7dYUhr)
   - [코드 몇 줄로 AI 영상 만들기 - Stable Diffusion, ControlNet, EbSynth](https://youtu.be/cO7WFWfmO8w?si=AzCFmFK7un6SeK8_)
   - [유튜브 보는 것도 지겹다! - 유튜브 영상 요약 인공지능 만들어볼까요?](https://youtu.be/g77Ob5_hPKE?si=DbAuNQcLRMX3azO3)
+
+### 2023.12.29
+- 개발 유튜브 시청
+  - [[OCR] 세상에서 가장 쉬운 AI 글자 읽기](https://youtu.be/eKtivKtCSkM?si=qbGqr8NYOsbyvpGD)
