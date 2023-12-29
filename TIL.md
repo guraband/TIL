@@ -233,3 +233,8 @@
 ### 2023.12.29
 - 개발 유튜브 시청
   - [[OCR] 세상에서 가장 쉬운 AI 글자 읽기](https://youtu.be/eKtivKtCSkM?si=qbGqr8NYOsbyvpGD)
+- 프롬프트 엔지니어링 학습
+  - 패스트 캠퍼스 'The RED : 프롬프트 엔지니어링, LLM(ChatGPT) 기반의 AI 서비스 개발'
+    - Part 8. LLM 애플리케이션 개발
+      - CH02. 주요 라이브러리 소개
+      - CH03. 웹 앱 개발 프레임워크 소개
