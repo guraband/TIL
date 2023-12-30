@@ -246,3 +246,5 @@
       - CH06. ChatPDF 심플 클론 만들기
     - Part 9. Autonomous Agent 만들기 (feat. AutoGPT)
       - CH01. Autonomous Agent 란
+      - CH02. Autonomous Agent 아키텍처
+      - CH03. 간단한 리서치 에이전트 만들어보기
