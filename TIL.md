@@ -255,3 +255,4 @@
     - Part 10. Open Source LLM 사용하기
       - CH01. LLaMA, Alpaca, Polyglot-ko 소개
       - CH02. KoAlpaca 학습시키기 (fine-tuning)
+      - CH03. ChatGPT 클론에 연결 시키기
