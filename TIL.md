@@ -248,3 +248,10 @@
       - CH01. Autonomous Agent 란
       - CH02. Autonomous Agent 아키텍처
       - CH03. 간단한 리서치 에이전트 만들어보기
+
+### 2023.12.31
+- 프롬프트 엔지니어링 학습
+  - 패스트 캠퍼스 'The RED : 프롬프트 엔지니어링, LLM(ChatGPT) 기반의 AI 서비스 개발'
+    - Part 10. Open Source LLM 사용하기
+      - CH01. LLaMA, Alpaca, Polyglot-ko 소개
+      - CH02. KoAlpaca 학습시키기 (fine-tuning)
