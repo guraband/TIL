@@ -22,3 +22,10 @@
 - 개발 관련 유튜브 시청
   - [아 저는 css 버리고 tailwind 씁니다](https://youtu.be/--D4WMPEIZI?si=v7xRyf_BrzU1YMWY)
   - [왕초보를 위한 AI 아바타 만들기 - 음성 + 얼굴 합성](https://youtu.be/--D4WMPEIZI?si=v7xRyf_BrzU1YMWY)
+
+### 2024.01.04
+- 개발 관련 유튜브 시청
+  - [유튜브 보는 것도 지겹다! - 유튜브 영상 요약 인공지능 만들어볼까요?](https://youtu.be/g77Ob5_hPKE?si=QeEo1OJ1RoYRP8f9)
+    - 위 내용을 보고 따라해봤다. 요약은 비교적 잘 되었지만 음성을 문자로 변환하는 과정이 꽤 오래 걸렸다.
+
+
