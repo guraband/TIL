@@ -17,3 +17,8 @@
   - ursina 라이브러리 테스트 해봄. 코드 몇 줄로 3D 오브젝트 생성과 이동, 충돌 판정 등이 처리되어 신기했다.
 - 토이 프로젝트
   - chatGPT 라이브러리 업데이트
+
+### 2024.01.03
+- 개발 관련 유튜브 시청
+  - [아 저는 css 버리고 tailwind 씁니다](https://youtu.be/--D4WMPEIZI?si=v7xRyf_BrzU1YMWY)
+  - [왕초보를 위한 AI 아바타 만들기 - 음성 + 얼굴 합성](https://youtu.be/--D4WMPEIZI?si=v7xRyf_BrzU1YMWY)
