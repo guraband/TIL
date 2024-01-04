@@ -39,3 +39,6 @@
   - thymeleaf 버전업에 따른 layout 사용 방식 수정
   - local에서 실행시 image 경로 오류 수정
   - 404 에러 핸들링 개선
+  - local db 세팅
+  - WebController 패키지 분리
+  - kotlin controller 테스트
