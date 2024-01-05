@@ -42,3 +42,4 @@
   - local db 세팅
   - WebController 패키지 분리
   - kotlin controller 테스트
+  - kotlin-webClient로 chatGPT 호출 테스트
