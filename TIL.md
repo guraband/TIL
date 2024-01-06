@@ -42,4 +42,14 @@
   - local db 세팅
   - WebController 패키지 분리
   - kotlin controller 테스트
+
+### 2024.01.06
+- gb2022
   - kotlin-webClient로 chatGPT 호출 테스트
+
+### 2024.01.06
+- gb2022
+  - chatGPT API 응답, 요청 파싱 테스트, 연동 일부 구현, 로깅 추가
+  - 요약 요청 프롬프트 부분 수정
+  - jwt 라이브러리 업그레이드, jwt 선언 부분 수정
+  - VO에 중복 선언된 변수 정리
