@@ -65,3 +65,9 @@
 - 개발 관련 유튜브 시청
   - [챗지피티로 회사 자동화 하기](https://youtu.be/d5dUFjxouQ0?si=DwKjUe-2i4ctvKOK)
   - [AI 잘쓰는 법](https://youtu.be/_ACi7PWP6nc?si=IEpnFI9HA97D4QRn)
+
+### 2024.01.10
+- gb2022
+  - s3 업로드 구현
+  - 서브도메인 - cloud front - s3 연동
+
