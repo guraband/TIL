@@ -76,3 +76,8 @@
   - 이미지 경로 수정
     - www.* -> imgae.*
     - /images/* -> /*
+- 개발 관련 유튜브 시청
+  - [실수로 npm을 파괴했던 개발자들](https://youtu.be/4Syo6Qbe3oY?si=-ZUQQ4cihjzEvNSg)
+  - [서버 구축, 앱 개발? 필요 없습니다... GPT 스토어! 그냥 아이디어만 있으면 돈 법니다](https://youtu.be/iJK9TccUdzY?si=vG2CGbSoZdSV2N1x)
+  - [웨어러블 기기 데이터를 활용한 신체 활동 예측 알고리즘 - 머신러닝, 기계학습](https://youtu.be/o6h0YMfO0fU?si=DmxXRquZrmJIis3y)
+
