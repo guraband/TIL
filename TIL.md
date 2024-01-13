@@ -86,3 +86,13 @@
   - gif image resize 테스트
     - gif가 불완전할 경우 오류가 발생하는 부분에 대한 처리 고려
   - gif 썸네일 생성 오류 수정
+
+### 2024.01.13
+- Webflux 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
+      - Ch 01. 들어가며
+        - 01\. 강의 소개
+      - Ch 03. Webflux
+        - 01\. Spring Webflux 소개
+        - 03\. synca sync와 block non-block
