@@ -96,3 +96,9 @@
       - Ch 03. Webflux
         - 01\. Spring Webflux 소개
         - 03\. synca sync와 block non-block
+
+### 2024.01.14
+- 개발 관련 유튜브 시청
+  - [VSC 경쟁자가 나타났다? Zed 의 등장!](https://youtu.be/_RIn7dSUkEg?si=bdLUOyfdu5IcQB9x)
+  - [사진을 보고 웃긴 제목을 지으시오 - GPT-4 Vision API 튜토리얼](https://youtu.be/55KltrrM5MY?si=UPKJRK4uTXMv9cGs)
+    - GPT4의 vision 모델을 사용해 프롬프트로 제목을 붙여달라는 요청을 하는 것. 다소 뻔한 내용이라 아쉬웠다.
