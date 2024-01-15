@@ -110,8 +110,11 @@
 ### 2024.01.15
 - gb2022
   - JDK17 + kotlin 일부 적용 버전으로 배포
-
-### 2024.01.16
-- gb2022
   - about 메뉴에 내용 추가
-
+- Webflux 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
+      - Ch 03. Webflux
+        - 04\. Spring MVC vs Webflux
+        - 05\. Reactor 이론
+        - 12\. Reactive Redis 이론
