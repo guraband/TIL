@@ -118,3 +118,8 @@
         - 04\. Spring MVC vs Webflux
         - 05\. Reactor 이론
         - 12\. Reactive Redis 이론
+
+### 2024.01.16
+- gb2022
+  - 해시태그 검색 기능 개발중
+
