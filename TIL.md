@@ -127,3 +127,8 @@
 - gb2022
   - HashTag 검색 api 개발, front 연동 테스트
   - 검색 기능을 kotlin으로 변환
+
+### 2024.01.18
+- 개발 관련 유튜브 시청
+  - [AI 시대 - 그대는 어떻게 살것인가](https://youtu.be/r0QiKeCqQSU?si=KtYFNP9gJ75-o7Nk)
+  - [프론트엔드 세계가 여전히 복잡한 이유](https://youtu.be/9xRq05wc7jk?si=5ICD9DufcnXGminl)
