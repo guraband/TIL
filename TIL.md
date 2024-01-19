@@ -132,3 +132,9 @@
 - 개발 관련 유튜브 시청
   - [AI 시대 - 그대는 어떻게 살것인가](https://youtu.be/r0QiKeCqQSU?si=KtYFNP9gJ75-o7Nk)
   - [프론트엔드 세계가 여전히 복잡한 이유](https://youtu.be/9xRq05wc7jk?si=5ICD9DufcnXGminl)
+
+### 2024.01.19
+- gb2022
+  - HashTag 검색 결과 페이지 개발중
+    - 썸네일로 목록 구성
+  
