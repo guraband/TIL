@@ -165,3 +165,17 @@
       - Ch 03. Webflux
         - 06\. Reactor 실습
           - 'Flux, Mono 실습' 파트 학습
+
+### 2024.01.23
+- Kotlin 스터디 준비
+  - 코틀린 스터디를 어떤 교재로 진행하면 좋을지 찾아봄.
+    - 인프런의 무료 강의들
+      - [Kotlin 문법 총 정리 - 1시간](https://www.inflearn.com/course/%EC%BD%94%ED%8B%80%EB%A6%B0-%EB%AC%B8%EB%B2%95%EC%B4%9D%EC%A0%95%EB%A6%AC-1%EC%8B%9C%EA%B0%84)
+      - [코틀린 3강으로 끝내기 feat. 안드로이드 개발](https://www.inflearn.com/course/%EC%BD%94%ED%8B%80%EB%A6%B0-%EB%81%9D%EB%82%B4%EA%B8%B0)
+      - [[초급] 맛보자! 코틀린과 스프링으로 API 호출하기](https://www.inflearn.com/course/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%8A%A4%ED%94%84%EB%A7%81-api%ED%98%B8%EC%B6%9C-%EC%9E%85%EB%AC%B8)
+      - [코틀린으로 만드는 스프링부트](https://www.inflearn.com/course/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)
+      - 대부분 분량이 적어서 스터디의 진도를 빨리 나가는데 좋을 것 같았지만 실무에 적용할 정도의 깊이있는 내용들은 아니었다.
+    - 도서
+      - Kotlin IN ACTION
+        - 나온지 몇년 된 책이고 두꺼웠지만 위의 영상들 보다 깊이 있는 스터디를 할 수 있을 것 같다.
+      
