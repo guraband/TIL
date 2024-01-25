@@ -184,3 +184,8 @@
   - 업무 관련 기존에 작업된 kotlin + jpa 소스 수정
     - 요즘 회사에서 spring + myBatis 환경만 쓰다가 kotlin + jpa 환경에서 작업하려니 적응하는데 힘들었다.
     그래도 재밌었음.
+
+### 2024.01.25
+- 코틀린 스터디 시작
+  - 오늘은 각자 찾아본 스터디 자료를 공유하고 앞으로 동영상 강의를 보며 스터디를 진행하기로 함
+    - [자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)](https://www.inflearn.com/course/java-to-kotlin)
