@@ -189,3 +189,13 @@
 - 코틀린 스터디 시작
   - 오늘은 각자 찾아본 스터디 자료를 공유하고 앞으로 동영상 강의를 보며 스터디를 진행하기로 함
     - [자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)](https://www.inflearn.com/course/java-to-kotlin)
+
+### 2024.01.26
+- 코틀린 강의 학습
+  - 인프런 : 자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)
+    - 섹션 0
+      - 0강. 코틀린에 관한 34가지 TMI (feat. Java와의 비교)
+    - 섹션 1
+      - 1강. 코틀린에서 변수를 다루는 방법
+
+    
