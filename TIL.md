@@ -3,3 +3,9 @@
   - hashTage 검색 페이지 개선
     - 페이지 이동시 history에 기록하여 브라우저의 뒤로 가기로 이전 페이지로 이동할 수 있도록 처리
       - history.pushState와 popstate event 사용
+
+### 2024.02.02
+- 코틀린 강의 학습
+  - 인프런 : 자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)
+    - 섹션 4 : 코틀린에서의 FP
+      - 16강. 코틀린에서 다양한 함수를 다루는 방법
