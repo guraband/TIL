@@ -96,3 +96,5 @@
     - 섹션 2. Java 서버를 Kotlin 서버로 리팩토링하자!
       - 11강. Kotlin 리팩토링 계획 세우기
       - 12강. 도메인 계층을 Kotlin으로 변경하기 - Book.java
+      - 13강. 도메인 계층을 Kotlin으로 변경하기 - UserLoanHistory.java, User.java
+      - 14강. Kotlin과 JPA를 함께 사용할 때 이야기거리 3가지
