@@ -98,3 +98,9 @@
       - 12강. 도메인 계층을 Kotlin으로 변경하기 - Book.java
       - 13강. 도메인 계층을 Kotlin으로 변경하기 - UserLoanHistory.java, User.java
       - 14강. Kotlin과 JPA를 함께 사용할 때 이야기거리 3가지
+
+### 2024.02.13
+- 코프링 강의 학습
+  - 인프런 : 실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링)
+    - 15강. 리포지토리를 Kotlin으로 변경하기
+    - 16강. 서비스 계층을 Kotlin으로 변경하기 - UserService.java
