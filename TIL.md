@@ -134,3 +134,8 @@
   - 회사에서 실제 운영 중인 한 api 프로젝트의 일부 패키지를 kotlin으로 리팩토링 해서 스터디원들간에 소스리뷰를 하기로 함.
   - build.gradle에 코틀린 설정 추가
 
+### 2024.02.18
+- 코틀린 스터디
+  - AdminDto를 kotlin data class로 변환
+    - myBatis의 resultType에 맞는 생성자를 만들어야 하는 점이 번거로웠다.
+
