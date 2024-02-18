@@ -137,5 +137,7 @@
 ### 2024.02.18
 - 코틀린 스터디
   - AdminDto를 kotlin data class로 변환
+    - spring-boot 버전과 jackson-module-kotlin 버전 맞추는 데 시행착오가 있었다. chatGPT가 도와줌.
     - myBatis의 resultType에 맞는 생성자를 만들어야 하는 점이 번거로웠다.
-
+      - 각 변수들에 기본값을 설정해주니 일일이 생성자를 만들지 않아도 됐다.
+  - AdminService, DTO들, Mapper들을 kotlin으로 변환
