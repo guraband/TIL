@@ -141,3 +141,7 @@
     - myBatis의 resultType에 맞는 생성자를 만들어야 하는 점이 번거로웠다.
       - 각 변수들에 기본값을 설정해주니 일일이 생성자를 만들지 않아도 됐다.
   - AdminService, DTO들, Mapper들을 kotlin으로 변환
+
+### 2024.02.19
+- 코틀린 스터디
+  - 관리자 프로필 조회 API 관련 Java class을 kotlin으로 변환
