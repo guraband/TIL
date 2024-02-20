@@ -130,12 +130,12 @@
       - 22강. Enum Class를 활용해 책의 분야 리팩토링 하기
 
 ### 2024.02.17
-- 코틀린 스터디
+- 코틀린 스터디 : Java -> Kotlin 리팩토링
   - 회사에서 실제 운영 중인 한 api 프로젝트의 일부 패키지를 kotlin으로 리팩토링 해서 스터디원들간에 소스리뷰를 하기로 함.
   - build.gradle에 코틀린 설정 추가
 
 ### 2024.02.18
-- 코틀린 스터디
+- 코틀린 스터디 : Java -> Kotlin 리팩토링
   - AdminDto를 kotlin data class로 변환
     - spring-boot 버전과 jackson-module-kotlin 버전 맞추는 데 시행착오가 있었다. chatGPT가 도와줌.
     - myBatis의 resultType에 맞는 생성자를 만들어야 하는 점이 번거로웠다.
@@ -143,10 +143,13 @@
   - AdminService, DTO들, Mapper들을 kotlin으로 변환
 
 ### 2024.02.19
-- 코틀린 스터디
+- 코틀린 스터디 : Java -> Kotlin 리팩토링
   - 관리자 프로필 조회 API 관련 Java class을 kotlin으로 변환
 
 ### 2024.02.20
-- 코틀린 스터디
+- 코틀린 스터디 : Java -> Kotlin 리팩토링
   - 즐겨찾기 API 관련 Java class을 kotlin으로 변환
 
+### 2024.02.20
+- 코틀린 스터디 : Java -> Kotlin 리팩토링
+  - 관리자 출입 시설 관련 API 관련 Java class을 kotlin으로 변환
