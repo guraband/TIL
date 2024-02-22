@@ -150,6 +150,12 @@
 - 코틀린 스터디 : Java -> Kotlin 리팩토링
   - 즐겨찾기 API 관련 Java class을 kotlin으로 변환
 
-### 2024.02.20
+### 2024.02.21
 - 코틀린 스터디 : Java -> Kotlin 리팩토링
   - 관리자 출입 시설 관련 API 관련 Java class을 kotlin으로 변환
+
+### 2024.02.22
+- 코틀린 강의 복습
+  - 인프런 : 자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)
+    - 섹션 5 : 추가적으로 알아두어야 할 코틀린 특성
+      - 20강. 코틀린의 scope function
