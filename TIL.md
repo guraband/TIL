@@ -175,3 +175,7 @@
   - private 저장소의 잔디심기 내용은 외부에 공개되지 않아서 TIL이라도 열심히 작성해야겠다.
 - 개발 관련 유튜브 시청
   - [인스타그램 백엔드가 20억 유저를 감당하는 방법!](https://youtu.be/V27XkmVPqYQ?si=yACVAgOag1YXi3V6)
+
+### 2024.02.26
+- gb2024 : Story 관련 클래스들을 Kolin으로 리팩토링
+  - dto 변환
