@@ -180,3 +180,7 @@
 - gb2024 : Story 관련 클래스들을 Kolin으로 리팩토링
   - Story 조회 메소드와 관련 VO를 kotlin으로 변환
     - 기존에 java로 만든 class들이 너무 열려있어서 이를 kotlin으로 변환하는 것이 어려웠다.
+
+### 2024.02.27
+- gb2024 : Java -> Kotlin 리팩토링
+  - Content 관련 클래스들을 Kolin으로 리팩토링
