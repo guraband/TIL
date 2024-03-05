@@ -237,3 +237,4 @@
   - Project 3. 네고왕 이벤트 선착순 쿠폰 시스템
     - Ch 4. Mysql기반 선착순 쿠폰 발급 기능 개발
       - 05\. 동시성 이슈 해결 - synchronized
+      - 06\. 동시성 이슈 해결 - redis lock
