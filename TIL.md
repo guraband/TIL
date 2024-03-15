@@ -108,4 +108,5 @@
     - ch02. ElasticSearch의 기본 구성
       - CH02_01. ElasticSearch 아키텍쳐
       - CH02_02. ElasticSearch 인덱스, 샤드, 레플리카
+      - CH02_03. 역색인, Inverted Index
 - 업무에서 ElasticSearch를 사용하게 될 예정이어서 관련 공부 시작
