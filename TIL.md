@@ -97,3 +97,15 @@
 - 패스트캠퍼스 '9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online.'
   - "Project 3. 네고왕 이벤트 선착순 쿠폰 시스템" 강의 내용 클론코딩 & Kotlin으로 리팩토링
     - Ch 3 > 01~02. 쿠폰 엔티티 작성
+
+### 2024.03.15
+- 패스트캠퍼스 'Spark & Elastic Stack을 활용한 데이터 분산 처리'
+  - Part 3. ElasticSearch, ELK스택
+    - ch01. ElasticSearch란?
+      - CH01_01. ElasticSearch에 대한 이해
+      - CH01_02. ELK 스택에 대한 이해 (1)
+      - CH01_03. ELK 스택에 대한 이해 (2)
+    - ch02. ElasticSearch의 기본 구성
+      - CH02_01. ElasticSearch 아키텍쳐
+      - CH02_02. ElasticSearch 인덱스, 샤드, 레플리카
+- 업무에서 ElasticSearch를 사용하게 될 예정이어서 관련 공부 시작
