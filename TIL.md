@@ -110,3 +110,12 @@
       - CH02_02. ElasticSearch 인덱스, 샤드, 레플리카
       - CH02_03. 역색인, Inverted Index
 - 업무에서 ElasticSearch를 사용하게 될 예정이어서 관련 공부 시작
+
+### 2024.03.15
+- 패스트캠퍼스 'Spark & Elastic Stack을 활용한 데이터 분산 처리'
+  - Part 3. ElasticSearch, ELK스택
+    - ch03. AWS EC2에 ElasticSearch 설치하기
+      - CH03_01. Elasticsearch와 Opensearch 그리고 버전
+      - CH03_02. EC2 설정, ElasticSearch설치
+        - 강의에서는 ec2에 설치했는데 나는 로컬에 docker로 설치
+      - CH03_03. ES둘러보기, elasticsearch.yaml 설정
