@@ -164,5 +164,11 @@
 
 ### 2024.03.23
 - elasticSearch를 사용한 주소 검색 구현 사례 조회
-- [ElasticSearch로 주소 검색하기](https://medium.com/nbt-tech/elasticsearch로-주소-검색하기-f0e461099f2e)
-- [Elasticsearch를 검색 엔진으로 사용하기(1): Nori 한글 형태소 분석기로 검색 고도화 하기](https://hanamon.kr/elasticsearch-검색엔진-nori-형태소-분석기-검색-고도화-방법/)
+  - [ElasticSearch로 주소 검색하기](https://medium.com/nbt-tech/elasticsearch로-주소-검색하기-f0e461099f2e)
+  - [Elasticsearch를 검색 엔진으로 사용하기(1): Nori 한글 형태소 분석기로 검색 고도화 하기](https://hanamon.kr/elasticsearch-검색엔진-nori-형태소-분석기-검색-고도화-방법/)
+- 패스트캠퍼스 'Spark & Elastic Stack을 활용한 데이터 분산 처리' 강의 학습
+  - Part 3. ElasticSearch, ELK스택
+    - ch07. ElasticSearch API
+      - CH07_01. DocumentAPI
+      - CH07_02. SearchAPI, Query DSL 1
+      - CH07_03. SearchAPI, Query DSL 2
