@@ -161,3 +161,8 @@
     - 섹션 1 코루틴 기초
       - 4강. 코루틴의 취소
       - 5강. 코루틴의 예외 처리와 Job의 상태 변화
+
+### 2024.03.23
+- elasticSearch를 사용한 주소 검색 구현 사례 조회
+- [ElasticSearch로 주소 검색하기](https://medium.com/nbt-tech/elasticsearch로-주소-검색하기-f0e461099f2e)
+- [Elasticsearch를 검색 엔진으로 사용하기(1): Nori 한글 형태소 분석기로 검색 고도화 하기](https://hanamon.kr/elasticsearch-검색엔진-nori-형태소-분석기-검색-고도화-방법/)
