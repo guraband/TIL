@@ -172,3 +172,9 @@
       - CH07_01. DocumentAPI
       - CH07_02. SearchAPI, Query DSL 1
       - CH07_03. SearchAPI, Query DSL 2
+    - ch9. ElasticSearch Mapping API
+      - CH9_01. Mapping
+      - CH9_02. 다양한 데이터 타입 소개
+    - ch12.Text Tokenizer, Nori
+      - CH12_01. Nori란, Nor설치
+      - CH12_02. Nori 실습, 데이터 준비
