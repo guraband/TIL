@@ -178,3 +178,11 @@
     - ch12.Text Tokenizer, Nori
       - CH12_01. Nori란, Nor설치
       - CH12_02. Nori 실습, 데이터 준비
+
+### 2024.03.24
+- 네이버 클라우드 주소 -> 좌표 API 테스트
+  - [geocode](https://api.ncloud-docs.com/docs/ai-naver-mapsgeocoding-geocode)
+- 패스트캠퍼스 'Spark & Elastic Stack을 활용한 데이터 분산 처리' 강의 학습
+  - Part 3. ElasticSearch, ELK스택
+    - ch12.Text Tokenizer, Nori
+      - CH12_03. Tag Cloud 생성하기
