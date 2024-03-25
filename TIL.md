@@ -186,3 +186,7 @@
   - Part 3. ElasticSearch, ELK스택
     - ch12.Text Tokenizer, Nori
       - CH12_03. Tag Cloud 생성하기
+
+### 2024.03.25
+- 네이버 클라우드 지도 테스트
+- 주소 -> 좌표 API 테스트
