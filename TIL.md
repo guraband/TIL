@@ -201,3 +201,11 @@
   - 상점 데이터를 추가하여 조회 속도 확인
     - 동일 데이터를 mysql와 postgreSQL에 넣고 속도를 비교해보니 postgreSQL쪽이 빨랐다. 하지만 mysql의 point 컬럼에 index를 다시 생성하고 테스트 해보니 15만건 정도를 대상으로 했을 때는 속도 차이가 크지 않았다.
     - mysql에 Spatial Index를 추가하려면 SRID 타입을 맞춰야 하는 것 같다. 맞추지 않았을 때는 index를 타지 않았다.
+
+### 2024.03.28
+- 회사내 코루틴 스터디
+  - 인프런 '2시간으로 끝내는 코루틴' 강의 학습
+    - 섹션 2 코루틴의 구성 요소와 원리
+      - 6강. Structured Concurrency
+      - 7강. CoroutineScope과 CoroutineContext
+    - 강의가 끝나가는데 아직까지 이걸 어디에 써야할지 감이 안잡힌다.
