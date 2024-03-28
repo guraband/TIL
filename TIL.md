@@ -209,3 +209,8 @@
       - 6강. Structured Concurrency
       - 7강. CoroutineScope과 CoroutineContext
     - 강의가 끝나가는데 아직까지 이걸 어디에 써야할지 감이 안잡힌다.
+
+### 2024.03.29
+- 패스트캠퍼스 '9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online.'
+  - "Project 3. 네고왕 이벤트 선착순 쿠폰 시스템" 강의 내용 클론코딩 & Kotlin으로 리팩토링
+    - Ch 6 > 02. 쿠폰 발급 요청 API 개발 - set
