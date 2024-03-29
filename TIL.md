@@ -214,3 +214,10 @@
 - 패스트캠퍼스 '9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online.'
   - "Project 3. 네고왕 이벤트 선착순 쿠폰 시스템" 강의 내용 클론코딩 & Kotlin으로 리팩토링
     - Ch 6 > 02. 쿠폰 발급 요청 API 개발 - set
+
+### 2024.03.30
+- 패스트캠퍼스 '9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online.'
+  - "Project 3. 네고왕 이벤트 선착순 쿠폰 시스템" 강의 내용 클론코딩 & Kotlin으로 리팩토링
+    - Ch 6 > 03. 쿠폰 발급 요청 API 개발 - 캐시 적용
+      - redis cacheManager 설정 하는데 시간이 많이 걸렸다. objectMapper에서 LocalDateTime을 제대로 지원하고 @cachealbe serialize/deserialize를 위한 @cache 정보를 포함 시키는 설정을 찾는데 오래 걸렸다.
+
