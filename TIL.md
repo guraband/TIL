@@ -5,3 +5,12 @@
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌 학습
   - Part 14 > Ch02 Spring batch 적용
     - 01-1. Spring Batch 도메인 용어 익히기
+
+### 2024.04.02
+- 인프런 '2시간으로 끝내는 코루틴' 강의 학습
+  - 섹션 2 코루틴의 구성 요소와 원리
+    - 9강. 코루틴과 Continuation
+    - 10강. 코루틴의 활용과 마무리
+- ElasticSearch 주소 검색 테스트
+  - logstash로 주소 csv 파일 업로드 테스트
+
