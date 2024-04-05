@@ -26,3 +26,8 @@
   - Part 14 > Ch02 Spring batch 적용
     - 01-2. Spring Batch 도메인 용어 익히기 - 적용 강의 학습
 
+### 2024.04.05
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌 학습
+  - Part 14 > Ch02 Spring batch 적용
+    - 02. Job
+    - 03-1. Step
