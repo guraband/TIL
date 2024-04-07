@@ -36,3 +36,9 @@
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌 학습
   - Part 14 > Ch02 Spring batch 적용
     - 03-2. Step - 기본 적용
+
+### 2024.04.07
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌 학습
+  - Part 14 > Ch02 Spring batch 적용
+    - 03-2. Step - 기본 적용
+    - 03-3. Step - Flow 적용
