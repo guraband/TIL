@@ -50,3 +50,9 @@
   - Part 14 > Ch02 Spring batch 적용
     - 04-3. ItemReader - Database
     - 05-1. ItemWriter
+
+### 2024.04.09
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌 학습
+  - Part 14 > Ch02 Spring batch 적용
+    - 05-2. ItemWriter - 적용
+    - 06. ItemProcessor
