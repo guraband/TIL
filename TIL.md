@@ -55,4 +55,10 @@
 - 시그니처 백엔드 Path 초격차 패키지 Online 강좌 학습
   - Part 14 > Ch02 Spring batch 적용
     - 05-2. ItemWriter - 적용
-    - 06. ItemProcessor
+    - 06\. ItemProcessor
+
+### 2024.04.10
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌 학습
+  - Part 14 > Ch02 Spring batch 적용
+    - 07-1. 확장을 통한 성능 개선
+    - 07-2. 확장을 통한 성능 개선 - Multi-threaded, Parallel
