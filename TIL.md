@@ -62,3 +62,10 @@
   - Part 14 > Ch02 Spring batch 적용
     - 07-1. 확장을 통한 성능 개선
     - 07-2. 확장을 통한 성능 개선 - Multi-threaded, Parallel
+
+### 2024.04.11
+- 시그니처 백엔드 Path 초격차 패키지 Online 강좌 학습
+  - Part 14 > Ch02 Spring batch 적용
+    - 07-3. 확장을 통한 성능 개선 - Partitioning
+  - Part 14 > Ch 03. 정산 시스템 만들기
+    - 01\. 요구사항 분석
