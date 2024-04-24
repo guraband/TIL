@@ -152,8 +152,12 @@
     - 섹션 2 : 지연과 위임
       - 8강. lateinit과 lazy()
       - 9강. by lazy의 원리와 위임 프로퍼티
+- gb2024 : Java -> Kotlin 리팩토링
+  - GuestService, SummaryService를 kotlin으로 변환
+  - 일부 VO를 kotlin으로 변환
 
 ### 2024.04.24
 - 개발 관련 서적 읽음
   - "가상 면접 사례로 배우는 대규모 시스템 설계 기초"
     - 4장 처리율제한장치의설계
+- gb2024 : Java -> Kotlin 리팩토링
