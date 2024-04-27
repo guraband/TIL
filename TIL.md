@@ -171,3 +171,11 @@
 - gb2024 : Java -> Kotlin 리팩토링
   - 캐시 설정 추가, jwt 인증 로직에 캐싱 처리 추가
 - spring batch 강의들 찾아봄
+
+### 2024.04.27
+- gb2024 : Java -> Kotlin 리팩토링
+  - Gallery controller, service를 kotlin으로 변환
+
+### 2024.04.28
+- gb2024 : Java -> Kotlin 리팩토링
+  - gallery 관련 class들을 kotlin으로 변환
