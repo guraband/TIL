@@ -179,6 +179,9 @@
 ### 2024.04.28
 - gb2024 : Java -> Kotlin 리팩토링
   - gallery 관련 class들을 kotlin으로 변환
+  - guest 관련 class들을 kotlin으로 변환
+    - 기존 소스의 DTO가 지나치게 열려 있고 response 타입도 Map으로 되어있어서 바로 잡음.
+    - 번거로운 작업이었지만 덕분에 kotlin의 class, interface, 변수 선언에 대해 다시 한 번 생각해볼 수 있었다.
 - 개발 관련 서적 읽음
   - "가상 면접 사례로 배우는 대규모 시스템 설계 기초"
     - 5,6장
