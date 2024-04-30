@@ -190,3 +190,7 @@
 - gb2024 : Java -> Kotlin 리팩토링
   - User 관련 class들을 kotlin으로 변환
     - 인증 처리까지 엮여 있어서 생각보다 시간이 오래 걸렸다. 오랜만에 Spring Security 관련 코드를 살펴봤다.
+
+### 2024.04.30
+- gb2024 : Java -> Kotlin 리팩토링
+  - Main, Travel 관련 class들을 kotlin으로 변환
