@@ -12,3 +12,8 @@
 - gb2024 : Java -> Kotlin 리팩토링
   - AdminService 관련 class들을 kotlin으로 변환
   - 공통 응답형 DTO 추가
+
+### 2024.05.04
+- gb2024 : Java -> Kotlin 리팩토링
+  - CommonService를 kotlin으로 변환
+    - 엮여 있는 VO들이 많아서 아직 변환할 것이 많이 남았다.
