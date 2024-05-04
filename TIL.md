@@ -17,3 +17,7 @@
 - gb2024 : Java -> Kotlin 리팩토링
   - CommonService를 kotlin으로 변환
     - 엮여 있는 VO들이 많아서 아직 변환할 것이 많이 남았다.
+
+### 2024.05.05
+- gb2024 : Java -> Kotlin 리팩토링
+  - Whois, StatisVO 관련 class들을 kotlin으로 변환
