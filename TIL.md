@@ -25,3 +25,4 @@
 ### 2024.05.06
 - gb2024 : Java -> Kotlin 리팩토링
   - 집계, Batch 관련 class들을 kotlin으로 변환
+  - Jwt 인증 관련 class들을 kotlin으로 변환
