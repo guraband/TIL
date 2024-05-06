@@ -26,3 +26,6 @@
 - gb2024 : Java -> Kotlin 리팩토링
   - 집계, Batch 관련 class들을 kotlin으로 변환
   - Jwt 인증 관련 class들을 kotlin으로 변환
+- 개발 관련 서적 읽음
+  - "가상 면접 사례로 배우는 대규모 시스템 설계 기초"
+    - 7장
