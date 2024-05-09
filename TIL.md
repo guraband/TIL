@@ -39,3 +39,8 @@
     - 8장
 - gb2024 : Java -> Kotlin 리팩토링
   - VO외의 주요 class들을 kotlin으로 변환 완료
+
+### 2024.05.09
+- Spring Batch 테스트
+  - JpaPagingItemReader로 읽어서 수정 후 JpaItemWriter로 저장하는 배치를 테스트 중
+
