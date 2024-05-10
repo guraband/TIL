@@ -44,3 +44,5 @@
 - Spring Batch 테스트
   - JpaPagingItemReader로 읽어서 수정 후 JpaItemWriter로 저장하는 배치를 테스트 중
 
+### 2024.05.10
+- Spring Batch 학습
