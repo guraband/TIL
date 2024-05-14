@@ -63,3 +63,8 @@
 - gb2024
   - 게시물 중복 조회시 조회수 증가 방지 처리
   - 다량 접속 방지 처리용 rate limit 적용 테스트
+
+### 2024.05.14
+- Spring Batch
+  - jpa, jdbc item reader / writer 테스트
+  - partitionHandler 테스트
