@@ -68,3 +68,8 @@
 - Spring Batch
   - jpa, jdbc item reader / writer 테스트
   - partitionHandler 테스트
+
+### 2024.05.15
+- gb2024
+  - rate limit 개선
+  - ExceptionHandler 구현
