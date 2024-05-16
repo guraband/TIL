@@ -73,3 +73,10 @@
 - gb2024
   - rate limit 개선
   - ExceptionHandler 구현
+
+### 2024.05.16
+- gb2024
+  - reply 등록, 조회, 삭제 오류 수정
+- 개발 관련 유튜브 시청
+  - [트위터 시스템 디자인 완전정복 | 1억 유저 처리의 비밀](https://youtu.be/6QwqtdBx0oE?si=Z_kdH7c63qT7AwcT)
+  - [우선순위 큐 (Priority Queue) 완전정복 | 인터뷰 / 코딩테스트 필수 자료구조](https://youtu.be/lBjTv-rGTf4?si=aCdz5WbrStu_qaUO)
