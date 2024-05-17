@@ -80,3 +80,10 @@
 - 개발 관련 유튜브 시청
   - [트위터 시스템 디자인 완전정복 | 1억 유저 처리의 비밀](https://youtu.be/6QwqtdBx0oE?si=Z_kdH7c63qT7AwcT)
   - [우선순위 큐 (Priority Queue) 완전정복 | 인터뷰 / 코딩테스트 필수 자료구조](https://youtu.be/lBjTv-rGTf4?si=aCdz5WbrStu_qaUO)
+
+### 2024.05.17
+- gb2024
+  - 방문자수 중복 카운트 방지 처리를 DB에서 redis로 옮김
+  - redis key 간소화
+  - kotlin으로 변환이 완료된 Java class들 삭제
+  - 테스트 & 버그 수정
