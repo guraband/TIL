@@ -87,3 +87,8 @@
   - redis key 간소화
   - kotlin으로 변환이 완료된 Java class들 삭제
   - 테스트 & 버그 수정
+
+### 2024.05.18
+- gb2024
+  - aws sqs 연동 테스트
+  - 접속 log 생성/저장을 queue를 통해 처리하도록 변경
