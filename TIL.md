@@ -113,3 +113,8 @@
 - Spring Batch
   - partitionJob으로 다량의 API를 조회하여 DB에 insert 하는 프로세스를 구현.
   - 생각만큼 진도가 나가지는 않았지만 기본 구성은 구현했다.
+
+### 2024.05.23
+- Spring Batch
+  - partitionJob 테스트
+
