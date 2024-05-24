@@ -127,3 +127,5 @@
 - gb2024 : Java -> Kotlin 리팩토링
   - ImageInfoVO 변환
   - 메인 이미지 URL 생성 오류 수정
+  - VO class들의 kotlin 전환 완료
+    - 이제 util class들만 남았다!
