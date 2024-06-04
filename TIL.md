@@ -18,3 +18,9 @@
   - 인프런 : 코틀린 고급편
     - 섹션 4 : 연산자 오버로딩과 Kotlin DSL
       - 17강. 연산자 오버로딩
+
+### 2024.06.04
+- AWS DVA-C02 강의 학습
+  - Udamy : Full Practice Exam with Explanations included! PASS the Amazon Web Services Certified Developer Certification DVA-C02
+    - 섹션 1~3 학습
+    - 올해는 AWS Certified Developer – Associate 자격증을 취득해보려고 한다. 강의가 엄청 많다. 언제 다 듣나?
