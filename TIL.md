@@ -24,3 +24,7 @@
   - Udamy : Full Practice Exam with Explanations included! PASS the Amazon Web Services Certified Developer Certification DVA-C02
     - 섹션 1~3 학습
     - 올해는 AWS Certified Developer – Associate 자격증을 취득해보려고 한다. 강의가 엄청 많다. 언제 다 듣나?
+
+### 2024.06.05
+- AWS DVA-C02 강의 학습
+  - 섹션 4 학습
