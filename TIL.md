@@ -45,3 +45,8 @@
 - AWS DVA-C02 강의 학습
   - 섹션 16: ECS, ECR & Fargate - Docker in AWS
     - 167 ~ 174강
+
+### 2024.06.08
+- gb2024
+  - 로그인시 telegram 알림 발송
+  - 수정 양식의 태그 처리 오류 수정
