@@ -50,3 +50,14 @@
 - gb2024
   - 로그인시 telegram 알림 발송
   - 수정 양식의 태그 처리 오류 수정
+- AWS DVA-C02 강의 학습
+  - 섹션 16: ECS, ECR & Fargate - Docker in AWS
+    - 175 ~ 176강
+      - ECS 부분은 좀 어렵다.
+
+### 2024.06.09
+- AWS DVA-C02 강의 학습
+  - 섹션 16: ECS, ECR & Fargate - Docker in AWS
+    - 177 ~ 183강
+    - Quiz 13 : 15문제 중 13개 맞음!
+
