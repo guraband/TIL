@@ -94,3 +94,8 @@
 - AWS DVA-C02 강의 학습
   - 섹션 5: EC2 Fundamentals
     - 32~37강
+
+### 2024.06.15
+- AWS DVA-C02 강의 학습
+  - 섹션 5: EC2 Fundamentals
+    - 41~42강
