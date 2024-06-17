@@ -107,3 +107,13 @@
       - 24강. 유용한 코틀린 표준 라이브러리 함수들
       - 25강. 꼬리 재귀 함수와 인라인 클래스, multiple catch
       - 26강. 유용한 k-도구들!!
+
+### 2024.06.17
+- 개발 관련 유튜브 시청
+  - [아빠가 된 개발자의 AI 에이전트 활용법!?](https://youtu.be/-59bKxwir5Q?si=q9xeeAUVUics3UqW)
+    - crew.ai에 관한 설명이었음. 흥미롭다. 조만간 테스트 해보고 싶다.
+    - https://crewai.com
+  - [[10분 테코톡] 커비의 가비지 컬렉션](https://youtu.be/UJDXXmuMldM?si=Cpk-ZBCAzT4_rutN)
+    - 생각보다 기초적인 내용을 다뤄서 아쉬웠다.
+  - [[10분 테코톡] 이든의 방어적 복사](https://youtu.be/VsYw2GWgZV0?si=Sj6G_SHGOpsHvt15)
+
