@@ -116,4 +116,6 @@
   - [[10분 테코톡] 커비의 가비지 컬렉션](https://youtu.be/UJDXXmuMldM?si=Cpk-ZBCAzT4_rutN)
     - 생각보다 기초적인 내용을 다뤄서 아쉬웠다.
   - [[10분 테코톡] 이든의 방어적 복사](https://youtu.be/VsYw2GWgZV0?si=Sj6G_SHGOpsHvt15)
-
+- AWS DVA-C02 강의 학습
+  - 섹션 6: EC2 Instance Storage
+    - 44~49강
