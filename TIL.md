@@ -120,10 +120,14 @@
   - 섹션 6: EC2 Instance Storage
     - 44~49강
 
-### 2024.06.17
+### 2024.06.18
 - 개발 관련 유튜브 시청
   - [[10분 테코톡] 오션의 뮤텍스와 세마포어](https://youtu.be/NL9JQh5bbZ8?si=7feG2Esj8pN9SRme)
   - [[10분 테코톡] 🎲 와일더의 Mutex vs Semaphore](https://youtu.be/oazGbhBCOfU?si=tYJCx3cyMxpf-kA8)
 - AWS DVA-C02 강의 학습
   - 섹션 6: EC2 Instance Storage
     - 50~53강
+
+### 2024.06.19
+- 개발 관련 유튜브 시청
+  - [어떤 개발자의 바나나 채굴게임 (동접 90만)](https://youtu.be/7ht7i7Q_smk?si=wxzOwr14TSfY5-P7)
