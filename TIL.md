@@ -131,3 +131,8 @@
 ### 2024.06.19
 - 개발 관련 유튜브 시청
   - [어떤 개발자의 바나나 채굴게임 (동접 90만)](https://youtu.be/7ht7i7Q_smk?si=wxzOwr14TSfY5-P7)
+
+### 2024.06.20
+- AWS DVA-C02 강의 학습
+  - 섹션 6: EC2 Instance Storage
+    - 54~55강
