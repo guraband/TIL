@@ -35,3 +35,11 @@
   - 섹션 8 : AWS 기초 RDS + Aurora + ElasticCache
     - 76-79강
 
+### 2024.07.08
+- AWS DVA-C02 강의 학습
+  - 섹션 8 : AWS 기초 RDS + Aurora + ElasticCache
+    - 80강
+- 개발 관련 유튜브 시청
+  - [[10분 테코톡] 아루의 객체지향과 추상화 수준](https://youtu.be/1VwRtsLDiyM?si=gcJAbBPL07v8bLlJ)
+    - 체스판으로 추상화를 설명한 것이 좋았다.
+  - [[10분 테코톡] 클로버의 SOLID](https://youtu.be/7c0tqHLfxlE?si=sXjnLmkqcZRWNIYd)
