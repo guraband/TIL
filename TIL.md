@@ -43,3 +43,9 @@
   - [[10분 테코톡] 아루의 객체지향과 추상화 수준](https://youtu.be/1VwRtsLDiyM?si=gcJAbBPL07v8bLlJ)
     - 체스판으로 추상화를 설명한 것이 좋았다.
   - [[10분 테코톡] 클로버의 SOLID](https://youtu.be/7c0tqHLfxlE?si=sXjnLmkqcZRWNIYd)
+
+### 2024.07.09
+- AWS DVA-C02 강의 학습
+  - 섹션 8 : AWS 기초 RDS + Aurora + ElasticCache
+    - 81강~87강
+    - 퀴즈 5 : 17/22 ㅠㅠ
