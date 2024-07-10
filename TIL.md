@@ -49,3 +49,6 @@
   - 섹션 8 : AWS 기초 RDS + Aurora + ElasticCache
     - 81강~87강
     - 퀴즈 5 : 17/22 ㅠㅠ
+
+### 2024.07.10
+- replit 설정 수정
