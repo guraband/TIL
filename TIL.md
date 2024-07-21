@@ -117,3 +117,11 @@
   - 섹션 11 : Amazon S3 소개
     - 119~125강
     - 퀴즈 8 : 7/8
+
+### 2024.07.21
+- 개발 관련 도서 읽음
+  - '컴퓨터 밑바닥의 비밀'
+    - <img src="https://github.com/guraband/TIL/blob/main/images/secret_of_computer.jpg?raw=true" width=300/>
+    - 1장 '프로그래밍 언어부터 프로그램 실행까지, 이렇게 진행된다' 읽음
+
+
