@@ -124,4 +124,8 @@
     - <img src="https://github.com/guraband/TIL/blob/main/images/secret_of_computer.jpg?raw=true" width=300/>
     - 1장 '프로그래밍 언어부터 프로그램 실행까지, 이렇게 진행된다' 읽음
 
-
+### 2024.07.22
+- AWS DVA-C02 강의 학습
+  - 섹션 12 : 섹션 12: AWS CLI, SDK, IAM 역할 및 정책
+    - 126~133강
+    - 퀴즈 9 : 8/11
