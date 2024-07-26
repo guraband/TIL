@@ -151,3 +151,5 @@
   - 섹션 14 : AWS S3 보안
     - 148~154강
     - 퀴즈 11 : 8/9
+- 개발 관련 유튜브 시청
+  - [02. 전략(Strategy) 패턴](https://youtu.be/xlaAiHrZN3U?si=sqom8aye-lYejrVB)
