@@ -153,3 +153,8 @@
     - 퀴즈 11 : 8/9
 - 개발 관련 유튜브 시청
   - [02. 전략(Strategy) 패턴](https://youtu.be/xlaAiHrZN3U?si=sqom8aye-lYejrVB)
+
+### 2024.07.27
+- AWS DVA-C02 강의 학습
+  - 섹션 15 : Cloudfront
+    - 155~159강
