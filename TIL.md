@@ -167,7 +167,7 @@
   - 섹션 15 : Cloudfront
     - 160~162강
 
-### 2024.07.28
+### 2024.07.29
 - AWS DVA-C02 강의 학습
   - 섹션 15 : Cloudfront
     - 163~166강
@@ -179,3 +179,26 @@
     - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
       - Ch 03. Webflux
         - 01\. Spring Webflux 소개
+
+### 2024.07.29
+- AWS DVA-C02 강의 학습
+  - 섹션 15 : Cloudfront
+    - 163~166강
+    - 퀴즈 12 : 7/9
+- 개발 관련 유튜브 시청
+  - [최악의 IT 대란이 일어난 진짜 이유는?](https://youtu.be/BeG7RWSePI8?si=FhMckz-_h5cTl4_J)
+- Webflux 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
+      - Ch 03. Webflux
+        - 01\. Spring Webflux 소개
+
+### 2024.07.30
+- Webflux 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
+      - Ch 03. Webflux
+        - 02\. CPU bound vs IO Bound
+
+
+
