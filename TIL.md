@@ -172,4 +172,5 @@
   - 섹션 15 : Cloudfront
     - 163~166강
     - 퀴즈 12 : 7/9
-
+- 개발 관련 유튜브 시청
+  - [최악의 IT 대란이 일어난 진짜 이유는?](https://youtu.be/BeG7RWSePI8?si=FhMckz-_h5cTl4_J)
