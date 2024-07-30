@@ -194,11 +194,14 @@
         - 01\. Spring Webflux 소개
 
 ### 2024.07.30
+- AWS DVA-C02 강의 학습
+  - 섹션 16: ECS, ECR 및 Fargate - AWS의 도커
+    - 181~185강
 - Webflux 학습
   - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
     - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
       - Ch 03. Webflux
         - 02\. CPU bound vs IO Bound
-
+        - 03\. sync async와 block non-block
 
 
