@@ -1,6 +1,6 @@
 ### 2024.08.01
 - AWS DVA-C02 강의 학습
-  - 섹션 16: ECS, ECR 및 Fargate - AWS의 도커
+  - 섹션 17: AWS Elastic Beanstalk
     - 189~194강
 
 ### 2024.08.02
@@ -10,3 +10,9 @@
       - Ch 03. Webflux
         - 05\. Reactor 이론
         - 06\. Reactor 실습
+- AWS DVA-C02 강의 학습
+  - 섹션 17: AWS Elastic Beanstalk
+    - 195~196강
+    - 퀴즈14 : 15/16
+  - 섹션 18: AWS CloudFormation
+    - 197강
