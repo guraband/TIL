@@ -16,3 +16,11 @@
     - 퀴즈14 : 15/16
   - 섹션 18: AWS CloudFormation
     - 197강
+
+### 2024.08.03
+- Webflux 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
+      - Ch 03. Webflux
+        - 06\. Reactor 실습
+          - operator 복습
