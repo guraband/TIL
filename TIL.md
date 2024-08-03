@@ -24,3 +24,11 @@
       - Ch 03. Webflux
         - 06\. Reactor 실습
           - operator 복습
+
+### 2024.08.04
+- Webflux 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
+      - Ch 03. Webflux
+        - 06\. Reactor 실습 완료
+          - 1시간 20분짜리 강의여서 오래 걸렸다.
