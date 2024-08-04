@@ -32,6 +32,8 @@
       - Ch 03. Webflux
         - 06\. Reactor 실습 완료
           - 1시간 20분짜리 강의여서 오래 걸렸다.
+        - 07\. Spring Webflux 실습(1)
+          - endpoint 예제 구현
 - AWS DVA-C02 강의 학습
   - 섹션 18: AWS CloudFormation
     - 198강
