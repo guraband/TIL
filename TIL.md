@@ -45,3 +45,9 @@
 - AWS DVA-C02 강의 학습
   - 섹션 18: AWS CloudFormation
     - 199~201강
+- Webflux 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
+      - Ch 03. Webflux
+        - 07\. Spring Webflux 실습(1)
+          - crud 예제 구현
