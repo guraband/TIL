@@ -78,3 +78,8 @@
 - AWS DVA-C02 강의 학습
   - 섹션 19: AWS 통합 및 메시징: SQS, SNS 및 Kinesis
     - 220~227강
+
+### 2024.08.10
+- AWS DVA-C02 강의 학습
+  - 섹션 19: AWS 통합 및 메시징: SQS, SNS 및 Kinesis
+    - 228~229강
