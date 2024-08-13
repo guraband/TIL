@@ -93,3 +93,8 @@
 - 개발 관련 유튜브 시청
   - [2억 4천만 유저 커버치는 비법?](https://youtu.be/S2zg7oedJM0?si=PH431acv9wQZUVrU)
   - [04. 싱글턴(Singleton) 패턴](https://youtu.be/1c_wLi0_B1A?si=UP6LdKJUjq9DVOVr)
+
+### 2024.08.13
+- AWS DVA-C02 강의 학습
+  - 섹션 19: AWS 통합 및 메시징: SQS, SNS 및 Kinesis
+    - 233~236강
