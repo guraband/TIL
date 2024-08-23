@@ -160,3 +160,8 @@
   - 섹션 20: AWS 모니터링 및 감사
     - 262~263강
 
+### 2024.08.23
+- ChatGPT fine-tuning 테스트
+- 개발 관련 도서 읽음
+  - '결정적 사건으로 배우는 암호학'
+    - <img src="https://github.com/guraband/TIL/blob/main/images/encryption.jpg?raw=true" width=300/>
