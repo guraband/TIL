@@ -165,3 +165,9 @@
 - 개발 관련 도서 읽음
   - '결정적 사건으로 배우는 암호학'
     - <img src="https://github.com/guraband/TIL/blob/main/images/encryption.jpg?raw=true" width=300/>
+    - 50% 정도 읽었는데 일반인들을 대상으로 쉽게 쓴 내용이었지만 재밌고 볼만했다.
+
+### 2024.08.24
+- AWS DVA-C02 강의 학습
+  - 섹션 20: AWS 모니터링 및 감사
+    - 264~265강
