@@ -208,3 +208,6 @@
       - Ch 03. Webflux
       - 12\. Reactive Redis 이론
       - 13\. Reactive Redis 실습
+- 개발 관련 도서 읽음
+  - '컴퓨터 밑바닥의 비밀'
+    - 4장 2절 ~ 4절
