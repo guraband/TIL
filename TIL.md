@@ -230,5 +230,14 @@
   - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
     - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
       - Ch 03. Webflux
-      - 14\. Spring MVC vs Webflux 성능
-        - 단순 rdb, redis 조회시 jmeter 측정 기준으로 2배 전후의 속도 차이가 발생하는 듯
+        - 15\. Blockhound
+
+### 2024.09.01
+- Webflux 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
+      - Ch 03. Webflux
+        - 15\. Spring MVC vs Webflux 성능
+      - Ch 04. 프로젝트 - 접속자대기시스템
+        - 01\. 요구사항 분석
+        - 02\. 아키텍처 설계
