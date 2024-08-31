@@ -224,3 +224,11 @@
 - AWS DVA-C02 강의 학습
   - 섹션 21: AWS 서버리스: Lambda
     - 290~291강
+
+### 2024.08.31
+- Webflux 학습
+  - 패스트 캠퍼스 '시그니처 백엔드 Path 초격차 패키지 Online.'
+    - [Course 7] 대용량 트래픽 처리를 위한 백엔드 심화
+      - Ch 03. Webflux
+      - 14\. Spring MVC vs Webflux 성능
+        - 단순 rdb, redis 조회시 jmeter 측정 기준으로 2배 전후의 속도 차이가 발생하는 듯
