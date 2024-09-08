@@ -67,3 +67,5 @@
 - 개발 관련 도서 읽음
   - '컴퓨터 밑바닥의 비밀'
     - 5장
+- 개발 관련 유튜브 시청
+  - [DB 고민 끝내드림 💥](https://youtu.be/ocZid4g4UpY?si=CrKiQZTF-IvjaGKZ)
