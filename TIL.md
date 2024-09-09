@@ -69,3 +69,8 @@
     - 5장
 - 개발 관련 유튜브 시청
   - [DB 고민 끝내드림 💥](https://youtu.be/ocZid4g4UpY?si=CrKiQZTF-IvjaGKZ)
+
+### 2024.09.09
+- 개발 관련 유튜브 시청
+  - [06. 어댑터(Adapter) Pattern](https://youtu.be/IAzLG_VMjxA?si=N85_Jdyyx-mrL7EK)
+  - [07. 브릿지(Bridge) Pattern](https://youtu.be/MioHH3An71s?si=taAvz6AIIyflDwMz)
