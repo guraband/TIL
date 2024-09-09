@@ -74,3 +74,6 @@
 - 개발 관련 유튜브 시청
   - [06. 어댑터(Adapter) Pattern](https://youtu.be/IAzLG_VMjxA?si=N85_Jdyyx-mrL7EK)
   - [07. 브릿지(Bridge) Pattern](https://youtu.be/MioHH3An71s?si=taAvz6AIIyflDwMz)
+- AWS DVA-C02 강의 학습
+  - 섹션 21: AWS 서버리스: Lambda
+    - 302강
