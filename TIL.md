@@ -167,3 +167,7 @@
         - 01\. 모델 개발 실습 1 - 테스트 케이스 생성
         - 02\. 모델 개발 실습 2 - Gemini, Claude API 셋업
         - 03\. 모델 개발 실습 3 - 모델 선정을 위한 비용 계산
+
+### 2024.09.20
+- 개발 관련 유튜브 시청
+  - [08. 팩토리 메서드(Factory Method) 패턴](https://youtu.be/5BGOLBTGfwU?si=EnH0NgOMxYoDVPDN)
