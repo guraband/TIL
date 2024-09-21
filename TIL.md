@@ -171,3 +171,11 @@
 ### 2024.09.20
 - 개발 관련 유튜브 시청
   - [08. 팩토리 메서드(Factory Method) 패턴](https://youtu.be/5BGOLBTGfwU?si=EnH0NgOMxYoDVPDN)
+
+### 2024.09.21
+- AWS DVA-C02 강의 학습
+  - 섹션 22: AWS 서버리스: DynamoDB
+    - 319~321강
+- 개발 관련 도서 읽음
+  - '컴퓨터 밑바닥의 비밀'
+    - 6장 1~2절
