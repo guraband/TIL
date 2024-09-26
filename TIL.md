@@ -205,3 +205,12 @@
     - Part 3. 프롬프트 엔지니어링 이론 및 실습
       - Ch 3. 온라인 실습 환경 준비
       - Ch 5. 프롬프트 엔지니어링에 대한 현실 및 제약
+
+### 2024.09.26
+- 개발 관련 유튜브 시청
+  - 얄팍한 코딩사전 > 객체지향 디자인 패턴 (OODP)
+    - [11. 플라이웨이트(Flyweight) 패턴](https://youtu.be/nNO3CV91OrI?si=ZPbxNIz4lR6L6DB9)
+    - [12. 추상 팩토리(Abstract Factory) 패턴](https://youtu.be/fPchU30nulI?si=Ix6Ufnp7HIORwsmg)
+    - [13. 중재자(Mediator) 패턴](https://youtu.be/8F1uK7m2TCs?si=1XNtlMWWCxCyybpN)
+    - [14. 방문자(Visitor) 패턴](https://youtu.be/JeLodqEiHEk?si=VKIwSgJrXaYV3WWP)
+    - [15. 빌더(Builder) 패턴](https://youtu.be/s-xY1QPCjF8?si=Q4MY1fARB141ZHxC)
