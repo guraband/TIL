@@ -214,3 +214,12 @@
     - [13. 중재자(Mediator) 패턴](https://youtu.be/8F1uK7m2TCs?si=1XNtlMWWCxCyybpN)
     - [14. 방문자(Visitor) 패턴](https://youtu.be/JeLodqEiHEk?si=VKIwSgJrXaYV3WWP)
     - [15. 빌더(Builder) 패턴](https://youtu.be/s-xY1QPCjF8?si=Q4MY1fARB141ZHxC)
+
+### 2024.09.27
+- 개발 관련 유튜브 시청
+  - 얄팍한 코딩사전 > 객체지향 디자인 패턴 (OODP)
+    - [16. 데코레이터(Decorator) 패턴](https://youtu.be/rydd7lwyi_Y?si=cLpz9rU2ISjudseS)
+    - [17. 커맨드(Command) 패턴](https://youtu.be/jURDlORR_q8?si=1byUa7oxXz8MYEdo)
+- AWS DVA-C02 강의 학습
+  - 섹션 22: AWS 서버리스: DynamoDB
+    - 327~330강
