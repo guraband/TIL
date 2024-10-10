@@ -65,3 +65,8 @@
 - 개발 관련 유튜브 시청
   - [22. 인터프리터 패턴](https://youtu.be/2_J6w9-LDXc?si=ctbyOyk_YnTWSBLx)
     - 어떤 것인지 감을 잡을 수는 있었지만 설예제르 봤을 땐 이걸 실제로 쓸 수 있을까? 하는 생각이 들었다. 단순한 예제로는 실제 업무에 적용할만한 내용을 설명하기가 어려웠을 것 같다.
+
+### 2024.10.10
+- 개발 관련 유튜브 시청
+  - [23. 발행-구독(Publisher-Subscriber) 패턴](https://youtu.be/V-AS7FkF_M8?si=xTu0y98kXAgSwlYs)
+  - [24. 반복자(Iterator) 패턴](https://youtu.be/e5SQIDbTZm0?si=UerTj7xXvnvFMq1r)
