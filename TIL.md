@@ -70,3 +70,8 @@
 - 개발 관련 유튜브 시청
   - [23. 발행-구독(Publisher-Subscriber) 패턴](https://youtu.be/V-AS7FkF_M8?si=xTu0y98kXAgSwlYs)
   - [24. 반복자(Iterator) 패턴](https://youtu.be/e5SQIDbTZm0?si=UerTj7xXvnvFMq1r)
+
+### 2024.10.11
+- 개발 관련 유튜브 시청
+  - [25. 명세(Specification) 패턴](https://youtu.be/IVNDu2gxaGo?si=WFcmpQeWgt4xJlB3)
+    - 디자인 패턴 시리즈의 마지막이었다. 이 유튜버는 이 강의를 완결한 것만으로도 참 대단한듯 하다. 명세 패턴은 조건을 덧붙여 나가는 식으로 확장과 조합이 가능한 패턴이었다. queryDSL의 조건문 같은 것이 연상되기도 했다. 이렇게 패턴이 많고 잘 쓰면 효율적일 것 같은데, 업무를 진행할 때 어떤 패턴이 적절할지 충분히 고민하고 검토할 여유가 있으면 좋을 것 같다.
