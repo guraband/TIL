@@ -127,3 +127,8 @@
       - Ch 3. 생성형 AI 발전 과정
       - Ch 4. OpenAI GPT & Microsoft GPT
         - 01\. OpenAI의 GPT와 마이크로소프트의 GPT 차이
+
+### 2024.10.18
+- 토이 프로젝트
+  - 대한항공 마일리지 좌석 조회 기능 개발
+    - 오랜만에 실행해보니 오류가 발생해서 크로미움 버전, User-Agent, UI에 변경된 selector(id)를 수정해서 실행되도록 했다.
