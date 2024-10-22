@@ -211,3 +211,18 @@
       - 02\. 벡터 데이터베이스 인덱스
       - 03\. Reranking
     - 이론 설명만 봐서는 잘 모르겠다. 실제 예제 파트를 들어봐야겠다.
+
+---
+
+## ✏️ 2024.10.22
+### 📚 AI/LLM 강의 학습
+- **패스트캠퍼스:** _9개 프로젝트로 완성하는 AI/LLM 서비스 개발: 프롬프트 엔지니어링부터 RAG까지_
+  - Part 7. RAG 기초 이론 & 실습
+    - Ch 7. RAG 구현시 고려사항
+    - Ch 8. RAG 간단한 실습
+  - Part 8. 실전 RAG
+    - Ch 1. 실습 환경 준비
+### 📖 개발 관련 도서 읽음
+  - '개발자인데요, 런던살아요'
+    - <img src="https://github.com/guraband/TIL/blob/main/images/london_developer.jpg?raw=true" width=300/>
+  - 구직 과정에 대한 이야기가 흥미로웠다.
