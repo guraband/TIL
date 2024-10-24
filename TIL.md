@@ -223,6 +223,20 @@
   - Part 8. 실전 RAG
     - Ch 1. 실습 환경 준비
 ### 📖 개발 관련 도서 읽음
-  - '개발자인데요, 런던살아요'
-    - <img src="https://github.com/guraband/TIL/blob/main/images/london_developer.jpg?raw=true" width=300/>
+- '개발자인데요, 런던살아요'
+  - <img src="https://github.com/guraband/TIL/blob/main/images/london_developer.jpg?raw=true" width=300/>
   - 구직 과정에 대한 이야기가 흥미로웠다.
+
+---
+
+## ✏️ 2024.10.23
+### 💻 gb2024
+- SSE 적용
+
+---
+
+## ✏️ 2024.10.24
+### 📚 카프카 강의 학습
+- **인프런 :** _[데브원영] 아파치 카프카 for beginners_
+  - 섹션1. 아파치 카프카 기초
+  - 사내 스터디에서 이번 주제를 카프카로 결정해서 일단 입문용으로 쉬워보이는 무료 강의를 들어보기로 했다. 설명이 쉽고 분량이 짧아서 들을만 했다.
