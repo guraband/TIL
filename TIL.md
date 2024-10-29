@@ -272,3 +272,12 @@
 - [늦은 나이에 개발자가 되려는 분들에게 드리는 의견](https://youtu.be/QewJpGXZGz4?si=LGCrkQvTdtKKOE7b)
 - [토스ㅣSLASH 24 - 보상 트랜잭션으로 분산 환경에서도 안전하게 환전하기](https://youtu.be/xpwRTu47fqY?si=rh28qXxnDzg31bPr)
   - 궁금했던 내용이었는데 설명과 예시가 쉬워서 이해가 잘 됐다. 업무에도 참고가 될 것 같다.
+
+---
+
+## ✏️ 2024.10.29
+### 🎥 개발 관련 유튜브 시청
+- [JVM? 이 책 한 권이면 끝남!](https://youtu.be/_23I6qDmCi4?si=8h4iDFX4wtIgkDTV)
+- [토스ㅣSLASH 24 - 토스뱅크가 차세대를 하지 않는 이유: 지속 가능한 마이그레이션 전략](https://youtu.be/LwH9h8dG3PQ?si=Eyfflaopzc_KkFOi)
+  - 모놀리식 서비스를 MSA 전환한 내용. 내용이 조금 어려웠지만 참고가 많이 될 것 같다.
+
