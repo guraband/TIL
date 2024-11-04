@@ -25,3 +25,11 @@
     - Ch 3. RAG 실습
       - 01\. RAG 실습 1 - 기본적인 RAG 방법론 소개
       - 02\. RAG 실습 2 - RAG에 활용할 데이터 확보
+
+---
+
+## ✏️ 2024.11.04
+### 🎥 개발 관련 유튜브 시청
+- [AGI 정의내려주는 OpenAI 수석 과학자, Ilya Sutskever](https://youtu.be/KhxSa1o-AcI?si=K9PrDOGObj5l_nNs)
+- [AI 뉴스 - 앤트로픽 컴퓨터 조종 AI, 구글 자비스, GPT-5 소식, 런웨이 Act-One, 일레븐랩스 보이스 디자인, 미드저니 이미지 편집기 등](https://youtu.be/3rJDecdueuk?si=gfht9m_IIFMtPs9j)
+- [마크다운(Markdown) 6분 순삭 정리 + 깃허브 리드미(ReadMe) 파일 작성 팁 ⭐️](https://www.youtube.com/watch?v=kMEb_BzyUqk)
