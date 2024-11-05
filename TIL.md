@@ -33,3 +33,13 @@
 - [AGI 정의내려주는 OpenAI 수석 과학자, Ilya Sutskever](https://youtu.be/KhxSa1o-AcI?si=K9PrDOGObj5l_nNs)
 - [AI 뉴스 - 앤트로픽 컴퓨터 조종 AI, 구글 자비스, GPT-5 소식, 런웨이 Act-One, 일레븐랩스 보이스 디자인, 미드저니 이미지 편집기 등](https://youtu.be/3rJDecdueuk?si=gfht9m_IIFMtPs9j)
 - [마크다운(Markdown) 6분 순삭 정리 + 깃허브 리드미(ReadMe) 파일 작성 팁 ⭐️](https://www.youtube.com/watch?v=kMEb_BzyUqk)
+
+---
+
+## ✏️ 2024.11.05
+### 📚 Kafka 강의 학습
+- **패스트캠퍼스:** _백엔드 개발자를 위한 한 번에 끝내는 대용량 데이터 & 트래픽 처리 초격차 패키지 Online._
+  - Part 4. 대용량 비동기 프로세스를 위한 Kafka 활용
+    - Ch 03. Java Application 에서 Kafka Application 구현
+      - 01\. 간단한 Java Application 으로 Producer, Consumer 구현해 보기
+      - 02\. 간단한 Spring Application 으로 Producer, Consumer 구현해 보기
