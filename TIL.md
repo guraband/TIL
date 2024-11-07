@@ -53,3 +53,10 @@
     - Ch 01~02 복습
       - local 환경에 kafka 설치 및 실습
       - cluster 구성 실습
+
+---
+
+## ✏️ 2024.11.07
+### 🎥 개발 관련 유튜브 시청
+- [EP02. #RAG 의 동작 과정 쉽게 이해하기! (실행단계)](https://youtu.be/Fxc2AzrxOP8?si=0vkAIrJ9QT0H-T7e)
+- [EP03. #PDF 문서 기반 QA #RAG 구축하기](https://youtu.be/Ga6kqHVKo9g?si=WRhWRBiyNFAyBAdu)
