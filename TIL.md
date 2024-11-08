@@ -61,3 +61,9 @@
 - [EP02. #RAG 의 동작 과정 쉽게 이해하기! (실행단계)](https://youtu.be/Fxc2AzrxOP8?si=0vkAIrJ9QT0H-T7e)
 - [EP03. #PDF 문서 기반 QA #RAG 구축하기](https://youtu.be/Ga6kqHVKo9g?si=WRhWRBiyNFAyBAdu)
 - [#llama3 출시🔥 로컬에서 Llama3-8B 모델 돌려보기👀](https://youtu.be/12CuUQIPdM4?si=XcK-C5AniJ2GZ8Zw)
+
+---
+
+## ✏️ 2024.11.08
+### 🎥 개발 관련 유튜브 시청
+- [카카오페이는 어떻게 수천만 결제를 처리할까? 우아한 결제 분산락 노하우 / if(kakaoAI)2024](https://youtu.be/4wGTavSyLxE?si=UuLRAX9k-7jLNztR)
