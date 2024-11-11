@@ -85,3 +85,11 @@
 - **패스트캠퍼스:** _9개 프로젝트로 완성하는 AI/LLM 서비스 개발: 프롬프트 엔지니어링부터 RAG까지_
   - Part 9. AI 고객센터
     - Ch 1. FAQ 자동생성(GPT3.5)
+
+---
+
+## ✏️ 2024.11.11
+### 🎥 개발 관련 유튜브 시청
+- [대용량 트래픽 아니면 안 보셔도 됩니다! 선물하기 서비스 캐싱 전략 / if(kakaoAI)2024](https://youtu.be/BUV4A2F9i7w?si=64nnIWu_GIclDYqa)
+- [카카오톡 펑 개발기 / if(kakaoAI)2024](https://youtu.be/8u13hn5NLQo?si=pFFNv6GfhrSg7KNL)
+
