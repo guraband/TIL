@@ -107,3 +107,13 @@
   - Part 4. 대용량 비동기 프로세스를 위한 Kafka 활용
     - Ch 04. 실무에서 Kafka 활용
     - Ch 05. Kafka 운영
+
+---
+
+## ✏️ 2024.11.14
+### 📚 Kafka 강의 학습
+- **패스트캠퍼스:** _백엔드 개발자를 위한 한 번에 끝내는 대용량 데이터 & 트래픽 처리 초격차 패키지 Online._
+  - Part 4. 대용량 비동기 프로세스를 위한 Kafka 활용
+    - Ch 06. Kafka 프로젝트 실습
+      - 01\. 실습 Application 설명 및 아키텍쳐
+      - 02\. Main Appliation(Producer) 구현하기
