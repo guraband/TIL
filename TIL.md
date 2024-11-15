@@ -117,3 +117,10 @@
     - Ch 06. Kafka 프로젝트 실습
       - 01\. 실습 Application 설명 및 아키텍쳐
       - 02\. Main Appliation(Producer) 구현하기
+
+---
+
+## ✏️ 2024.11.15
+### 🎥 개발 관련 유튜브 시청
+- [토스ㅣSLASH 23 - 토스는 Gateway 이렇게 씁니다](https://youtu.be/Zs3jVelp0L8?si=T3xYJNIS8osEFuzg)
+- [토스ㅣSLASH 23 - Kafka 이중화로 다양한 장애 상황 완벽 대처하기](https://youtu.be/Pzkioe7Dvo4?si=gezSM2lk4uUWalLy)
