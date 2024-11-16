@@ -124,3 +124,9 @@
 ### 🎥 개발 관련 유튜브 시청
 - [토스ㅣSLASH 23 - 토스는 Gateway 이렇게 씁니다](https://youtu.be/Zs3jVelp0L8?si=T3xYJNIS8osEFuzg)
 - [토스ㅣSLASH 23 - Kafka 이중화로 다양한 장애 상황 완벽 대처하기](https://youtu.be/Pzkioe7Dvo4?si=gezSM2lk4uUWalLy)
+
+---
+
+## ✏️ 2024.11.16
+### 🎥 개발 관련 유튜브 시청
+- [토스ㅣSLASH 23 - 실시간 시세 데이터 안전하고 빠르게 처리하기](https://youtu.be/SF7eqlL0mjw?si=MAwTZaVJ5-28Oy6p)
