@@ -130,3 +130,10 @@
 ## ✏️ 2024.11.16
 ### 🎥 개발 관련 유튜브 시청
 - [토스ㅣSLASH 23 - 실시간 시세 데이터 안전하고 빠르게 처리하기](https://youtu.be/SF7eqlL0mjw?si=MAwTZaVJ5-28Oy6p)
+
+---
+
+## ✏️ 2024.11.17
+### 🎥 개발 관련 유튜브 시청
+- [커서로 생산성 2배 뽑는 꿀팁 🍯](https://youtu.be/nJPsvCHM0dQ?si=CaEJ8-KXPBqXM-PC)
+- 커서는 조만간 꼭 사용해봐야겠다.
