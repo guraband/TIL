@@ -188,3 +188,10 @@
   - Project 5. 블랙프라이데이 (EDA/분산처리)
     - Ch 2. EDA(Event Driven Architecture)의 소개
     - Ch2도 이론적인 내용이었다. 직전에 들었던 Kafka 강의보다는 괜찮았다. Ch3부터 실습이라고 하니 기대해봐야지.
+
+---
+
+## ✏️ 2024.11.23
+### SpringBatch 학습
+- 회사에서 SpringBatch로 작업하던 중 partition의 갯수가 늘어나면 실행이 안되는 문제가 발견되어 주말에 집에서 관련 내용을 살펴봤다. 원인은 허무하게도 DB pool size의 문제였지만, 원인을 파악하는 과정에서 SpringBatch에 대해 보다 깊게 알아볼 수 있어서 수확은 있었다.
+ 
