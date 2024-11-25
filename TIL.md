@@ -200,3 +200,20 @@
 ## ✏️ 2024.11.24
 ### 💻 cursor AI 테스트
 - cursor AI를 설치하고 gb2024에 사용할 이미지 리사이즈 프로그램을 만들게 해봤다. 채팅 방식의 LLM으로 프로그래밍에 도움을 받는 것은 이제 익숙하지만, 채팅창이 IDE 안에 통합되어 파일 수정까지 처리되는 것은 무척 편했다. 오류에 대한 피드백도 충분히 쓸만했다. 잘 이용하면 큰 도움이 될 것 같다.
+
+
+---
+
+## ✏️ 2024.11.25
+### 💻 SpringBatch 학습
+- Spring Batch의 병목 현상과 관련하여 지난 23일에 확인한 DB pool size 제한을 수정했는데도 속도가 생각만큼 나오지 않아서
+계속해서 알아보다가 아래의 문서를 찾게 되었다.
+  - [Feign 코드 분석과 서버 성능 개선](https://toss.tech/article/engineering-note-3)
+  - 바로 외부 API를 호출할 때 Feign을 사용하고 있는데 Feign이 사용하는 HttpClient가 static으로 선언된 자원을 
+  synchronized로 사용하려고 하니 병목이 생기는 것이었다. 위 문서 본문에 언급된대로 이 문제가 해결된 HttpClient5를 추가하니
+  원하는 만큼의 속도가 나왔다.
+### 🎥 개발 관련 유튜브 시청
+- [Visual Studio Code를 무료로 인공 지능 코드 편집기 Cursor처럼 사용하기](https://www.youtube.com/watch?v=OO108OT6QlU&ab_channel=CaNTips)
+  - VS code를 Cursor AI와 비슷하게 쓸 수 있게 도와주는 플러그인에 대한 소개 영상. 결과가 훌륭한 편은 아닌 것 같았다.
+
+
