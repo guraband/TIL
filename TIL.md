@@ -201,7 +201,6 @@
 ### 💻 cursor AI 테스트
 - cursor AI를 설치하고 gb2024에 사용할 이미지 리사이즈 프로그램을 만들게 해봤다. 채팅 방식의 LLM으로 프로그래밍에 도움을 받는 것은 이제 익숙하지만, 채팅창이 IDE 안에 통합되어 파일 수정까지 처리되는 것은 무척 편했다. 오류에 대한 피드백도 충분히 쓸만했다. 잘 이용하면 큰 도움이 될 것 같다.
 
-
 ---
 
 ## ✏️ 2024.11.25
@@ -215,5 +214,16 @@
 ### 🎥 개발 관련 유튜브 시청
 - [Visual Studio Code를 무료로 인공 지능 코드 편집기 Cursor처럼 사용하기](https://www.youtube.com/watch?v=OO108OT6QlU&ab_channel=CaNTips)
   - VS code를 Cursor AI와 비슷하게 쓸 수 있게 도와주는 플러그인에 대한 소개 영상. 결과가 훌륭한 편은 아닌 것 같았다.
+
+---
+
+## ✏️ 2024.11.26
+### python 재설치
+- m1 맥북에어 출시 초기에는 Apple m1을 제대로 지원하는 python가 없어서 설치가 쉽지 않았다.
+그 때 설치했던 python과 그 이후로 설치한 homebrew python, 그리고 conda를 설치하며 같이 설치된 python
+그리고 pyenv, venv로 설치한 것들 등등, 버전이 너무 많아서 언젠가 한 번 정리해야겠다고 생각하던 것을 오늘 실행했다.
+- 삭제와 설치는 아래 블로그를 참고했다.
+  - [[Python] Uninstall and Reinstall Python On Mac](https://www.jumptovb.net/entry/Python-Uninstall-Python-On-Mac)
+
 
 
