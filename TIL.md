@@ -225,5 +225,13 @@
 - 삭제와 설치는 아래 블로그를 참고했다.
   - [[Python] Uninstall and Reinstall Python On Mac](https://www.jumptovb.net/entry/Python-Uninstall-Python-On-Mac)
 
+---
 
+## ✏️ 2024.11.27
+### 📚 AI/LLM 강의 학습
+- **패스트캠퍼스:** _9개 프로젝트로 완성하는 AI/LLM 서비스 개발: 프롬프트 엔지니어링부터 RAG까지_
+  - Part 9. AI 고객센터
+    - Ch 2. FAQ 자동생성(GPT4 Vision)
+  - gpt-4o-mini에게 이미지를 전달해서 FAQ를 만들어달라고 하니 잘 만들어줬다. chatGPT.com의 무료 채팅에서도 이미지 첨부가 가능해서 테스트 해볼 수 있었다.
+  아직 vector db를 사용한 진짜 내용은 나오지 않았다. 다음 챕터에서 나올 것 같다.
 
