@@ -159,3 +159,10 @@
     - Ch 4. 벡터 검색 구현하기 따라하기
       - 03\. PyPDF 기반 PDF 문서 파싱
       - 04\. LangChain Splitter 문서 쪼개기
+
+---
+
+## ✏️ 2024.12.17
+### 🎥 개발 관련 유튜브 시청
+- [n8n self-hosting (셀프호스팅) 가장 쉽게 설치하기.](https://youtu.be/7G9KX2uA8H8?si=fKfQ3zjSc9FUm6w0)
+- [코딩없이 GPTs와 n8n만으로 AI 비서 24시간 부려먹기. 이제 여러분은 직장의 신이 됩니다.](https://youtu.be/n34gMNovWks?si=yYjSfs3nj_CXtYqK)
