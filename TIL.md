@@ -166,3 +166,12 @@
 ### 🎥 개발 관련 유튜브 시청
 - [n8n self-hosting (셀프호스팅) 가장 쉽게 설치하기.](https://youtu.be/7G9KX2uA8H8?si=fKfQ3zjSc9FUm6w0)
 - [코딩없이 GPTs와 n8n만으로 AI 비서 24시간 부려먹기. 이제 여러분은 직장의 신이 됩니다.](https://youtu.be/n34gMNovWks?si=yYjSfs3nj_CXtYqK)
+
+---
+
+## ✏️ 2024.12.18
+### 🎥 EDA 강의 학습
+- **패스트캠퍼스:** _9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online._
+  - Project 5. 블랙프라이데이 (EDA/분산처리)
+    - Ch 4. 기반 기술 학습(Kafka, Cassandra)
+      - 01\. 메시지 브로커란
