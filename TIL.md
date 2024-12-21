@@ -214,4 +214,6 @@
     - Ch 6. 온프레미스 RAG 구현하기
       - 04\. SBERT 임베딩 로직 구현하기
         - 예제가 적어서 판단하기에는 이르지만, sbert에서 제공하는 모델로 실행한 결과는 openai api를 사용한 것보다 좋지 않은 것 같다.
-        
+      - 05\. Huggingface sLLM 사용하기
+      - 06\. Huggingface Transformers 라이브러리 설명
+      - 07\. sLLM을 활용한 문장 생성
