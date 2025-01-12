@@ -107,3 +107,10 @@
     - Ch 7. Event를 이용한 리팩토링
       - 02\. Kafka를 이용한 카탈로그 변경 이벤트의 발행과 적용
         - 로컬에서 kafka 클러스터와 cassandra, mariadb, redis 등을 모두 올려서 그런지 한 번에 제대로 실행되질 않는다. ㅠㅠ, Docker 설정도 쉽지 않네.
+
+---
+
+## ✏️ 2025.01.13
+### 🎥 개발 관련 유튜브 시청
+- [새해 시작은 NO코드 #RAG #Agent #Workflow 구축해보기!](https://youtu.be/OTsf94r_BkQ?si=-f7Jx__X_SfqG4GH)
+  - 이 사람의 예전 RAG 강의는 무척 괜찮았는데 이번 영상은 그냥 그랬다.
