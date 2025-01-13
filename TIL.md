@@ -114,3 +114,10 @@
 ### 🎥 개발 관련 유튜브 시청
 - [새해 시작은 NO코드 #RAG #Agent #Workflow 구축해보기!](https://youtu.be/OTsf94r_BkQ?si=-f7Jx__X_SfqG4GH)
   - 이 사람의 예전 RAG 강의는 무척 괜찮았는데 이번 영상은 그냥 그랬다.
+
+---
+
+## ✏️ 2025.01.14
+### 🎥 개발 관련 유튜브 시청
+- [평생 공짜! 내 PC에 챗GPT 비슷한 인공지능 LLM 설치 방법 | Msty](https://youtu.be/WhuyVpiHIcU?si=9BT9wFh8xCPdR7oC)
+  - 이건 설치가 매우 쉬워보였다. 다만 로컬 PC의 사양이 좋아야하고 속도나 결과물 품질면에서는 상용 LLM을 대체하지는 못할 것 같다.
