@@ -132,4 +132,9 @@
         - 로컬에서 docker로 kafka, cassandra, 웹 서비스들 구동 완료.
           - mariadb와 redis는 기존 local에서 사용중인 것을 사용
           - cassandra는 클러스터 유지가 잘 안되어 단일노드로 실행함
-
+### 💻 토이 프로젝트
+- **회사 서비스용 FAQ 챗봇 제작**
+  - Spring AI + ClickHouse + OpenAI API를 사용해서 기본 로직을 구현했다.
+  Spring AI는 처음 써보는 것이었지만 Cursor와 Copilot의 도움을 받아서 그럭저럭 구현할 수 있었다.
+  VectorDB로는 회사에서 사용하는 DB 중 Vector 타입을 지원하는 DB가 ClickHouse여서 이걸 사용해봤는데
+  속도는 좀 더 테스트 해봐야겠지만 결과는 (당연하게도) FAISS나 postgreSQL와 비슷했다.
