@@ -138,3 +138,11 @@
   Spring AI는 처음 써보는 것이었지만 Cursor와 Copilot의 도움을 받아서 그럭저럭 구현할 수 있었다.
   VectorDB로는 회사에서 사용하는 DB 중 Vector 타입을 지원하는 DB가 ClickHouse여서 이걸 사용해봤는데
   속도는 좀 더 테스트 해봐야겠지만 결과는 (당연하게도) FAISS나 postgreSQL와 비슷했다.
+
+---
+
+## ✏️ 2025.01.16
+### 💻 토이 프로젝트
+- MongoDB cloud 계정 생성 (atlas free tier)
+  - Vertor embedding이나 NoSQL 테스트용으로 생성
+  - 로컬 지원을 절약하기 위해 무료 cloud 저장소를 선택했다.
