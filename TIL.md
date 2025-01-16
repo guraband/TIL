@@ -146,3 +146,6 @@
 - MongoDB cloud 계정 생성 (atlas free tier)
   - Vertor embedding이나 NoSQL 테스트용으로 생성
   - 로컬 지원을 절약하기 위해 무료 cloud 저장소를 선택했다.
+- **회사 서비스용 FAQ 챗봇 제작**
+  - 임베딩과 대화 생성 API를 OpenAI에서 Google의 genai로 변경해서 테스트 해봤는데 결과물이 좋지 않았다. 
+  OpenAI를 사용해야할 것 같다.
