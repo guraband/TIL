@@ -36,3 +36,12 @@
     - Ch 2. Mockk Mock 프레임웍
       - 01\. Mock 객체 생성하기
       - EDA 강의의 test code가 java 기반이어서 kotlin 기반의 테스트 방법을 알아보기 위해 이 강의를 들었다.
+
+---
+
+## ✏️ 2025.02.05
+- ollama + deepseek r1 로컬 세팅
+  - 참고 영상 : [내 PC에서 로컬로 딥시크 (deep seek) 구동하기](https://youtu.be/ZCtSgKZ3shM?si=HJxOVEEwAHqf8zQf)
+  - 설치라고 할 것도 없이 ollama를 다운로드 하고 deepseek 모델을 실행하면 끝이었다.
+  여기에 docker로 openweb UI를 실행하니 ChatGPT와 비슷한 인터페이스로 사용할 수 있었다.
+  - 모델은 7b(4.7G)을 사용했고 영어로는 제법 괜찮았고 한글 질문도 인식은 잘하는 편이었으나 답변이 영어로 나오거나 알 수 없는 문자로 나왔다.
