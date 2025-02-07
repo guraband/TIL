@@ -64,3 +64,6 @@
   - 부록: Kotlin 테스트 프레임워크로 테스트 하기
     - Ch 1. Kotest 테스트 프레임웍
       - 02\. Kotest Testing Style
+### 🎥 개발 관련 유튜브 시청
+- [딥시크, 파인튜닝 해보기 (deep seek-r1, fine tuning)](https://youtu.be/zSMjJU6m6-Y?si=Ro2aMly9JDv7pmmZ)
+  - 실습은 하지 않았고 영상만 봤다. 시간내서 한 번 따라해봐야겠다.
