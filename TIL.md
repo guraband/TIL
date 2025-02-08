@@ -67,3 +67,15 @@
 ### 🎥 개발 관련 유튜브 시청
 - [딥시크, 파인튜닝 해보기 (deep seek-r1, fine tuning)](https://youtu.be/zSMjJU6m6-Y?si=Ro2aMly9JDv7pmmZ)
   - 실습은 하지 않았고 영상만 봤다. 시간내서 한 번 따라해봐야겠다.
+
+---
+
+## ✏️ 2025.02.08
+### 💻 토이 프로젝트
+- **Whisper로 STT 구현**
+  - OpenAI의 whisper를 사용해서 STT를 구현해봤다.
+  - whisper의 모델은 용량과 인식률을 고려해서 small을 사용했다.
+    - whisper를 Apple silicon(M1, M2 등)에 최적화한 Lightning Whisper MLX도 적용해봤다. 속도가 두 배 정도 빨랐다.
+      - [Lightning Whisper MLX](https://github.com/mustafaaljadery/lightning-whisper-mlx)
+  - client는 html + js, server는 python의 FastApi를 사용했다.
+  - 대부분의 개발은 Visual Studio Code에 Github Copilot을 사용해서 만들었다. UI와 기능이 Cursor AI와 많이 비슷해진 것 같다.
