@@ -79,3 +79,14 @@
       - [Lightning Whisper MLX](https://github.com/mustafaaljadery/lightning-whisper-mlx)
   - client는 html + js, server는 python의 FastApi를 사용했다.
   - 대부분의 개발은 Visual Studio Code에 Github Copilot을 사용해서 만들었다. UI와 기능이 Cursor AI와 많이 비슷해진 것 같다.
+
+---
+
+## ✏️ 2025.02.09
+### 🎥 TDD 강의 학습
+- **패스트캠퍼스:** _Spring 환경에 바로 적용하는 테스트의 모든 것 초격차 패키지 Online_
+  - 부록: Kotlin 테스트 프레임워크로 테스트 하기
+    - Ch 1. Kotest 테스트 프레임웍
+      - 03\. Assertion_1
+      - 04\. Data Driven Testing
+      - 05\. Coroutine Test
