@@ -90,3 +90,13 @@
       - 03\. Assertion_1
       - 04\. Data Driven Testing
       - 05\. Coroutine Test
+
+---
+
+## ✏️ 2025.02.10
+### 🎥 EDA 강의 학습
+- **패스트캠퍼스:** _9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online._
+  - Project 5. 블랙프라이데이 (EDA/분산처리)
+    - Ch 8. 테스트 전략과 테스트 코드 작성
+      - 02\. Junit과 Mockito를 이용해 테스트 코드 작성
+        - Kotlin test로 잘 안되어 일단 강의 내용대로 Java로 test 해봄
