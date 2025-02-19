@@ -179,3 +179,11 @@
 - 리사이즈 처리 개선
   - gif 처리 오류 수정
   - 속도가 느리다. warm up 처리를 추가하고 resizer.py를 lambda layer로 옮겨봐야겠다.
+
+---
+## ✏️ 2025.02.19
+### 💻 gb2024
+- 리사이즈 처리 개선
+  - aws lambda cold start 방지 처리
+    - 메모리 증설로 CPU 처리 속도 증가 시킴 : 128M -> 256M
+    - EventBridge로 5분마다 호출하도록 설정
