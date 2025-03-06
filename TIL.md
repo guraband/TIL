@@ -45,3 +45,18 @@
 ## ✏️ 2025.03.05
 ### 🎥 개발 관련 유튜브 시청
 - [당근 추천 알고리즘 - 홈피드 후보모델 파헤치기](https://youtu.be/qYo0R2nv1PQ?si=dJ0Q5CT-0jrEtwet)
+
+---
+
+## ✏️ 2025.03.05
+### 🎥 개발 관련 유튜브 시청
+- [당근 추천 알고리즘 - 홈피드 후보모델 파헤치기](https://youtu.be/qYo0R2nv1PQ?si=dJ0Q5CT-0jrEtwet)
+### Flutter 학습
+  - flutter SDK 설치
+  - xcode > iphone 시뮬레이터 설치
+  - CocoaPod 설치
+  - 안드로이드 스튜디오 설치
+  - 예제 소스 다운로드
+      - https://github.com/codefactory-co/flutter-golden-rabbit-novice-v3.git
+      - 예제 파일 실행
+          - 첫 실행이라 그런지 iOS, android 에뮬레이터 실행하는데 오래 걸림
