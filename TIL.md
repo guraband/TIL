@@ -60,3 +60,9 @@
       - https://github.com/codefactory-co/flutter-golden-rabbit-novice-v3.git
       - 예제 파일 실행
           - 첫 실행이라 그런지 iOS, android 에뮬레이터 실행하는데 오래 걸림
+
+---
+
+## ✏️ 2025.03.06
+### 🎥 개발 관련 유튜브 시청
+- [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁 (김남윤, Yun)](https://youtu.be/VSwWHHkdQI4?si=G8f11yjt7CnZDavp)
