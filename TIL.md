@@ -48,7 +48,7 @@
 
 ---
 
-## ✏️ 2025.03.05
+## ✏️ 2025.03.06
 ### 🎥 개발 관련 유튜브 시청
 - [당근 추천 알고리즘 - 홈피드 후보모델 파헤치기](https://youtu.be/qYo0R2nv1PQ?si=dJ0Q5CT-0jrEtwet)
 ### Flutter 학습
@@ -63,6 +63,16 @@
 
 ---
 
-## ✏️ 2025.03.06
+## ✏️ 2025.03.07
 ### 🎥 개발 관련 유튜브 시청
 - [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁 (김남윤, Yun)](https://youtu.be/VSwWHHkdQI4?si=G8f11yjt7CnZDavp)
+
+---
+
+## ✏️ 2025.03.08
+### 🎥 개발 관련 유튜브 시청
+- [Deepseek+Exaone+Docling으로 오픈소스 Reasoning RAG 구축하기](https://youtu.be/4j6J-9hxfhk?si=cRXbqfa02QJGf_b1)
+  - 중요한 내용은 본인의 유료 강의를 들으라는 내용이라서 아쉬웠다.
+  - 여기서 소개된 문서 처리 라이브러리인 Docling은 한 번 써보고 싶다.
+- [MySQL - 7.1 문자열 인코딩](MySQL - 7.1 문자열 인코딩)
+
