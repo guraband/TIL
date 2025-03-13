@@ -117,3 +117,12 @@
 ### 🎥 개발 관련 유튜브 시청
 - [파이썬으로 AI Agent 만들기 (프레임워크 X)](https://youtu.be/3wk45Ow3m3M?si=wPEuoUeNDBPib5Lr)
   - 프레임워크 없이 api 호출로 다섯가지의 agent 사용 패턴 예제를 설명해주는 강의. 세번째까지 들었는데 설명도 쉽고 내용도 복잡하지 않아서 좋았다.
+
+---
+
+## ✏️ 2025.03.13
+### 🎥 개발 관련 유튜브 시청
+- [랭체인 이해하기](https://youtu.be/m8tIOcMcwno?si=pMhGyjwcyKLwGgaS)
+  - 짧으면서도 내용이 알찬 강의였다.
+### Flutter 학습
+- 기초 문법 학습
