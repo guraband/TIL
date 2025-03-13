@@ -126,3 +126,5 @@
   - 짧으면서도 내용이 알찬 강의였다.
 ### Flutter 학습
 - 기초 문법 학습
+### LLM 테스트
+- claude, gemini vision 기능 테스트
