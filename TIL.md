@@ -128,3 +128,9 @@
 - 기초 문법 학습
 ### LLM 테스트
 - claude, gemini vision 기능 테스트
+
+---
+
+## ✏️ 2025.03.14
+### 🎥 개발 관련 유튜브 시청
+- [기본 챗봇은 이제 그만! Fine-Tuning으로 고급 챗봇 만들기!](https://youtu.be/30kCJVIrjzo?si=43ttozpbun3AabVW)
