@@ -134,3 +134,11 @@
 ## ✏️ 2025.03.14
 ### 🎥 개발 관련 유튜브 시청
 - [기본 챗봇은 이제 그만! Fine-Tuning으로 고급 챗봇 만들기!](https://youtu.be/30kCJVIrjzo?si=43ttozpbun3AabVW)
+  - 제목과 달리 파인 튜닝에 대한 내용은 없었고 RAG 예제였다. -_-
+
+---
+
+## ✏️ 2025.03.08
+### 💻 gb2024
+- gemini vision 기능으로 첨부 이미지들의 description과 hashtag 생성 구현
+  - python으로 만들어서 aws ec2에서 crontab으로 돌리려는데, 오랜만에 python의 버전을 업데이트 하려니 오류가 많이 발생해서 힘들었다. ec2를 오랫동안 사용하며 os에 설정 오류들이 누적되었던 것 같다.
