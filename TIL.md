@@ -150,4 +150,11 @@
 - **LLM 토론 시뮬레이션**
   - LLM들이 서로 대화를 주고 받으며 토론을 하는 기능을 구현
   - Cursor AI에게 시켰다.
-  - Perplexity(Sonar AI)로 추가함.
+  - Perplexity(Sonar API)도 추가함.
+
+---
+
+## ✏️ 2025.03.17
+### 💻 gb2024
+- **이미지 설명 데이터 임베딩**
+  - image들의 decription 정보를 embedding하여 mongoDB에 저장하는 기능 구현
