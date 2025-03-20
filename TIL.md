@@ -174,3 +174,11 @@
 - **나무위키 실검 크롤러**
   - Chromium headless 모드 적용
   - aws ec2 실행 버전 생성
+    - aarch64용 chromium이 없는 것 같아서 firefox로 해봤는데 CloudFlare에서 봇으로 탐지해서 차단한다. ㅠㅠ
+
+---
+
+## ✏️ 2025.03.20
+### 🎥 개발 관련 유튜브 시청
+- [토스ㅣSLASH 23 - 실시간 시세 데이터 안전하고 빠르게 처리하기](https://youtu.be/SF7eqlL0mjw?si=ifPkuiUpwCQdNdWX)
+- [돈 안 들이고 AI 활용하기:무료 LLM 잼마3 사용법! 허깅페이스, Ollama, WebUI 총정리, 무료 LLM Gemma3, gemini, gpt apikey무료 사용](https://youtu.be/HSJYmCF9iRM?si=hek0Hr7oU1cx36vH)
