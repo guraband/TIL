@@ -182,3 +182,10 @@
 ### 🎥 개발 관련 유튜브 시청
 - [토스ㅣSLASH 23 - 실시간 시세 데이터 안전하고 빠르게 처리하기](https://youtu.be/SF7eqlL0mjw?si=ifPkuiUpwCQdNdWX)
 - [돈 안 들이고 AI 활용하기:무료 LLM 잼마3 사용법! 허깅페이스, Ollama, WebUI 총정리, 무료 LLM Gemma3, gemini, gpt apikey무료 사용](https://youtu.be/HSJYmCF9iRM?si=hek0Hr7oU1cx36vH)
+
+---
+
+## ✏️ 2025.03.21
+### 🎥 개발 관련 유튜브 시청
+- [프라이빗 AI를 위한 오픈소스 LLM: 증류모델과 양자화는 필수! [세미남588@토크아이티, 윤성열 대표 / 드림플로우]](https://youtu.be/GnQ7uIPuRFM?si=I4S9g0ZfeSaAZqaJ)
+- [[1분 컷] 구글 Gemini 데이터 시각화, 클로드는 이제 끝났다! (무료)](https://youtu.be/8wMXYFOaji0?si=kn5KGYHXzEmnZl-7)
