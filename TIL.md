@@ -229,3 +229,11 @@
       - 02\. 모델 개발 실습 2 - Gemini, Claude API 셋업
       - 03\. 모델 개발 실습 3 - 모델 선정을 위한 비용 계산
       - 04\. 모델 개발 실습 4 - 평가 기준 설정
+
+---
+
+## ✏️ 2025.03.25
+### 🎥 개발 관련 유튜브 시청
+- [[Data] Batch Performance 극한으로 끌어올리기: 1억 건 데이터 처리를 위한 노력 / if(kakao)dev2022](https://youtu.be/2IIwQDIi3ys?si=JMhKpYnu1LZESFe_)
+  - 배치 관련 발표에 반복적으로 나오는 방법들이었지만 내용이 괜찮았다.
+- [이제는 학습하는 방법도 바뀌고 있습니다 (NotebookLM, 마인드맵 기능)](https://youtu.be/DR_3RK99Xyc?si=GUarWjWbYam41Tph)
