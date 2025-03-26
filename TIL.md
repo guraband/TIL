@@ -237,3 +237,12 @@
 - [[Data] Batch Performance 극한으로 끌어올리기: 1억 건 데이터 처리를 위한 노력 / if(kakao)dev2022](https://youtu.be/2IIwQDIi3ys?si=JMhKpYnu1LZESFe_)
   - 배치 관련 발표에 반복적으로 나오는 방법들이었지만 내용이 괜찮았다.
 - [이제는 학습하는 방법도 바뀌고 있습니다 (NotebookLM, 마인드맵 기능)](https://youtu.be/DR_3RK99Xyc?si=GUarWjWbYam41Tph)
+
+---
+
+## ✏️ 2025.03.26
+### 📚 AI/LLM 강의 학습
+- **패스트캠퍼스:** _9개 프로젝트로 완성하는 AI/LLM 서비스 개발: 프롬프트 엔지니어링부터 RAG까지_
+  - Part 5. 카카오 대화 요약
+    - Ch 4. 모델 개발 실습
+      - 05\. 모델 개발 실습 5 - Baseline 모델 개발
