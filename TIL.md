@@ -246,3 +246,10 @@
   - Part 5. 카카오 대화 요약
     - Ch 4. 모델 개발 실습
       - 05\. 모델 개발 실습 5 - Baseline 모델 개발
+
+---
+
+## ✏️ 2025.03.27
+### 🎥 개발 관련 유튜브 시청
+- [한 달 동안 만든 서비스, 일 년 반 만에 전국 오픈하기 | 당근 SERVER 밋업 2회](https://youtu.be/heA_-vpZsWo?si=h2Ev1SEnJyTErRYf)
+- [🔥 바이브 코딩 시대! AI 도구 활용법, MCP 찍먹 정리](https://youtu.be/uRsEU0Nc7NQ?si=UCiscZRcViHpHJAy)
