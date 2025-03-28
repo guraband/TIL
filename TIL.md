@@ -253,3 +253,13 @@
 ### 🎥 개발 관련 유튜브 시청
 - [한 달 동안 만든 서비스, 일 년 반 만에 전국 오픈하기 | 당근 SERVER 밋업 2회](https://youtu.be/heA_-vpZsWo?si=h2Ev1SEnJyTErRYf)
 - [🔥 바이브 코딩 시대! AI 도구 활용법, MCP 찍먹 정리](https://youtu.be/uRsEU0Nc7NQ?si=UCiscZRcViHpHJAy)
+
+
+---
+
+## ✏️ 2025.03.28
+### 🎥 개발 관련 유튜브 시청
+- [면접관이 물었다. 만일 스택이 매우 커질 수 있다면 힙은 불필요할까?](https://youtu.be/9TSojdIr8Q0?si=1IB9zbSzY7X9p6OL)
+  - 힙과 스택에 대한 이야기. 유익한 내용이었다.
+- [요즘 개발자 특징 | 더이상 코딩 배우지 마세요| 바이브 코딩](https://youtu.be/AYaQ85gPaV0?si=bQNQdtNIzfR5yWXl)
+
