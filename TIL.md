@@ -281,3 +281,10 @@
   - Part 1. 소프트웨어 테스트 전략과 도구 이해하기
     - Ch 4. 테스트 프레임워크 활용법 탐구하기
       - 03\. Mockito- 모킹, 스파이, 검증 등 기본 사용법 이론
+
+---
+
+## ✏️ 2025.03.30
+### 🎥 개발 관련 유튜브 시청
+- [Ollama 활용 로컬 RAG: 올라마 임베딩 모델의 한국어 성능, Semantic Chunking 적용, 구글 Gemma2, 알리 Qwen 2.5 활용 (LangChain)](https://youtu.be/GsZ9w04smVE?si=EjIQHxqQ8Vs9cDbK)
+- [딥시크 vs 라마, 로컬 RAG 성능 비교 !](https://youtu.be/Liz_RosOj8g?si=QOr_h1POKUIuIkSs)
