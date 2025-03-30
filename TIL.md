@@ -288,3 +288,10 @@
 ### 🎥 개발 관련 유튜브 시청
 - [Ollama 활용 로컬 RAG: 올라마 임베딩 모델의 한국어 성능, Semantic Chunking 적용, 구글 Gemma2, 알리 Qwen 2.5 활용 (LangChain)](https://youtu.be/GsZ9w04smVE?si=EjIQHxqQ8Vs9cDbK)
 - [딥시크 vs 라마, 로컬 RAG 성능 비교 !](https://youtu.be/Liz_RosOj8g?si=QOr_h1POKUIuIkSs)
+### 🎥 대용량 데이터 처리 학습
+- **패스트캠퍼스:** _9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online._
+  - Project 4. 최저가 서비스와 상품 추천 서비스
+    - Ch01. 이커머스 비즈니스의 이해
+      - 02\. 이커머스의 데이터, 트래픽 특징 1
+      - 02\. 이커머스의 데이터, 트래픽 특징 2
+      - 03\. 이커머스의 Key value 비즈니스
