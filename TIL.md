@@ -295,3 +295,11 @@
       - 02\. 이커머스의 데이터, 트래픽 특징 1
       - 02\. 이커머스의 데이터, 트래픽 특징 2
       - 03\. 이커머스의 Key value 비즈니스
+
+---
+
+## ✏️ 2025.03.31
+### 🎥 개발 관련 유튜브 시청
+- [토스ㅣSLASH 24 - 기반 데이터가 부족해도 OK! 커머스 추천 시스템 제작기](https://youtu.be/LAD6LYnkPsA?si=tmF8IgmR0p9LM31L)
+- [LoRA 개념을 쉽게 설명해드립니다 (생성형 AI, LLM, 딥러닝)](https://youtu.be/0lf3CUlUQtA?si=gm9ggxVK59ukdmoO)
+- [🔥 Cursor AI 말고, 나만의 #MCP 에이전트 앱 만들어 보기! 🔥](https://youtu.be/ISrYHGg2C2c?si=RxoOXELygCTC3ot4)
