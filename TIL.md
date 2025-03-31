@@ -295,6 +295,9 @@
       - 02\. 이커머스의 데이터, 트래픽 특징 1
       - 02\. 이커머스의 데이터, 트래픽 특징 2
       - 03\. 이커머스의 Key value 비즈니스
+### 💻 gb2024
+- OS 변경을 위해 ec2 신규 생성 후 이전
+  - amazon linux2 -> amazon linux 2023
 
 ---
 
@@ -303,3 +306,9 @@
 - [토스ㅣSLASH 24 - 기반 데이터가 부족해도 OK! 커머스 추천 시스템 제작기](https://youtu.be/LAD6LYnkPsA?si=tmF8IgmR0p9LM31L)
 - [LoRA 개념을 쉽게 설명해드립니다 (생성형 AI, LLM, 딥러닝)](https://youtu.be/0lf3CUlUQtA?si=gm9ggxVK59ukdmoO)
 - [🔥 Cursor AI 말고, 나만의 #MCP 에이전트 앱 만들어 보기! 🔥](https://youtu.be/ISrYHGg2C2c?si=RxoOXELygCTC3ot4)
+### 🎥 대용량 데이터 처리 학습
+- **패스트캠퍼스:** _9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online._
+  - Project 4. 최저가 서비스와 상품 추천 서비스
+    - Ch01. 이커머스 비즈니스의 이해
+      - 04\. 이커머스내 구현되는 B/E 서비스 타입
+      - 05\. 현업 이커머스 개발담당자 시각에서 본 Redis, Kafka Use case
