@@ -30,3 +30,12 @@
   - Project 4. 최저가 서비스와 상품 추천 서비스
     - Ch03. Redis의 기본개념
       - 01. redis 기본 설명 (개념, 장점, 단점, 목적). Redis 활용 서비스 설계
+
+---
+
+## ✏️ 2025.04.04
+### 🎥 개발 관련 유튜브 시청
+- [6000:1 뚫고, GitHub Copilot 리더가 된 한국인 | GitHub Klaire Baek](https://youtu.be/ZFWCcA7AoMQ?si=7QXCsVhQDDlo_v-Q)
+  - 조직 리더로서 팀원들을 어떻게 대해야 하는지에 대한 귀감을 얻었다. 나중에 직책을 맡게 되면 다시 한 번 봐야겠다.
+- [토스ㅣSLASH 22 - 왜 은행은 무한스크롤이 안되나요](https://youtu.be/v9rcKpUZw4o?si=lFMUPQcFmEWCiMSp)
+
