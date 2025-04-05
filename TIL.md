@@ -29,7 +29,7 @@
 - **패스트캠퍼스:** _9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online._
   - Project 4. 최저가 서비스와 상품 추천 서비스
     - Ch03. Redis의 기본개념
-      - 01. redis 기본 설명 (개념, 장점, 단점, 목적). Redis 활용 서비스 설계
+      - 01\. redis 기본 설명 (개념, 장점, 단점, 목적). Redis 활용 서비스 설계
 
 ---
 
@@ -48,4 +48,9 @@
   - <img src="https://github.com/guraband/TIL/blob/main/images/wooah_ai.jpg?raw=true" width=300/>
   - chatper 2~4 읽음
     - 책 초반이라 그런지 내용이 무겁지는 않았다.
-
+### 🎥 대용량 데이터 처리 학습
+- **패스트캠퍼스:** _9개 프로젝트로 경험하는 대용량 트래픽 & 데이터 처리 초격차 패키지 Online._
+  - Project 4. 최저가 서비스와 상품 추천 서비스
+    - Ch03. Redis의 기본개념
+      - 02\. [실습] 가격비교 Service에 사용될 redis 구조 (Master-Replica, Sentinel, Cluster)
+      - 03\. redis 와 비슷한 다른 solution - memcache (수정)
