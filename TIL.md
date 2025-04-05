@@ -39,3 +39,13 @@
   - 조직 리더로서 팀원들을 어떻게 대해야 하는지에 대한 귀감을 얻었다. 나중에 직책을 맡게 되면 다시 한 번 봐야겠다.
 - [토스ㅣSLASH 22 - 왜 은행은 무한스크롤이 안되나요](https://youtu.be/v9rcKpUZw4o?si=lFMUPQcFmEWCiMSp)
 
+
+---
+
+## ✏️ 2025.04.05
+### 📖 개발 관련 도서 읽음
+- '요즘 우아한 AI개발'
+  - <img src="https://github.com/guraband/TIL/blob/main/images/wooah_ai.jpg?raw=true" width=300/>
+  - chatper 2~4 읽음
+    - 책 초반이라 그런지 내용이 무겁지는 않았다.
+
