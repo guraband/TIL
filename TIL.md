@@ -61,3 +61,12 @@
 ### 🎥 개발 관련 유튜브 시청
 - [[독서광] LLM을 활용한 실전 AI 애플리케이션 개발](https://www.youtube.com/live/hAA7cNbj35o?si=6PHwHINDWzu7ZWZI)
 - [심각한 한국 AI 개발 시장의 실체, 보이는게 다가 아님](https://youtu.be/n-DS9nREm1w?si=A0Vz3knSs3fbpBO6)
+
+---
+
+## ✏️ 2025.04.07
+### 📖 개발 관련 도서 읽음
+- '요즘 우아한 AI개발'
+  - chatper 5~7 읽음
+### 🎥 개발 관련 유튜브 시청
+- [서킷브레이커 사용 방식 개선하기 | 당근 SERVER 밋업 2회](https://youtu.be/ThLfHtoEe1I?si=zPxcY-yZqB0m-9zo)
