@@ -70,3 +70,12 @@
   - chatper 5~7 읽음
 ### 🎥 개발 관련 유튜브 시청
 - [서킷브레이커 사용 방식 개선하기 | 당근 SERVER 밋업 2회](https://youtu.be/ThLfHtoEe1I?si=zPxcY-yZqB0m-9zo)
+
+---
+
+## ✏️ 2025.04.08
+### 📖 개발 관련 도서 읽음
+- '요즘 우아한 AI개발'
+  - chatper 8 읽음
+### 🎥 개발 관련 유튜브 시청
+- [Kafka를 활용한 이벤트 기반 아키텍처 구축 #우아콘2023 #우아한형제들](https://youtu.be/DY3sUeGu74M?si=dvWfXWGOOJfc4rps)
