@@ -90,3 +90,10 @@
   - chapter 1 읽음
 ### 🎥 개발 관련 유튜브 시청
 - [토스ㅣSLASH 24 - SSE 이벤트 푸쉬로 불필요한 Polling 제거하기](https://youtu.be/ovGgdPPUZ2I?si=vj2BHOk2XFWfg1n0)
+
+---
+
+## ✏️ 2025.04.10
+### 📖 개발 관련 도서 읽음
+- 'LLM을 활용한 실전 AI 어플리케이션 개발'
+  - chapter 2~3 읽음
