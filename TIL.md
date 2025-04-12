@@ -130,3 +130,5 @@
     - Ch 05. Redis 활용 서비스 개발
       - 05\. [실습] redis sample data 생성과 입력, Key, Value Design
       - 06\. [실습] redis 관련 code 작성 및 배포-1
+      - 06\. [실습] redis 관련 code 작성 및 배포-2 
+      - 06\. [실습] redis 관련 code 작성 및 배포 -3
