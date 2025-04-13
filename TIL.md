@@ -141,3 +141,6 @@
   - chapter 5 읽음
 ### 🎥 개발 관련 유튜브 시청
 - [지역 기반으로 중고거래 검색을 샤딩하라 | 2024 당근 테크 밋업](https://youtu.be/RoPDpbcmf6k?si=81KgSXJQ0PuANvxK)
+### 💻 gb2024
+- **이미지 설명 데이터 임베딩**
+  - image pool에 추가된 image들의 decription 정보를 생성하고 embedding하여 mongoDB에 저장하는 기능 통합
