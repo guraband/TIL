@@ -160,3 +160,6 @@
 ### 🎥 개발 관련 유튜브 시청
 - [진짜 빠르고 편한 파이썬 uv](https://youtu.be/1kZ-touiEQ8?si=HNrK3igh8rxVPt-a)
   - 요즘 uv를 쓰는 곳이 많길래 관련 영상을 보고 바로 설치했다.
+### MCP
+- cursor ai와 figma를 연동해봤다.
+  - https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp
