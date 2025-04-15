@@ -170,3 +170,7 @@
 ### 🎥 개발 관련 유튜브 시청
 - [토스ㅣSLASH 23 - AI와 함께 가짜 신분증 찾아내기](https://youtu.be/9JGZxmZxAAM?si=uiJOt4lSYVyM1qVI)
 - [토스ㅣSLASH 23 - 은행 데이터플랫폼 오픈소스로 전환하기](https://youtu.be/RjsG-zKMuX8?si=eQYJJJDhF_-oWlub)
+### 📖 개발 관련 도서 읽음
+- 'LLM을 활용한 실전 AI 어플리케이션 개발'
+  - chapter 6 읽음
+    - Text2SQL에 대한 내용과 파인 튜닝에 대한 내용이 있어서 유익했다.
