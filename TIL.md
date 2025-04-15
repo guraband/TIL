@@ -163,3 +163,10 @@
 ### MCP
 - cursor ai와 figma를 연동해봤다.
   - https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp
+
+---
+
+## ✏️ 2025.04.15
+### 🎥 개발 관련 유튜브 시청
+- [토스ㅣSLASH 23 - AI와 함께 가짜 신분증 찾아내기](https://youtu.be/9JGZxmZxAAM?si=uiJOt4lSYVyM1qVI)
+- [토스ㅣSLASH 23 - 은행 데이터플랫폼 오픈소스로 전환하기](https://youtu.be/RjsG-zKMuX8?si=eQYJJJDhF_-oWlub)
