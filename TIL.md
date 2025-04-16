@@ -158,7 +158,7 @@
       - 06. [실습] redis 관련 code 작성 및 배포 -7
     - 이론은 괜찮았으나 실습은 코드 수준이 너무 별로다. 구현 내용도 별로 ㅠㅠ 여태까지 본 것이 아까워서 일단 끝까지 보려고 한다.
 ### 🎥 개발 관련 유튜브 시청
-- [진짜 빠르고 편한 파이썬 uv](https://youtu.be/1kZ-touiEQ8?si=HNrK3igh8rxVPt-a)
+- [진짜 빠르고 편한 파이썬 uv](https://youtu. be/1kZ-touiEQ8?si=HNrK3igh8rxVPt-a)
   - 요즘 uv를 쓰는 곳이 많길래 관련 영상을 보고 바로 설치했다.
 ### MCP
 - cursor ai와 figma를 연동해봤다.
@@ -174,3 +174,13 @@
 - 'LLM을 활용한 실전 AI 어플리케이션 개발'
   - chapter 6 읽음
     - Text2SQL에 대한 내용과 파인 튜닝에 대한 내용이 있어서 유익했다.
+
+---
+
+## ✏️ 2025.04.16
+### 🎥 개발 관련 유튜브 시청
+- [토스ㅣSLASH 23 - 레고처럼 조립하는 토스 앱](https://youtu.be/zsLQQTuGiVw?si=WJehCbH_97AZTQqg)
+- [토스ㅣSLASH 23 - 머신러닝으로 더 똑똑하게 증권 뉴스 제공하기](https://youtu.be/dnxaTrKJr0c?si=tqF3hBi8xhQLgjgU)
+### 📖 개발 관련 도서 읽음
+- 'LLM을 활용한 실전 AI 어플리케이션 개발'
+  - chapter 7 읽음
