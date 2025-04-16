@@ -184,3 +184,7 @@
 ### 📖 개발 관련 도서 읽음
 - 'LLM을 활용한 실전 AI 어플리케이션 개발'
   - chapter 7 읽음
+### 💻 gb2024
+- **gb_content 임베딩**
+  - PRD 구체화
+  - mongoDB에 collection 생성
