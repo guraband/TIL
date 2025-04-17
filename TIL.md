@@ -188,3 +188,10 @@
 - **gb_content 임베딩**
   - PRD 구체화
   - mongoDB에 collection 생성
+
+---
+
+## ✏️ 2025.04.16
+### 📖 개발 관련 도서 읽음
+- 'LLM을 활용한 실전 AI 어플리케이션 개발'
+  - chapter 8 읽음
