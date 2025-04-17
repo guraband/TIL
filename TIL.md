@@ -200,3 +200,6 @@
   - Project 4. 최저가 서비스와 상품 추천 서비스
     - Ch 05. Redis 활용 서비스 개발
       - 06\. [실습] redis 관련 code 작성 및 배포 -8
+    - Ch 06. Redis 서비스 Test
+      - 01\. [실습] redis Stress Test
+        - redis-benchmark에 대한 내용
