@@ -227,3 +227,9 @@
     - 11. 프롬프트 템플릿 #1
     - 12. 프롬프트 템플릿 #2
     - 13. 프롬프트 템플릿 #3
+
+---
+
+### 🎥 개발 관련 유튜브 시청
+- [LLM을 프로덕션에 적용하며 배운 것들 | 당근 ML 밋업 1회](https://youtu.be/NzxlIGPbICY?si=NqlHZVEaUo296Yg1)
+- [토스ㅣSLASH 24 - ClickHouse로 토스증권 랭킹 서비스 구조 개선하기](https://youtu.be/8P2OL7cwFEU?si=4tKqkmIka-qKLtUk)
