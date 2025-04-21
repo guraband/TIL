@@ -230,9 +230,17 @@
 
 ---
 
+## ✏️ 2025.04.20
 ### 🎥 개발 관련 유튜브 시청
 - [LLM을 프로덕션에 적용하며 배운 것들 | 당근 ML 밋업 1회](https://youtu.be/NzxlIGPbICY?si=NqlHZVEaUo296Yg1)
 - [토스ㅣSLASH 24 - ClickHouse로 토스증권 랭킹 서비스 구조 개선하기](https://youtu.be/8P2OL7cwFEU?si=4tKqkmIka-qKLtUk)
 ### 📖 개발 관련 도서 읽음
 - 'LLM을 활용한 실전 AI 어플리케이션 개발'
   - chapter 11 읽음
+
+---
+
+## ✏️ 2025.04.21
+### 📖 개발 관련 도서 읽음
+- 'LLM을 활용한 실전 AI 어플리케이션 개발'
+  - chapter 12 읽음
