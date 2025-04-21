@@ -249,3 +249,5 @@
   - 섹션3 : LangChain
     - 14. StrOutputParser
     - 15. JsonOutputParser
+### 🎥 개발 관련 유튜브 시청
+- [당근 ML인프라 A to Z : 현재와 미래 | 당근 ML 밋업 1회](https://youtu.be/gTXBr2r1104?si=CC8viivh2Mzh4lIr)
