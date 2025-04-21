@@ -244,3 +244,8 @@
 ### 📖 개발 관련 도서 읽음
 - 'LLM을 활용한 실전 AI 어플리케이션 개발'
   - chapter 12 읽음
+### 🦜 랭체인 학습
+- **Udemy** _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_
+  - 섹션3 : LangChain
+    - 14. StrOutputParser
+    - 15. JsonOutputParser
