@@ -251,3 +251,10 @@
     - 15. JsonOutputParser
 ### 🎥 개발 관련 유튜브 시청
 - [당근 ML인프라 A to Z : 현재와 미래 | 당근 ML 밋업 1회](https://youtu.be/gTXBr2r1104?si=CC8viivh2Mzh4lIr)
+
+---
+
+## ✏️ 2025.04.22
+### 📖 개발 관련 도서 읽음
+- 'LLM을 활용한 실전 AI 어플리케이션 개발'
+  - chapter 13 읽음
