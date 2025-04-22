@@ -258,3 +258,6 @@
 ### 📖 개발 관련 도서 읽음
 - 'LLM을 활용한 실전 AI 어플리케이션 개발'
   - chapter 13 읽음
+### 🎥 개발 관련 유튜브 시청
+- [우리는 Customer Service에 ML을 잘못 적용하고 있었다! | 당근 ML 밋업 1회](https://youtu.be/TAxFt3w5p-M?si=8xIek--QCGb4Jt4k)
+- [당근마켓 서비스를 모니터링하는 방법 | 당근 SRE 밋업 3회](https://youtu.be/3iLTBBC9ZX4?si=Kt5i16OmwNiqriYL)
