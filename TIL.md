@@ -288,3 +288,9 @@
     - 완독. 이해가 안되는 부분이 적지 않았지만 얻은 게 많은 책이었다.
 ### 🎥 개발 관련 유튜브 시청
 - [ㅎㅖ어져서 팝니ㄷr ☆: LLM과 임베딩 유사도로 빠르게 패턴을 바꾸는 업자 잡아내기 | 2024 당근 테크 밋업](https://youtu.be/UGjRhqZygHg?si=bOuWs5CdQ-bY86ZJ)
+
+---
+### 🎥 개발 관련 유튜브 시청
+- [토스ㅣSLASH 24 - Kubernetes CPU 알뜰하게 사용하기](https://youtu.be/WdikCm_CYms?si=kDIe_esENrtg6Imp)
+  - 흥미로운 내용이었다. 메모리 관리에 대한 내용도 있는지 찾아봐야겠다.
+
