@@ -290,7 +290,16 @@
 - [ㅎㅖ어져서 팝니ㄷr ☆: LLM과 임베딩 유사도로 빠르게 패턴을 바꾸는 업자 잡아내기 | 2024 당근 테크 밋업](https://youtu.be/UGjRhqZygHg?si=bOuWs5CdQ-bY86ZJ)
 
 ---
+
+## ✏️ 2025.04.26
 ### 🎥 개발 관련 유튜브 시청
 - [토스ㅣSLASH 24 - Kubernetes CPU 알뜰하게 사용하기](https://youtu.be/WdikCm_CYms?si=kDIe_esENrtg6Imp)
   - 흥미로운 내용이었다. 메모리 관리에 대한 내용도 있는지 찾아봐야겠다.
 
+---
+
+## ✏️ 2025.04.27
+### 🦜 랭체인 학습
+- **Udemy** _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_
+  - 섹션3 : LangChain
+    - 16~21강 학습
