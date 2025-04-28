@@ -303,3 +303,13 @@
 - **Udemy** _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_
   - 섹션3 : LangChain
     - 16~21강 학습
+
+---
+
+## ✏️ 2025.04.28
+### 🦜 랭체인 학습
+- **Udemy** _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_
+  - 섹션5 : RAG
+    - 22. RAG 란?
+    - 23. TextLoader
+    - 24. DirectoryLoader
