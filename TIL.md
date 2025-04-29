@@ -313,3 +313,10 @@
     - 22. RAG 란?
     - 23. TextLoader
     - 24. DirectoryLoader
+
+---
+
+## ✏️ 2025.04.29
+### 🎥 개발 관련 유튜브 시청
+- [토스 | SLASH 22 - Java Native Memory Leak 원인을 찾아서](https://youtu.be/w4fWgLgop5U?si=Rr8b8AcIPtg7jQz_)
+- [트래픽 폴발로 서버가 터져버렸던 그 글.. The Best Programmers I Know](https://youtu.be/njKpSwAZ6j8?si=zXAM6MVfvKChIAuM)
