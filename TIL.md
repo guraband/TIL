@@ -345,3 +345,13 @@
 ## ✏️ 2025.05.03
 ### 🎥 개발 관련 유튜브 시청
 - [Kafka 기반 대규모 데이터 동시성 최적화: Request-Reply 패턴 활용 사례](https://youtu.be/Rcow99TIMmc?si=3iqHHavAR4NJuPWs)
+
+
+---
+
+## ✏️ 2025.05.04
+### 🦜 랭체인 학습
+- **Udemy** _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_
+  - 섹션3 : LangChain
+    - 9. 기본 대화하기 #2
+      - colab으로 실습
