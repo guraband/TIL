@@ -48,3 +48,11 @@
 ## ✏️ 2025.05.07
 ### 🎥 개발 관련 유튜브 시청
 - [남자라면 Kafka](https://youtu.be/9egQBSuHv7g?si=e-ovA1jxZj8hRfDG)
+
+---
+
+## ✏️ 2025.05.08
+### 🦜 랭체인 학습
+- **Udemy** _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_
+  - 섹션3 : LangChain
+    - 14~17강 실습
