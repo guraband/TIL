@@ -65,4 +65,13 @@
 > - [진짜 빠르고 편한 파이썬 uv](https://youtu.be/1kZ-touiEQ8?si=HNrK3igh8rxVPt-a)
 >   - 지난 번에 본 영상이지만 기억이 잘 안나서 다시 봄
 
+---
+
+## ✏️ 2025.05.10
+> **🦜 랭체인 학습**  
+> **Udemy**  
+> _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_  
+> - 섹션3 : LangChain  
+>   - 19강 실습
+
 --- 
