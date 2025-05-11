@@ -83,5 +83,7 @@
 > _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_  
 > - 섹션3 : LangChain  
 >   - 21\. 메시지 히스토리 #2 실습
+> - 섹션4 : RAG
+>   - 23~26강 Document Loaders 실습
 
 --- 
