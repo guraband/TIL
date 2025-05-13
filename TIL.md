@@ -111,5 +111,7 @@
 >   - 30\. CharacterTextSplitter
 >   - 31\. RecursiveCharacterTextSplitter
 >   - 32\. SemanticChunker
+>   - 33\. OpenAIEmbeddings
+>   - 34\. HuggingFaceEmbeddings
 
 ---
