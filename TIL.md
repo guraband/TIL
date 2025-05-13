@@ -92,12 +92,24 @@
 
 --- 
 
-
-## ✏️ 2025.05.11
+## ✏️ 2025.05.12
 > **🦜 랭체인 학습**  
 > **Udemy**  
 > _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_  
 > - 섹션4 : RAG
 >   - 27\. RecursiveUrlLoader 실습
+
+---
+
+## ✏️ 2025.05.13
+> **🦜 랭체인 학습**  
+> **Udemy**  
+> _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_  
+> - 섹션4 : RAG
+>   - 28\. WikipediaLoader
+>   - 29\. 잘게 나누기 (이론)
+>   - 30\. CharacterTextSplitter
+>   - 31\. RecursiveCharacterTextSplitter
+>   - 32\. SemanticChunker
 
 ---
