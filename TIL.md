@@ -115,3 +115,9 @@
 >   - 34\. HuggingFaceEmbeddings
 
 ---
+
+## ✏️ 2025.05.14
+> **🎥 개발 관련 유튜브 시청**  
+> [20분동안 직접 코드 한줄도 안씀](https://youtu.be/YanHWhp9vkk?si=F6zsT_kWMAjkwMwe)
+
+---
