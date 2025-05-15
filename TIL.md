@@ -138,4 +138,12 @@
 >   - [amadeus api](https://developers.amadeus.com/pricing)
 >   - [항공권 API 선택하기](https://velog.io/@s0zzang/항공권-API-선택하기)
 
+> **🦜 랭체인 학습**
+> **Udemy**  
+> _챗GPT를 넘어서! 랭체인(LangChain)과 RAG로 만드는 AI 문서 Q&A 챗봇_  
+> - 섹션4 : RAG
+>   - 36\. Chroma DB 저장하기
+>   - 37\. Chroma DB 불러오기
+>   - 38\. FAISS DB 저장하기
+
 ---
