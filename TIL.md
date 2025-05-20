@@ -202,4 +202,11 @@
 
 ---
 
+## ✏️ 2025.05.20
+> **🎥 Langgraph 관련 유튜브 시청**  
+> [EP 1. AI Agent 프레임워크, Langgraph의 개념과 원리](https://youtu.be/p_pOIvXFDXQ?si=7X3DQIxWTbB1gUgT)
+> [EP 2. Langchain과 Langgraph의 차이점](https://youtu.be/yD3SnuU6Pd8?si=3sqVm_E0YGDpGxeK)
+
+---
+
 
