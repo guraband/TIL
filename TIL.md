@@ -209,4 +209,17 @@
 
 ---
 
+## ✏️ 2025.05.21
+> **💻 토이 프로젝트 : _항공권 가격 조회_**  
+> - skyscanner를 통해 최저가를 조회하는 기능 구현
+>   - 검색조건을 적용한 검색 구현
+
+---
+
+## ✏️ 2025.05.22
+> **🎥 구글 I/O 관련 유튜브 시청**  
+> [대한민국에서 Google IO 가장 잘 정리한 영상](https://youtu.be/Or7n1Z8aZLE?si=_Eb6spsRzxJJGGcg)
+> [AI 업계 최강이 된 구글, Google I/O 주요 업데이트 15분 총 정리](https://youtu.be/rPWzbT_pG_s?si=snNw9jyGWljVE7og)
+
+---
 
