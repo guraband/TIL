@@ -232,3 +232,11 @@
 > [EP 3 기본적인 Langgraph 그래프 만들어보기](https://youtu.be/o25jAgm63X0?si=t5RBLAKXdI4axBm6)
 
 ---
+
+## ✏️ 2025.05.24
+> **🎥 Langgraph 관련 유튜브 시청**  
+>   - [웹 검색 기반 채팅 Agent 구현하기 | LangGraph | Tool Calling Agent](https://youtu.be/t4RdOgUReKo?si=GTuW2esHRvjAwvq-)
+>      - 실습까지 따라하지는 않았지만 설명이 쉽고 내용이 어렵지 않아 보여서 어떤 것이 이해는 잘 됐다.
+>      - 하지만 왠지 머지 않아 AI agent를 직접 구현하지 않아도 LLM이 다 알아서 처리할 것 같다는 생각도 들었다.
+
+---
