@@ -240,3 +240,11 @@
 >      - 하지만 왠지 머지 않아 AI agent를 직접 구현하지 않아도 LLM이 다 알아서 처리할 것 같다는 생각도 들었다.
 
 ---
+
+## ✏️ 2025.05.25
+> **🦜 Langgraph 학습**
+>   - [웹 검색 기반 채팅 Agent 구현하기 | LangGraph | Tool Calling Agent](https://youtu.be/t4RdOgUReKo?si=GTuW2esHRvjAwvq-)
+>      - 위 강의 영상의 내용을 따라해봤다. 대략적인 흐름을 파악할 수 있었다. 신기했다.
+
+---
+
