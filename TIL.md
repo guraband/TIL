@@ -263,5 +263,6 @@
 >   - [🔥 🚨 1년을 기다렸습니다. 역대급 AI 모델, 클로드 4 (Claude 4) 출시! 🚨 🔥](https://youtu.be/FpU8JxmiyXQ?si=unamHISpJjTbuT4H)
 >   - [Vlog(블로그) - 빅테크에서는 LLM을 어떻게 사용할까?](https://youtu.be/C37zxyThJRI?si=8JBF79VDGtwa3HhG)
 >   - [😮윈드서프를 지금 당장 사용해야 하는 이유 | 클로드Opus 4 사용 방법](https://youtu.be/pz-dI26LaK8?si=1vMf2e0G7v9OV-pn)
+>   - [사전구축 에이전트 Swarm 구현하기 | LangGraph Swarm](https://youtu.be/ByzGtTQc0pA?si=YtU23lLFZHNL7v-7)
 
 ---
