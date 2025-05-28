@@ -266,3 +266,10 @@
 >   - [사전구축 에이전트 Swarm 구현하기 | LangGraph Swarm](https://youtu.be/ByzGtTQc0pA?si=YtU23lLFZHNL7v-7)
 
 ---
+
+## ✏️ 2025.05.28
+> **🎥 개발 관련 유튜브 시청**  
+>   - [AI 기본 개념부터 미래 트렌드까지... 비전공자도 이해하기 쉬운 AI 관련 필수지식, 기술 현황 및 인사이트 총정리](https://youtu.be/IMuClNioBlI?si=EMJIlx2LokrkAX5N)
+>   - [알아두면 좋을 MCP 서버 5가지! Playwright, Context 7, Magic, Task Master, Sequential Thinking](https://youtu.be/Jz4Frsy_MZk?si=WbeZ2dOSIYsMAu6w)
+
+---
