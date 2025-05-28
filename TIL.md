@@ -271,5 +271,6 @@
 > **🎥 개발 관련 유튜브 시청**  
 >   - [AI 기본 개념부터 미래 트렌드까지... 비전공자도 이해하기 쉬운 AI 관련 필수지식, 기술 현황 및 인사이트 총정리](https://youtu.be/IMuClNioBlI?si=EMJIlx2LokrkAX5N)
 >   - [알아두면 좋을 MCP 서버 5가지! Playwright, Context 7, Magic, Task Master, Sequential Thinking](https://youtu.be/Jz4Frsy_MZk?si=WbeZ2dOSIYsMAu6w)
+>   - [DB 조회결과에 따라 스스로 쿼리문을 수정하는 Agent | LangGraph | Text2Cypher](https://youtu.be/O93x9JvDQd0?si=rrqfVR5EQ123XKIv)
 
 ---
