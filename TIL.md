@@ -275,9 +275,19 @@
 
 ---
 
-## ✏️ 2025.05.28
+## ✏️ 2025.05.29
 > **💻 gb2024**  
 >   - SEO 개선
 >   - 요약 프롬프트 개선
+
+---
+
+## ✏️ 2025.05.30
+> **💻 gb2024**  
+>   - about에 사진 추가, 트래픽을 고려하여 해상도 낮춤
+
+> **🎥 개발 관련 유튜브 시청**  
+>   - [유출된 AI 비밀! Cursor, Windsurf, Manus, Replit의 실체 공개](https://youtu.be/FzsUCpy7A0A?si=R1csqd6ly1UzB2BZ)
+>       - [해당 githup](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ---
