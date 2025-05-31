@@ -291,3 +291,10 @@
 >       - [해당 githup](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ---
+
+## ✏️ 2025.05.31
+> **🎥 개발 관련 유튜브 시청**  
+>   - [#팔란티어 #온톨로지 로 미리보는 Al Agent의 미래](https://youtu.be/ctKz2bkgkPQ?si=d02cu0k9h-lbWkAD)
+>   - [AI 코딩, 맨날 까먹는 AI? '커서 메모리 뱅크'로 해결! | 환각 줄이기](https://youtu.be/KLl6rNG4sUU?si=Oml87-ij2JZ-DmnZ)
+
+---
