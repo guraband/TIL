@@ -13,4 +13,8 @@
 >   - [AI 에이전트 만드는 기초 기술](https://youtu.be/eu5H0iRJsJ4?si=nc4oWkHDxTNJxz0x)
 >   - [스프링캠프 2023 [Session 6] 구현부터 테스트까지 - 대용량 트래픽 처리 시스템 (이경일)](https://youtu.be/XBXmHCy1EBA?si=JoGughqlut_sNsVg)
 
+> **📖 개발 관련 도서 읽음**
+>   - '혼자 만들면서 공부하는 딥러닝'
+>       - ebook으로 구입하고 첫번째 챕터를 읽어봤다. 잘 따라가야 할텐데.
+
 ---
