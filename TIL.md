@@ -39,3 +39,10 @@
 >  - [Claude 4 발표, Claude Code, Claude max 요금제, 쓸만해 보입니다 Claude Code](https://youtu.be/JRWc1UHZuuk?si=JUYoSpgWEH_G2DpU)
 
 ---
+
+## ✏️ 2025.06.06
+> **🎥 개발 관련 유튜브 시청**  
+>  - [에이전트 시스템에서 A2A와 MCP의 의미](https://youtu.be/nyZnrKVaIXU?si=8lyH8EIhUIZuyUzY)
+>  - ["눈에 불을 켜고 AI 배우는 분들 많습니다."](https://youtu.be/YTLg02XjKaM?si=dEwDzw95YSSZ690K)
+
+---
