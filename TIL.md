@@ -44,5 +44,7 @@
 > **🎥 개발 관련 유튜브 시청**  
 >  - [에이전트 시스템에서 A2A와 MCP의 의미](https://youtu.be/nyZnrKVaIXU?si=8lyH8EIhUIZuyUzY)
 >  - ["눈에 불을 켜고 AI 배우는 분들 많습니다."](https://youtu.be/YTLg02XjKaM?si=dEwDzw95YSSZ690K)
+>  - [Gemma3 4B 모델을 한국어 질문 답변 데이터셋으로 파인튜닝하기](https://youtu.be/fvOF5SsFigk?si=M55JLFktr9OcKwzT)
+>    - 코랩으로 해보니까 너무 느리다. 노트북으로 다시 해봐야겠다.
 
 ---
