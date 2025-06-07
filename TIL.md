@@ -42,9 +42,17 @@
 
 ## ✏️ 2025.06.06
 > **🎥 개발 관련 유튜브 시청**  
->  - [에이전트 시스템에서 A2A와 MCP의 의미](https://youtu.be/nyZnrKVaIXU?si=8lyH8EIhUIZuyUzY)
->  - ["눈에 불을 켜고 AI 배우는 분들 많습니다."](https://youtu.be/YTLg02XjKaM?si=dEwDzw95YSSZ690K)
->  - [Gemma3 4B 모델을 한국어 질문 답변 데이터셋으로 파인튜닝하기](https://youtu.be/fvOF5SsFigk?si=M55JLFktr9OcKwzT)
->    - 코랩으로 해보니까 너무 느리다. 노트북으로 다시 해봐야겠다.
+>   - [에이전트 시스템에서 A2A와 MCP의 의미](https://youtu.be/nyZnrKVaIXU?si=8lyH8EIhUIZuyUzY)
+>   - ["눈에 불을 켜고 AI 배우는 분들 많습니다."](https://youtu.be/YTLg02XjKaM?si=dEwDzw95YSSZ690K)
+>   - [Gemma3 4B 모델을 한국어 질문 답변 데이터셋으로 파인튜닝하기](https://youtu.be/fvOF5SsFigk?si=M55JLFktr9OcKwzT)
+>       - 코랩으로 해보니까 너무 느리다. 노트북으로 다시 해봐야겠다.
+
+---
+
+## ✏️ 2025.06.07
+> **🎥 개발 관련 유튜브 시청**  
+>   - [미국 주식 투자자 주목... 재무제표, 기업보고서 분석 AI 가 끝냈다 | 퍼플렉시티, 미국 SEC 정보 그대로 가져와서 분석하는 서비스 시작](https://youtu.be/Uc6QonYSjps?si=TN8Jv9O55f9v51k_)
+>   - [바이브코딩? 이건 차원이 다릅니다. Replit AI Agent 소개](https://youtu.be/mLXihxc4eQE?si=iUNj4PLQKPbomTxt)
+>       - 내용을 봤지만 특별한 건 잘 모르겠다.
 
 ---
