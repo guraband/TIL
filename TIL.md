@@ -62,3 +62,10 @@
 >   - [개발자라면 무조건 봐야 할 *무료* 툴 🍯 몽땅 알려드림](https://youtu.be/yB68qccupGc?si=qhnEjqEXd1fpxxwM)
 
 ---
+
+## ✏️ 2025.06.09
+> **🎥 개발 관련 유튜브 시청**  
+>   - [Llama3 Model FineTune 학습데이터 파인튜닝 방법 모델만 변경](https://youtu.be/f8pDjOkXIZo?si=cr2Zar9Eec3XjWvT)
+>   - [바닥부터 LLM 굽기. pretrain해서 베이스모델 만드는 법. LLM DeepDive 1편](https://youtu.be/QQ5PMNnlA1U?si=PAEq6ezWNQBipTW0)
+
+---
