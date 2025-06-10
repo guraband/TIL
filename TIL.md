@@ -69,3 +69,9 @@
 >   - [바닥부터 LLM 굽기. pretrain해서 베이스모델 만드는 법. LLM DeepDive 1편](https://youtu.be/QQ5PMNnlA1U?si=PAEq6ezWNQBipTW0)
 
 ---
+## ✏️ 2025.06.10
+> **🎥 개발 관련 유튜브 시청**  
+>   - [시키는 대로 다 하는 마누스 Manus AI 실제 써본 후기, 진짜 미쳤다. 본격 에이전트 AI 시대](https://youtu.be/FKjnEy6bUq0?si=a9tyLQBW-IjSn5KS)
+>   - [AI뉴스 - AI 사실 인도인이었다, 충격적인 목소리 Eleven v3, Luma AI Modify Video, Figure 근황, 제미나이 2.5 업데이트 등](https://youtu.be/sY67jr3kk1c?si=pUoTcJBvwfATJ7gW)
+
+---
