@@ -80,5 +80,9 @@
 ## ✏️ 2025.06.11
 > **🎥 개발 관련 유튜브 시청**  
 >   - [AWS 현직 전문가가 말하는 생성형 AI의 현재와 미래! || AWS](https://youtu.be/sqkdZGnVU9k?si=PLrqyUBHh3sRdM8z)
+>   - [AI 개발, 이렇게해야 할루시네이션이 없습니다.](https://youtu.be/yy6XyOld5Vc?si=pjeh2_JHWwN-JPY1)
+
+> **💻 gb2024**  
+>   - 요약 api 버그 수정, 프롬프트에 말투 관련 내용 보완
 
 ---
