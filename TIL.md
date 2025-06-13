@@ -98,6 +98,7 @@
 ## ✏️ 2025.06.13
 > **🎥 개발 관련 유튜브 시청**  
 >   - [코딩할 줄 몰라도 다 된다... AI가 연 '바이브 코딩'과 로우코드/노코드 부상, 진짜 개발자는 없어지나?](https://youtu.be/1kPVTY0M4hE?si=qttj-7j0BwoU806Z)
+>   - [[프롬프트 강의] 유출된 클로드4 시스템 프롬프트, 어떤 특징이 있을까?](https://youtu.be/qnXFU2zzOHM?si=UPyf4igxgXGphubb)
 
 ---
 
