@@ -106,5 +106,6 @@
 > **🎥 개발 관련 유튜브 시청**  
 >   - [구글 Firebase Studio 사용법! | 코딩 몰라도 AI로 앱 개발하는 방법 소개](https://youtu.be/0A45kpsOCPY?si=viJizB14UywJC8Xv)
 >       - 이제는 낯설지 않은 웹에서 실행되는 AI 코딩 에이전트에 대한 내용.  Firebase에서 제공하는 인증 같은 기능들과도 연계가 될 것 같은데, 이 영상의 내용만으로는 그 부분에 대해서는 알 수 없었다.
+>   - [바이브 코딩 종결 ㄷㄷ (커서 업데이트 총 정리)](https://youtu.be/g1lO_B3CRmQ?si=7JnHbDKr8reNj2g-)
 
 ---
