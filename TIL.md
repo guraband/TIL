@@ -112,3 +112,11 @@
 >   - 이미지 업로드 완료 SSE 수신으로 추가된 이미지에 has2xImg 정보가 제대로 표시되지 않는 문제 수정
 
 ---
+
+## ✏️ 2025.06.15
+> **📖 개발 관련 도서 읽음**
+>   - '랭체인&랭그래프로 AI에이전트 개발하기'
+>       - <img src="https://github.com/guraband/TIL/blob/main/images/langchain_ai_agent.jpg?raw=true" width=300/>
+>       - 책의 절반 정도인 챕터7까지 읽었다. LLM, AI agent 등의 개요 소개 정도의 내용이어서 읽는데 오래 걸리지는 않았다.
+
+---
