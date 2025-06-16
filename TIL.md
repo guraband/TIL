@@ -103,7 +103,7 @@
 ---
 
 ## ✏️ 2025.06.14
-> **🎥 개발 관련 유튜브 시청**  
+> **🎥 개발 관련 유튜브 시청**
 >   - [구글 Firebase Studio 사용법! | 코딩 몰라도 AI로 앱 개발하는 방법 소개](https://youtu.be/0A45kpsOCPY?si=viJizB14UywJC8Xv)
 >       - 이제는 낯설지 않은 웹에서 실행되는 AI 코딩 에이전트에 대한 내용.  Firebase에서 제공하는 인증 같은 기능들과도 연계가 될 것 같은데, 이 영상의 내용만으로는 그 부분에 대해서는 알 수 없었다.
 >   - [바이브 코딩 종결 ㄷㄷ (커서 업데이트 총 정리)](https://youtu.be/g1lO_B3CRmQ?si=7JnHbDKr8reNj2g-)
@@ -118,5 +118,13 @@
 >   - '랭체인&랭그래프로 AI에이전트 개발하기'
 >       - <img src="https://github.com/guraband/TIL/blob/main/images/langchain_ai_agent.jpg?raw=true" width=300/>
 >       - 책의 절반 정도인 챕터7까지 읽었다. LLM, AI agent 등의 개요 소개 정도의 내용이어서 읽는데 오래 걸리지는 않았다.
+
+---
+
+## ✏️ 2025.06.16
+> **🎥 개발 관련 유튜브 시청**
+>   - [AI뉴스 - WWDC AI 소식 정리, 오픈AI o3-pro 및 가격 인하, 미드저니 video, Seedance 1.0, 실시간 영상 생성, V-제파 2 등](https://youtu.be/ehvtDPmsuug?si=Z95qzvedKn61luDU)
+>   - [AI Breakfast | Episode 5 - Agent로 일하는 시대가 이미 와버렸다 (최종화)](https://youtu.be/Osk6h0ionM0?si=DcIIkTd_F__iG6Ox)
+>   - [개발자들이 Next.js를 떠나는 이유 (5가지 대안 프레임워크)](https://youtu.be/CqQtjS6ZKxo?si=pqF8lso9oTEXVQ6d)
 
 ---
