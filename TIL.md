@@ -127,4 +127,15 @@
 >   - [AI Breakfast | Episode 5 - Agent로 일하는 시대가 이미 와버렸다 (최종화)](https://youtu.be/Osk6h0ionM0?si=DcIIkTd_F__iG6Ox)
 >   - [개발자들이 Next.js를 떠나는 이유 (5가지 대안 프레임워크)](https://youtu.be/CqQtjS6ZKxo?si=pqF8lso9oTEXVQ6d)
 
+> **💻 파인튜닝 연습**
+>   - Gemma3 4B 모델에 내 말투와 문체를 학습시켜서 제목과 개요를 입력하면 글을 작성하도록 만들어보려고 한다.
+>   - 데이터형식은 Claude에게 조언을 구하고 검수를 받았고, 실제 구현은 cursor에게 이전의 파인튜닝 강의에서 따라했던 ipynb 파일을 참고해서 만들어달라고 했다. 이후 과정은 내일 해보려고 한다.
+>       - 실패 ㅠㅠ cursor에게 물어보니 학습이 제대로 안된 것 같다고 했다. 조만간 다시 시도해봐야겠다.
+
+---
+
+## ✏️ 2025.06.17
+> **🎥 개발 관련 유튜브 시청**
+>   - [나한테만 100배 좋은 GPT를 만들고 싶다고? LLM 파인튜닝](https://youtu.be/SKFHCdkrqUA?si=1rN3YiE5F6NjTZGj)
+
 ---
