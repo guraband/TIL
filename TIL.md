@@ -139,3 +139,11 @@
 >   - [나한테만 100배 좋은 GPT를 만들고 싶다고? LLM 파인튜닝](https://youtu.be/SKFHCdkrqUA?si=1rN3YiE5F6NjTZGj)
 
 ---
+
+## ✏️ 2025.06.18
+> **🤖 AI agent 학습**
+>   - '랭체인&랭그래프로 AI에이전트 개발하기'
+>       - Chapter 8. AI 에이전트 구현하기
+>          - 8.1 랭체인 에이전트
+
+---
