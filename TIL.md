@@ -147,3 +147,15 @@
 >          - 8.1 랭체인 에이전트
 
 ---
+
+## ✏️ 2025.06.19
+> **🤖 AI agent 학습**
+>   - '랭체인&랭그래프로 AI에이전트 개발하기'
+>       - Chapter 8. AI 에이전트 구현하기
+>          - 8.2 AutoGPT
+
+> **🎥 개발 관련 유튜브 시청**
+>   - [Vibe Coding으로 쉽게 코딩하는 법, Y combinator가 꿀팁 알려줌](https://youtu.be/Y2SZNbnBjN0?si=PvyObG7A4DpUlgeh)
+>   - [Prompt Engineering, 잘 쓴 Prompt란, Prompt Engineering 의미가.....큰 가?](https://youtu.be/hvnwb-jqdOc?si=ixHzTeJmpzFPn-Wc)
+
+---
