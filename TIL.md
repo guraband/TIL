@@ -158,4 +158,8 @@
 >   - [Vibe Coding으로 쉽게 코딩하는 법, Y combinator가 꿀팁 알려줌](https://youtu.be/Y2SZNbnBjN0?si=PvyObG7A4DpUlgeh)
 >   - [Prompt Engineering, 잘 쓴 Prompt란, Prompt Engineering 의미가.....큰 가?](https://youtu.be/hvnwb-jqdOc?si=ixHzTeJmpzFPn-Wc)
 
+> **💻 바이브 코딩**
+>   - 맥OS용 디스크 공간 관리 앱 구현
+>       - 프로토타입을 만들었고 전체 디렉토리를 스캔하는데 너무 오래 걸려서 정확한 결과는 아직 확인하지 못했다.
+
 ---
