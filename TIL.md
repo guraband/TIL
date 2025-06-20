@@ -163,3 +163,10 @@
 >       - 프로토타입을 만들었고 전체 디렉토리를 스캔하는데 너무 오래 걸려서 정확한 결과는 아직 확인하지 못했다.
 
 ---
+
+## ✏️ 2025.06.19
+> **🎥 개발 관련 유튜브 시청**
+>   - [Reasoning 모델 직접 만들기, 생각보다 똑똑하진 않다, LLM의 다음 방향은](https://youtu.be/FOjq2WCDPZE?si=XmF_DJts8CQwgXfN)
+>   - [AI 서비스 수익 공개 및 Replit 바이브 코딩으로 '테토 에겐 테스트' 만들기](https://youtu.be/yf-KIyXa62U?si=c1As56TRkJGqq4kG)
+
+---
