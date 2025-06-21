@@ -176,4 +176,9 @@
 >   - [바이브 코딩, 반드시 알아야 하는 것 (Playwright MCP 1편)](https://youtu.be/z4HfvrPA_kI?si=MAE325jpmJn0NrUy)
 >   - [이제 크롤링은 누구나 할 수 있습니다 (Playwright MCP 2편)](https://youtu.be/crEqSLbZpOM?si=MCkt4QfHdh5Xo7fo)
 
+> **💻 토이프로젝트 : 나무위키 실검 크롤러**
+>   - **프로젝트:** '바이브코딩'으로 나무위키 실시간 검색어 순위를 긁어오는 'namu_trend' 앱을 만들었다.
+>   - **주요 학습 내용:** `playwright`를 사용해서 데이터를 가져오게 했고, aws에서 실행시 ip가 차단되어 webshare의 프록시 서비스를 사용해 차단을 우회하도록 함.
+>   - **개선점:** 예전에 만들었던 나무위키 크롤러보다 로직이 간소화되었다.
+
 ---
