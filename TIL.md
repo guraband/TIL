@@ -164,9 +164,16 @@
 
 ---
 
-## ✏️ 2025.06.19
+## ✏️ 2025.06.20
 > **🎥 개발 관련 유튜브 시청**
 >   - [Reasoning 모델 직접 만들기, 생각보다 똑똑하진 않다, LLM의 다음 방향은](https://youtu.be/FOjq2WCDPZE?si=XmF_DJts8CQwgXfN)
 >   - [AI 서비스 수익 공개 및 Replit 바이브 코딩으로 '테토 에겐 테스트' 만들기](https://youtu.be/yf-KIyXa62U?si=c1As56TRkJGqq4kG)
+
+---
+
+## ✏️ 2025.06.21
+> **🎥 개발 관련 유튜브 시청**
+>   - [바이브 코딩, 반드시 알아야 하는 것 (Playwright MCP 1편)](https://youtu.be/z4HfvrPA_kI?si=MAE325jpmJn0NrUy)
+>   - [이제 크롤링은 누구나 할 수 있습니다 (Playwright MCP 2편)](https://youtu.be/crEqSLbZpOM?si=MCkt4QfHdh5Xo7fo)
 
 ---
