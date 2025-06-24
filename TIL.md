@@ -197,4 +197,16 @@
 > **🎥 개발 관련 유튜브 시청**
 >   - [디자인 천재처럼 보이고 싶다면? 러버블이 정답입니다. 챗GPT+러버블+커서로 바이브코딩 완성하기. AI가 말하길 '1달 걸리는 작업'이라고 하면서 "30분" 만에 다 만든 썰!?](https://youtu.be/4dDCMAouMQI?si=-DZkYs9DUD2MVwRe)
 
+> **💻 토이프로젝트 : 나무위키 실검 크롤러**
+>   - 실검 정보를 스크래핑에서 API 호출로 변경
+>       - 기존 방식을 한 번 호출에 1.45MB 정도 트래픽이 발생해서 운용에 부담이 있었다.
+>       - API 호출의 경우 응답 트래픽이 1KB가 안됨
+
+---
+
+## ✏️ 2025.06.24
+> **🎥 개발 관련 유튜브 시청**
+>   - [AI뉴스 - 1인 AI 코딩툴 1천억 매각, 클로드 코드, 커서 업데이트, Hauilio V2, HeyGen Product Placement, AI 고백남 등](https://youtu.be/cu8UdUrS1TI?si=vviGJoLV4huPLtfS)
+>   - [Swift의 반격! JetBrains 철수, 크로스플랫폼 판이 바뀐다](https://youtu.be/kRcv5oU0bqM?si=Jw6nmGwvaYWzZJc_)
+
 ---
