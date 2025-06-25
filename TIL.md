@@ -210,3 +210,13 @@
 >   - [Swift의 반격! JetBrains 철수, 크로스플랫폼 판이 바뀐다](https://youtu.be/kRcv5oU0bqM?si=Jw6nmGwvaYWzZJc_)
 
 ---
+
+## ✏️ 2025.06.25
+> **🤖 AI agent 학습**
+>   - '랭체인&랭그래프로 AI에이전트 개발하기'
+>       - Chapter 8. AI 에이전트 구현하기
+>           - 8.2 ~ 8.4 챕터 읽음
+>           - CrewAI 파트는 흥미로웠다.
+
+---
+
