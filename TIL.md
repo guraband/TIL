@@ -237,3 +237,9 @@
 
 ---
 
+## ✏️ 2025.06.27
+> **🎥 개발 관련 유튜브 시청**
+>   - [파이썬과 MCP로 AI Agent 만들기](https://youtu.be/Rn5HMaWunx4?si=B3xH1euASiWRfsC1)
+>   - [퍼플렉시티, 왜 정확할까? AI 검색의 핵심 기술](https://youtu.be/bRN8icNaFsM?si=Inp1pFewda0Y4jAU)
+
+---
