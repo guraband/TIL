@@ -243,3 +243,10 @@
 >   - [퍼플렉시티, 왜 정확할까? AI 검색의 핵심 기술](https://youtu.be/bRN8icNaFsM?si=Inp1pFewda0Y4jAU)
 
 ---
+
+## ✏️ 2025.06.28
+> **💻 토이프로젝트 : Disk Pie**
+>   - 맥OS용 디스크 공간 관리 앱 개발
+>       - cursor.ai을 사용해서 바이브코딩으로 만들었다.
+
+---
