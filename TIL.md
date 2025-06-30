@@ -257,3 +257,11 @@
 >   - 집계 기준을 상위 15개로 확대
 
 ---
+
+## ✏️ 2025.06.30
+> **🎥 개발 관련 유튜브 시청**
+>   - [Single agent vs Multi agent, 컨텍스트 엔지니어링](https://youtu.be/labVf1b2vaE?si=4w8QJFxFGcBrxmSP)
+>   - [Gemini CLI에 깃헙 MCP 연동하기](https://youtu.be/b4yz5PbV1i4?si=t9XFBt2HhDujF38Q)
+>   - [파이썬으로 장기기억 AI Agent 만들기](https://youtu.be/DTVqC8IysiY?si=uZgaHWULk7a6cvZn)
+
+---
