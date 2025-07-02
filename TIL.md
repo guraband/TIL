@@ -15,5 +15,8 @@
 >       - <img src="https://github.com/guraband/TIL/blob/main/images/midjourney.jpg?raw=true" width=300/>
 >       - 제목처럼 미드저니와 스테이블 디퓨전을 사용해서 게임 에셋을 만들 수 있도록 알려주는 내용이었다. 책의 1/3정도 읽었다. 내용이 어렵지 않아서 가볍게 훑어볼 수 있었다.
 
+> **💻 토이프로젝트 : 나무위키 실검 크롤러**
+>   - 결과 메시지에 각 키워드별 나무위키 문서 url 추가
+
 ---
 
