@@ -20,3 +20,11 @@
 
 ---
 
+## ✏️ 2025.07.03
+> **📖 개발 관련 도서 읽음**
+>   - 'Do it! LLM을 활용한 AI 에이전트 개발 입문'
+>       - <img src="https://github.com/guraband/TIL/blob/main/images/doit_llm_agent.jpg?raw=true" width=300/>
+>       - 회사 스터디에서 이 책을 선정해서 오늘부터 스터디를 진행하게 됐다. 목차로 봤을 땐 그동안 봤던 LLM, AI Agent 관련 도서들에 비해 내용이 괜찮은 것 같다.
+>       - 1~2장 읽음
+
+---
