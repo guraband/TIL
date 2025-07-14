@@ -121,3 +121,10 @@
 >       - chatper5-1,2 실습
 
 ---
+
+## ✏️ 2025.07.14
+> **🎥 개발 관련 유튜브 시청**  
+>   - [CodeRabbit + AI 코딩 에이전트: AI 코딩 에이전트의 성능을 10배 올려줍니다](https://youtu.be/dmr4A7qc_kw?si=GftHCzoU13I3-EAO)
+>   - [AI 특이점은 이미 시작됐다, 살아남는 인간이 되는 방법 (김대식X송길영)ㅣ10분토론 /14F](https://youtu.be/OAaChcb2QZQ?si=HXIg_KEGG5Q6YZsX)
+
+---
