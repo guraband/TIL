@@ -138,3 +138,14 @@
 >       - chatper5-3,4 읽음
 
 ---
+
+## ✏️ 2025.07.16
+> **🎥 개발 관련 유튜브 시청**  
+>   - [Meta 인재영입, 알렉산더 왕과 Scale AI 빅딜, Meta가 초지능을 돈으로 사려고 합니다](https://youtu.be/T0yOfMqsJY0?si=hbpOauv5475ilrdt)
+
+> **💻 토이프로젝트**
+>   - openai의 gpt-image-1 api 테스트
+>       - 소속 조직 관련 인증을 받은 뒤에는 정상적으로 api 호출이 가능했다.
+>       - 파라미터 중 "quality"가 low일 때와 high일 때의 차이가 컸다. low는 못 쓸 것 같다.
+
+---
