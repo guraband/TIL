@@ -149,3 +149,11 @@
 >       - 파라미터 중 "quality"가 low일 때와 high일 때의 차이가 컸다. low는 못 쓸 것 같다.
 
 ---
+
+## ✏️ 2025.07.17
+> **🎥 개발 관련 유튜브 시청**  
+>   - [열받는 Cursor 비용정책, Amazon의 무료 AI IDE로 해결하세요](https://youtu.be/iL6OR79RE7Y?si=mtcYS2KX1Wv01wsE)
+>   - [커서 CEO도 복잡해서 사과한 요금제 완벽 정리](https://youtu.be/u9W1ZqqkUmw?si=ocak1UiWqq3saEyr)
+>   - [클로드 코드 설치 5분 컷! | VS 코드, 커서 AI 통합 사용법](https://youtu.be/J0IWxZXczxs?si=ayNniuCdm9R2WPY_)
+
+---
