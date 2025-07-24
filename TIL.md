@@ -203,3 +203,10 @@
 >       - chatper6 예제 실습
 
 ---
+
+## ✏️ 2025.07.24
+> **🎥 개발 관련 유튜브 시청**  
+>   - [[무료 바이브 코딩] 구글 제이나이 CLI 소개 및 설치방법](https://youtu.be/47kWpjESQUs?si=Ehzv-pdYVKKRmihU)
+>   - [한국어 끝판왕의 귀환, Exaone 4.0 사용해보기!](https://youtu.be/isQvHZpXckQ?si=qTluh4gO4aqpQJcz)
+
+---
