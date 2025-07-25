@@ -210,3 +210,9 @@
 >   - [한국어 끝판왕의 귀환, Exaone 4.0 사용해보기!](https://youtu.be/isQvHZpXckQ?si=qTluh4gO4aqpQJcz)
 
 ---
+
+## ✏️ 2025.07.25
+> **🎥 개발 관련 유튜브 시청**  
+>   - [한글도 잘하는 Deepseek 노트북에서 맛보기 feat.Ollama, Langgraph](https://youtu.be/cAx5ItHRWkM?si=ULaaxkWQhJtK_Wxh)
+
+---
