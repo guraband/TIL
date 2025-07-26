@@ -216,3 +216,10 @@
 >   - [한글도 잘하는 Deepseek 노트북에서 맛보기 feat.Ollama, Langgraph](https://youtu.be/cAx5ItHRWkM?si=ULaaxkWQhJtK_Wxh)
 
 ---
+
+## ✏️ 2025.07.26
+**📖 개발 관련 도서 읽음**
+>   - 'Do it! LLM을 활용한 AI 에이전트 개발 입문'
+>       - chatper7 읽음
+
+---
