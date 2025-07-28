@@ -233,3 +233,10 @@
 >       - chatper7 - tool calling 실습
 
 ---
+
+## ✏️ 2025.07.28
+> **📖 개발 관련 유튜브 시청**
+>   - [맥 파이썬 설치하기 (Conda Python)](https://youtu.be/iYWYKJHE7jw?si=ymQTSaPZ4c0F5a0T)
+>       - conda 사용법을 확인하기 위해 찾아봤다.
+
+---
