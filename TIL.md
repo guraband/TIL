@@ -23,4 +23,9 @@
 >   - [스프링 AI : 1. 스프링 AI란?](https://youtu.be/-g6goXtCilM?si=43XdK-aIvb_HoL5c)
 >   - [스프링 AI : 2. 프로젝트 생성 및 OpenAI 의존성](https://youtu.be/up4TrRvLI-E?si=XL8N2DMTge2eVuoX)
 
+> **📖 개발 관련 도서 읽음**
+>   - 'Do it! LLM을 활용한 AI 에이전트 개발 입문'
+>       - 8-1 읽음
+
+
 ---
