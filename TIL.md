@@ -34,4 +34,8 @@
 >   - [스프링 AI : 3. 챗봇 Controller, VIEW](https://youtu.be/SUwmtUjTArw?si=-Co8_P3cVEzOZyxc)
 >   - [스프링 AI : 4. 챗 멀티턴 및 히스토리 : ChatMemory](https://youtu.be/mODouW9WaSE?si=aW9N6jmWppxFvhii)
 
+> **📖 개발 관련 도서 읽음**
+>   - 'Do it! LLM을 활용한 AI 에이전트 개발 입문'
+>       - 8-2 읽음
+
 ---
