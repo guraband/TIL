@@ -46,3 +46,11 @@
 >       - Claude code가 그렇게 좋다던데. 한 번 써보고 싶다.
 
 ---
+
+## ✏️ 2025.08.07
+> **📖 개발 관련 유튜브 시청**
+>   - [Ollama의 네이티브 UI가 출시되었습니다 💖](https://youtu.be/0nO5Gm_6HYo?si=3ZzDLF8j0WyJfxfX)
+>   - [GPT OSS 무료로 풀려버렸습니다](https://youtu.be/m13q34Pgi5o?si=gewChBofq_Gf89H3)
+>       - ollama에 gpt-oss:20b 모델을 다운 받고 몇 가지 질문을 해봤는데 제법 괜찮았다. ollama의 GUI 버전도 나와서 같이 써봤다.
+
+---
