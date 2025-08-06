@@ -39,3 +39,10 @@
 >       - 8-2 읽음
 
 ---
+
+## ✏️ 2025.08.06
+> **📖 개발 관련 유튜브 시청**
+>   - [클로드 Opus 4.1 세계 최강 에이전틱 AI](https://youtu.be/jFci-l6wvOU?si=y4JV4zkReXhVbvQX)
+>       - Claude code가 그렇게 좋다던데. 한 번 써보고 싶다.
+
+---
