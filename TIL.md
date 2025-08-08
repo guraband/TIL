@@ -64,4 +64,8 @@
 >   - 키워드별 뉴스 요약 기능 구현
 >   - 일별 리포트 생성시 뉴스 요약 정보를 반영하도록 수정
 
+> **📖 개발 관련 유튜브 시청**
+>   - [[GPT-5 출시] GPT-5는 한국어를 얼마나 잘할까요? (GPT-5 vs Opus 4.1 비교)](https://youtu.be/24TJSXIy-3M?si=dFapp-2NJuRn73wA)
+>   - [GPT5 무슨 맛인지 제가 대신 먹어봤습니다](https://youtu.be/0SgyLti1nzU?si=jnJOxMNthRjUcjbG)
+
 ---
