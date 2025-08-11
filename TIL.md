@@ -95,4 +95,12 @@
 >   - HTML 경량화 기능 추가 및 Gemini API 재시도 로직 개선
 >   - 성공한 proxy를 우선 적용하도록 수정
 
+> **MCP 테스트**
+>   - [Claude ChatGPT MCP Tool](https://github.com/syedazharmbnr1/claude-chatgpt-mcp)
+>       - 아래 영상을 통해서 알게 됐고, 실제로 써보니 작동은 잘 되었지만 두 가지 문제가 있었다.
+>           1. ChatGPT가 추론 모드로 들어가면 claude가 답변을 받지 못하고 (timeout이 있는 것인지) 자기 혼자 답변을 생성한다.
+>           2. Claude 무료 사용자는 몇 번의 대화만으로 금방 허용량이 초과해버린다.
+>       - 잠깐이었지만 두 LLM이 대화를 나누는 것을 보고 있으니 기분이 이상했다. 신기함과 무서움이 섞인 기분이랄까.
+>       - [GPT5와 클로드가 힘을 합해서 MCP를 가동시킵니다. 이젠 GPT5xClaude MCP 어마어마 합니다.](https://youtu.be/DUobtMbPCpE?si=xrv6XCPIb33uwORO)
+
 ---
