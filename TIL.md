@@ -104,3 +104,9 @@
 >       - [GPT5와 클로드가 힘을 합해서 MCP를 가동시킵니다. 이젠 GPT5xClaude MCP 어마어마 합니다.](https://youtu.be/DUobtMbPCpE?si=xrv6XCPIb33uwORO)
 
 ---
+
+## ✏️ 2025.08.12
+> **📖 개발 관련 유튜브 시청**
+>   - [AI뉴스 - GPT-5 출시, gpt-oss 공개, 구글 Genie 3, 그록 4.2 소식, Opus 4.1, Qwen-Image 등](https://youtu.be/xl-g_zsoB-U?si=-KRnvXspgsqBA-as)
+
+---
