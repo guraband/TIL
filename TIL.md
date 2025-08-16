@@ -123,3 +123,22 @@
 >   - [커서 CLI가 클로드 코드를 이길지도 모르겠습니다](https://youtu.be/-WnfHQlyJhw?si=KaLPD85b1_seKSoV)
 
 ---
+
+## ✏️ 2025.08.15
+> **🤖 Spring AI 학습**
+>   - [Spring AI 유튜브 강의](https://youtube.com/playlist?list=PLJkjrxxiBSFCgcsP_pzuntmqC3AlTMWFx&si=QSrj6GQjQhKkQ2n4) 학습 시작
+>       - 프로젝트 기초 세팅
+
+---
+
+## ✏️ 2025.08.15
+> **🤖 Spring AI 학습**
+>   - [Spring AI 유튜브 강의](https://youtube.com/playlist?list=PLJkjrxxiBSFCgcsP_pzuntmqC3AlTMWFx&si=QSrj6GQjQhKkQ2n4) 학습 시작
+
+---
+
+## ✏️ 2025.08.16
+> **🤖 Spring AI 학습**
+>   - [스프링 AI : 2. 프로젝트 생성 및 OpenAI 의존성](https://youtu.be/up4TrRvLI-E?si=fDiTKxHqHyo2v51K)
+
+---
