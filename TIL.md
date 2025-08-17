@@ -142,3 +142,10 @@
 >   - [스프링 AI : 2. 프로젝트 생성 및 OpenAI 의존성](https://youtu.be/up4TrRvLI-E?si=fDiTKxHqHyo2v51K)
 
 ---
+
+## ✏️ 2025.08.17
+> **🤖 Spring AI 학습**
+>   - [스프링 AI : 2. 프로젝트 생성 및 OpenAI 의존성](https://youtu.be/up4TrRvLI-E?si=fDiTKxHqHyo2v51K)
+>       - cursor에 kotlin, spring 관련 플러그인을 설치해서 사용해보고 있는데 intelliJ보다 불편하다. 문법 오류 확인이 바로바로 되지 않는 점이 특히 불편하다.
+
+---
