@@ -156,3 +156,9 @@
 >   - [Agentic AI의 기술적 해부 (RAG, A2A, MCP, MAS,...)](https://youtu.be/aDukCWkPbeQ?si=XAxK6Wrxgr7Cp-hK)
 
 ---
+
+## ✏️ 2025.08.19
+> **🤖 Spring AI 학습**
+>   - [스프링 AI : 3. 챗봇 Controller, VIEW](https://youtu.be/SUwmtUjTArw?si=aEvFb-Ne81eHv0xw)
+
+---
