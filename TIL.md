@@ -162,3 +162,9 @@
 >   - [스프링 AI : 3. 챗봇 Controller, VIEW](https://youtu.be/SUwmtUjTArw?si=aEvFb-Ne81eHv0xw)
 
 ---
+
+## ✏️ 2025.08.20
+> **🤖 Spring AI 학습**
+>   - [스프링 AI : 4. 챗 멀티턴 및 히스토리 : ChatMemory](https://youtu.be/mODouW9WaSE?si=xUknATJmvYD5Zob_)
+
+---
