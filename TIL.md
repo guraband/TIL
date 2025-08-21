@@ -168,3 +168,9 @@
 >   - [스프링 AI : 4. 챗 멀티턴 및 히스토리 : ChatMemory](https://youtu.be/mODouW9WaSE?si=xUknATJmvYD5Zob_)
 
 ---
+
+## ✏️ 2025.08.21
+> **🤖 Spring AI 학습**
+>   - [스프링 AI : 5. 히스토리 구현 JPA](https://youtu.be/85qxgRIEycY?si=QHFwNCfI0Ty1lYCB)
+
+---
