@@ -174,3 +174,10 @@
 >   - [스프링 AI : 5. 히스토리 구현 JPA](https://youtu.be/85qxgRIEycY?si=QHFwNCfI0Ty1lYCB)
 
 ---
+
+## ✏️ 2025.08.22
+> **🤖 Spring AI 학습**
+>   - [스프링 AI : 6. ChatClient](https://youtu.be/YD8s9n4WCAU?si=ukVfADkQdR_4zsvf)
+>   - [스프링 AI : 7. Structured Output](https://youtu.be/VqFQRubD4Gg?si=wGAX0mu5Bd7RYyOM)
+
+---
