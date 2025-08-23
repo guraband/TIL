@@ -181,3 +181,9 @@
 >   - [스프링 AI : 7. Structured Output](https://youtu.be/VqFQRubD4Gg?si=wGAX0mu5Bd7RYyOM)
 
 ---
+
+## ✏️ 2025.08.23
+> **🤖 Spring AI 학습**
+>   - [스프링 AI : 8. 에이전트를 위한 Tool Calling](https://youtu.be/AvmoGHyl6mE?si=3BkMJLZIcW4rlTju)
+
+---
