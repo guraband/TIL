@@ -194,3 +194,10 @@
 >       - 10-1 인터넷 검색 후 답변하기
 
 ---
+
+## ✏️ 2025.08.25
+> **🤖 Spring AI 학습**
+>   - [스프링 AI : 9. RAG를 위한 Advisor](https://youtu.be/x8sF68VFJBg?si=mXXuMGpnqVN6dIay)
+
+---
+
