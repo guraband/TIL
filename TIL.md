@@ -201,3 +201,10 @@
 
 ---
 
+
+## ✏️ 2025.08.25
+> **🤖 Spring AI 학습**
+>   - [스프링 AI : 10. Document Reader](https://youtu.be/gdN916ZC3EI?si=jdH5as0h5aSqsAxm)
+
+---
+
