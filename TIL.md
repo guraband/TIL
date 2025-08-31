@@ -245,6 +245,8 @@
 >   - **인프런** _맞춤형 LLM 만들기 – LoRA & QLoRA 파인튜닝 실습 입문_
 >       - 섹션 1. 파인튜닝 이론 소개
 >           - 9~11강, 퀴즈 학습
+>   - [Local LLM Fine-tuning on Mac (M1 16GB)](https://youtu.be/3PIqhdRzhxE?si=C2fL7Gx2aa-tl1pM)
+>       - 맥북에서 효율적으로 파인튜닝을 실행할 방법을 찾다가 알게 된 영상. 아직 다 보지는 않았고 중간까지만 봤지만 도움되는 내용들이 있었다.
 
 ---
 
