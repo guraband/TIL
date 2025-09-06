@@ -41,3 +41,11 @@
 >           - 13-1 랭그래프 기반 RAW를 위한 사전 작업
 
 ---
+
+## ✏️ 2025.09.06
+> **🎥 파인튜닝 학습**
+>   - [Local LLM Fine-tuning on Mac (M1 16GB)](https://youtu.be/3PIqhdRzhxE?si=C2fL7Gx2aa-tl1pM)
+>       - [blog - Local LLM Fine-Tuning on Mac (M1 16GB)](Local LLM Fine-Tuning on Mac (M1 16GB))
+>       - [github](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/qlora-mlx)
+
+---
