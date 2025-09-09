@@ -68,3 +68,15 @@
 >   - [나노바나나 무료 연결법 공개! n8n으로 이미지 편집부터 업로드까지 전부 자동화](https://youtu.be/ow1Mnmz6rho?si=s4XCdt6LWUCkF6dg)
 
 ---
+
+## ✏️ 2025.09.09
+> **📖 개발 관련 도서 읽음**
+>   - 'Do it! LLM을 활용한 AI 에이전트 개발 입문'
+>       - 14장 랭그래프로 목차를 작성하는 멀티에이전트 만들기
+>           - 14-1 챕터
+
+> **📖 개발 관련 유튜브 시청**
+>   - [AI뉴스 - 할루시네이션 원인 찾았다, 위험한 VibeVoice, Kimi K2-0905, Sonoma, DH3, 구글 분할 기각, 신박한 탈옥 방법, F.02 설거지 등](https://youtu.be/zjKZ6dc5-sE?si=XVY9haDhNnvzmSkN)
+
+---
+
