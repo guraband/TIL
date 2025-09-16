@@ -137,3 +137,10 @@
 >           - 15-2~3 읽음
 
 ---
+
+## ✏️ 2025.09.16
+> **📖 개발 관련 유튜브 시청**
+>   - [AI뉴스 - 새로운 이미지 1등, MCP 지원하는 ChatGPT 개발자 모드, 클로드 엑셀·PPT 생성, Veo 3 업데이트 등](https://youtu.be/t4JLgZ96hM0?si=uxFe4ATrHkwEOKbF)
+>   - [GPT5 Codex 나오자마자 사용 해봤는데 아주 강력합니다](https://youtu.be/w7aKhWjtBXQ?si=ugMw-tSjy--bC05r)
+
+---
