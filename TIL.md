@@ -142,5 +142,6 @@
 > **📖 개발 관련 유튜브 시청**
 >   - [AI뉴스 - 새로운 이미지 1등, MCP 지원하는 ChatGPT 개발자 모드, 클로드 엑셀·PPT 생성, Veo 3 업데이트 등](https://youtu.be/t4JLgZ96hM0?si=uxFe4ATrHkwEOKbF)
 >   - [GPT5 Codex 나오자마자 사용 해봤는데 아주 강력합니다](https://youtu.be/w7aKhWjtBXQ?si=ugMw-tSjy--bC05r)
+>   - [[임베딩 젬마] 100개 언어 지원하는 구글의 새로운 임베딩 모델](https://youtu.be/lkA4FkYqT3U?si=czy8I0HP8g_Dn8GL)
 
 ---
