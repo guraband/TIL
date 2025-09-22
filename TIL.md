@@ -186,3 +186,11 @@
 >   - [롯데카드 해킹사건과 모두의 정신건강](https://youtu.be/u-lFSf85Nx4?si=x3NrmOCff9WKwVgD)
 
 ---
+
+## ✏️ 2025.09.22
+> **📖 개발 관련 유튜브 시청**
+>   - [Perplexity Comet 강력하고 편하다](https://www.youtube.com/watch?v=reW2vEtcjCQ&pp=0gcJCeAJAYcqIYzv)
+>   - [구글 AI 모드 이렇게 쓰세요! 사용법 총정리 | 코멧 브라우저 완벽가이드](https://youtu.be/SPLR4RbM9sM?si=5SDXUvQcD_v6iEXy)
+>       - 실제 써보기도 했고 위 영상들에서 사용 예시도 봤지만 뭐가 그렇게 좋은 건지 아직 잘 모르겠다.
+
+---
