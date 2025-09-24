@@ -201,3 +201,10 @@
 >   - [AI뉴스 - ICPC 만점, Grok 4 Fast, AI_TOP_100, Figma AI, 구글 AP2, Wan-Animate, Meta Connect 등](https://youtu.be/3SP8nw26a34?si=us5YWmjglRBaXjzz)
 
 ---
+
+## ✏️ 2025.09.24
+> **📖 개발 관련 유튜브 시청**
+>   - [왜 개발자들이 파이썬을 버리고 Rust로 가는가 (AI 껍데기 언어의 한계)](https://youtu.be/FbXQmI7IkZg?si=LLJpb5KEul4HfeOm)
+>   - [이런 착각하는 개발자는 물경력되기 쉽습니다ㅣ컬리 출신 CTO의 커리어 상담](https://youtu.be/MXjyK3SvBAk?si=z7mRUTQBhh4EAv1G)
+
+---
