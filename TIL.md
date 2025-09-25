@@ -208,3 +208,10 @@
 >   - [이런 착각하는 개발자는 물경력되기 쉽습니다ㅣ컬리 출신 CTO의 커리어 상담](https://youtu.be/MXjyK3SvBAk?si=z7mRUTQBhh4EAv1G)
 
 ---
+
+## ✏️ 2025.09.25
+> **📖 개발 관련 유튜브 시청**
+>   - [모르고 배우면 손해! 현존 최강 바이브코딩툴, 클로드 코드 공부전 알아두면 시간낭비 안하는 3가지 | 클로드코드로 상용 웹, 앱까지 개발한 후 공유하는 팁](https://youtu.be/H-7ocZLZSRM?si=_PRCRUWVTywYRYv9)
+>   - [Agent 3의 와우 포인트 3가지! | Replit 레플릿 | 코딩 에이전트](https://youtu.be/oFzzHLOPSys?si=VP_c9TbToHqnBhgz)
+
+---
