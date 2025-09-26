@@ -215,3 +215,9 @@
 >   - [Agent 3의 와우 포인트 3가지! | Replit 레플릿 | 코딩 에이전트](https://youtu.be/oFzzHLOPSys?si=VP_c9TbToHqnBhgz)
 
 ---
+
+## ✏️ 2025.09.26
+> **📖 개발 관련 유튜브 시청**
+>   - [Replit Agent 3.. 궁극의 딸깍 툴이 탄생해버렸다](https://youtu.be/I5A5siRy16E?si=NQ-sV9LWQnoN1c1K)
+
+---
