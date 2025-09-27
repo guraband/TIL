@@ -221,3 +221,9 @@
 >   - [Replit Agent 3.. 궁극의 딸깍 툴이 탄생해버렸다](https://youtu.be/I5A5siRy16E?si=NQ-sV9LWQnoN1c1K)
 
 ---
+
+## ✏️ 2025.09.27
+> **📖 개발 관련 유튜브 시청**
+>   - [GPT-5-Codex 공개, 모델 설명하고 openAI 팟캐스트 정리했습니다.](https://youtu.be/CBnmIs1adbY?si=MrU10K1vhDh3qhCn)
+
+---
