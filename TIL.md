@@ -227,3 +227,10 @@
 >   - [GPT-5-Codex 공개, 모델 설명하고 openAI 팟캐스트 정리했습니다.](https://youtu.be/CBnmIs1adbY?si=MrU10K1vhDh3qhCn)
 
 ---
+
+## ✏️ 2025.09.28
+> **📖 개발 관련 유튜브 시청**
+>   - [Play MCP 잘하면 충격의 카카오톡 업데이트를 극복할 카드](https://youtu.be/LLDmf0cqfWI?si=s5OvqmEpmxDaxc-z) 
+>   - [CORL 2025, Humanoid 2025 참여 전에 국내외 로봇 근황 정리했습니다.](https://youtu.be/dF3MXRPrPH4?si=jkdlkvJNJqhPVeJp)
+
+---
