@@ -234,3 +234,9 @@
 >   - [CORL 2025, Humanoid 2025 참여 전에 국내외 로봇 근황 정리했습니다.](https://youtu.be/dF3MXRPrPH4?si=jkdlkvJNJqhPVeJp)
 
 ---
+
+## ✏️ 2025.09.29
+> **📖 개발 관련 유튜브 시청**
+>   - [AI 코딩 툴? 찐 대세가 나타났다!](https://youtu.be/DHAiyJrX7t4?si=PM0rdbXJNCwCHNt5)
+
+---
