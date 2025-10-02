@@ -252,3 +252,9 @@
 >   - [상남자들만 쓰는 OS](https://youtu.be/dYh4qdhpISE?si=gfhoIHKGAu7z1ehB)
 
 ---
+
+## ✏️ 2025.10.02
+> **📖 개발 관련 유튜브 시청**
+>   - [백엔드는 postgreSQL 하나로 끝](https://youtu.be/OZrmFD2ajlQ?si=t4wfrBzR86jORd50)
+
+---
