@@ -258,3 +258,9 @@
 >   - [백엔드는 postgreSQL 하나로 끝](https://youtu.be/OZrmFD2ajlQ?si=t4wfrBzR86jORd50)
 
 ---
+
+## ✏️ 2025.10.03
+> **📖 개발 관련 유튜브 시청**
+>   - [커서 AI 브라우저 자동화 미쳤네요](https://youtu.be/nUtQLCPhKm8?si=0tsP5U7hH9fPwcLz)
+
+---
