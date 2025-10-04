@@ -264,3 +264,9 @@
 >   - [커서 AI 브라우저 자동화 미쳤네요](https://youtu.be/nUtQLCPhKm8?si=0tsP5U7hH9fPwcLz)
 
 ---
+
+## ✏️ 2025.10.04
+> **📖 개발 관련 유튜브 시청**
+>   - [충격! 이제 바이브 코딩도 끝이라고? 클로드 Imagine이 보여준 새로운 미래](https://youtu.be/LV6LktXKKdE?si=jUqHTpEn8R147Be5)
+
+---
