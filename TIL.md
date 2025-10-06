@@ -27,3 +27,9 @@
 >   - [불 한번으로 대한민국 먹통, 카카오의 재평가. 카카오한테 왜그랬을까?](https://youtu.be/sDcJmQ8VkdM?si=2KqBqP0Bg9rEV0Sn)
 
 ---
+
+## ✏️ 2025.10.06
+> **📖 개발 관련 유튜브 시청**
+>   - [AI뉴스 - Sora 2, 클로드 Sonnet 4.5, GLM-4.6, DeepSeek V3.2-Exp, Gemini 3.0 Pro 출시 임박, 나노바나나 업데이트 등](https://youtu.be/aN4gqg3YpYY?si=uRdRAktbFZZxUPuB)
+
+---
