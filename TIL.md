@@ -33,3 +33,10 @@
 >   - [AI뉴스 - Sora 2, 클로드 Sonnet 4.5, GLM-4.6, DeepSeek V3.2-Exp, Gemini 3.0 Pro 출시 임박, 나노바나나 업데이트 등](https://youtu.be/aN4gqg3YpYY?si=uRdRAktbFZZxUPuB)
 
 ---
+
+## ✏️ 2025.10.07
+> **📖 개발 관련 유튜브 시청**
+>   - [내 사이드 프로젝트가 쓰레기통으로 가는 이유](https://youtu.be/015opUcPlK4?si=V4Y_xtNR0CjH_Oxh)
+>   - [롯데백화점, AI로 분석 시간 70% 단축-잘레시아 & Strategy 성공 사례](https://youtu.be/coOKNR5Fz84?si=or7WY8SPgvsprbFo)
+
+---
