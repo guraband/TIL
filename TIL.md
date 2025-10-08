@@ -40,3 +40,10 @@
 >   - [롯데백화점, AI로 분석 시간 70% 단축-잘레시아 & Strategy 성공 사례](https://youtu.be/coOKNR5Fz84?si=or7WY8SPgvsprbFo)
 
 ---
+
+## ✏️ 2025.10.08
+> **📖 개발 관련 유튜브 시청**
+>   - [EP 71. 시끌벅적한 전환의 시기, 쏟아지는 AI 뉴스들 (25. 9. 26. ~ 25. 10. 4.)](https://youtu.be/A98IRtQCgkI?si=V7TZAJroKyxre0UV)
+>   - [(한글자막) Open AI Agent Builder 새로운 에이전트 생태계의 시작](https://youtu.be/mCr9zJY8Vyg?si=DyKpX8Y3QjdpbJIQ)
+
+---
