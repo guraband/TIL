@@ -47,3 +47,12 @@
 >   - [(한글자막) Open AI Agent Builder 새로운 에이전트 생태계의 시작](https://youtu.be/mCr9zJY8Vyg?si=DyKpX8Y3QjdpbJIQ)
 
 ---
+
+## ✏️ 2025.10.09
+> **📖 개발 관련 유튜브 시청**
+>   - [OpenAI 또 스타트업 문 닫게... 챗GPT는 이렇게 '슈퍼앱'이 됩니다 [OpenAI DevDay 2025 의미]](https://youtu.be/o0ss3x9FE78?si=RH_spdZB-THecndQ)
+
+> **💻 토이프로젝트 : 나무위키 실검 크롤러**
+>   - 일별 수동 실행 기능 추가
+
+---
