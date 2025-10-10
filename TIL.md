@@ -56,3 +56,8 @@
 >   - 일별 수동 실행 기능 추가
 
 ---
+
+## ✏️ 2025.10.10
+> **📖 개발 관련 유튜브 시청**
+>   - [OpenAI DevDay 2025 총정리: AI 구축의 새로운 시대 시작!](https://youtu.be/7HrYEpCW1AY?si=aZa_EivCB6a_whUf)
+---
