@@ -83,4 +83,9 @@
 >   - [2025 반드시 알아둬야할 이 개발자 플랫폼은?](https://youtu.be/bClgGbYfeWE?si=jxegTdLowUxLhmyB)
 >       - cloudFlare에 대한 소개. 생각보다 많은 서비스를 제공하고 있었다.
 
+> **💻 토이프로젝트 : 나무위키 실검 크롤러**
+>   - 이미지 생성 모델 변경
+>       - gpt-image-1 -> gpt-image-1-mini
+>           - output 비용이 1/5정도로 확 줄어든 것 같고 그에 비해 결과물은 나쁘지 않은 것 같다!
+
 ---
