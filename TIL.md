@@ -77,3 +77,10 @@
 >              - 01. Kubernetes를 이용한 MSA 기반 SNS 백엔드 개발
 
 ---
+
+## ✏️ 2025.10.13
+> **📖 개발 관련 유튜브 시청**
+>   - [2025 반드시 알아둬야할 이 개발자 플랫폼은?](https://youtu.be/bClgGbYfeWE?si=jxegTdLowUxLhmyB)
+>       - cloudFlare에 대한 소개. 생각보다 많은 서비스를 제공하고 있었다.
+
+---
