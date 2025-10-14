@@ -89,3 +89,11 @@
 >           - output 비용이 1/5정도로 확 줄어든 것 같고 그에 비해 결과물은 나쁘지 않은 것 같다!
 
 ---
+
+
+## ✏️ 2025.10.14
+> **📖 개발 관련 유튜브 시청**
+>   - ['밑바닥부터 만들면서 배우는 LLM' 책 소개](https://youtu.be/R80Gfde4cpg?si=8_JQbJEHviVzQEaG)
+>   - [중국의 추격, 메타 라마의 추락](https://youtu.be/59SzIYwZHmM?si=9wSt-BL7Auj8vwJ7)
+
+---
