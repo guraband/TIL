@@ -90,10 +90,18 @@
 
 ---
 
-
 ## ✏️ 2025.10.14
 > **📖 개발 관련 유튜브 시청**
 >   - ['밑바닥부터 만들면서 배우는 LLM' 책 소개](https://youtu.be/R80Gfde4cpg?si=8_JQbJEHviVzQEaG)
 >   - [중국의 추격, 메타 라마의 추락](https://youtu.be/59SzIYwZHmM?si=9wSt-BL7Auj8vwJ7)
+
+---
+
+## ✏️ 2025.10.15
+> **📖 개발 관련 유튜브 시청**
+>   - [개발자들은 AI에게 실망했다](https://youtu.be/yX809fGO6Bw?si=_rQ9t_Le9XwEEOSb)
+
+> **📖 개발 관련 도서 대여**
+>   - [밑바닥부터 시작하는 웹 브라우저](https://product.kyobobook.co.kr/detail/S000217503808)
 
 ---
