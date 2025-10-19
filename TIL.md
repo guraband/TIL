@@ -141,4 +141,7 @@
 >       - <img src="https://github.com/guraband/TIL/blob/main/images/system_design_interview.jpg?raw=true" width=300/>
 >       - 1권을 흥미롭게 읽어서 2권을 사놨다가 보지 않고 있었다. 생각나서 펼쳐보니 여전히 흥미로우면서도 난이도는 좀 더 올라간 것 같다. 천천히 꾸준히 읽어봐야겠다.
 
+> **💻 gb2025**
+>   - 추천 요약, 해시태그 입력 편의성 개선
+
 ---
