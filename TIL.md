@@ -180,3 +180,10 @@
 >       - 조만간 spring boot의 버전을 2.7.x에서 3.x로 올려야겠다.
 
 ---
+
+## ✏️ 2025.10.24
+> **📖 개발 관련 유튜브 시청**
+>   - [지속 성장 가능한 설계를 만들어가는 방법 | 인프콘2024](https://youtu.be/HCB8jgAfG44?si=V5ZqChE3v5g9HIVj)
+>   - [왜 은행 금융은 여전히 Java가 지배할까? (92%가 코어에 사용)](https://youtu.be/WzcW_xraLsk?si=jg3MYvtPTY5_ThmT)
+
+---
