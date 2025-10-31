@@ -250,3 +250,9 @@
 >              - 02. Follow, Unfollow 기능 개발
 
 ---
+
+## ✏️ 2025.10.31
+> **📖 개발 관련 유튜브 시청**
+>   - [어이없는 AWS 연쇄 폭발 사건](https://youtu.be/ZDhEQcL5bYg?si=S2w4Z8TRe5Ekxbbf)
+
+---
