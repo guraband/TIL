@@ -27,3 +27,4 @@
 > **📖 개발 관련 유튜브 시청**
 >   - [고급 개발자용 제대로된 AI 사용법](https://youtu.be/UPVoYqaKYAU?si=wI3L-F9Gz21i7B-F)
 >   - [Cursor 2.0.. 오늘부터 커서로 갈아탑니다](https://youtu.be/K-Rwdsw7xuE?si=iaqw_wLI4VYT9mZi)
+>   - [내가 알려주면 쉬움 Claude Skills](https://youtu.be/jxzpitU9YBg?si=gdGR3Lcf15DUnDPw)
