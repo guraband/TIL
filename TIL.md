@@ -28,3 +28,12 @@
 >   - [고급 개발자용 제대로된 AI 사용법](https://youtu.be/UPVoYqaKYAU?si=wI3L-F9Gz21i7B-F)
 >   - [Cursor 2.0.. 오늘부터 커서로 갈아탑니다](https://youtu.be/K-Rwdsw7xuE?si=iaqw_wLI4VYT9mZi)
 >   - [내가 알려주면 쉬움 Claude Skills](https://youtu.be/jxzpitU9YBg?si=gdGR3Lcf15DUnDPw)
+
+---
+
+## ✏️ 2025.11.05
+> **💻 토이프로젝트 : 네이버페이 줍줍봇**
+>   - 변경된 방식에 맞춰 v2 제작
+>   - cursor의 도움으로 완전히 새로 만들었는데도 2시간만에 작업을 완료할 수 있었다.
+
+---
