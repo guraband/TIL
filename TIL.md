@@ -72,5 +72,6 @@
 >       - Project 9. 쿠버네티스 활용 MSA 기반 SNS 프로젝트
 >           - Ch 5. Notification Batch 개발
 >               - 01. Follower 메일 알림 기능 개발
+>               - 02. Job과 CronJob을 활용한 배치 수행
 
 ---
