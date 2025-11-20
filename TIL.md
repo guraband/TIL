@@ -173,3 +173,10 @@
 >   - **인프런** _카카오 면접관(개발자)이 알려주는 MSA 관점에서의 분산 트랜잭션 패턴
 >       - 15. Choreography vs Orchestration 패턴 상세비교
 
+---
+
+## ✏️ 2025.11.20
+> **📖 개발 관련 유튜브 시청**
+>   - [드디어 커서 지웠습니다. 결국 구글이 이겼네요. 안티그래비티 Antigravity](https://youtu.be/B9cm-NgD-uA?si=yQGosAuV76Wd4g9B)
+
+---
