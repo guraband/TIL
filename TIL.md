@@ -9,3 +9,10 @@
 >   - [AI뉴스 - Z-Image, Flux 2, 클로드 오퍼스 4.5, 오픈AI 광고, 쇼핑, DeepSeekMath-V2, Fara-7B, HunyuanOCR 등](https://youtu.be/2y58QCE18Jw?si=_pabV5QtCH-BPmx2)
 
 ---
+
+## ✏️ 2025.12.03
+> **✍️ 토이프로젝트 : Project Echo**
+>   - 나의 문체를 따라하는 파인튜닝 LLM 모델 만들기 프로젝트
+>   - Gemma3:27B를 사용해서 데이터셋 생성
+
+---
