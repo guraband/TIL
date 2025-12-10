@@ -60,3 +60,12 @@
 >   - [엔비디아 DGX SPARK 플랫폼 적용 '기가바이트 AI TOP ATOM' 간단하게 써보기](https://youtu.be/p0Fjvz3YFAE?si=ZAubWUJhJ4wE3kPf)
 
 ---
+
+## ✏️ 2025.12.10
+> **🎮 Unity 학습**
+>   - **인프런** _AI 시대의 혁신적인 게임 개발 입문 with Unity6_
+>       - 7. 사칙연산, if문
+>       - 8. 배열과 반복문(for , while)
+>       - 9. 함수, 코루틴
+>       - 10. 컴포넌트와 연계하기
+>       - 11. 유니티만의 코드
