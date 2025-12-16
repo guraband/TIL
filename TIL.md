@@ -129,4 +129,7 @@
 >       - 데이터 수집은 comet 브라우저와 cursor + 브라우저 mcp를 사용해봤다. comet은 결과가 만족스럽지 못했고 cursor는 비교적 잘 수행했다.
 >   - 프롬프트만 잘 만들면 굳이 파인튜닝을 하지 않아도 가능할 것 같기도 하다.
 
+> **📖 개발 관련 유튜브 시청**
+>   - [AI뉴스 - GPT-5.2, 오픈AI 디즈니 계약, 테슬라 그록 통합, 우주 GPU, 중국 H200 수출, Gemini TTS 업데이트 등](https://youtu.be/rYJdY_5Z-eU?si=wqMHCpR-koje1PV6)
+
 ---
