@@ -172,3 +172,7 @@
 > **📖 개발 관련 유튜브 시청**
 >   - [빠르게 진화하는 Google Gemini CLI 바이브코딩 튜토리얼](https://youtu.be/iOg4IEzK95Q?si=elyx-w6VHaSl6FQY)
 
+> **💻 토이프로젝트 : 2048**
+>   - gemini cli를 사용해서 웹 기반의 2048 게임을 만들어봤다.
+>       - gemini-3.0-flash가 괜찮았는데 금방 사용량 제한에 걸리는 점이 아쉬웠다.
+>       - 인증 방식을 api key 방식에서 구글 계정 인증 방식으로 변경하니 쿼터가 늘어난 것 같다.[참고](https://geminicli.com/docs/quota-and-pricing/)
