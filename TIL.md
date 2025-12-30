@@ -280,3 +280,9 @@
 >       - Part 1. 입문
 >           - Ch 05. Dart 활용하여 가위바위보 만들기
 >               - 01. Dart 활용하여 가위바위보 만들기
+>       - Part 2. 기초
+>           - Ch 00. 오리엔테이션
+>           - Ch 01. Flutter Widget 101
+>               - 01. What is Widget
+>               - 02. Hot restart와 Hot reload
+>               - 03. 디자인 가이드란
