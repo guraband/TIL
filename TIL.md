@@ -286,3 +286,9 @@
 >               - 01. What is Widget
 >               - 02. Hot restart와 Hot reload
 >               - 03. 디자인 가이드란
+
+---
+
+## ✏️ 2025.12.31
+> **📖 개발 관련 유튜브 시청**
+>   - ["현재 경제 시스템은 기술 발전을 못 따라간다" - 하사비스 [Thinking Game, Demis Hassabis, Google DeepMind]](https://youtu.be/BXqfMDYIzVk?si=L2P2Y8B6HuY3BHYT)
