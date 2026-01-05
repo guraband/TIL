@@ -46,5 +46,7 @@
 >       - Part 2. 기초
 >           - Ch 03. Flutter State Basic
 >               - 02. Flutter의 Widget 라이프사이클
+> **📖 개발 관련 유튜브 시청**
+>   - [구글이 또 해냈다..! n8n 위협하는 워크스페이스 스튜디오 공개](https://youtu.be/H_Ifpzb0CCc?si=u9-bAyUEGbXVyZ4T)
 
 ---
