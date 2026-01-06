@@ -56,3 +56,11 @@
 ## ✏️ 2026.01.06
 > **📖 개발 관련 유튜브 시청**
 >   - [AI뉴스 - Meta 마누스 인수, 업스테이지 중국 베끼기 논란, 오픈AI 펜, Tencent HY-Motion 1.0, Qwen-Image-2512, IQuest-Coder 등](https://youtu.be/Mgwe_eFGruM?si=RYUD-qklQDyvOBI2)
+
+
+## ✏️ 2026.01.07
+> **🎮 Flutter 학습**
+>   - **패스트캠퍼스** _15개 프로젝트로 실무까지 끝내는 Dart & Flutter 앱 개발_
+>       - Part 2. 기초
+>           - Ch 04. Flutter Architecture
+>               - 01. (Tip) Flutter는 어떻게 구성되어 돌아갈까
