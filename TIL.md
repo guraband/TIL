@@ -46,6 +46,7 @@
 >       - Part 2. 기초
 >           - Ch 03. Flutter State Basic
 >               - 02. Flutter의 Widget 라이프사이클
+
 > **📖 개발 관련 유튜브 시청**
 >   - [구글이 또 해냈다..! n8n 위협하는 워크스페이스 스튜디오 공개](https://youtu.be/H_Ifpzb0CCc?si=u9-bAyUEGbXVyZ4T)
 >       - 구글의 n8n 같은 자동화 툴이라 할 수 있는데, 아직은 연동되는 외부 서비스가 많지 않고 구글 워크스페이스 사용자만 사용 가능하다는 것이 단점.
@@ -57,10 +58,17 @@
 > **📖 개발 관련 유튜브 시청**
 >   - [AI뉴스 - Meta 마누스 인수, 업스테이지 중국 베끼기 논란, 오픈AI 펜, Tencent HY-Motion 1.0, Qwen-Image-2512, IQuest-Coder 등](https://youtu.be/Mgwe_eFGruM?si=RYUD-qklQDyvOBI2)
 
-
-## ✏️ 2026.01.07
 > **🎮 Flutter 학습**
 >   - **패스트캠퍼스** _15개 프로젝트로 실무까지 끝내는 Dart & Flutter 앱 개발_
 >       - Part 2. 기초
 >           - Ch 04. Flutter Architecture
 >               - 01. (Tip) Flutter는 어떻게 구성되어 돌아갈까
+
+---
+
+## ✏️ 2026.01.07
+> **🎮 Flutter 학습**
+>   - **패스트캠퍼스** _15개 프로젝트로 실무까지 끝내는 Dart & Flutter 앱 개발_
+>       - Part 2. 기초
+>           - Ch 05. Flutter Gesture
+>               - 01. Flutter의 다양한 입력들
