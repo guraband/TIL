@@ -72,3 +72,9 @@
 >       - Part 2. 기초
 >           - Ch 05. Flutter Gesture
 >               - 01. Flutter의 다양한 입력들
+
+---
+
+## ✏️ 2026.01.08
+> **💻 gb2025**
+>   - 신규 게시글 작성시 자동 임시저장, 복원 기능 구현 (Powered by Gemini CLI)
