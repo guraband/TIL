@@ -84,3 +84,17 @@
 >       - Part 2. 기초
 >           - Ch 05. Flutter Gesture
 >               - 02. Flutter의 Callback 이벤트
+
+---
+
+## ✏️ 2026.01.09
+> **💻 gb2025**
+>   - 신규 게시글 작성시 자동 임시저장, 복원 기능 구현 (Powered by Gemini CLI)
+
+> **🎮 Flutter 학습**
+>   - **패스트캠퍼스** _15개 프로젝트로 실무까지 끝내는 Dart & Flutter 앱 개발_
+>       - Part 2. 기초
+>           - Ch 06. Flutter Setting
+>               - 01. What is pubspec
+>               - 02. Flutter에서 외부 라이브러리를 쓰기
+>               - 03. Flutter에서 로컬 데이터를 활용하기
