@@ -98,3 +98,13 @@
 >               - 01. What is pubspec
 >               - 02. Flutter에서 외부 라이브러리를 쓰기
 >               - 03. Flutter에서 로컬 데이터를 활용하기
+
+
+---
+
+## ✏️ 2026.01.10
+> **🎮 Flutter 학습**
+>   - **패스트캠퍼스** _15개 프로젝트로 실무까지 끝내는 Dart & Flutter 앱 개발_
+>       - Part 2. 기초
+>           - Ch 07. Flutter Navigator
+>               - 01. Flutter에서 페이지에서 페이지 이동하기 1
