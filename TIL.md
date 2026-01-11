@@ -113,3 +113,8 @@
 ## ✏️ 2026.01.11
 > **💻 gb2026**
 >   - github action으로 배포 자동화
+
+> **📖 개발 관련 도서 읽음**
+>   - '요즘 개발자를 위한 시스템 설계 수업'
+>       - <img src="https://github.com/guraband/TIL/blob/main/images/system_design.jpg?raw=true" width=300/>
+>       - 1장과 X(트위터) 설계 부분을 읽어봤는데 재밌어보인다.
