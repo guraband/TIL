@@ -133,3 +133,10 @@
 >       - Part 2. 기초
 >           - Ch 07. Flutter Navigator
 >               - 01. Flutter에서 페이지에서 페이지 이동하기 2
+
+---
+
+## ✏️ 2026.01.13
+> **📖 개발 관련 유튜브 시청**
+>   - [꼭 알아야하는 클로드 코드 필수 꿀팁 60가지](https://youtu.be/a1a9wV88MSM?si=E-MYZGEEz7p-Zfn2)
+>   - [(쉬운 실습) 클로드 코드, Agent들을 내 마음대로 지휘하다! (에이전트 오케스트레이션)](https://youtu.be/DvSAD90VWM0?si=fIH_W0u2kl3153SQ)
