@@ -249,3 +249,13 @@
 >   - **인프런** _AI 다루는 백엔드 설계 기본 - SpringBoot SNS 편_
 >       - 섹션 2. 11~12강 학습
 >           - Spring Security의 로그인 처리 내용이었다.
+
+---
+
+## ✏️ 2026.01.24
+> **💬 토이프로젝트 : GURALAND**
+>   - frontend 작업
+>       - google stitch로 디자인 후 퍼블리싱
+>       - 해당 html, js 소스를 기반으로 cursor에서 Next.js 기반 FE 코드 작성
+
+---
