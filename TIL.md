@@ -321,3 +321,11 @@
 > **💻 SNS 설계 학습**
 >   - **인프런** _AI 다루는 백엔드 설계 기본 - SpringBoot SNS 편_
 >       - 섹션 2. 17~18강 학습
+
+> **💬 토이프로젝트 : Swing Filter**
+>   - 주식 퀀트 연습용 프로젝트
+>   - 데이터 수집 기능 구현 (pykrx 사용)
+
+> **📖 개발 관련 유튜브 시청**
+>   - [클로드 코드 10분컷 - 기초 사용법과 활용팁](https://youtu.be/7MEsgHKQGLg?si=52_lp5dyayv8Okuv)
+>       - [참고 문서 - 클로드 코드 10분컷 - 기초 사용법과 활용팁](https://codegear.tistory.com/146)
