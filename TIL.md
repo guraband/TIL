@@ -8,7 +8,7 @@
 ---
 
 ## ✏️ 2026.02.02
-> **💬 토이프로젝트 : Swing Filter**
+> **📈 토이프로젝트 : Swing Filter**
 >   - Phase 2. 전처리 및 피처 엔지니어링
 >   - Phase 3. 전략 핵심 로직 (Strategy Core)
 >   - 클로드 코드로 작업 진행
@@ -25,7 +25,15 @@
 >   - ["컴퓨터 전체를 AI에게 넘겼습니다... 결과가 충격적" 오픈클로, 클로드 코드 넘어 완전 자율 에이전트 시대 시작, Openclaw 가장 안전하게 사용하는 법](https://youtu.be/fgDF_YnxHTM?si=QiQcIq_74wlfyACf)
 >       - Openclaw가 난리긴 난리인가 보다. 궁금하다. 가상머신에 설치해서 실행하는 내용이 있으니 참고가 될 것 같다.
 
-> **💬 토이프로젝트 : Swing Filter**
+> **📈 토이프로젝트 : Swing Filter**
 >   - 백테스팅에 사용할 전략, 스코어링, 필터를 yaml로 선언해서 적용하도록 구조 변경
 >   - investor_trading 수집을 날짜별로 나누어, 날짜마다 로그·수집·DB 저장·commit 하도록 변경
 >   - API 딜레이 기본값을 0.3초 → 0.2초로 줄였고, pykrx 지수/코스닥 티커 호출에 try/except fallback 추가
+
+---
+
+## ✏️ 2026.02.04
+> **📈 토이프로젝트 : Swing Filter**
+>   - 유니버스·백테스터: 거래대금 미수집 시 거래량 대체·관리/거래정지 제외, StrategyConfig YAML 반영·날짜별 순차 처리
+>   - DB·runner: backtest_trades name 컬럼·ticker→name 사전 로드 성능 개선, init/migrate CLI, progress_callback·배치 진행률
+>   - 전략 YAML(chatgpt_v1/v2, default_v2, gemini_v2)·TODO 매도 전략 섹션·README·PRD·TODO 업데이트
