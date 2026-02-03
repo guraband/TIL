@@ -24,3 +24,8 @@
 >   - [AI 전용 SNS가 생겨버린 사안에 대하여... 몰트북](https://youtu.be/MOj6_2PtlB8?si=97wT-FraMGs-NrBc)
 >   - ["컴퓨터 전체를 AI에게 넘겼습니다... 결과가 충격적" 오픈클로, 클로드 코드 넘어 완전 자율 에이전트 시대 시작, Openclaw 가장 안전하게 사용하는 법](https://youtu.be/fgDF_YnxHTM?si=QiQcIq_74wlfyACf)
 >       - Openclaw가 난리긴 난리인가 보다. 궁금하다. 가상머신에 설치해서 실행하는 내용이 있으니 참고가 될 것 같다.
+
+> **💬 토이프로젝트 : Swing Filter**
+>   - 백테스팅에 사용할 전략, 스코어링, 필터를 yaml로 선언해서 적용하도록 구조 변경
+>   - investor_trading 수집을 날짜별로 나누어, 날짜마다 로그·수집·DB 저장·commit 하도록 변경
+>   - API 딜레이 기본값을 0.3초 → 0.2초로 줄였고, pykrx 지수/코스닥 티커 호출에 try/except fallback 추가
