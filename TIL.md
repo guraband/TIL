@@ -37,3 +37,8 @@
 >   - 유니버스·백테스터: 거래대금 미수집 시 거래량 대체·관리/거래정지 제외, StrategyConfig YAML 반영·날짜별 순차 처리
 >   - DB·runner: backtest_trades name 컬럼·ticker→name 사전 로드 성능 개선, init/migrate CLI, progress_callback·배치 진행률
 >   - 전략 YAML(chatgpt_v1/v2, default_v2, gemini_v2)·TODO 매도 전략 섹션·README·PRD·TODO 업데이트
+>   - Tier 1/2 피처 구현 및 피처 활성화 시스템 구축 (볼린저 밴드, RSI, MACD 등)
+>   - strategy_optimizer: 실험 결과 CSV 자동 저장 및 최적화 기능 추가
+>   - analyzer: 5대 팩터 업데이트 및 전략 YAML 지원 추가
+
+>   - 회고 : 승률 50%를 넘는 전략을 찾기 위해 지표들을 추가하고 각 지표들을 랜덤하게 설정해서 백테스트를 계속 돌리고 있다. 아직은 최대 40%대.
