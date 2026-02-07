@@ -52,3 +52,11 @@
 > **📈 토이프로젝트 : Swing Filter**
 >   - strategy_optimizer에 최적 전략 YAML 자동 생성 기능 추가
 >   - 통합 추천 종목 수집 스크립트 구현 완료 (aggregate_recommendations.py)
+
+---
+
+## ✏️ 2026.02.06
+> **📈 토이프로젝트 : Swing Filter**
+>   - 낙폭 과대주를 대상으로 데이트레이딩 전략을 세워서 백테스팅을 해봤으나 결과가 좋지 않았다. ㅠㅠ
+
+---
