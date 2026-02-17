@@ -169,3 +169,9 @@
 ## ✏️ 2026.02.16
 > **📖 개발 관련 유튜브 시청**
 >   - [클로드 코드 토근 녹는분들, 이 6가지만 바꿔보세요.](https://youtu.be/gLZ1wJUADqk?si=6tmLedLeaUUpH1N9)
+
+---
+
+## ✏️ 2026.02.17
+> **📖 개발 관련 유튜브 시청**
+>   - [AI뉴스 - 진짜 난리난 Seedance 2.0, Gemini 3 Deep, GPT-5.3-Codex-Spark, GLM-5, M2.5, Simile, AI여친 Clawra 등](https://youtu.be/_Ysmm7jMTxs?si=ngbgvwB9ydyO7665)
