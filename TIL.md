@@ -175,3 +175,12 @@
 ## ✏️ 2026.02.17
 > **📖 개발 관련 유튜브 시청**
 >   - [AI뉴스 - 진짜 난리난 Seedance 2.0, Gemini 3 Deep, GPT-5.3-Codex-Spark, GLM-5, M2.5, Simile, AI여친 Clawra 등](https://youtu.be/_Ysmm7jMTxs?si=ngbgvwB9ydyO7665)
+
+---
+
+## ✏️ 2026.02.18
+> **📖 개발 관련 유튜브 시청**
+>   - [요즘 다들 클로드코드 말고 이거 쓴다면서요? | OpenCode 코딩 에이전트](https://youtu.be/y5cze4tAXZU?si=XEVuAiXkFMHPaxRe)
+>   - [Cursor 구독 해지했습니다. 무료 오픈소스 AI(OpenCode)로 부동산 데이터를 싹 다 긁어오는 법](https://youtu.be/nPxjq21PmTI?si=OKLDkQryKbkWoSo2)
+
+---
