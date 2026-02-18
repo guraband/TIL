@@ -183,4 +183,11 @@
 >   - [요즘 다들 클로드코드 말고 이거 쓴다면서요? | OpenCode 코딩 에이전트](https://youtu.be/y5cze4tAXZU?si=XEVuAiXkFMHPaxRe)
 >   - [Cursor 구독 해지했습니다. 무료 오픈소스 AI(OpenCode)로 부동산 데이터를 싹 다 긁어오는 법](https://youtu.be/nPxjq21PmTI?si=OKLDkQryKbkWoSo2)
 
+> **🤖 opencode & oh-my-opencode 설치**
+>   - 설치 & OpenAI 연동
+>   - UI 속도가 빠른 것 같다.
+
+> **🤖 토이프로젝트 개발 - Monthly Income ETF Rebalancer**
+>   - opencode (+ codex 5.3)을 사용해서 진행했다.
+
 ---
