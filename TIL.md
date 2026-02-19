@@ -196,3 +196,9 @@
 > **🤖 토이프로젝트 개발 - chromaflow**
 >   - 서브 도메인 + s3 + cloudfront로 배포 [link](https://apps.guraband.com/chromaflow)
 >   - 정적 호스팅으로 서비스 가능한 웹앱을 s3 디렉토리로 구분해서 배포하려고 간단하게 구성해봤다. 디렉토리명으로 접근했을 때 /index.html로 리다이렉트가 자동으로 되지 않아서 cloudfront의 함수를 사용해서 리다이렉트 처리를 했다.
+
+> **💻 gb2026**
+>   - build.gradle 정리한 것 배포
+>       - github app에 gemini를 추가해서 pr 요청한 것을 gemini에게 코드 리뷰를 받았다.
+
+---
