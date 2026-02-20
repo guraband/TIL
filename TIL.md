@@ -202,3 +202,10 @@
 >       - github app에 gemini를 추가해서 pr 요청한 것을 gemini에게 코드 리뷰를 받았다.
 
 ---
+
+## ✏️ 2026.02.20
+> **📖 개발 관련 유튜브 시청**
+>   - [EP 85. OpenClaw와 2026년 2월의 신호들](https://youtu.be/bRsZH4CbhB4?si=kVLKJqYDUapUtOHc)
+
+> **🤖 토이프로젝트 개발 - Monthly Income ETF Rebalancer**
+>   - codex 웹으로 개발 진행 테스트
