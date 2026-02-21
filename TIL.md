@@ -209,3 +209,14 @@
 
 > **🤖 토이프로젝트 개발 - Monthly Income ETF Rebalancer**
 >   - codex 웹으로 개발 진행 테스트
+
+---
+
+## ✏️ 2026.02.21
+> **🤖 토이프로젝트 개발 - Monthly Income ETF Rebalancer**
+>   - codex로 ui 개발
+>       - codex(web)에 github을 연동해서 작업하는 방식을 이해했다.
+
+> **🤖 토이프로젝트 개발 - AI 뉴스 수집 앱**
+>   - sns와 웹에서 AI 뉴스를 수집해서 정리하는 앱
+>   - 기획 및 수집 로직 개발
