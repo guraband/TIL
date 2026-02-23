@@ -233,3 +233,11 @@
 >   - js 함수 공통화
 
 ---
+
+## ✏️ 2026.02.23
+> **📖 개발 관련 유튜브 시청**
+>   - [GPT 앱스토어 등장 🚨 개발자에게 열린 새로운 판!](https://youtu.be/as7cbFD3moU?si=M3QWs8R4XJpTwK4I)
+>       - GPT 앱 개발 방법에 대한 간단한 소개를 곁들인 강의 홍보였다.
+>   - [클로드를 좋아하는 세 번째 이유 : Skills 스킬즈](https://youtu.be/inIJk5PAIqg?si=K4n1oClvAeJMxD3z)
+
+---
