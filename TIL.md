@@ -241,3 +241,9 @@
 >   - [클로드를 좋아하는 세 번째 이유 : Skills 스킬즈](https://youtu.be/inIJk5PAIqg?si=K4n1oClvAeJMxD3z)
 
 ---
+
+## ✏️ 2026.02.24
+> **🤖 토이프로젝트 개발 - Telestration**
+>   - 보드게임 telestration을 codex로 개발
+
+---
