@@ -130,3 +130,11 @@
 >   - S3 클라이언트 싱글톤 전환 및 관련 버그 수정
 
 ---
+
+## ✏️ 2026.03.17
+> **🎥 개발 관련 유튜브 시청**
+>   - [비개발자가 클로드코드 해커톤을 휩쓴 이유 — 진짜 경쟁력은 코딩이 아니었다](https://youtu.be/Wiwtpp8d81Q?si=T3bHpfFLqjHs3DyV)
+>   - [AI뉴스 - 바이브 바이오 시대, 클로드 2배 이벤트, Gemini Embedding 2, 엔비디아 Nemotron 3 Super, TADA TTS, Fish Audio S2 등](https://youtu.be/1UV0whjDL_o?si=JhS8RBmlISb6h9nk)
+>   - [The star of Nvidia GTC was Groq. And NemoClaw](https://youtu.be/tQyC5pIAYJA?si=NMgV-1I97R_1Q2AI)
+
+---
