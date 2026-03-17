@@ -137,4 +137,9 @@
 >   - [AI뉴스 - 바이브 바이오 시대, 클로드 2배 이벤트, Gemini Embedding 2, 엔비디아 Nemotron 3 Super, TADA TTS, Fish Audio S2 등](https://youtu.be/1UV0whjDL_o?si=JhS8RBmlISb6h9nk)
 >   - [The star of Nvidia GTC was Groq. And NemoClaw](https://youtu.be/tQyC5pIAYJA?si=NMgV-1I97R_1Q2AI)
 
+> **🤖 토이프로젝트 개발 - 무한매수법 백테스터**
+>   - 데이터 reset & 새로 수집 기능 추가
+>   - 종목에 SOXL 추가
+>   - '무한매수법' 거래방식 추가
+
 ---
