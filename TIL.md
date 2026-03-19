@@ -157,6 +157,8 @@
 >   - OpenClaw 보안 점검 진행 및 credentials 권한 이슈 확인
 >   - Python 3.13, uv 설치 및 `python3` 기본 경로를 3.13으로 정리
 >   - Git 작성자 정보를 `Ned`로 분리하고 GitHub용 SSH 키를 생성/등록해서 저장소 접근 준비
+>   - OpenClaw를 통해 Git 저장소 조회, clone, 파일 수정, validator 실행, commit/PR 생성까지 전체 개발 플로우 테스트
+>   - 대화형으로 작업 지시를 내리고 프로젝트 기획/콘텐츠 작성/TIL 정리까지 이어지는 개인 작업 보조 흐름을 점검
 >
 > **🤖 토이프로젝트 개발 - holiday-vides**
 >   - 저장소 clone 및 프로젝트 구조/문서 확인
