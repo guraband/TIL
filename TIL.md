@@ -168,3 +168,18 @@
 >   - 밀실 실종 사건 기반으로 조사/심문/중간 추리/타임라인 고정/최종 추리 구조의 분기형 에피소드 설계
 >   - 장면 이미지 및 엔딩 전용 SVG 일러스트 다수 추가
 >   - 콘텐츠 validator 통과 확인 후 커밋 및 PR 생성
+
+---
+
+## ✏️ 2026.03.20
+> **🤖 openclaw 활용 및 자동화 실험**
+>   - 텔레그램 DM에서 브라우저 연동, Perplexity 리서치, 이미지 생성, TTS 음성 생성, 로컬 프로젝트 작업을 한 세션 안에서 오가며 작업 흐름을 점검
+>   - ComfyUI와 텔레그램 파일 전송 스킬을 이용해 퇴근 감성 이미지, 4컷 만화, 격려 음성 등을 생성/전송하는 실사용 흐름을 확인
+>
+> **🤖 토이프로젝트 개발 - holiday-vides**
+>   - `~/workspace/ng/holiday-vides` 저장소에서 `main` 최신화 후 구조와 에피소드 콘텐츠 구성을 다시 파악
+>   - `episode_avengers_doomsday.json`와 노드별 이미지 프롬프트 문서를 점검하고, SVG 기반 장면 이미지를 ComfyUI PNG 자산으로 교체하는 작업 브랜치 `codex/doomsday-image-upgrade` 생성
+>   - 둠스데이 에피소드용 노드 이미지 20장을 ComfyUI로 생성하고 `src/content/images/doomsday-*.png` 자산으로 추가
+>   - 에피소드 JSON의 `imageUrl`을 노드별 PNG 파일명에 맞게 교체하고 validator 통과 확인
+>   - 이미지 생성용 프롬프트 JSON 및 ComfyUI 생성 스크립트를 추가하고, PR 리뷰를 반영해 경로 하드코딩 제거·환경변수 지원·네트워크 에러 처리까지 보완
+>   - 커밋/푸시 후 PR 생성 및 리뷰 반영까지 진행
