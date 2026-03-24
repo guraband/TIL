@@ -208,3 +208,15 @@
 
 > **💻 gb2026**
 >   - 관리자는 rate-limit 대상에서 제외 처리
+
+---
+
+## ✏️ 2026.03.24
+> **🤖 토이프로젝트 개발 - kospi200-ml-swing**
+>   - 갭상승 ML 모델의 champion/challenger를 재정리하고 `exp57_local_strict_regime_soft003`를 현재 주전 후보로 확정
+>   - `exp41_strict_regime`, `exp67_baseline`과의 head-to-head 및 same-date 비교 산출물을 정리하고 관련 스크립트/리포트를 커밋·push
+>   - pykrx 수급/외국인 API 동작을 재검증하고, 최신 버전에서도 KRX `LOGOUT` 응답 때문에 실사용이 어렵다는 점을 확인
+>   - 수급 정보 수집 경로를 KIS로 확정하고, 당분간은 ML 학습 feature로 쓰지 않고 KOSPI 전 종목 기준으로 축적하기로 운영 원칙을 정리
+>   - 갭상승/아침 데이터 수집 관련 cron job을 재정비해서 가격 수집, feature build, gap 추천/매수 흐름의 역할을 분리
+
+---
