@@ -220,3 +220,11 @@
 >   - 갭상승/아침 데이터 수집 관련 cron job을 재정비해서 가격 수집, feature build, gap 추천/매수 흐름의 역할을 분리
 
 ---
+
+## ✏️ 2026.03.25
+> **🤖 토이프로젝트 개발 - yasoo-heart-scalp**
+>   - KIS paper REST/WebSocket 경로, runtime loop, degraded/reconciliation, preflight/smoke/runbook까지 정리하며 Track A를 MVP 수준으로 마감하고 관련 문서와 TODO 상태를 업데이트
+>   - KRX 전용 단타종목 선정 로직 MVP를 설계·구현하고, selection spec/implementation notes를 문서화한 뒤 노션 취합 문서에 최종 정리안을 추가
+>   - 저장소 문서 정리, README 링크 반영, 커밋/푸시 및 TIL 정리까지 포함해 OpenClaw와 함께 하루치 개발 흐름을 마무리
+
+---
