@@ -228,3 +228,16 @@
 >   - 저장소 문서 정리, README 링크 반영, 커밋/푸시 및 TIL 정리까지 포함해 OpenClaw와 함께 하루치 개발 흐름을 마무리
 
 ---
+
+## ✏️ 2026.03.26
+> **🤖 토이프로젝트 개발 - beast-heart-scalp**
+>   - 프로젝트 디렉토리를 `yasoo-heart-scalp`에서 `beast-heart-scalp`로 변경하고, websocket/rate-limit TODO 문서를 현재 구현 상태 기준으로 다시 정리
+>   - persistent websocket runner, reconnect replay, runtime/watchlist 연동 위에 최소형 tick signal heuristic과 websocket vs REST fallback 의존 추적까지 보강
+>   - Codex CLI를 로컬 맥에 설치하고 ChatGPT 계정으로 로그인까지 완료해서 이후 OpenClaw와 병행 개발 가능한 기반을 마련
+>
+> **🤖 토이프로젝트 개발 - kospi200-ml-swing**
+>   - open-spike ML 실험/백테스트 산출물을 정리해 `feature/open-spike-ml`을 main에 병합하고 push 완료
+>   - shortlist recent-window / structural split 검증을 추가해 `os_liquid_25`를 현재 운영형 메인 후보로 재정리
+>   - 70%대 승률은 일부 high-confidence tactical bucket에서 관측했지만, 표본 수와 최근 안정성까지 같이 보며 추가 발굴이 필요하다는 결론을 정리
+
+---
