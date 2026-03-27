@@ -241,3 +241,16 @@
 >   - 70%대 승률은 일부 high-confidence tactical bucket에서 관측했지만, 표본 수와 최근 안정성까지 같이 보며 추가 발굴이 필요하다는 결론을 정리
 
 ---
+
+## ✏️ 2026.03.27
+> **🤖 토이프로젝트 개발 - beast-heart-scalp**
+>   - websocket rate-limit fail-soft, reconciliation cooldown, websocket recovery cooldown, supervision watchdog까지 묶어 paper supervisor가 즉사하지 않고 fail-closed로 버티는 운영 구조를 단계적으로 보강했다.
+>   - tick 기반 TP/SL 위에 breakeven, trailing stop, bid-collapse / spread-widening defensive exit, regime-adaptive entry gating까지 추가해 초단타 실행/청산 로직을 한 단계 더 전략답게 다듬었다.
+>   - removed-symbol silence evidence 누적, supervision JSONL, runtime status 아티팩트, 운영 가이드/TODO/workorder 문서 최신화까지 마치며 beast-heart를 사실상 운영 실증/튜닝 단계로 밀어 넣었다.
+>
+> **🤖 토이프로젝트 개발 - kospi200-ml-swing**
+>   - open-spike v3/v4 대량 hypothesis batch를 직접 돌려 champion / risk-off / tactical / high-confidence lane을 다시 선정하고, full-period backtest와 운영 가이드까지 문서화했다.
+>   - 새 operating champion을 `liquid7b p3 g56 top5`, 새 risk-off champion을 `liquid9b p9 g56 top3`로 정리하고 관련 리포트/registry/README까지 모두 업데이트 후 push했다.
+>   - 전일 데이터 기준 오늘 open-spike 추천을 다시 산출해 strict gate에서는 risk-off lane의 GS건설 1종목만 정식 통과한다는 점까지 확인했다.
+
+---
