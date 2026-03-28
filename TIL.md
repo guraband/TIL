@@ -187,7 +187,7 @@
 ---
 
 ## ✏️ 2026.03.21
-> **🤖 토이프로젝트 개발 - kospi200-ml-swing**
+> **🤖 토이프로젝트 개발 - kospi200-ml**
 >   - SQLite 기반 프로젝트 골격 구축
 >   - 가격수집·피처생성·학습 파이프라인 완성
 >   - 백테스트·추천·분류 실험까지 확장
@@ -195,7 +195,7 @@
 ---
 
 ## ✏️ 2026.03.22
-> **🤖 토이프로젝트 개발 - kospi200-ml-swing**
+> **🤖 토이프로젝트 개발 - kospi200-ml**
 >   - 장전 노션 리포트 자동화·형식 개선
 >   - 인트라데이 ML 파이프라인·검증 고도화
 >   - parquet 제외 후 원격 PR·main 반영
@@ -212,7 +212,7 @@
 ---
 
 ## ✏️ 2026.03.24
-> **🤖 토이프로젝트 개발 - kospi200-ml-swing**
+> **🤖 토이프로젝트 개발 - kospi200-ml**
 >   - 갭상승 ML 모델의 champion/challenger를 재정리하고 `exp57_local_strict_regime_soft003`를 현재 주전 후보로 확정
 >   - `exp41_strict_regime`, `exp67_baseline`과의 head-to-head 및 same-date 비교 산출물을 정리하고 관련 스크립트/리포트를 커밋·push
 >   - pykrx 수급/외국인 API 동작을 재검증하고, 최신 버전에서도 KRX `LOGOUT` 응답 때문에 실사용이 어렵다는 점을 확인
@@ -235,7 +235,7 @@
 >   - persistent websocket runner, reconnect replay, runtime/watchlist 연동 위에 최소형 tick signal heuristic과 websocket vs REST fallback 의존 추적까지 보강
 >   - Codex CLI를 로컬 맥에 설치하고 ChatGPT 계정으로 로그인까지 완료해서 이후 OpenClaw와 병행 개발 가능한 기반을 마련
 >
-> **🤖 토이프로젝트 개발 - kospi200-ml-swing**
+> **🤖 토이프로젝트 개발 - kospi200-ml**
 >   - open-spike ML 실험/백테스트 산출물을 정리해 `feature/open-spike-ml`을 main에 병합하고 push 완료
 >   - shortlist recent-window / structural split 검증을 추가해 `os_liquid_25`를 현재 운영형 메인 후보로 재정리
 >   - 70%대 승률은 일부 high-confidence tactical bucket에서 관측했지만, 표본 수와 최근 안정성까지 같이 보며 추가 발굴이 필요하다는 결론을 정리
@@ -248,9 +248,22 @@
 >   - tick 기반 TP/SL 위에 breakeven, trailing stop, bid-collapse / spread-widening defensive exit, regime-adaptive entry gating까지 추가해 초단타 실행/청산 로직을 한 단계 더 전략답게 다듬었다.
 >   - removed-symbol silence evidence 누적, supervision JSONL, runtime status 아티팩트, 운영 가이드/TODO/workorder 문서 최신화까지 마치며 beast-heart를 사실상 운영 실증/튜닝 단계로 밀어 넣었다.
 >
-> **🤖 토이프로젝트 개발 - kospi200-ml-swing**
+> **🤖 토이프로젝트 개발 - kospi200-ml**
 >   - open-spike v3/v4 대량 hypothesis batch를 직접 돌려 champion / risk-off / tactical / high-confidence lane을 다시 선정하고, full-period backtest와 운영 가이드까지 문서화했다.
 >   - 새 operating champion을 `liquid7b p3 g56 top5`, 새 risk-off champion을 `liquid9b p9 g56 top3`로 정리하고 관련 리포트/registry/README까지 모두 업데이트 후 push했다.
 >   - 전일 데이터 기준 오늘 open-spike 추천을 다시 산출해 strict gate에서는 risk-off lane의 GS건설 1종목만 정식 통과한다는 점까지 확인했다.
+
+---
+
+## ✏️ 2026.03.28
+> **🤖 토이프로젝트 개발 - kospi200-ml**
+>   - 전략 기준 재편, 스윙 가설 오케스트레이션·워크플로·진행 로깅 추가 및 모델 산출물 정리
+>   - 다양성 후속 실험 계획 문서화, 배치 raw 정리, 후속 트랙·2단계 결과 기록
+>   - 인트라데이·갭 레지스트리 갱신 및 open-spike 대용량 실험 아티팩트 제거
+
+> **🤖 토이프로젝트 개발 - beast-heart-scalp**
+>   - 전략 리팩터 WORKORDER(2026-03-28) 문서를 추가해 경제성 검증·매도 단순화·안전장치·계측을 이번 사이클 우선순위로 고정했다.
+>   - P0로 partial TP·2주 예외 제거와 TP·hard SL·timeout 중심, VI·단일가·EOD·slippage·adjusted PnL을 당장 확정 과제로 적었다. (96자)
+>   - docs/strategy-operating-guide.md를 워크오더와 맞게 소폭 수정해 문서 간 정합을 맞췄다.
 
 ---
