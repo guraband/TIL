@@ -221,6 +221,15 @@
 
 ---
 
+## ✏️ 2026.03.29
+> **🤖 토이프로젝트 개발 - kospi-followthrough-ml**
+>   - README/PRD를 기준으로 프로젝트 구조와 학습 파이프라인을 재점검
+>   - `trade_date` 관련 검증 버그를 수정하고, Phase 1 학습이 중간에 멈추는 문제를 추적
+>   - Phase 1 체크포인트/재개 기능과 병렬 처리 안정화 로직을 추가한 뒤 커밋·push
+>   - 5개 worker 기준으로 Phase 1 학습을 다시 실행하고 체크포인트가 누적되며 정상 진행되는 것까지 확인
+
+---
+
 ## ✏️ 2026.03.25
 > **🤖 토이프로젝트 개발 - yasoo-heart-scalp**
 >   - KIS paper REST/WebSocket 경로, runtime loop, degraded/reconciliation, preflight/smoke/runbook까지 정리하며 Track A를 MVP 수준으로 마감하고 관련 문서와 TODO 상태를 업데이트
