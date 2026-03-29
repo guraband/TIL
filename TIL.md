@@ -279,10 +279,11 @@
 
 ## ✏️ 2026.03.29
 > **🤖 토이프로젝트 개발 - kospi200-ml / kospi200-ml-swing**
->   - `kospi200-ml-swing` 프로젝트에서 주요 4개 모델(swing / intraday / overnight gap / open spike)을 각각 실행해 추천 산출이 실제로 나오는지 점검했다.
->   - swing, intraday, overnight gap은 즉시 정상 실행됐고, open spike는 `open_spike_hypothesis_runs.csv` 누락으로 실패하는 문제를 확인했다.
->   - open spike 추천 로직을 보강해 누락된 aggregate runs 파일이 없어도 문서(`OPERATING_GUIDE.md`)와 config(v2 / vnext) 기준 lane 정보를 해석해 fallback 포함 추천이 가능하도록 수정했다.
->   - overnight gap에서 뜨던 `scikit-learn` 모델 pickle 버전 불일치 경고를 해결하기 위해 가상환경 패키지와 `requirements.txt`를 `scikit-learn==1.6.1`로 맞췄다.
->   - 수정 후 4개 모델을 다시 검증해 모두 정상 실행되는 것을 확인했고, 변경사항을 커밋(`5c298a3`)해서 원격 `main`에 push했다.
+>   - 네 종류 모델을 돌려봤더니 세 개는 잘 됐고, open spike만 runs CSV가 없어서 막혔다.
+>   - open spike는 CSV가 없어도 `OPERATING_GUIDE.md`와 설정(v2·vnext)만으로 lane을 읽어 추천이 나오게 로직을 보강했다.
+>   - 갭 모델의 pickle 경고는 scikit-learn `1.6.1`로 맞춰 없앴고, 네 모델 다시 확인한 뒤 커밋(`5c298a3`)·push했다.
+
+> **💻 gb2026**
+>   - Lovable로 디자인된 SPA 시안의 메인페이지를 Thymeleaf/jQuery 기반 main_v2.html로 변환
 
 ---
