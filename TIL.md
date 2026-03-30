@@ -308,6 +308,9 @@
 >   - Phase3 실패를 계기로 next-day 결측 라벨 버그와 backtest silent drop 문제를 함께 바로잡았다.
 >   - Phase2 viability gate와 Phase3 top50 재선발 규칙을 넣고 repair plan 문서를 작성했다.
 >   - 수정사항을 `kospi-followthrough-ml` main에 다시 커밋(`a2f52de`)·push하고 Phase1 재실행을 시작했다.
+>   - 원가설은 viability 0/108, MFE/MAE·barrier·세그먼트 분석을 거쳐 메인 트랙 종료로 정리했다.
+>   - detection viability, MFE/MAE, barrier viability, segment edge 분석 스크립트와 문서를 프로젝트에 추가했다.
+>   - 전략 포스트모템 문서를 남기고, 좁은 생존 세그먼트는 보관 메모만 유지하기로 했다.
 
 ---
 >   - paper health mode를 `healthy / observe_only / fatal`로 세분화하고, KIS paper 환경에서 과민하게 supervisor를 죽이던 health/watchdog 정책을 단계적으로 완화했다.
