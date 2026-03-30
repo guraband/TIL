@@ -302,5 +302,8 @@
 >   - report flow의 challenger wiring을 사라진 historical defensive lane 대신 살아있는 `balanced51` operated challenger 경로로 교체하고, 관련 리뷰/메타/자동화 문서도 현재 운영 기준에 맞게 다시 썼다.
 >   - `kospi-followthrough-ml`은 Phase 2 체크포인트를 다시 확인해 실제 진척이 19/50이었음을 확인했고, timeout 때문에 반복 중단되던 재개 명령을 장시간 background 실행으로 바꿔 학습을 다시 이어 붙였다.
 >   - 오늘 오전 기준 Phase 2가 30/50까지 진행되는 것을 계속 추적 확인했다.
+>   - Phase 2/3은 max 4, Phase 1은 max 8 하드캡으로 다음 실행 기준을 정리했다.
+>   - Phase 2를 후보 단위 병렬 처리로 바꾸고 `phase all --max-jobs 8` 동작도 맞췄다.
+>   - 관련 변경을 `kospi-followthrough-ml` main에 커밋(`fffef5b`)·push했다.
 
 ---
