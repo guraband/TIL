@@ -305,6 +305,9 @@
 >   - Phase 2/3은 max 4, Phase 1은 max 8 하드캡으로 다음 실행 기준을 정리했다.
 >   - Phase 2를 후보 단위 병렬 처리로 바꾸고 `phase all --max-jobs 8` 동작도 맞췄다.
 >   - 관련 변경을 `kospi-followthrough-ml` main에 커밋(`fffef5b`)·push했다.
+>   - Phase3 실패를 계기로 next-day 결측 라벨 버그와 backtest silent drop 문제를 함께 바로잡았다.
+>   - Phase2 viability gate와 Phase3 top50 재선발 규칙을 넣고 repair plan 문서를 작성했다.
+>   - 수정사항을 `kospi-followthrough-ml` main에 다시 커밋(`a2f52de`)·push하고 Phase1 재실행을 시작했다.
 
 ---
 >   - paper health mode를 `healthy / observe_only / fatal`로 세분화하고, KIS paper 환경에서 과민하게 supervisor를 죽이던 health/watchdog 정책을 단계적으로 완화했다.
