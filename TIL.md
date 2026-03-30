@@ -312,5 +312,6 @@
 >   - KIS websocket keepalive ping 비활성화, reconnect-window 처리, strong tracking 축소(`live_tracking_size=2`), paper websocket bounded rotation(기본 120초), stale 시 조기 rotate까지 넣어 paper 환경에 맞는 운용 가드를 추가했다.
 >   - `YASOO_PAPER_ALLOW_ENTRY_DURING_OBSERVE_ONLY` 실행 옵션을 추가하고 README / paper operations 문서에 명시해, 신호/시장데이터가 불안정할 때도 사람 승인 하에 paper 신규 진입을 열 수 있는 override 경로를 마련했다.
 >   - 시작/보호상태 전이/종료를 텔레그램으로 알리는 lifecycle notification 토대를 추가하고, single/2-symbol 장시간 websocket 진단 및 collector 분리 방향을 다음 작업 순서로 정리했다.
+>   - KIS 예제에 맞춰 websocket `PINGPONG` 수신 시 실제 `pong` 응답을 보내도록 고치고, paper 120초 강제 로테이션 기본값을 꺼서 내일 장중 실관측 기준을 다시 맞췄다.
 
 ---
