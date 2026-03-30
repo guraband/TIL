@@ -287,3 +287,14 @@
 >   - Lovable로 디자인된 SPA 시안의 메인페이지를 Thymeleaf/jQuery 기반 main_v2.html로 변환
 
 ---
+
+## ✏️ 2026.03.30
+> **🤖 토이프로젝트 개발 - beast-heart-scalp**
+>   - `kospi200-ml-swing` DB를 source of truth로 삼아 paper generator 입력물(`universe_kospi200.csv`, `daily_ref.csv`)을 자동 생성하는 스크립트를 추가하고, `run_paper_session.sh`가 실행 전에 이를 자동 준비하도록 연결했다.
+>   - paper 실행 순서를 `입력 준비 -> generator -> seed freshness -> preflight -> market_data_smoke -> supervised run`으로 고정하고 README / paper operations 문서 / wrapper를 함께 정리해 다음 세션에도 빠뜨리지 않도록 만들었다.
+>   - KIS paper 시세 경로에서 websocket 의존성 누락과 diagnostics 단발 판정 문제를 고쳐 preflight / market-data smoke가 통과하도록 보강했고, supervisor 쪽에는 websocket 지수 백오프 재연결과 복구 관측값 기록을 추가했다.
+>   - 기존 momentum 위주의 seed가 놓치던 `하락 출발 후 장중 반등` 패턴을 잡기 위해 reversal seed 설계 문서를 작성하고, `seed_mode`, `open_gap_change`, `rebound_from_open`, `recovery_ratio`, Asia/Seoul 시간대 가드, KRX market filter를 포함한 reversal-aware generator 경로를 구현했다.
+>   - 외부 리뷰를 반영해 reversal 기본값을 더 보수적으로 조정(`open gap -2.0%`, `rebound 1.5%`, `recovery_ratio 0.5`, `09:10~14:30`, 강화된 high proximity/거래대금 기준)하고 관련 테스트를 확장한 뒤 커밋/푸시했다.
+>   - preflight의 market-data 건강 판정을 실제 paper 운영에 맞게 다듬어 `요청 심볼 중 일부 live quote + REST fallback 복구` 상태를 안전한 준비 완료로 해석하게 수정했고, reversal seed 활성화 상태에서 후보 6개를 생성한 뒤 paper supervised run 재가동까지 확인했다.
+
+---
