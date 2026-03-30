@@ -307,3 +307,10 @@
 >   - 관련 변경을 `kospi-followthrough-ml` main에 커밋(`fffef5b`)·push했다.
 
 ---
+>   - paper health mode를 `healthy / observe_only / fatal`로 세분화하고, KIS paper 환경에서 과민하게 supervisor를 죽이던 health/watchdog 정책을 단계적으로 완화했다.
+>   - `초당 거래건수 초과`를 retryable budget event로 다루는 runtime/backoff 방향을 정리하고, preflight/account snapshot 쪽 rate-limit 완화와 함께 supervisor 생존성을 높이는 수정들을 여러 차례 반영했다.
+>   - KIS websocket keepalive ping 비활성화, reconnect-window 처리, strong tracking 축소(`live_tracking_size=2`), paper websocket bounded rotation(기본 120초), stale 시 조기 rotate까지 넣어 paper 환경에 맞는 운용 가드를 추가했다.
+>   - `YASOO_PAPER_ALLOW_ENTRY_DURING_OBSERVE_ONLY` 실행 옵션을 추가하고 README / paper operations 문서에 명시해, 신호/시장데이터가 불안정할 때도 사람 승인 하에 paper 신규 진입을 열 수 있는 override 경로를 마련했다.
+>   - 시작/보호상태 전이/종료를 텔레그램으로 알리는 lifecycle notification 토대를 추가하고, single/2-symbol 장시간 websocket 진단 및 collector 분리 방향을 다음 작업 순서로 정리했다.
+
+---
