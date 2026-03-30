@@ -296,5 +296,11 @@
 >   - 기존 momentum 위주의 seed가 놓치던 `하락 출발 후 장중 반등` 패턴을 잡기 위해 reversal seed 설계 문서를 작성하고, `seed_mode`, `open_gap_change`, `rebound_from_open`, `recovery_ratio`, Asia/Seoul 시간대 가드, KRX market filter를 포함한 reversal-aware generator 경로를 구현했다.
 >   - 외부 리뷰를 반영해 reversal 기본값을 더 보수적으로 조정(`open gap -2.0%`, `rebound 1.5%`, `recovery_ratio 0.5`, `09:10~14:30`, 강화된 high proximity/거래대금 기준)하고 관련 테스트를 확장한 뒤 커밋/푸시했다.
 >   - preflight의 market-data 건강 판정을 실제 paper 운영에 맞게 다듬어 `요청 심볼 중 일부 live quote + REST fallback 복구` 상태를 안전한 준비 완료로 해석하게 수정했고, reversal seed 활성화 상태에서 후보 6개를 생성한 뒤 paper supervised run 재가동까지 확인했다.
+>
+> **🤖 토이프로젝트 개발 - kospi200-ml-swing / kospi-followthrough-ml**
+>   - `kospi200-ml-swing` 장전 Notion 발행이 죽던 원인을 추적해, prune된 `v2_540` defensive challenger 산출물을 여전히 하드코딩 참조하던 문제를 확인하고 `publish_notion_morning_report.py`에 missing-artifact fallback을 넣어 발행이 다시 성공하도록 복구했다.
+>   - report flow의 challenger wiring을 사라진 historical defensive lane 대신 살아있는 `balanced51` operated challenger 경로로 교체하고, 관련 리뷰/메타/자동화 문서도 현재 운영 기준에 맞게 다시 썼다.
+>   - `kospi-followthrough-ml`은 Phase 2 체크포인트를 다시 확인해 실제 진척이 19/50이었음을 확인했고, timeout 때문에 반복 중단되던 재개 명령을 장시간 background 실행으로 바꿔 학습을 다시 이어 붙였다.
+>   - 오늘 오전 기준 Phase 2가 30/50까지 진행되는 것을 계속 추적 확인했다.
 
 ---
