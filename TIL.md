@@ -290,35 +290,14 @@
 
 ## ✏️ 2026.03.30
 > **🤖 토이프로젝트 개발 - beast-heart-scalp**
->   - `kospi200-ml-swing` DB를 source of truth로 삼아 paper generator 입력물(`universe_kospi200.csv`, `daily_ref.csv`)을 자동 생성하는 스크립트를 추가하고, `run_paper_session.sh`가 실행 전에 이를 자동 준비하도록 연결했다.
->   - paper 실행 순서를 `입력 준비 -> generator -> seed freshness -> preflight -> market_data_smoke -> supervised run`으로 고정하고 README / paper operations 문서 / wrapper를 함께 정리해 다음 세션에도 빠뜨리지 않도록 만들었다.
->   - KIS paper 시세 경로에서 websocket 의존성 누락과 diagnostics 단발 판정 문제를 고쳐 preflight / market-data smoke가 통과하도록 보강했고, supervisor 쪽에는 websocket 지수 백오프 재연결과 복구 관측값 기록을 추가했다.
->   - 기존 momentum 위주의 seed가 놓치던 `하락 출발 후 장중 반등` 패턴을 잡기 위해 reversal seed 설계 문서를 작성하고, `seed_mode`, `open_gap_change`, `rebound_from_open`, `recovery_ratio`, Asia/Seoul 시간대 가드, KRX market filter를 포함한 reversal-aware generator 경로를 구현했다.
->   - 외부 리뷰를 반영해 reversal 기본값을 더 보수적으로 조정(`open gap -2.0%`, `rebound 1.5%`, `recovery_ratio 0.5`, `09:10~14:30`, 강화된 high proximity/거래대금 기준)하고 관련 테스트를 확장한 뒤 커밋/푸시했다.
->   - preflight의 market-data 건강 판정을 실제 paper 운영에 맞게 다듬어 `요청 심볼 중 일부 live quote + REST fallback 복구` 상태를 안전한 준비 완료로 해석하게 수정했고, reversal seed 활성화 상태에서 후보 6개를 생성한 뒤 paper supervised run 재가동까지 확인했다.
->
-> **🤖 토이프로젝트 개발 - kospi200-ml-swing / kospi-followthrough-ml**
->   - `kospi200-ml-swing` 장전 Notion 발행이 죽던 원인을 추적해, prune된 `v2_540` defensive challenger 산출물을 여전히 하드코딩 참조하던 문제를 확인하고 `publish_notion_morning_report.py`에 missing-artifact fallback을 넣어 발행이 다시 성공하도록 복구했다.
->   - report flow의 challenger wiring을 사라진 historical defensive lane 대신 살아있는 `balanced51` operated challenger 경로로 교체하고, 관련 리뷰/메타/자동화 문서도 현재 운영 기준에 맞게 다시 썼다.
->   - `kospi-followthrough-ml`은 Phase 2 체크포인트를 다시 확인해 실제 진척이 19/50이었음을 확인했고, timeout 때문에 반복 중단되던 재개 명령을 장시간 background 실행으로 바꿔 학습을 다시 이어 붙였다.
->   - 오늘 오전 기준 Phase 2가 30/50까지 진행되는 것을 계속 추적 확인했다.
->   - Phase 2/3은 max 4, Phase 1은 max 8 하드캡으로 다음 실행 기준을 정리했다.
->   - Phase 2를 후보 단위 병렬 처리로 바꾸고 `phase all --max-jobs 8` 동작도 맞췄다.
->   - 관련 변경을 `kospi-followthrough-ml` main에 커밋(`fffef5b`)·push했다.
->   - Phase3 실패를 계기로 next-day 결측 라벨 버그와 backtest silent drop 문제를 함께 바로잡았다.
->   - Phase2 viability gate와 Phase3 top50 재선발 규칙을 넣고 repair plan 문서를 작성했다.
->   - 수정사항을 `kospi-followthrough-ml` main에 다시 커밋(`a2f52de`)·push하고 Phase1 재실행을 시작했다.
->   - 원가설은 viability 0/108, MFE/MAE·barrier·세그먼트 분석을 거쳐 메인 트랙 종료로 정리했다.
->   - detection viability, MFE/MAE, barrier viability, segment edge 분석 스크립트와 문서를 프로젝트에 추가했다.
->   - 전략 포스트모템 문서를 남기고, 좁은 생존 세그먼트는 보관 메모만 유지하기로 했다.
+>   - paper 입력 자동화·실행 순서 표준화·문서/래퍼 정비로 운영 준비 절차를 고정했다.
+>   - KIS 시세 경로 안정화와 health/watchdog·rate-limit 완화로 preflight 통과와 supervisor 생존성을 높였다.
+>   - reversal seed 고도화와 websocket 운용 가드·알림 보강으로 후보 재가동 및 paper 안정성을 강화했다.
 
----
->   - paper health mode를 `healthy / observe_only / fatal`로 세분화하고, KIS paper 환경에서 과민하게 supervisor를 죽이던 health/watchdog 정책을 단계적으로 완화했다.
->   - `초당 거래건수 초과`를 retryable budget event로 다루는 runtime/backoff 방향을 정리하고, preflight/account snapshot 쪽 rate-limit 완화와 함께 supervisor 생존성을 높이는 수정들을 여러 차례 반영했다.
->   - KIS websocket keepalive ping 비활성화, reconnect-window 처리, strong tracking 축소(`live_tracking_size=2`), paper websocket bounded rotation(기본 120초), stale 시 조기 rotate까지 넣어 paper 환경에 맞는 운용 가드를 추가했다.
->   - `YASOO_PAPER_ALLOW_ENTRY_DURING_OBSERVE_ONLY` 실행 옵션을 추가하고 README / paper operations 문서에 명시해, 신호/시장데이터가 불안정할 때도 사람 승인 하에 paper 신규 진입을 열 수 있는 override 경로를 마련했다.
->   - 시작/보호상태 전이/종료를 텔레그램으로 알리는 lifecycle notification 토대를 추가하고, single/2-symbol 장시간 websocket 진단 및 collector 분리 방향을 다음 작업 순서로 정리했다.
->   - KIS 예제에 맞춰 websocket `PINGPONG` 수신 시 실제 `pong` 응답을 보내도록 고치고, paper 120초 강제 로테이션 기본값을 꺼서 내일 장중 실관측 기준을 다시 맞췄다.
+> **🤖 토이프로젝트 개발 - kospi200-ml-swing / kospi-followthrough-ml**
+>   - `kospi200-ml-swing`은 Notion 발행 장애를 fallback으로 복구하고 challenger 경로·문서를 현행화했다.
+>   - `kospi-followthrough-ml`은 Phase2 재개/병렬화/하드캡 정리로 학습 진행을 안정화했다.
+>   - Phase3 계기로 라벨·백테스트 버그를 수정하고 viability 게이트·분석/포스트모템을 정리했다.
 
 ---
 
@@ -327,15 +306,13 @@
 >   - Phase 1 원본 baseline 실패 후 risk-off·균등가중 벤치마크·알파분리 검증까지 이어서 수행
 >   - raw momentum + risk-off를 조건부 부활 후보로 정리하고 최근 구간 안정성까지 재검증
 >   - 관련 리포트·재검증 스크립트 추가 후 커밋·푸시하며 다음 실험 방향 정리
+>   - overnight gap 추천 0건은 모델 오류가 아니라 market_trend gate로 전량 탈락한 것으로 확인했다.
 >
 > **🤖 토이프로젝트 개발 - beast-heart-scalp**
 >   - 장초반 후보 소실 원인을 고정 selection 필터로 확인하고 시간대별 adaptive threshold를 설계·구현했다.
 >   - paper websocket stale 대응을 REST-mixed·round-robin fallback·지속 fallback 복구 시도로 확장했다.
 >   - 텔레그램 운영 알림과 이 방 전송 설정까지 붙이고 문서·테스트·커밋·푸시를 연속 반영했다.
->
-> **🤖 토이프로젝트 개발 - beast-heart-scalp / kospi200-ml-swing**
 >   - beast normal·beast hot-reload 모드, intraday seed refresh 복구, supervisor 알림 보강까지 반영했다.
 >   - README·paper-operations와 운영 문서를 정리하고 관련 수정사항을 모두 커밋·푸시했다.
->   - overnight gap 추천 0건은 모델 오류가 아니라 market_trend gate로 전량 탈락한 것으로 확인했다.
 
 ---
