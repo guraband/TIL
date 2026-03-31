@@ -332,5 +332,10 @@
 >   - 장초반 후보 소실 원인을 고정 selection 필터로 확인하고 시간대별 adaptive threshold를 설계·구현했다.
 >   - paper websocket stale 대응을 REST-mixed·round-robin fallback·지속 fallback 복구 시도로 확장했다.
 >   - 텔레그램 운영 알림과 이 방 전송 설정까지 붙이고 문서·테스트·커밋·푸시를 연속 반영했다.
+>
+> **🤖 토이프로젝트 개발 - beast-heart-scalp / kospi200-ml-swing**
+>   - beast normal·beast hot-reload 모드, intraday seed refresh 복구, supervisor 알림 보강까지 반영했다.
+>   - README·paper-operations와 운영 문서를 정리하고 관련 수정사항을 모두 커밋·푸시했다.
+>   - overnight gap 추천 0건은 모델 오류가 아니라 market_trend gate로 전량 탈락한 것으로 확인했다.
 
 ---
