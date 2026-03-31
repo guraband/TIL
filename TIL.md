@@ -327,5 +327,10 @@
 >   - Phase 1 원본 baseline 실패 후 risk-off·균등가중 벤치마크·알파분리 검증까지 이어서 수행
 >   - raw momentum + risk-off를 조건부 부활 후보로 정리하고 최근 구간 안정성까지 재검증
 >   - 관련 리포트·재검증 스크립트 추가 후 커밋·푸시하며 다음 실험 방향 정리
+>
+> **🤖 토이프로젝트 개발 - beast-heart-scalp**
+>   - 장초반 후보 소실 원인을 고정 selection 필터로 확인하고 시간대별 adaptive threshold를 설계·구현했다.
+>   - paper websocket stale 대응을 REST-mixed·round-robin fallback·지속 fallback 복구 시도로 확장했다.
+>   - 텔레그램 운영 알림과 이 방 전송 설정까지 붙이고 문서·테스트·커밋·푸시를 연속 반영했다.
 
 ---
