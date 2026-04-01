@@ -16,3 +16,8 @@
 >   - 기능 축소
 >       - 텔레그램 메시지로 보내는 본문도 간소화
 
+> **🤖 KOSPI ML Lab 탐색 정리**
+>   - KOSPI200 PIT membership과 KIS investor-flow 히스토리 파이프라인을 정비했다.
+>   - close-to-close·investor-flow·overnight 트랙을 walk-forward·kill test로 검증해 모두 중단 결론을 냈다.
+>   - repo를 kospi-ml-lab으로 재정리하고 트랙 구조·최종 verdict 문서를 남겼다.
+
