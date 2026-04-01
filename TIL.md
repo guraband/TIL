@@ -316,3 +316,11 @@
 >   - README·paper-operations와 운영 문서를 정리하고 관련 수정사항을 모두 커밋·푸시했다.
 
 ---
+
+## ✏️ 2026.04.01
+> **🤖 토이프로젝트 개발 - beast-heart-scalp**
+>   - beast 운용 중 websocket connection error·REST fallback·seed refresh 이슈를 추적하고 TODO·운영 문서에 남겼다.
+>   - beast 전용 진입 완화와 reject 관측성 추가를 반영하고 테스트 64개 통과 후 관련 커밋·푸시를 마쳤다.
+>   - paper supervisor를 재기동해 오후장 기준 웹소켓 안정성과 추적 종목·보호 상태를 계속 점검했다.
+
+---
