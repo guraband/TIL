@@ -31,5 +31,10 @@
 >   - 시장 regime 1분 수집 작업지시서와 CURRENT_TODO를 업데이트해 direct API 우선 방향을 확정했다.
 >   - probe 스크립트로 KOSPI200 지수·시장 투자자 흐름·프로그램매매 응답을 일부 실측했다.
 
+> **🤖 beast-heart 운영 안정화**
+>   - tracked·held 분리와 exit-only monitoring을 보강해 보유 종목 손절 누락 구조를 줄였다.
+>   - BrokenPipe·웹소켓 write 경로를 fail-open 쪽으로 다듬고 wrapper env를 정리해 재기동 일관성을 높였다.
+>   - 장 마감 전 보유 전량을 정리하고 후속 점검용 프롬프트·문서·TIL까지 마무리했다.
+
 ---
 
