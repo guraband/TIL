@@ -36,5 +36,10 @@
 >   - BrokenPipe·웹소켓 write 경로를 fail-open 쪽으로 다듬고 wrapper env를 정리해 재기동 일관성을 높였다.
 >   - 장 마감 전 보유 전량을 정리하고 후속 점검용 프롬프트·문서·TIL까지 마무리했다.
 
+> **🤖 beast-heart 문서 정리**
+>   - README·전략·selection 문서를 현행/배경 기준으로 재구성하고 stale 링크를 정리했다.
+>   - 매수 시그널 규칙을 소스와 대조해 buy-signal-spec 문서를 새로 만들고 진입 링크를 연결했다.
+>   - selection 기본값을 watchlist 8·active pool 12로 맞추고 관련 문서와 설정을 함께 정리했다.
+
 ---
 
