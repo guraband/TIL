@@ -26,5 +26,10 @@
 >   - websocket reconnect를 추적해 transport·ping 설정과 진단 로그를 보강하고 재실행 검증했다.
 >   - CHANGELOG 중심 기록 규칙으로 문서를 정리하고 관련 커밋·푸시를 마쳤다.
 
+> **🤖 beast-heart 시장지표 설계**
+>   - KIS direct 시장지수·수급 API 예제와 로컬 저장소를 대조해 실제 호출 후보를 정리했다.
+>   - 시장 regime 1분 수집 작업지시서와 CURRENT_TODO를 업데이트해 direct API 우선 방향을 확정했다.
+>   - probe 스크립트로 KOSPI200 지수·시장 투자자 흐름·프로그램매매 응답을 일부 실측했다.
+
 ---
 
