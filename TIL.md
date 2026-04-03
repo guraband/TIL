@@ -53,3 +53,10 @@
 
 ---
 
+## ✏️ 2026.04.04
+> **📖 개발 관련 도서 읽음**
+>   - '오픈클로 with GPT, 제미나이, 클로드'
+>       - <img src="https://github.com/guraband/TIL/blob/main/images/openclaw_book.jpg?raw=true" width=300/>
+>       - 책값이 2만원쯤 되었음에도 책이 엄청 얇았고 그나마도 절반은 설치 방법에 대한 내용이어서 실망스러웠다.
+>       - 입문서여서 깊이도 얕음. 내 돈... 내일 바로 알라딘 중고행이다.
+
