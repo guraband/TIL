@@ -1,5 +1,5 @@
 ## ✏️ 2026.04.01
-> **🤖 토이프로젝트 개발 - beast-heart-scalp**
+> **🤖 토이프로젝트 개발 - 야수의 심장**
 >   - beast 운용 중 websocket connection error·REST fallback·seed refresh 이슈를 추적하고 TODO·운영 문서에 남겼다.
 >   - beast 전용 진입 완화와 reject 관측성 추가를 반영하고 테스트 64개 통과 후 관련 커밋·푸시를 마쳤다.
 >   - paper supervisor를 재기동해 오후장 기준 웹소켓 안정성과 추적 종목·보호 상태를 계속 점검했다.
@@ -21,7 +21,7 @@
 >   - close-to-close·investor-flow·overnight 트랙을 walk-forward·kill test로 검증해 모두 중단 결론을 냈다.
 >   - repo를 kospi-ml-lab으로 재정리하고 트랙 구조·최종 verdict 문서를 남겼다.
 
-> **🤖 토이프로젝트 개발 - beast-heart-scalp**
+> **🤖 토이프로젝트 개발 - 야수의 심장**
 >   - paper 재시작 시 broker truth로 포지션을 복원하게 바꿔 stale residue 차단을 줄였다.
 >   - websocket reconnect를 추적해 transport·ping 설정과 진단 로그를 보강하고 재실행 검증했다.
 >   - CHANGELOG 중심 기록 규칙으로 문서를 정리하고 관련 커밋·푸시를 마쳤다.
@@ -44,7 +44,7 @@
 ---
 
 ## ✏️ 2026.04.03
-> **🤖 토이프로젝트 개발 - beast-heart-scalp**
+> **🤖 토이프로젝트 개발 - 야수의 심장**
 >   - paper supervisor exit 자동화·복원 경로 버그를 수정하고 beast 익절/손절 기준을 +2%/-2%로 재정의했다.
 >   - 모의계좌 전량 청산 후 beast 모드로 재가동하고 websocket·risk 상태와 cron 매수 경로를 함께 추적했다.
 >   - 텔레그램 알림에 매도 체결·상태 이모지를 추가하고 changelog·커밋·푸시까지 마쳤다.
@@ -63,3 +63,12 @@
 > **🤖 오픈클로 : diary-writer 스킬 구축**
 >   - 오픈클로에게 내 홈페이지의 최근 2년치 글을 분석해 일기 문체를 학습하라고 하고 내 문체로 일기를 작성하는 "diary-writer" 스킬을 만들게 했다.
 >   - 예제로 일기 작성을 시켜보니 꽤 그럴듯했다.
+
+---
+
+## ✏️ 2026.04.05
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - 손절 기능이 작동하지 않는 문제 수정
+>   - 매수·매도시 알림이 오지 않는 문제 수정
+
+---
