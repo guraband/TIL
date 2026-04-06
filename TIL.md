@@ -83,4 +83,9 @@
 >   - 익절 주문·손절 주문·취소/재조정 체결확정이 trades.jsonl에 남도록 운영 로그를 강화했다.
 >   - overnight gap 추천 job의 stale feature 원인을 찾아 features_gap 재생성 후 .venv로 재실행했다.
 
+> **🤖 market regime minute collector**
+>   - KIS 기반 one-shot collector MVP를 붙여 DB/artifact에 시장 분위기·추세 데이터를 저장하기 시작했다.
+>   - live read-only token 우선과 초당 1회 pacing으로 partial 원인을 breadth_ratio 중심으로 줄였다.
+>   - 15:20까지 1분 반복 수집을 검증하고 workorder·changelog를 최신화한 뒤 커밋·푸시했다.
+
 ---
