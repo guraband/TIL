@@ -73,3 +73,11 @@
 >   - websocket reconnect 안정화
 
 ---
+
+## ✏️ 2026.04.06
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - 모의/실전 조회 토큰 분리, 텔레그램 알림, supervisor 재기동 경로를 복구했다.
+>   - stale 매도 주문 정리와 beast 종목당 예산 100만원 상향을 반영하고 재실행 검증했다.
+>   - cycle log·runtime_status·entry residue 표시를 정리하고 관련 커밋·푸시를 마쳤다.
+
+---
