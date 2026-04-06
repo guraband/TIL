@@ -79,5 +79,8 @@
 >   - 모의/실전 조회 토큰 분리, 텔레그램 알림, supervisor 재기동 경로를 복구했다.
 >   - stale 매도 주문 정리와 beast 종목당 예산 100만원 상향을 반영하고 재실행 검증했다.
 >   - cycle log·runtime_status·entry residue 표시를 정리하고 관련 커밋·푸시를 마쳤다.
+>   - KIS open order side 매핑과 매도취소 residue 필터를 고쳐 계좌 정합성·block_new_risk 문제를 해소했다.
+>   - 익절 주문·손절 주문·취소/재조정 체결확정이 trades.jsonl에 남도록 운영 로그를 강화했다.
+>   - overnight gap 추천 job의 stale feature 원인을 찾아 features_gap 재생성 후 .venv로 재실행했다.
 
 ---
