@@ -101,4 +101,9 @@
 >   - cookie 기반 backfill 스크립트를 추가하고 2024년 대표 5종목·train 샘플 30종목 파일럿 백필을 성공시켰다.
 >   - 운영 기준을 recent는 KIS, historical은 pykrx+KRX cookie로 분담하고 관련 changelog·커밋·푸시를 마쳤다.
 
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - beast paper 운용 중 compressed seed refresh·시장 온도계·supervisor 복구 경로를 정비했다.
+>   - exit 주문 rate limit 문제를 추적해 재시도 쿨다운과 cycle당 exit submit 1건 제한을 반영했다.
+>   - paper 운용 문서를 업데이트하고 관련 수정사항을 커밋·푸시한 뒤 supervisor 재기동까지 점검했다.
+
 ---
