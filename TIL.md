@@ -89,3 +89,16 @@
 >   - 15:20까지 1분 반복 수집을 검증하고 workorder·changelog를 최신화한 뒤 커밋·푸시했다.
 
 ---
+
+## ✏️ 2026.04.07
+> **🤖 kospi200-ml-swing : Swing V2 검증**
+>   - strict OOS·TargetSpec 일반화 후 5일 baseline을 재현하고 10일/20일 horizon 비교를 완료했다.
+>   - OHLCV-only에선 20일 regression이 최선(`IC_median≈0.016`)이고 pruning은 핵심 레버가 아님을 확인했다.
+>   - KIS historical 한계를 확인한 뒤 KRX 세션 쿠키로 pykrx investor-flow historical 경로를 복구했다.
+
+> **🤖 investor flow 백필 경로 복구**
+>   - pykrx investor-flow·foreign exhaustion 일별 시계열이 새 KRX 세션 쿠키로 실제 동작함을 검증했다.
+>   - cookie 기반 backfill 스크립트를 추가하고 2024년 대표 5종목·train 샘플 30종목 파일럿 백필을 성공시켰다.
+>   - 운영 기준을 recent는 KIS, historical은 pykrx+KRX cookie로 분담하고 관련 changelog·커밋·푸시를 마쳤다.
+
+---
