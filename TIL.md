@@ -105,5 +105,7 @@
 >   - beast paper 운용 중 compressed seed refresh·시장 온도계·supervisor 복구 경로를 정비했다.
 >   - exit 주문 rate limit 문제를 추적해 재시도 쿨다운과 cycle당 exit submit 1건 제한을 반영했다.
 >   - paper 운용 문서를 업데이트하고 관련 수정사항을 커밋·푸시한 뒤 supervisor 재기동까지 점검했다.
+>   - 장중 시장가 매도 no-ack·잔존 매도주문 충돌 가능성을 추적하며 pending exit task, residue 해석 보정, hard-stop 전 KIS sell-order 확인/취소, fail-closed 보호를 추가했다.
+>   - generator batch size를 10으로 줄여 재기동 rate limit 병목을 완화했고, CURRENT_TODO에 KIS 시장가 매도 no-ack 경로 정리를 최우선 항목으로 올렸다.
 
 ---
