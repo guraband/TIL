@@ -109,3 +109,11 @@
 >   - generator batch size를 10으로 줄여 재기동 rate limit 병목을 완화했고, CURRENT_TODO에 KIS 시장가 매도 no-ack 경로 정리를 최우선 항목으로 올렸다.
 
 ---
+
+## ✏️ 2026.04.08
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - KIS rate limit을 fatal로 보던 supervisor 경로를 transient auto-recovery로 수정하고 커밋·푸시했다.
+>   - beast 모드 종목당 예산 100만원이 실제 수량 계산에도 반영되도록 sizing 경로를 보정했다.
+>   - 시장 온도계·paper supervisor를 재실행해 새 runtime_status 갱신과 정상 cycle 동작을 확인했다.
+
+---
