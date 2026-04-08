@@ -76,12 +76,9 @@
 
 ## ✏️ 2026.04.06
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - 모의/실전 조회 토큰 분리, 텔레그램 알림, supervisor 재기동 경로를 복구했다.
->   - stale 매도 주문 정리와 beast 종목당 예산 100만원 상향을 반영하고 재실행 검증했다.
->   - cycle log·runtime_status·entry residue 표시를 정리하고 관련 커밋·푸시를 마쳤다.
->   - KIS open order side 매핑과 매도취소 residue 필터를 고쳐 계좌 정합성·block_new_risk 문제를 해소했다.
->   - 익절 주문·손절 주문·취소/재조정 체결확정이 trades.jsonl에 남도록 운영 로그를 강화했다.
->   - overnight gap 추천 job의 stale feature 원인을 찾아 features_gap 재생성 후 .venv로 재실행했다.
+>   - 모의/실전 토큰 분리, 알림·재기동 복구, cycle/runtime_status 정비로 운용 기반을 안정화했다.
+>   - stale 매도 정리와 예산 상향, KIS side 매핑·residue 필터 수정으로 계좌 정합성을 회복했다.
+>   - 체결 로그를 강화하고 overnight gap stale feature를 복구해 추천 job 재실행까지 확인했다.
 
 > **🤖 market regime minute collector**
 >   - KIS 기반 one-shot collector MVP를 붙여 DB/artifact에 시장 분위기·추세 데이터를 저장하기 시작했다.
@@ -102,21 +99,17 @@
 >   - 운영 기준을 recent는 KIS, historical은 pykrx+KRX cookie로 분담하고 관련 changelog·커밋·푸시를 마쳤다.
 
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - beast paper 운용 중 compressed seed refresh·시장 온도계·supervisor 복구 경로를 정비했다.
->   - exit 주문 rate limit 문제를 추적해 재시도 쿨다운과 cycle당 exit submit 1건 제한을 반영했다.
->   - paper 운용 문서를 업데이트하고 관련 수정사항을 커밋·푸시한 뒤 supervisor 재기동까지 점검했다.
->   - 장중 시장가 매도 no-ack·잔존 매도주문 충돌 가능성을 추적하며 pending exit task, residue 해석 보정, hard-stop 전 KIS sell-order 확인/취소, fail-closed 보호를 추가했다.
->   - generator batch size를 10으로 줄여 재기동 rate limit 병목을 완화했고, CURRENT_TODO에 KIS 시장가 매도 no-ack 경로 정리를 최우선 항목으로 올렸다.
+>   - compressed seed refresh·시장 온도계·supervisor 복구 경로를 정비하고 운용 문서를 갱신했다.
+>   - exit rate limit 대응으로 재시도 쿨다운과 cycle당 exit submit 1건 제한을 적용했다.
+>   - no-ack/잔존 주문 충돌 대응(보호 로직)과 batch size 10 조정으로 재기동 병목을 완화했다.
 
 ---
 
 ## ✏️ 2026.04.08
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - KIS rate limit을 fatal로 보던 supervisor 경로를 transient auto-recovery로 수정하고 커밋·푸시했다.
->   - beast 모드 종목당 예산 100만원이 실제 수량 계산에도 반영되도록 sizing 경로를 보정했다.
->   - 시장 온도계·paper supervisor를 재실행해 새 runtime_status 갱신과 정상 cycle 동작을 확인했다.
->   - 시장 온도계 runner를 start/stop/status 스크립트 기준으로 표준화하고, 평일 09:00~15:20 가드와 6초대 cycle로 경량화했다.
->   - KOSPI/KOSPI200 추세 요약 스크립트와 지수-only backfill 스크립트를 추가해 누락 구간(10:37~11:39)도 보완했다.
+>   - KIS rate limit을 fatal에서 transient auto-recovery로 전환해 supervisor 복원력을 높였다.
+>   - beast 모드 종목당 100만원 예산이 실제 수량 산정에 반영되도록 sizing 경로를 보정했다.
+>   - 시장 온도계·supervisor 재검증, runner 표준화, 지수 요약/백필로 누락 구간을 보완했다.
 
 > **🤖 kospi200-ml-swing : investor flow 전구간 재백필**
 >   - KRX 세션 쿠키를 여러 차례 갱신하며 2020-01-02~2026-04-07 누락 investor flow를 숫자 코드만 대상으로 재수집했다.
@@ -127,6 +120,5 @@
 >   - 주식 관련 cron 시간표를 장초 중심으로 재배치하고 초단타 실행 cron 5개를 비활성화했다.
 >   - 투자일지 분석 리포트를 노션에 만들고, 매매 프롬프트에 강한 장 허용 규칙과 시장 정보 수집 상태 기록을 추가했다.
 >   - 익일청산 09:02, 당일매매 09:05, 스윙 09:10으로 조정해 장초 판단 흐름을 다시 맞췄다.
-
 
 ---
