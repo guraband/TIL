@@ -115,5 +115,7 @@
 >   - KIS rate limit을 fatal로 보던 supervisor 경로를 transient auto-recovery로 수정하고 커밋·푸시했다.
 >   - beast 모드 종목당 예산 100만원이 실제 수량 계산에도 반영되도록 sizing 경로를 보정했다.
 >   - 시장 온도계·paper supervisor를 재실행해 새 runtime_status 갱신과 정상 cycle 동작을 확인했다.
+>   - 시장 온도계 runner를 start/stop/status 스크립트 기준으로 표준화하고, 평일 09:00~15:20 가드와 6초대 cycle로 경량화했다.
+>   - KOSPI/KOSPI200 추세 요약 스크립트와 지수-only backfill 스크립트를 추가해 누락 구간(10:37~11:39)도 보완했다.
 
 ---
