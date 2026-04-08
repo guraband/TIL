@@ -118,4 +118,9 @@
 >   - 시장 온도계 runner를 start/stop/status 스크립트 기준으로 표준화하고, 평일 09:00~15:20 가드와 6초대 cycle로 경량화했다.
 >   - KOSPI/KOSPI200 추세 요약 스크립트와 지수-only backfill 스크립트를 추가해 누락 구간(10:37~11:39)도 보완했다.
 
+> **🤖 kospi200-ml-swing : investor flow 전구간 재백필**
+>   - KRX 세션 쿠키를 여러 차례 갱신하며 2020-01-02~2026-04-07 누락 investor flow를 숫자 코드만 대상으로 재수집했다.
+>   - 10개 이하 소배치 재시도로 전구간 numeric-only 잔여를 52만대에서 20만대 초반까지 줄였다.
+>   - SIGTERM 추적용 signal 로깅을 backfill 스크립트에 추가해 종료 시 pid·ppid·현재 ticker를 남기게 했다.
+
 ---
