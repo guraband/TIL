@@ -129,4 +129,9 @@
 >   - 시장 분위기 즉답용 `market_regime_quick_status.py`를 추가하고 운영 문서·changelog까지 반영했다.
 >   - 복기용 feature 로그와 regime 연동 TP 조정 TODO를 문서화하고 관련 변경을 커밋·푸시했다.
 
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - TP 잔존 미탐지 원인을 브로커 truth 기준으로 재정리하고 강제청산·로그 보강 패치를 반영했다.
+>   - rate limit 완화를 위해 reconciliation 7초 게이팅, exit cancel/submit retry 축소를 적용했다.
+>   - Claude 교차검증과 소스리뷰 후 TP clear 로그 순서 문제까지 수정해 커밋·푸시했다.
+
 ---
