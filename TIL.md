@@ -125,6 +125,11 @@
 
 ## ✏️ 2026.04.09
 > **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - max 보유 수량 가드 TODO와 리팩토링 리뷰 문서를 확인해 후속 작업 기준을 정리했다.
+>   - 주문 retry helper와 runtime status payload builder를 분리하고 관련 변경을 커밋·푸시했다.
+>   - retry helper 성공·소진 경로 회귀 테스트를 보강하고 Claude 리뷰로 중복 테스트까지 정리했다.
+
+> **🤖 토이프로젝트 개발 : 야수의 심장**
 >   - 시장 온도계 수집기 datetime 버그를 수정하고 09:00~09:33 누락 구간을 index-only backfill로 복구했다.
 >   - 시장 분위기 즉답용 `market_regime_quick_status.py`를 추가하고 운영 문서·changelog까지 반영했다.
 >   - 복기용 feature 로그와 regime 연동 TP 조정 TODO를 문서화하고 관련 변경을 커밋·푸시했다.
