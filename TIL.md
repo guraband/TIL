@@ -140,3 +140,11 @@
 >   - portfolio-level vol targeting 첫 구현은 레버리지처럼 오동작해 문서화·커밋·푸시 후 다음 세션 디버깅으로 넘겼다.
 
 ---
+
+## ✏️ 2026.04.10
+> **🤖 beast-heart-scalp**
+>   - market-data event dispatch를 handler map 구조로 리팩토링했다
+>   - Claude 리뷰로 시그니처 버그를 수정하고 timeout/backoff 회귀 테스트를 보강했다
+>   - CHANGELOG·review 문서 반영 후 커밋/푸시까지 마무리했다
+
+---
