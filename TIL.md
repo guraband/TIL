@@ -129,4 +129,9 @@
 >   - 시장 온도계 datetime 버그와 누락 구간을 복구하고 `market_regime_quick_status.py`·운영 문서를 반영했다.
 >   - TP 잔존 미탐지 대응, 강제청산/로그 보강, reconciliation 게이팅·retry 축소로 체결 안정성을 높였다.
 
+> **🤖 kospi200-ml-swing : Swing V2 리스크 오버레이 정리**
+>   - score-weighted+cap 기준으로 liquidity_refine baseline 유지, breakout_volume_soft는 candidate-level에서 park했다.
+>   - overlay 평가를 Calmar 우선으로 고정하고 DD throttle 계열은 cash-drag로 판정해 승격에서 제외했다.
+>   - portfolio-level vol targeting 첫 구현은 레버리지처럼 오동작해 문서화·커밋·푸시 후 다음 세션 디버깅으로 넘겼다.
+
 ---
