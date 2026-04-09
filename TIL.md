@@ -125,6 +125,11 @@
 
 ## ✏️ 2026.04.09
 > **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - scanner 설정 팩토리와 market data handler 분리로 `loop.py` god class를 한 단계 더 절개했다.
+>   - `from_settings`, `_ingest_market_data_event` 1·2차 절개 후 타깃 테스트와 Claude 리뷰로 회귀 여부를 점검했다.
+>   - 리뷰 문서와 CHANGELOG까지 최신화하고 관련 리팩토링 커밋들을 모두 푸시했다.
+
+> **🤖 토이프로젝트 개발 : 야수의 심장**
 >   - max 보유 수량 가드 기준을 정리하고 retry helper·runtime status builder 분리와 회귀 테스트를 보강했다.
 >   - 시장 온도계 datetime 버그와 누락 구간을 복구하고 `market_regime_quick_status.py`·운영 문서를 반영했다.
 >   - TP 잔존 미탐지 대응, 강제청산/로그 보강, reconciliation 게이팅·retry 축소로 체결 안정성을 높였다.
