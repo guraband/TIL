@@ -143,19 +143,9 @@
 
 ## ✏️ 2026.04.10
 > **🤖 beast-heart-scalp**
->   - market-data event dispatch를 handler map 구조로 리팩토링했다
->   - Claude 리뷰로 시그니처 버그를 수정하고 timeout/backoff 회귀 테스트를 보강했다
->   - CHANGELOG·review 문서 반영 후 커밋/푸시까지 마무리했다
-
-> **🤖 beast-heart-scalp**
->   - exit 꼬임 원인을 TP 오인식보다 reconciliation/stale exit 상태 문제로 좁혔다
->   - TP guardrail, stale exit rollback, TTL·CANCEL_PENDING 보강 후 Claude 재리뷰를 받았다
->   - changelog 반영, 커밋/푸시, supervisor 재실행까지 완료했다
-
-> **🤖 beast-heart-scalp**
->   - beast 모드에 market regime 기반 진입 차단을 추가해 risk_off 저품질 진입을 막았다
->   - stale/error는 neutral fallback으로 두고 관련 로그·회귀 테스트·helper 분리를 함께 정리했다
->   - 작업지시서 archive, changelog 갱신, 기능+리팩토링 커밋 2건을 main에 푸시했다
+>   - handler map 기반 event dispatch 리팩토링, 시그니처 버그 수정 및 테스트 보강
+>   - exit 문제를 stale/reconciliation로 규명, guardrail·rollback·TTL 보강 후 재검증
+>   - market regime 기반 진입 차단 추가, fallback/로그/테스트 정리 후 커밋 완료
 
 > **🤖 kospi200-ml-swing : Swing V3 execution hardening**
 >   - frozen 구조 리더를 유지한 채 rebalance step2·step3 검증으로 step3 실행 리더를 확정했다.
