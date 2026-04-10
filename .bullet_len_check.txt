@@ -1,0 +1,2 @@
+market-data dispatch를 handler�토링하고 시그니처 버그·timeout/backoff 회���한�� CHANGELOG·문서 반영과 ����시까지 마무리했다��임 원인을 reconciliation/st��� TP guardrail·rollback·TTL·CANCEL_PENDING을 보��하고 Claude 재리���·changelog·supervisor 재실행까지 ��료했다.
+beast에 regime 기반 risk_off 진입 차단과 stale/error neutral fallback·로그·테스트·helper 정리, 작업지시 archive와 기능·리��토� 2건��시했다.
