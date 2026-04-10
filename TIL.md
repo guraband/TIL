@@ -147,4 +147,9 @@
 >   - Claude 리뷰로 시그니처 버그를 수정하고 timeout/backoff 회귀 테스트를 보강했다
 >   - CHANGELOG·review 문서 반영 후 커밋/푸시까지 마무리했다
 
+> **🤖 beast-heart-scalp**
+>   - exit 꼬임 원인을 TP 오인식보다 reconciliation/stale exit 상태 문제로 좁혔다
+>   - TP guardrail, stale exit rollback, TTL·CANCEL_PENDING 보강 후 Claude 재리뷰를 받았다
+>   - changelog 반영, 커밋/푸시, supervisor 재실행까지 완료했다
+
 ---
