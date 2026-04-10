@@ -157,4 +157,9 @@
 >   - stale/error는 neutral fallback으로 두고 관련 로그·회귀 테스트·helper 분리를 함께 정리했다
 >   - 작업지시서 archive, changelog 갱신, 기능+리팩토링 커밋 2건을 main에 푸시했다
 
+> **🤖 kospi200-ml-swing : Swing V3 execution hardening**
+>   - frozen 구조 리더를 유지한 채 rebalance step2·step3 검증으로 step3 실행 리더를 확정했다.
+>   - 극단 short filter는 폐기하고 `0.6 + floor5` selective short를 현실적 차기 후보로 좁혔다.
+>   - short cost·breadth·window/year 검증과 handoff 문서 갱신까지 이어서 정리했다.
+
 ---
