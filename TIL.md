@@ -162,4 +162,9 @@
 >   - 극단 short filter는 폐기하고 `0.6 + floor5` selective short를 현실적 차기 후보로 좁혔다.
 >   - short cost·breadth·window/year 검증과 handoff 문서 갱신까지 이어서 정리했다.
 
+> **🤖 kospi200-ml-swing : Swing 비교와 V4 설계**
+>   - Cycle A·V3·교집합 추천을 슬라이딩 백테스트 룰로 다시 비교해 Cycle A 우위를 확인했다.
+>   - top10 교집합 3종목 변형과 결과 artifact를 저장하고 커밋했다.
+>   - Cycle C·Cycle A·V3 교훈을 합친 `strategies/swing/v4/README.md` 설계 초안을 작성했다.
+
 ---
