@@ -152,4 +152,9 @@
 >   - TP guardrail, stale exit rollback, TTL·CANCEL_PENDING 보강 후 Claude 재리뷰를 받았다
 >   - changelog 반영, 커밋/푸시, supervisor 재실행까지 완료했다
 
+> **🤖 beast-heart-scalp**
+>   - beast 모드에 market regime 기반 진입 차단을 추가해 risk_off 저품질 진입을 막았다
+>   - stale/error는 neutral fallback으로 두고 관련 로그·회귀 테스트·helper 분리를 함께 정리했다
+>   - 작업지시서 archive, changelog 갱신, 기능+리팩토링 커밋 2건을 main에 푸시했다
+
 ---
