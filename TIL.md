@@ -158,3 +158,11 @@
 >   - Cycle C·Cycle A·V3 교훈을 합친 `strategies/swing/v4/README.md` 설계 초안을 작성했다.
 
 ---
+
+## ✏️ 2026.04.11
+> **🤖 kospi-ml-lab : swing_5d_tp_sl 종료**
+>   - permutation·비용·early fold 검증에서 robust edge가 안 보여 `swing_5d_tp_sl` 트랙을 종료했다.
+>   - 오케스트레이터를 병렬·자가검증형으로 확장했지만 실전 후보로 남길 수준은 아니라는 결론을 정리했다.
+>   - 네드 리마인더와 오케스트레이터 잔여 상태를 확인해 후속 작업 없이 종료 상태를 깔끔히 정리했다.
+
+---
