@@ -160,6 +160,14 @@
 ---
 
 ## ✏️ 2026.04.11
+> **🤖 kospi200-ml-swing : Swing V4.5 stop review**
+>   - target haircut과 마지막 확인 실험으로 V4.5 TP/SL 모델의 지속 여부를 재판정했다.
+>   - alpha 근거 부족으로 stop review, handoff, progress를 정리하고 중단 결론을 문서화했다.
+>   - `kospi200.db` 핵심 테이블 스키마와 가격·수급 데이터 품질도 함께 점검했다.
+
+---
+
+## ✏️ 2026.04.11
 > **🤖 kospi-ml-lab : swing_5d_tp_sl 종료**
 >   - permutation·비용·early fold 검증에서 robust edge가 안 보여 `swing_5d_tp_sl` 트랙을 종료했다.
 >   - 오케스트레이터를 병렬·자가검증형으로 확장했지만 실전 후보로 남길 수준은 아니라는 결론을 정리했다.
