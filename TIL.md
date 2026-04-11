@@ -173,4 +173,9 @@
 >   - 오케스트레이터를 병렬·자가검증형으로 확장했지만 실전 후보로 남길 수준은 아니라는 결론을 정리했다.
 >   - 네드 리마인더와 오케스트레이터 잔여 상태를 확인해 후속 작업 없이 종료 상태를 깔끔히 정리했다.
 
+> **🤖 kospi-ml-lab : 이벤트 트랙 정리와 DART 전환**
+>   - 수급 이벤트와 OHLCV 이벤트 트랙을 모두 fail-fast로 정리하고 verdict·changelog를 반영했다.
+>   - `volume_price_event_alpha`는 Claude 리뷰 반영 후 H1·H2 sweep까지 돌려 둘 다 kill로 확정했다.
+>   - DART 자사주 취득 결정 API와 corpCode 매핑을 검증해 샘플 이벤트 수집 가능성을 확인했다.
+
 ---
