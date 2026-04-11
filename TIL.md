@@ -161,21 +161,12 @@
 
 ## ✏️ 2026.04.11
 > **🤖 kospi200-ml-swing : Swing V4.5 stop review**
->   - target haircut과 마지막 확인 실험으로 V4.5 TP/SL 모델의 지속 여부를 재판정했다.
->   - alpha 근거 부족으로 stop review, handoff, progress를 정리하고 중단 결론을 문서화했다.
->   - `kospi200.db` 핵심 테이블 스키마와 가격·수급 데이터 품질도 함께 점검했다.
+>   - 마지막 실험으로 V4.5 TP/SL 지속 여부를 재판정했고, alpha 부족으로 중단·문서화했다. `kospi200.db` 스키마와 가격·수급 품질도 점검했다.
 
----
-
-## ✏️ 2026.04.11
 > **🤖 kospi-ml-lab : swing_5d_tp_sl 종료**
->   - permutation·비용·early fold 검증에서 robust edge가 안 보여 `swing_5d_tp_sl` 트랙을 종료했다.
->   - 오케스트레이터를 병렬·자가검증형으로 확장했지만 실전 후보로 남길 수준은 아니라는 결론을 정리했다.
->   - 네드 리마인더와 오케스트레이터 잔여 상태를 확인해 후속 작업 없이 종료 상태를 깔끔히 정리했다.
+>   - permutation·비용·early fold에서 robust edge가 없어 트랙을 종료했고, 병렬·자가검증 오케 확장에도 실전 불가 결론과 잔여 상태를 정리했다.
 
 > **🤖 kospi-ml-lab : 이벤트 트랙 정리와 DART 전환**
->   - 수급 이벤트와 OHLCV 이벤트 트랙을 모두 fail-fast로 정리하고 verdict·changelog를 반영했다.
->   - `volume_price_event_alpha`는 Claude 리뷰 반영 후 H1·H2 sweep까지 돌려 둘 다 kill로 확정했다.
->   - DART 자사주 취득 결정 API와 corpCode 매핑을 검증해 샘플 이벤트 수집 가능성을 확인했다.
+>   - 수급·OHLCV 이벤트 트랙을 fail-fast로 정리했고, `volume_price_event_alpha`는 H1·H2 sweep 모두 kill. DART 자사주 API·corpCode 검증으로 샘플 수집 가능성을 확인했다.
 
 ---
