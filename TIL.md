@@ -183,4 +183,10 @@
 >   - top-bottom spread·buyback·trust contract·dilution을 병렬 검증해 buyback shareholder value를 메인 레인으로, trust contract는 보조·long-short spread는 구조 진단/필터로 두고 dilution·market-neutral 우선순위를 낮췄으며 CHANGELOG·TODO·리뷰·결과 JSON/스크립트를 커밋 `64e4165`까지 반영했다.
 >   - next-open 기준 C/E 운영형 백테스트와 C-only 심화, 100만원 한도·부분익절 시뮬레이션까지 확장한 뒤 현재 챔피언 규칙을 `C_buyback_direct_mid + next-open + 15일 종가 청산`으로 재정의했고, 관련 docs/results·todo 정리와 커밋 `86c0fc9` 푸시까지 마쳤다.
 
+## ✏️ 2026.04.13
+> **🤖 kospi-ml-predictor**
+>   - FX 거래일 정제 스크립트를 실DB에 적용해 비거래일 FX를 제거하고 거래일 결측을 0건으로 맞췄다.
+>   - Claude 코드리뷰를 문서형 요청/응답으로 남기고, 리뷰 산출물을 repo와 docs/review에 정리해 커밋·푸시했다.
+>   - 학습 방향 후속으로 rank 지표·flow lag·target mode·feature profile·experiment matrix가 changelog 기준으로 대거 보강됐다.
+
 ---
