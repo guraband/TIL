@@ -170,3 +170,11 @@
 >   - 수급·OHLCV 이벤트 트랙을 fail-fast로 정리했고, `volume_price_event_alpha`는 H1·H2 sweep 모두 kill. DART 자사주 API·corpCode 검증으로 샘플 수집 가능성을 확인했다.
 
 ---
+
+## ✏️ 2026.04.12
+> **🤖 kospi-ml-lab : DART buyback 운영 규율 고정**
+>   - 자사주 매입 공시 edge를 10일 horizon 운영 후보로 고정하고 operational verdict·hygiene·rulebook·paper pilot 문서를 정리했다.
+>   - 비용·동시보유 민감도와 클러스터링·정정/취소 점검까지 끝내고 buyback 트랙을 freeze 커밋·push했다.
+>   - 다음 DART 후보로 유상증자 결정을 샘플/정식 검증했지만 full first-wave에선 weak·inconclusive로 고정했다.
+
+---
