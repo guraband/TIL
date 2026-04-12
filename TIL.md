@@ -182,4 +182,9 @@
 >   - 보수적 백테스트 설계 v1과 `src/backtest` runnable skeleton, TODO·ROADMAP·CHANGELOG를 추가했다.
 >   - 초기 커밋 후 GitHub `guraband/kospi-copilot` 원격 연결과 main push까지 완료했다.
 
+> **🤖 kospi-ml-lab : buyback family 보드 확정**
+>   - 자기주식취득 신탁계약 체결 결정을 full/OOS/민감도까지 검증해 5일 secondary 후보로 승격했다.
+>   - buyback family를 MAIN·SECONDARY·PARK 구조로 정리하고 paper pilot·충돌 규칙 문서를 만들었다.
+>   - 2025~2026Q1 구간 100만원 고정 백테스트 기준 buyback·trust contract 수익 규모도 다시 계산했다.
+
 ---
