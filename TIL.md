@@ -181,5 +181,6 @@
 >   - 신규 repo를 만들고 shared DB 심볼릭 링크·핵심 문서·README·백테스트 설계 v1·`src/backtest` runnable skeleton·TODO·ROADMAP·CHANGELOG를 두고 GitHub `guraband/kospi-copilot` 원격 연결과 초기 커밋·main push를 완료했다.
 >   - C/C 기준 baseline·min-hold·compact matrix 병렬 검증으로 `width=25`·longer hold가 덜 나쁜 local optimum임을 확인했고, adaptive·시그널 redesign·regime/participation 실험 끝에 현재 feature universe 재조합만으로는 개선이 어렵다고 정리했으며 모델 위원회·Claude·Codex 리뷰를 묶어 다음 페이즈를 새 feature family + 구조 테스트 병렬 피벗으로 문서·커밋·push했다.
 >   - top-bottom spread·buyback·trust contract·dilution을 병렬 검증해 buyback shareholder value를 메인 레인으로, trust contract는 보조·long-short spread는 구조 진단/필터로 두고 dilution·market-neutral 우선순위를 낮췄으며 CHANGELOG·TODO·리뷰·결과 JSON/스크립트를 커밋 `64e4165`까지 반영했다.
+>   - next-open 기준 C/E 운영형 백테스트와 C-only 심화, 100만원 한도·부분익절 시뮬레이션까지 확장한 뒤 현재 챔피언 규칙을 `C_buyback_direct_mid + next-open + 15일 종가 청산`으로 재정의했고, 관련 docs/results·todo 정리와 커밋 `86c0fc9` 푸시까지 마쳤다.
 
 ---
