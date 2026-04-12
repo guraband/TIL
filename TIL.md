@@ -172,29 +172,14 @@
 ---
 
 ## ✏️ 2026.04.12
-> **🤖 kospi-ml-lab : DART buyback 운영 규율 고정**
->   - 자사주 매입 공시 edge를 10일 horizon 운영 후보로 고정하고 operational verdict·hygiene·rulebook·paper pilot 문서를 정리했다.
->   - 비용·동시보유 민감도와 클러스터링·정정/취소 점검까지 끝내고 buyback 트랙을 freeze 커밋·push했다.
->   - 다음 DART 후보로 유상증자 결정을 샘플/정식 검증했지만 full first-wave에선 weak·inconclusive로 고정했다.
+> **🤖 kospi-ml-lab**
+>   - DART 자사주 매입을 10일 horizon 운영 후보로 고정하고 verdict·hygiene·rulebook·paper pilot을 정리한 뒤 비용·동시보유 민감도·클러스터링·정정/취소 점검까지 마치고 buyback 트랙을 freeze 커밋·push했다.
+>   - buyback family를 MAIN·SECONDARY·PARK로 두고 신탁계약 체결 결정을 full/OOS/민감도 검증 후 5일 secondary 후보로 승격했으며 paper pilot·충돌 규칙 문서를 만들고, 2025~2026Q1 구간 100만원 고정 백테스트로 buyback·trust contract 수익 규모를 재계산했다.
+>   - DART 후보로 유상증자 결정을 샘플·정식 검증했으나 full first-wave에서는 weak·inconclusive로 고정했다.
 
-> **🤖 kospi-copilot 프로젝트 부트스트랩**
->   - 신규 서비스 repo `kospi-copilot`를 만들고 shared DB 심볼릭 링크·핵심 문서·README를 정리했다.
->   - 보수적 백테스트 설계 v1과 `src/backtest` runnable skeleton, TODO·ROADMAP·CHANGELOG를 추가했다.
->   - 초기 커밋 후 GitHub `guraband/kospi-copilot` 원격 연결과 main push까지 완료했다.
-
-> **🤖 kospi-ml-lab : buyback family 보드 확정**
->   - 자기주식취득 신탁계약 체결 결정을 full/OOS/민감도까지 검증해 5일 secondary 후보로 승격했다.
->   - buyback family를 MAIN·SECONDARY·PARK 구조로 정리하고 paper pilot·충돌 규칙 문서를 만들었다.
->   - 2025~2026Q1 구간 100만원 고정 백테스트 기준 buyback·trust contract 수익 규모도 다시 계산했다.
-
-> **🤖 kospi-copilot : 백테스트 피벗 정리**
->   - C/C 기준 broad baseline·min-hold·compact matrix를 병렬 검증해 `width=25`, `longer hold`가 덜 나쁜 local optimum임을 확인했다.
->   - adaptive vs fixed, signal redesign 3트랙, regime/participation 실험까지 돌려 현재 feature universe 재조합만으로는 개선이 어렵다는 결론을 얻었다.
->   - 모델 위원회·Claude·Codex 리뷰를 묶어 다음 페이즈를 새 feature family + 구조 테스트 병렬 피벗으로 정리하고 문서·커밋·push를 마쳤다.
-
-> **🤖 kospi-copilot : 이벤트 전략 메인 레인 확정**
->   - top-bottom spread·buyback·trust contract·dilution을 병렬 검증해 buyback shareholder value를 메인 연구 레인으로 올렸다.
->   - trust contract는 보조 레인, long-short spread는 구조 진단/필터 레인으로 재정의했고 dilution·market-neutral은 우선순위를 낮췄다.
->   - CHANGELOG·TODO·리뷰 문서와 결과 JSON/스크립트를 정리해 커밋 `64e4165`까지 push했다.
+> **🤖 kospi-copilot**
+>   - 신규 repo를 만들고 shared DB 심볼릭 링크·핵심 문서·README·백테스트 설계 v1·`src/backtest` runnable skeleton·TODO·ROADMAP·CHANGELOG를 두고 GitHub `guraband/kospi-copilot` 원격 연결과 초기 커밋·main push를 완료했다.
+>   - C/C 기준 baseline·min-hold·compact matrix 병렬 검증으로 `width=25`·longer hold가 덜 나쁜 local optimum임을 확인했고, adaptive·시그널 redesign·regime/participation 실험 끝에 현재 feature universe 재조합만으로는 개선이 어렵다고 정리했으며 모델 위원회·Claude·Codex 리뷰를 묶어 다음 페이즈를 새 feature family + 구조 테스트 병렬 피벗으로 문서·커밋·push했다.
+>   - top-bottom spread·buyback·trust contract·dilution을 병렬 검증해 buyback shareholder value를 메인 레인으로, trust contract는 보조·long-short spread는 구조 진단/필터로 두고 dilution·market-neutral 우선순위를 낮췄으며 CHANGELOG·TODO·리뷰·결과 JSON/스크립트를 커밋 `64e4165`까지 반영했다.
 
 ---
