@@ -187,4 +187,9 @@
 >   - buyback family를 MAIN·SECONDARY·PARK 구조로 정리하고 paper pilot·충돌 규칙 문서를 만들었다.
 >   - 2025~2026Q1 구간 100만원 고정 백테스트 기준 buyback·trust contract 수익 규모도 다시 계산했다.
 
+> **🤖 kospi-copilot : 백테스트 피벗 정리**
+>   - C/C 기준 broad baseline·min-hold·compact matrix를 병렬 검증해 `width=25`, `longer hold`가 덜 나쁜 local optimum임을 확인했다.
+>   - adaptive vs fixed, signal redesign 3트랙, regime/participation 실험까지 돌려 현재 feature universe 재조합만으로는 개선이 어렵다는 결론을 얻었다.
+>   - 모델 위원회·Claude·Codex 리뷰를 묶어 다음 페이즈를 새 feature family + 구조 테스트 병렬 피벗으로 정리하고 문서·커밋·push를 마쳤다.
+
 ---
