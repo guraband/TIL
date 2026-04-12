@@ -177,4 +177,9 @@
 >   - 비용·동시보유 민감도와 클러스터링·정정/취소 점검까지 끝내고 buyback 트랙을 freeze 커밋·push했다.
 >   - 다음 DART 후보로 유상증자 결정을 샘플/정식 검증했지만 full first-wave에선 weak·inconclusive로 고정했다.
 
+> **🤖 kospi-copilot 프로젝트 부트스트랩**
+>   - 신규 서비스 repo `kospi-copilot`를 만들고 shared DB 심볼릭 링크·핵심 문서·README를 정리했다.
+>   - 보수적 백테스트 설계 v1과 `src/backtest` runnable skeleton, TODO·ROADMAP·CHANGELOG를 추가했다.
+>   - 초기 커밋 후 GitHub `guraband/kospi-copilot` 원격 연결과 main push까지 완료했다.
+
 ---
