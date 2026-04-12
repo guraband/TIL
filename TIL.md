@@ -192,4 +192,9 @@
 >   - adaptive vs fixed, signal redesign 3트랙, regime/participation 실험까지 돌려 현재 feature universe 재조합만으로는 개선이 어렵다는 결론을 얻었다.
 >   - 모델 위원회·Claude·Codex 리뷰를 묶어 다음 페이즈를 새 feature family + 구조 테스트 병렬 피벗으로 정리하고 문서·커밋·push를 마쳤다.
 
+> **🤖 kospi-copilot : 이벤트 전략 메인 레인 확정**
+>   - top-bottom spread·buyback·trust contract·dilution을 병렬 검증해 buyback shareholder value를 메인 연구 레인으로 올렸다.
+>   - trust contract는 보조 레인, long-short spread는 구조 진단/필터 레인으로 재정의했고 dilution·market-neutral은 우선순위를 낮췄다.
+>   - CHANGELOG·TODO·리뷰 문서와 결과 JSON/스크립트를 정리해 커밋 `64e4165`까지 push했다.
+
 ---
