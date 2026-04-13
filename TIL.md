@@ -190,6 +190,7 @@
 >   - 학습 방향 후속으로 rank 지표·flow lag·target mode·feature profile·experiment matrix가 changelog 기준으로 대거 보강됐다.
 >   - `stock-specific + cs_top20 + common-stock-only`를 paper-trading 후보로 승격하고 overlap-aware NAV·비용 민감도·walk-forward OOS 결과를 문서화했다.
 >   - overlap-aware 시뮬레이터 테스트와 next-day execution 검증을 추가해 `hold 8d` 기본 운영안의 paper-trading 후보 타당성을 강화했다.
+>   - paper-trading ops guide를 추가하고 기본 운영값을 `top5 + hold 8d`로 README와 함께 고정했다.
 
 > **🤖 토이프로젝트 개발 : 야수의 심장**
 >   - hidden exit 오탐과 reconciliation 과민 차단을 줄이는 장중 패치를 여러 차례 적용하고 supervisor를 재기동했다.
