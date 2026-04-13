@@ -191,4 +191,9 @@
 >   - `stock-specific + cs_top20 + common-stock-only`를 paper-trading 후보로 승격하고 overlap-aware NAV·비용 민감도·walk-forward OOS 결과를 문서화했다.
 >   - overlap-aware 시뮬레이터 테스트와 next-day execution 검증을 추가해 `hold 8d` 기본 운영안의 paper-trading 후보 타당성을 강화했다.
 
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - hidden exit 오탐과 reconciliation 과민 차단을 줄이는 장중 패치를 여러 차례 적용하고 supervisor를 재기동했다.
+>   - HTS/MTS 확인으로 종목별 TP 실재 여부를 대조해 false positive 원인을 좁히고 changelog·todo·커밋·푸시까지 마쳤다.
+>   - 매수 복기용 `entry_reason_snapshot` 로그를 추가해 threshold·거래량·breakout·실행강도 단서를 함께 남기게 했다.
+
 ---
