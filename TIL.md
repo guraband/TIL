@@ -198,3 +198,10 @@
 >   - 매수 복기용 `entry_reason_snapshot` 로그를 추가해 threshold·거래량·breakout·실행강도 단서를 함께 남기게 했다.
 
 ---
+
+## ✏️ 2026.04.14
+> **🤖 kospi-data-collector**
+>   - 코스피 관련 데이터 수집 전용 프로젝트를 분리했다.
+>   - kospi 종목 정보, kospi200 종목 목록, 환율 정보 수집 스크립트를 추가했다.
+
+---
