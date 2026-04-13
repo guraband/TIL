@@ -188,5 +188,7 @@
 >   - FX 거래일 정제 스크립트를 실DB에 적용해 비거래일 FX를 제거하고 거래일 결측을 0건으로 맞췄다.
 >   - Claude 코드리뷰를 문서형 요청/응답으로 남기고, 리뷰 산출물을 repo와 docs/review에 정리해 커밋·푸시했다.
 >   - 학습 방향 후속으로 rank 지표·flow lag·target mode·feature profile·experiment matrix가 changelog 기준으로 대거 보강됐다.
+>   - `stock-specific + cs_top20 + common-stock-only`를 paper-trading 후보로 승격하고 overlap-aware NAV·비용 민감도·walk-forward OOS 결과를 문서화했다.
+>   - overlap-aware 시뮬레이터 테스트와 next-day execution 검증을 추가해 `hold 8d` 기본 운영안의 paper-trading 후보 타당성을 강화했다.
 
 ---
