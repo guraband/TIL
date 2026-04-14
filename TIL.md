@@ -204,4 +204,15 @@
 >   - 코스피 관련 데이터 수집 전용 프로젝트를 분리했다.
 >   - kospi 종목 정보, kospi200 종목 목록, 환율 정보 수집 스크립트를 추가했다.
 
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - stale TP 가정(broker_order_id 없음) 감지 후 강제 해제, hard stop 시 시장가 손절 경로 보장 및 로그 추가
+>   - token 만료 시 supervisor 자동 재발급으로 복구, TP 실패는 count·에러코드 기반 백오프로 재시도 제어
+>   - TP 가정 해제·token 재발급·retry/backoff 전반에 회귀 테스트 추가, runtime 반영 후 정상 동작 확인
+
+---
+
+## ✏️ 2026.04.15
+> **🤖 kospi-data-collector**
+>   - kospi 가격 정보, 수급 정보 수집 스크립트 추가
+
 ---
