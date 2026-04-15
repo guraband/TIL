@@ -199,6 +199,14 @@
 
 ---
 
+## ✏️ 2026.04.15
+> **🤖 kospi-ml-predictor**
+>   - `stock-specific + cs_top20 + common-stock-only + top5 + hold 8d` 최종 운영안 문서를 만들고 README에 링크를 연결했다.
+>   - 종목별 병렬 추천 스크립트와 DB 저장, 6자리 ticker 보정, Notion 반영 스크립트까지 묶어 일일 추천 경로를 완성했다.
+>   - 07:55 OpenClaw cron으로 코스피 데일리 ML 추천 실행 후 Notion 투자 추천 리포트 갱신 자동화를 등록했다.
+
+---
+
 ## ✏️ 2026.04.14
 > **🤖 kospi-data-collector**
 >   - 코스피 관련 데이터 수집 전용 프로젝트를 분리했다.
