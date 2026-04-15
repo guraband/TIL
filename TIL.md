@@ -199,19 +199,6 @@
 
 ---
 
-## ✏️ 2026.04.15
-> **🤖 kospi-ml-predictor**
->   - `stock-specific + cs_top20 + common-stock-only + top5 + hold 8d` 최종 운영안 문서를 만들고 README에 링크를 연결했다.
->   - 종목별 병렬 추천 스크립트와 DB 저장, 6자리 ticker 보정, Notion 반영 스크립트까지 묶어 일일 추천 경로를 완성했다.
->   - 07:55 OpenClaw cron으로 코스피 데일리 ML 추천 실행 후 Notion 투자 추천 리포트 갱신 자동화를 등록했다.
-
-> **🤖 토이프로젝트 개발 : 야수의 심장**
->   - hold clock reset 원인을 cycle reconciliation과 bootstrap 복원 경로까지 좁혀 수정하고 회귀 테스트를 추가했다.
->   - broker truth 기준으로 유령 포지션을 걷어내고 실제 초과 보유 종목만 다시 계산했다.
->   - 실제 paper 계좌 기준 초과 보유였던 `035420`, `278470`를 정리하고 후속 truth 재조회로 positions·open orders 비어 있음을 확인했다.
-
----
-
 ## ✏️ 2026.04.14
 > **🤖 kospi-data-collector**
 >   - 코스피 관련 데이터 수집 전용 프로젝트를 분리했다.
@@ -227,5 +214,15 @@
 ## ✏️ 2026.04.15
 > **🤖 kospi-data-collector**
 >   - kospi 가격 정보, 수급 정보 수집 스크립트 추가
+
+> **🤖 kospi-ml-predictor**
+>   - `stock-specific + cs_top20 + common-stock-only + top5 + hold 8d` 최종 운영안 문서를 만들고 README에 링크를 연결했다.
+>   - 종목별 병렬 추천 스크립트와 DB 저장, 6자리 ticker 보정, Notion 반영 스크립트까지 묶어 일일 추천 경로를 완성했다.
+>   - 07:55 OpenClaw cron으로 코스피 데일리 ML 추천 실행 후 Notion 투자 추천 리포트 갱신 자동화를 등록했다.
+
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - hold clock reset 원인을 cycle reconciliation과 bootstrap 복원 경로까지 좁혀 수정하고 회귀 테스트를 추가했다.
+>   - broker truth 기준으로 유령 포지션을 걷어내고 실제 초과 보유 종목만 다시 계산했다.
+>   - 실제 paper 계좌 기준 초과 보유였던 `035420`, `278470`를 정리하고 후속 truth 재조회로 positions·open orders 비어 있음을 확인했다.
 
 ---
