@@ -229,8 +229,12 @@
 
 ## ✏️ 2026.04.16
 > **🤖 토이프로젝트 개발 : 야수의 심장**
-  - signal metadata/source observability를 보강하고 early·late entry telemetry 분석 스크립트와 workorder 문서를 추가했다.
-  - 코스피/KOSPI200 intraday crossover를 검증해 장초 우위·장후반 열위 가설을 정리하고 관련 changelog·커밋·push를 마쳤다.
-  - 장마감 eod_flatten 지연 원인을 추적해 aggressive retry 보강, direct lookup 경로 수정, Claude 리뷰 반영까지 진행했다.
+>   - signal metadata/source observability를 보강하고 early·late entry telemetry 분석 스크립트와 workorder 문서를 추가했다.
+>   - 코스피/KOSPI200 intraday crossover를 검증해 장초 우위·장후반 열위 가설을 정리하고 관련 changelog·커밋·push를 마쳤다.
+>   - 장마감 eod_flatten 지연 원인을 추적해 aggressive retry 보강, direct lookup 경로 수정, Claude 리뷰 반영까지 진행했다.
 
 ---
+
+## ✏️ 2026.04.17
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - 문서 정리
