@@ -226,3 +226,11 @@
 >   - 실제 paper 계좌 기준 초과 보유였던 `035420`, `278470`를 정리하고 후속 truth 재조회로 positions·open orders 비어 있음을 확인했다.
 
 ---
+
+## ✏️ 2026.04.16
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+  - 진입 후보에 `candidate_source`와 signal metadata presence 로그를 추가해 missing vs 0 구분이 가능해졌다.
+  - `scanner_refresh` carry-forward 문제까지 보강하고 새 trades 로그에서 source·raw score 저장을 확인했다.
+  - 관련 changelog를 갱신해 커밋 `1b57102`로 push하고 paper supervisor 재실행 준비를 마쳤다.
+
+---
