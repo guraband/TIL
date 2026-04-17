@@ -243,3 +243,8 @@
 >   - 아침 Notion stale 추천 원인을 찾아 retrain-first, purge-first, section replace-first 흐름으로 고쳤다.
 >   - 텔레그램 아침 리포트 생성기와 실제 발송 wrapper를 붙이고 수동 실행으로 노션·텔레그램까지 검증했다.
 >   - 07:55 cron을 노션 갱신 뒤 텔레그램 발송까지 이어지게 수정했고 모델위원회 반영형 리포트 고도화를 진행 중이다.
+
+> **🤖 beast-heart-scalp**
+>   - websocket stale fallback 진입 버그 원인을 추적해 signal gate 역전 로직을 확인했다
+>   - signal gate, degraded 처리, backfill 기준을 수정하고 Claude 리뷰로 blocker 해소를 검증했다
+>   - 작업지시서 아카이브, docs/temp gitignore, CHANGELOG autolog까지 정리했다
