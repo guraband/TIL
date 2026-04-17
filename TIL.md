@@ -242,9 +242,9 @@
 >   - EOD flatten closing workorder를 최소 관측 로그 보강으로 마감해 archive로 이관하고 남은 작업지시서 수를 줄였다.
 
 > **🤖 kospi-ml-predictor**
->   - 아침 Notion stale 추천 원인을 찾아 retrain-first, purge-first, section replace-first 흐름으로 고쳤다.
->   - 텔레그램 아침 리포트 생성기와 실제 발송 wrapper를 붙이고 수동 실행으로 노션·텔레그램까지 검증했다.
->   - 07:55 cron을 노션 갱신 뒤 텔레그램 발송까지 이어지게 수정했고 모델위원회 반영형 리포트 고도화를 진행 중이다.
+>   - 아침 노션·텔레그램 자동화를 retrain-first와 모델위원회 반영 흐름으로 정리하고 cron/tag/changelog까지 맞췄다.
+>   - KOSPI200 benchmark 수집 코드 혼선을 바로잡아 `1028` 기준으로 최신 구간을 복구하고 predictor 연계 경로를 점검했다.
+>   - next-gap-up 엄밀 walk-forward 백테스트 스크립트를 만들고 일반주 universe를 `is_common_stock=1` 기준으로 고정했다.
 
 > **🤖 beast-heart-scalp**
 >   - websocket stale fallback 진입 버그 원인을 추적해 signal gate 역전 로직을 확인했다
