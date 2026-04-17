@@ -237,16 +237,11 @@
 
 ## ✏️ 2026.04.17
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - watchdog health hint·market regime 경로 정리·raw table 확장까지 반영하고 관련 문서·CHANGELOG를 함께 정리했다.
->   - Codex로 market regime raw table 확장을 진행하고, Claude 리뷰 low 코멘트 3건까지 직접 수정해 테스트 후 main에 반영했다.
->   - EOD flatten closing workorder를 최소 관측 로그 보강으로 마감해 archive로 이관하고 남은 작업지시서 수를 줄였다.
+>   - watchdog health hint·market regime 경로·raw table 확장을 Codex로 진행하고 문서·CHANGELOG를 맞춘 뒤, Claude 리뷰 low 코멘트 3건을 반영·테스트해 main에 올렸다.
+>   - EOD flatten closing workorder를 관측 로그 보강으로 마감해 아카이브로 이관하고, 작업지시서 정리와 docs/temp gitignore·CHANGELOG autolog까지 정리했다.
+>   - websocket stale fallback 진입 버그를 추적해 signal gate 역전을 확인했고, signal gate·degraded·backfill 기준을 수정한 뒤 Claude 리뷰로 blocker 해소를 검증했다.
 
 > **🤖 kospi-ml-predictor**
 >   - 아침 노션·텔레그램 자동화를 retrain-first와 모델위원회 반영 흐름으로 정리하고 cron/tag/changelog까지 맞췄다.
 >   - KOSPI200 benchmark 수집 코드 혼선을 바로잡아 `1028` 기준으로 최신 구간을 복구하고 predictor 연계 경로를 점검했다.
 >   - next-gap-up 엄밀 walk-forward 백테스트 스크립트를 만들고 일반주 universe를 `is_common_stock=1` 기준으로 고정했다.
-
-> **🤖 beast-heart-scalp**
->   - websocket stale fallback 진입 버그 원인을 추적해 signal gate 역전 로직을 확인했다
->   - signal gate, degraded 처리, backfill 기준을 수정하고 Claude 리뷰로 blocker 해소를 검증했다
->   - 작업지시서 아카이브, docs/temp gitignore, CHANGELOG autolog까지 정리했다
