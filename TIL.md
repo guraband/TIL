@@ -237,7 +237,9 @@
 
 ## ✏️ 2026.04.17
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - 문서 정리
+>   - watchdog health hint·market regime 경로 정리·raw table 확장까지 반영하고 관련 문서·CHANGELOG를 함께 정리했다.
+>   - Codex로 market regime raw table 확장을 진행하고, Claude 리뷰 low 코멘트 3건까지 직접 수정해 테스트 후 main에 반영했다.
+>   - EOD flatten closing workorder를 최소 관측 로그 보강으로 마감해 archive로 이관하고 남은 작업지시서 수를 줄였다.
 
 > **🤖 kospi-ml-predictor**
 >   - 아침 Notion stale 추천 원인을 찾아 retrain-first, purge-first, section replace-first 흐름으로 고쳤다.
