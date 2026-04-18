@@ -245,3 +245,11 @@
 >   - 아침 노션·텔레그램 자동화를 retrain-first와 모델위원회 반영 흐름으로 정리하고 cron/tag/changelog까지 맞췄다.
 >   - KOSPI200 benchmark 수집 코드 혼선을 바로잡아 `1028` 기준으로 최신 구간을 복구하고 predictor 연계 경로를 점검했다.
 >   - next-gap-up 엄밀 walk-forward 백테스트 스크립트를 만들고 일반주 universe를 `is_common_stock=1` 기준으로 고정했다.
+
+---
+
+## ✏️ 2026.04.18
+> **🤖 kospi-ml-predictor**
+>   - next-gap-up에서 KOSPI200과 전종목 보통주를 엄밀 비교해 KOSPI200 shadow 운영안을 확정했다.
+>   - shadow 운영안·체크리스트·자동화 초안 문서와 산출물 gitignore 정책을 정리했다.
+>   - README와 CHANGELOG를 보강해 기본 추천 트랙과 gap-up shadow 트랙 구조를 명확히 했다.
