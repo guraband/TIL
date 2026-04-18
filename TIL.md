@@ -250,6 +250,6 @@
 
 ## ✏️ 2026.04.18
 > **🤖 kospi-ml-predictor**
->   - next-gap-up에서 KOSPI200과 전종목 보통주를 엄밀 비교해 KOSPI200 shadow 운영안을 확정했다.
->   - shadow 운영안·체크리스트·자동화 초안 문서와 산출물 gitignore 정책을 정리했다.
->   - README와 CHANGELOG를 보강해 기본 추천 트랙과 gap-up shadow 트랙 구조를 명확히 했다.
+>   - next-gap-up의 KOSPI200 vs 전종목 비교, DB gap 추천 교차검증, shadow 운영안 문서화를 마쳤다.
+>   - DT·RF·LightGBM 모델 패밀리 비교와 모델위원회 리뷰까지 진행해 RF를 recent-regime challenger로 정리했다.
+>   - RF를 2024~2026 구간별로 쪼개 검증하고 운영 업데이트·regime 실험안 문서까지 남겼다.
