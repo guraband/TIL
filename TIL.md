@@ -262,10 +262,9 @@
 >   - 각 작업마다 Codex 구현 후 main 세션에서 자잘한 diff를 직접 보정하고 focused test·Claude 리뷰·문서 정리까지 묶어 처리했다.
 >   - 최종 커밋 `2adc65f`, `1a5059a`, `bb0023d`를 main에 push하고 CURRENT_TODO를 다음 웹소켓 재접속 과제로 넘겼다.
 
----
-
-## ✏️ 2026.04.20
 > **🤖 kospi-ml-predictor : next-gap-up baseline 재정리**
 >   - 운영 문서와 스크립트를 다시 대조해 next-gap-up baseline을 `decision_tree + next_gap_up_core_v1 + KOSPI200 + top_3_quality_gate`로 재해석했다.
 >   - strict walk-forward를 다시 돌려 2026 YTD close→next open 수익률이 문서 수치와 거의 같은 수준으로 재현됨을 확인했다.
 >   - `flow_v1`, `breakout_v1`도 같은 조건으로 재검증했고, 현재 slice에선 `core_v1` baseline이 더 우위임을 문서와 archive note로 정리했다.
+
+---
