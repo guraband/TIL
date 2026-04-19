@@ -258,6 +258,6 @@
 
 ## ✏️ 2026.04.19
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - KIS 시장가 매도 no-ack·잔존 매도주문 충돌 경로를 Codex+Claude 리뷰 루프로 보강했다.
->   - liquidation_attempt_id·실패 분류·blind submit 차단을 넣고 timeout 집중 테스트 2건을 통과시켰다.
->   - changelog·CURRENT_TODO·작업지시서 archive까지 정리한 뒤 커밋 `37f2ff5`를 main에 push했다.
+>   - no-ack 충돌 정리 뒤 BrokenPipe 하드닝, degraded held exit continuity, tracked·held 분리까지 TODO 상단 3개를 연속 마감했다.
+>   - 각 작업마다 Codex 구현 후 main 세션에서 자잘한 diff를 직접 보정하고 focused test·Claude 리뷰·문서 정리까지 묶어 처리했다.
+>   - 최종 커밋 `2adc65f`, `1a5059a`, `bb0023d`를 main에 push하고 CURRENT_TODO를 다음 웹소켓 재접속 과제로 넘겼다.
