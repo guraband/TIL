@@ -253,3 +253,11 @@
 >   - next-gap-up의 KOSPI200 vs 전종목 비교, DB gap 추천 교차검증, shadow 운영안 문서화를 마쳤다.
 >   - DT·RF·LightGBM 모델 패밀리 비교와 모델위원회 리뷰까지 진행해 RF를 recent-regime challenger로 정리했다.
 >   - RF를 2024~2026 구간별로 쪼개 검증하고 운영 업데이트·regime 실험안 문서까지 남겼다.
+
+---
+
+## ✏️ 2026.04.19
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - KIS 시장가 매도 no-ack·잔존 매도주문 충돌 경로를 Codex+Claude 리뷰 루프로 보강했다.
+>   - liquidation_attempt_id·실패 분류·blind submit 차단을 넣고 timeout 집중 테스트 2건을 통과시켰다.
+>   - changelog·CURRENT_TODO·작업지시서 archive까지 정리한 뒤 커밋 `37f2ff5`를 main에 push했다.
