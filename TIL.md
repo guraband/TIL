@@ -271,8 +271,8 @@
 
 ## ✏️ 2026.04.20
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - paper 런타임의 반복 `stale_entry_reconciliation`를 000270·034020 사례로 추적해 실제 계좌 flat 대비 로컬 `BUY_SENT` 유령 상태가 남는 production 경로를 찾아냈다.
->   - `_maybe_open_position` 실패 롤백, broker-flat snapshot orphan cleanup, flat 상태 `position/exit_plan/order ref` 초기화까지 보강하고 Claude 재리뷰를 여러 차례 거쳐 수정 방향을 확정했다.
->   - supervisor 재실행 후 최신 runtime status에서 `risk_status=allow`, `protection_state=running`으로 복귀한 것을 확인하고 CHANGELOG 오토로그까지 마쳤다.
+>   - `stale_entry_reconciliation` 유령 `BUY_SENT` 경로를 production 코드에서 수정해 `risk_status=allow`, `protection_state=running` 복귀를 확인했다.
+>   - websocket planner·scanner tick ingestion·signal gate 관측성·tracked snapshot 보존을 보강해 오늘 paper 무매수 병목이 Stage 2 `breakout` 계열임을 좁혔다.
+>   - beast `breakout_distance_min`을 `0.0002→0.0001`로 시험 완화하고, 내일 20초/30초 breakout 비교용 runtime 진단 필드를 추가했다.
 
 ---
