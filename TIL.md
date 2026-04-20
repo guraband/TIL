@@ -268,3 +268,11 @@
 >   - `flow_v1`, `breakout_v1`도 같은 조건으로 재검증했고, 현재 slice에선 `core_v1` baseline이 더 우위임을 문서와 archive note로 정리했다.
 
 ---
+
+## ✏️ 2026.04.20
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - paper 런타임의 반복 `stale_entry_reconciliation`를 000270·034020 사례로 추적해 실제 계좌 flat 대비 로컬 `BUY_SENT` 유령 상태가 남는 production 경로를 찾아냈다.
+>   - `_maybe_open_position` 실패 롤백, broker-flat snapshot orphan cleanup, flat 상태 `position/exit_plan/order ref` 초기화까지 보강하고 Claude 재리뷰를 여러 차례 거쳐 수정 방향을 확정했다.
+>   - supervisor 재실행 후 최신 runtime status에서 `risk_status=allow`, `protection_state=running`으로 복귀한 것을 확인하고 CHANGELOG 오토로그까지 마쳤다.
+
+---
