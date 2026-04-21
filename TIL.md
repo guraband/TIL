@@ -276,3 +276,11 @@
 >   - beast `breakout_distance_min`을 `0.0002→0.0001`로 시험 완화하고, 내일 20초/30초 breakout 비교용 runtime 진단 필드를 추가했다.
 
 ---
+
+## ✏️ 2026.04.21
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - opening-bell websocket 재시도 창을 KST 기준으로 고정하고 09:05까지 10초 재시도·manual intervention 상태를 명시했다.
+>   - max 보유 수량 도달 시 `max_positions_reached`·`current_holdings_at_capacity` reject reason을 추가하고 테스트로 검증했다.
+>   - `09:20` threshold 경계를 `early_open` inclusive, `09:21`부터 `early_mid`로 고정하고 Claude 리뷰·CHANGELOG까지 마쳤다.
+
+---
