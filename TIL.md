@@ -322,5 +322,10 @@
 >   - utcnow 치환 이후 어긋난 runtime loop 테스트 3건을 현재 broker-truth·beast budget 기준으로 현행화했다.
 >   - CHANGELOG `v0.7.25` 반영, 버전 업데이트, 커밋·push까지 마무리했다.
 
+> **🤖 kospi-ml-predictor 문서 구조 정리**
+>   - active 트랙 중심으로 overview·spec·archive 문서 배치를 다듬고 stale planning 문서를 archive로 이동했다.
+>   - research interpretation guide를 한글화하고 README·START_HERE·CHANGELOG·AGENTS 경로 표기를 현행 구조에 맞게 정리했다.
+>   - next-gap-up 랭킹 edge-case 방어 코드를 보강해 커밋 후 main까지 push했다.
+
 ---
 
