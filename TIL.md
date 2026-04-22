@@ -310,9 +310,9 @@
 
 ## ✏️ 2026.04.22
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - `009150` false block 원인을 KIS raw flat vs runtime stale state 충돌로 좁히고 Claude 리뷰까지 받아 snapshot apply 경로를 재점검했다.
->   - `_apply_account_snapshot_to_contexts`와 reconciliation cleanup을 손봐 broker-flat 시 stale held 상태가 재승격되지 않게 보강했다.
->   - 재실행 후 `held_symbols=[]`, `risk_status=allow`를 확인하고 CHANGELOG 갱신·커밋 `3692666`·push까지 마쳤다.
+>   - reconciliation simplification 후속을 머지하고 recovery-first block 정책·runtime status 분리·요약 필드 정리를 마무리했다.
+>   - selection 문서를 핵심/참고/archive 구조로 재구성하고 README·MVP·status·design 메모를 읽기 쉽게 압축했다.
+>   - PR 리뷰·코멘트·main 머지 후 changelog와 workorder archive까지 반영하고 remote main에 push했다.
 
 ---
 
