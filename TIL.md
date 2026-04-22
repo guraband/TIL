@@ -292,3 +292,27 @@
 
 ---
 
+## ✏️ 2026.04.20
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - `stale_entry_reconciliation` 유령 `BUY_SENT` 경로를 production 코드에서 수정해 `risk_status=allow`, `protection_state=running` 복귀를 확인했다.
+>   - websocket planner·scanner tick ingestion·signal gate 관측성·tracked snapshot 보존을 보강해 오늘 paper 무매수 병목이 Stage 2 `breakout` 계열임을 좁혔다.
+>   - beast `breakout_distance_min`을 `0.0002→0.0001`로 시험 완화하고, 내일 20초/30초 breakout 비교용 runtime 진단 필드를 추가했다.
+
+---
+
+## ✏️ 2026.04.21
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - opening-bell websocket 재시도 창을 KST 기준으로 고정하고 09:05까지 10초 재시도·manual intervention 상태를 명시했다.
+>   - max 보유 수량 도달 시 `max_positions_reached`·`current_holdings_at_capacity` reject reason을 추가하고 테스트로 검증했다.
+>   - `09:20` threshold 경계를 `early_open` inclusive, `09:21`부터 `early_mid`로 고정하고 Claude 리뷰·CHANGELOG까지 마쳤다.
+
+---
+
+## ✏️ 2026.04.22
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - `009150` false block 원인을 KIS raw flat vs runtime stale state 충돌로 좁히고 Claude 리뷰까지 받아 snapshot apply 경로를 재점검했다.
+>   - `_apply_account_snapshot_to_contexts`와 reconciliation cleanup을 손봐 broker-flat 시 stale held 상태가 재승격되지 않게 보강했다.
+>   - 재실행 후 `held_symbols=[]`, `risk_status=allow`를 확인하고 CHANGELOG 갱신·커밋 `3692666`·push까지 마쳤다.
+
+---
+
