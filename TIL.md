@@ -26,6 +26,14 @@
 >   - `09:20` threshold 경계를 `early_open` inclusive, `09:21`부터 `early_mid`로 고정하고 Claude 리뷰·CHANGELOG까지 마쳤다.
 
 ---
+
+## ✏️ 2026.04.22
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - `009150` false block 원인을 KIS raw flat vs runtime stale state 충돌로 좁히고 Claude 리뷰까지 받아 snapshot apply 경로를 재점검했다.
+>   - `_apply_account_snapshot_to_contexts`와 reconciliation cleanup을 손봐 broker-flat 시 stale held 상태가 재승격되지 않게 보강했다.
+>   - 재실행 후 `held_symbols=[]`, `risk_status=allow`를 확인하고 CHANGELOG 갱신·커밋 `3692666`·push까지 마쳤다.
+
+---
 ## ✏️ 2026.04.02
 > **💻 토이프로젝트 : 나무위키 실검 크롤러**
 >   - 기능 축소
