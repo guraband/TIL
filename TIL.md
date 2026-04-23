@@ -331,3 +331,10 @@
 ---
 
 
+## ✏️ 2026.04.24
+> **🤖 kospi-ml-predictor**
+>   - 아침 ML 리포트 Top-5가 매일 같던 원인을 추적해 stale membership 기준일 묶임 문제를 확인했다.
+>   - 운영 스크립트를 고쳐 학습·랭킹 시 KOSPI200 membership을 오늘까지 carry-forward 하도록 바꿨다.
+>   - 재실행으로 scoring date가 4/14→4/23으로 전진하고 Notion·텔레그램 리포트도 최신 결과로 동기화했다.
+
+---
