@@ -318,9 +318,9 @@
 
 ## ✏️ 2026.04.23
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - reconciliation fill alert 복구와 market-data sampling prune 보강 후 관련 테스트를 다시 green으로 맞췄다.
->   - utcnow 치환 이후 어긋난 runtime loop 테스트 3건을 현재 broker-truth·beast budget 기준으로 현행화했다.
->   - CHANGELOG `v0.7.25` 반영, 버전 업데이트, 커밋·push까지 마무리했다.
+>   - beast risk-on extra lane(옵션 1+3)과 관련 문서·테스트를 반영하고 main에 커밋·push했다.
+>   - risk_off gate 검증 테스트를 현행 로직에 맞게 정리하고 주요 케이스 재검증까지 마쳤다.
+>   - 알림에 종목코드+종목명을 함께 표시하도록 바꾸고, TP/재실행 원인도 broker-truth 로그로 추적했다.
 
 > **🤖 kospi-ml-predictor 문서 구조 정리**
 >   - active 트랙 중심으로 overview·spec·archive 문서 배치를 다듬고 stale planning 문서를 archive로 이동했다.
