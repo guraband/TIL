@@ -321,6 +321,7 @@
 >   - beast risk-on extra lane(옵션 1+3)과 관련 문서·테스트를 반영하고 main에 커밋·push했다.
 >   - risk_off gate 검증 테스트를 현행 로직에 맞게 정리하고 주요 케이스 재검증까지 마쳤다.
 >   - 알림에 종목코드+종목명을 함께 표시하도록 바꾸고, TP/재실행 원인도 broker-truth 로그로 추적했다.
+>   - 서비스가 많이 안정화되었다. 이제 프로젝트 경량화를 위한 리팩토링을 할 예정이다.
 
 > **🤖 kospi-ml-predictor 문서 구조 정리**
 >   - active 트랙 중심으로 overview·spec·archive 문서 배치를 다듬고 stale planning 문서를 archive로 이동했다.
