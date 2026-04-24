@@ -338,8 +338,8 @@
 >   - 재실행으로 scoring date가 4/14→4/23으로 전진하고 Notion·텔레그램 리포트도 최신 결과로 동기화했다.
 
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - `realized_pnl == 0` 회귀를 의도 분해형 테스트로 재작성하고 PnL 보존 패치를 main에 커밋 `0104d3a`로 반영했다.
->   - websocket tracked-switch 이슈를 Claude와 함께 좁혀 `late_frame_ignored`가 state를 건드리던 경로를 제거하고 관련 테스트 33건 통과를 확인했다.
->   - 알림에 종목명 DB lookup·가격 콤마 포맷·observe_only 문구 정리를 반영하고, paper runtime 재시작 후 실시간 ingest 회복까지 확인했다.
+>   - websocket tracked-switch 후속으로 preflight/smoke 심볼을 환경변수 기반으로 바꿔 false negative startup 차단을 줄였다.
+>   - startup 텔레그램 알림 경로를 healthcheck·legacy env fallback으로 보강하고 실제 supervisor 재기동+알림 도착까지 확인했다.
+>   - 매 분 반복되던 `runtime_start` 스팸 알림을 제거하고 관련 changelog·테스트·main push까지 마쳤다.
 
 ---
