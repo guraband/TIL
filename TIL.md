@@ -338,8 +338,8 @@
 >   - 재실행으로 scoring date가 4/14→4/23으로 전진하고 Notion·텔레그램 리포트도 최신 결과로 동기화했다.
 
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - `realized_pnl == 0` 디버깅에서 exit mode 기본값 변경과 reconciliation PnL 보존 이슈를 분리해 원인을 좁혔다.
->   - Codex·Claude 병행 리뷰 후 brittle한 partial-exit 회귀 테스트를 의도 분해형 테스트로 재작성했다.
->   - 관련 테스트 정리와 PnL 보존 패치를 main에 커밋 `0104d3a`로 push하고 runtime 상태도 다시 점검했다.
+>   - `realized_pnl == 0` 회귀를 의도 분해형 테스트로 재작성하고 PnL 보존 패치를 main에 커밋 `0104d3a`로 반영했다.
+>   - websocket tracked-switch 이슈를 Claude와 함께 좁혀 `late_frame_ignored`가 state를 건드리던 경로를 제거하고 관련 테스트 33건 통과를 확인했다.
+>   - 알림에 종목명 DB lookup·가격 콤마 포맷·observe_only 문구 정리를 반영하고, paper runtime 재시작 후 실시간 ingest 회복까지 확인했다.
 
 ---
