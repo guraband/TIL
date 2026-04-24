@@ -337,4 +337,9 @@
 >   - 운영 스크립트를 고쳐 학습·랭킹 시 KOSPI200 membership을 오늘까지 carry-forward 하도록 바꿨다.
 >   - 재실행으로 scoring date가 4/14→4/23으로 전진하고 Notion·텔레그램 리포트도 최신 결과로 동기화했다.
 
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - `realized_pnl == 0` 디버깅에서 exit mode 기본값 변경과 reconciliation PnL 보존 이슈를 분리해 원인을 좁혔다.
+>   - Codex·Claude 병행 리뷰 후 brittle한 partial-exit 회귀 테스트를 의도 분해형 테스트로 재작성했다.
+>   - 관련 테스트 정리와 PnL 보존 패치를 main에 커밋 `0104d3a`로 push하고 runtime 상태도 다시 점검했다.
+
 ---
