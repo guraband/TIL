@@ -354,3 +354,13 @@
 > **🤖 토이프로젝트 개발 : 야수의 심장**
 >   - 문서 현행화
 >   - 2차 소스 경량화, 리팩토링 준비
+
+---
+
+## ✏️ 2026.04.26
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - runtime state·account truth·status projection을 경량화하고 degraded source 해석을 분리했다.
+>   - ExecutionLoop에서 notification·exit policy·account plan·market-data helper를 분리했다.
+>   - refactor 브랜치를 main에 머지해 v0.8.0으로 정리하고 안정화 TODO 4개를 남겼다.
+
+---
