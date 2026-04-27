@@ -365,3 +365,11 @@
 >   - 2차 소스 경량화
 
 ---
+
+## ✏️ 2026.04.27
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - 매수 ACK 알림 누락을 찾아 `entry_order_acked` 알림을 추가하고 테스트·changelog·main push까지 마쳤다.
+>   - 아키텍처 하드닝 workorder를 작성하고 Claude 리뷰를 반영해 phase·검증·롤백 기준을 보강했다.
+>   - 장중 websocket connection_error 자동복구와 마이너스 종목 진입 로그를 점검해 beast 진입 품질 개선안을 노션 투자일지에 남겼다.
+
+---
