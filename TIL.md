@@ -374,3 +374,11 @@
 >   - 2차 경량화까지 하니 많이 안정화됐다. 이제 모의투자를 반복하며 복기하고 전략을 잘 세우면 될 것 같다. 
 
 ---
+
+## ✏️ 2026.04.28
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - TP reconciliation 지연과 stale TP cancel 처리를 보강해 paper 청산 정합성을 높였다.
+>   - 테스트 drift를 정리하고 `.env` 격리·rate-limit gateway·알림 payload 계약을 재검증했다.
+>   - supervisor 주기를 60초→30초로 낮추고 Claude 리뷰·617개 테스트·재기동 확인 후 push했다.
+
+---
