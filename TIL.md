@@ -390,4 +390,9 @@
 >   - `dart_financials.db`와 `kospi.db.valuation_scores` 스키마를 문서화·생성하고 DART 수집 가능성을 검증했다.
 >   - 구현 범위를 Phase 0~6으로 나누고 MVP 성공 후 종목·기간·분기보고서 확장 원칙을 정리했다.
 
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - beast 모드에 KOSDAQ 소량 진입 quota와 거래대금 gate를 추가하고 seed 유입을 보정했다.
+>   - KIS ranking `Q` 거부를 피해 broad `J` 피드에서 KOSDAQ 후보를 분류하도록 바꿨다.
+>   - websocket ghost-slot 오판을 줄여 ACK 누락만으로 session refresh하지 않도록 테스트·push했다.
+
 ---
