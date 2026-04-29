@@ -394,5 +394,9 @@
 >   - KOSDAQ quota·거래대금 gate·broad `J` 분류로 ranking seed 유입 경로를 보정했다.
 >   - KIS REST timeout·seed 보수화·방어 가드를 반영하고 328개 테스트와 Claude GO 리뷰를 확인했다.
 >   - supervisor 재기동으로 `max_positions` 10을 복구하고 13:30대 `.env=4` 적용 경로를 추적했다.
+> **🤖 kospi200-ml-swing / Overnight Gap**
+>   - 기존 모델과 재학습 후보를 120일·최근20일 기준으로 비교했다.
+>   - 두 모델 공통 추천 종목만 따로 백테스트해 교집합 필터 성과를 확인했다.
+>   - 마감 크론에 재학습 후보 추천을 추가하고 Notion/Telegram 테스트런까지 검증했다.
 
 ---
