@@ -394,10 +394,13 @@
 >   - KOSDAQ quota·거래대금 gate·broad `J` 분류로 ranking seed 유입 경로를 보정했다.
 >   - KIS REST timeout·seed 보수화·방어 가드를 반영하고 328개 테스트와 Claude GO 리뷰를 확인했다.
 >   - supervisor 재기동으로 `max_positions` 10을 복구하고 13:30대 `.env=4` 적용 경로를 추적했다.
+>   - 매물대 정보를 추가하려고 준비중
+
 > **🤖 kospi200-ml-swing**
 >   - Overnight Gap 기존·재학습 후보와 교집합 성과를 비교하고 마감 크론 리포트에 연결했다.
 >   - Swing `morning_report_standard`의 5일·8일 보유 성과와 Quality Top3 필터를 검증했다.
 >   - 아침 스윙 리포트를 Quality Top3로 전환하고 Notion·Telegram·DB 저장 경로까지 검증했다.
+>   - Open spike와 intraday 모델은 사용하지 않으려고 한다. 갭상승과 swing 위주로 테스트 하려고 함
 
 > **🤖 kospi-ml-predictor / OpenClaw DB 운영**
 >   - Datasette로 `kospi.db`·DART DB를 LAN 읽기 전용 조회하고 CORS/PNA 프록시를 붙였다.
