@@ -389,6 +389,7 @@
 >   - DART 재무제표 기반 KOSPI200 밸류에이션 확장 작업지시서를 작성하고 Claude 리뷰를 반영했다.
 >   - `dart_financials.db`와 `kospi.db.valuation_scores` 스키마를 문서화·생성하고 DART 수집 가능성을 검증했다.
 >   - 구현 범위를 Phase 0~6으로 나누고 MVP 성공 후 종목·기간·분기보고서 확장 원칙을 정리했다.
+>   - dart 정보 수집이 제대로 이뤄지지 않는 문제 수정
 
 > **🤖 토이프로젝트 개발 : 야수의 심장**
 >   - KOSDAQ quota·거래대금 gate·broad `J` 분류로 ranking seed 유입 경로를 보정했다.
