@@ -399,4 +399,9 @@
 >   - Swing `morning_report_standard`의 5일·8일 보유 성과와 Quality Top3 필터를 검증했다.
 >   - 아침 스윙 리포트를 Quality Top3로 전환하고 Notion·Telegram·DB 저장 경로까지 검증했다.
 
+> **🤖 kospi-ml-predictor / OpenClaw DB 운영**
+>   - Datasette로 `kospi.db`·DART DB를 LAN 읽기 전용 조회하고 CORS/PNA 프록시를 붙였다.
+>   - DART 이벤트 증분 누락을 확인해 백필·CB INSERT 버그 수정·06시 crontab 수집을 설정했다.
+>   - next-gap-up은 Top3만 DB 저장하고 full ranking은 artifact로 남기도록 정리했다.
+
 ---
