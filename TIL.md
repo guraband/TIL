@@ -419,5 +419,6 @@
 >   - websocket BrokenPipe를 reconnect·desired replay로 흡수하고 supervisor에 적용했다.
 >   - 신규 진입 live-frame gate를 추가해 quote/orderbook 부족 후보를 차단했다.
 >   - runtime loop 238개 통과, Codex GO, supervisor 재시작·계좌 상태까지 확인했다.
+>   - 아직까지 보완할 부분이 많다. 5월엔 안정적으로 테스트 데이터를 쌓을 수 있겠지.
 
 ---
