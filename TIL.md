@@ -415,4 +415,9 @@
 >   - Notion 설계·운영 홈을 만들고 로컬 `market-autoresearch` skeleton·SQLite·uv 기반을 잡았다.
 >   - PRD·AI 개발 가이드·작업지시서·체크리스트를 추가해 agent 개발 인수인계를 준비했다.
 
+> **🤖 토이프로젝트 개발 : 야수의 심장**
+>   - websocket unsubscribe BrokenPipe를 clean reconnect·desired replay로 흡수하도록 고쳤다.
+>   - Claude GO 리뷰와 39개 marketdata runner 테스트 통과 후 main에 push했다.
+>   - paper supervisor를 재기동하고 006260 TP 주문 유지·025860 신규 진입을 확인했다.
+
 ---
