@@ -409,3 +409,10 @@
 >   - next-gap-up은 Top3만 DB 저장하고 full ranking은 artifact로 남기도록 정리했다.
 
 ---
+## ✏️ 2026.04.30
+> **🤖 Market Autoresearch 설계·기반 구축**
+>   - Karpathy autoresearch 개념을 시황·테마·스윙 후보 리서치 루프로 재해석했다.
+>   - Notion 설계·운영 홈을 만들고 로컬 `market-autoresearch` skeleton·SQLite·uv 기반을 잡았다.
+>   - PRD·AI 개발 가이드·작업지시서·체크리스트를 추가해 agent 개발 인수인계를 준비했다.
+
+---
