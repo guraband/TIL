@@ -416,8 +416,8 @@
 >   - PRD·AI 개발 가이드·작업지시서·체크리스트를 추가해 agent 개발 인수인계를 준비했다.
 
 > **🤖 토이프로젝트 개발 : 야수의 심장**
->   - websocket unsubscribe BrokenPipe를 clean reconnect·desired replay로 흡수하도록 고쳤다.
->   - Claude GO 리뷰와 39개 marketdata runner 테스트 통과 후 main에 push했다.
->   - paper supervisor를 재기동하고 006260 TP 주문 유지·025860 신규 진입을 확인했다.
+>   - websocket unsubscribe/subscribe BrokenPipe를 reconnect·desired replay로 흡수했다.
+>   - event_summaries 진단 로그로 subscribe_send 원인을 특정하고 Claude GO를 받았다.
+>   - 43개 focused 테스트 통과, 새 supervisor PID 78217 적용, commit 89dcd1a push 완료.
 
 ---
