@@ -24,3 +24,11 @@
 >   - pytest, smoke, dry-run 검증을 통과하고 2026-05-01 운영 산출물까지 생성했다.
 
 ---
+
+## ✏️ 2026.05.04
+> **🤖 Market Autoresearch / 데이터 자동화**
+>   - WO-003 체크리스트를 실제 데이터 검증 결과와 함께 완료 처리하고 archive로 이동했다.
+>   - snapshot, outcome, evaluator, weekly review, rule trend를 재검증하고 autolog로 push했다.
+>   - DART 재무제표 월간 수집·valuation 리포트 crontab을 등록하고 수동 수집을 완료했다.
+
+---
