@@ -31,10 +31,13 @@
 >   - snapshot, outcome, evaluator, weekly review, rule trend를 재검증하고 autolog로 push했다.
 >   - DART 재무제표 월간 수집·valuation 리포트 crontab을 등록하고 수동 수집을 완료했다.
 
-
 > **🤖 Beast Heart 모의투자 런타임 안정화**
 >   - 웹소켓 구독 전환 실패와 BrokenPipe를 OBSERVE_ONLY/entry block으로 안전하게 연결했다.
 >   - runtime_status에 stale_symbols를 노출해 장중 원인 파악 가능성을 높였다.
 >   - 전체 unittest 678개 통과 후 supervisor 재실행, autolog commit/push까지 완료했다.
+
+> **🎥 개발 관련 유튜브 시청**
+>   - [Codex 완벽 가이드 2026: 지금은 코덱스가 최강인 것 같네요.](https://youtu.be/Z3z93bKMh_I?si=cwTQEI47gCCGptQm)
+>       
 
 ---
