@@ -44,9 +44,9 @@
 
 ## ✏️ 2026.05.05
 > **🤖 beast-heart-scalp**
->   - 아키텍처 간소화 PR1~PR10 완료, Luther/Claude 최종 리뷰 통과
->   - ExecutionLoop 책임을 status/exit/payload/account truth helper로 경량 분리
->   - CHANGELOG·운영 문서·CURRENT_TODO 정리 후 커밋과 push 완료
+>   - 아키텍처 간소화 PR1~PR10과 TP fresh-price 시장가 익절 전환을 완료했다.
+>   - ExecutionLoop 책임 분리와 TP resting-order 제거를 테스트·문서·리뷰로 검증했다.
+>   - 작업지시서 archive, CURRENT_TODO·CHANGELOG 정리 후 커밋과 push까지 마쳤다.
 
 
 ---
