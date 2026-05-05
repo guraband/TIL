@@ -50,3 +50,11 @@
 
 
 ---
+
+## ✏️ 2026.05.06
+> **🤖 beast-heart-scalp Operator Command Store**
+>   - SQLite source-of-truth 기반 operator command store Phase 0~5를 완료했다.
+>   - buy/sell/sell-all, Telegram/OpenClaw bridge, runtime_status 관측성을 리뷰·테스트로 고정했다.
+>   - Claude 최종 리뷰 후 운영 명령 예시와 unknown_submit_state 대응 문서를 현행화했다.
+
+---
