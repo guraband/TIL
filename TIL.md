@@ -41,3 +41,12 @@
 >       
 
 ---
+
+## ✏️ 2026.05.05
+> **🤖 beast-heart-scalp**
+>   - 아키텍처 간소화 PR1~PR10 완료, Luther/Claude 최종 리뷰 통과
+>   - ExecutionLoop 책임을 status/exit/payload/account truth helper로 경량 분리
+>   - CHANGELOG·운영 문서·CURRENT_TODO 정리 후 커밋과 push 완료
+
+
+---
