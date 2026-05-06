@@ -53,8 +53,8 @@
 
 ## ✏️ 2026.05.06
 > **🤖 beast-heart-scalp Operator Command Store**
->   - SQLite source-of-truth 기반 operator command store Phase 0~5를 완료했다.
->   - buy/sell/sell-all, Telegram/OpenClaw bridge, runtime_status 관측성을 리뷰·테스트로 고정했다.
->   - Claude 최종 리뷰 후 운영 명령 예시와 unknown_submit_state 대응 문서를 현행화했다.
+>   - Operator Command Store Phase 0~5와 Telegram/OpenClaw bridge를 완료했다.
+>   - 498400 paper buy/sell evidence로 unknown_submit_state reconciliation을 보강했다.
+>   - KIS 웹소켓 churn 원인을 분석하고 soft-cap defer·replay chunking을 적용했다.
 
 ---
