@@ -58,3 +58,11 @@
 >   - KIS 웹소켓 churn 원인을 분석하고 soft-cap defer·replay chunking을 적용했다.
 
 ---
+
+## ✏️ 2026.05.07
+> **🤖 beast-heart-scalp 런타임 보호·웹소켓 안정화**
+>   - broker truth와 local residue를 분리해 보호 차단 원인 표시를 단순화했다.
+>   - 보호 알림 debounce와 보호 종목 lane replay로 반복 알림·WS attach 지연을 완화했다.
+>   - 청산 알림 수익률 표시, restart/preflight 보강, Claude 리뷰 후 autolog까지 완료했다.
+
+---
