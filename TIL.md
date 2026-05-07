@@ -67,3 +67,11 @@
 >   - 웹소켓 수신 관련 오류가 잡히지 않아서 기능별로 모듈을 분리하는 v2 개발 기획 착수
 
 ---
+
+## ✏️ 2026.05.08
+> **🤖 Beast Heart v2 MVP**
+>   - v2 MVP 구현을 Benji/Luther 교차 리뷰로 점검하고 required fixes를 반영했다.
+>   - KIS submit 안전 수렴, safe-mode evidence gate, hard-halt marker 계약을 보강했다.
+>   - v2 테스트 162개 통과 후 `v2-mvp` 브랜치에 커밋·푸시했다.
+
+---
