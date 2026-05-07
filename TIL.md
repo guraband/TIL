@@ -70,8 +70,7 @@
 
 ## ✏️ 2026.05.08
 > **🤖 Beast Heart v2 MVP**
->   - v2 MVP 구현을 Benji/Luther 교차 리뷰로 점검하고 required fixes를 반영했다.
->   - KIS submit 안전 수렴, safe-mode evidence gate, hard-halt marker 계약을 보강했다.
->   - v2 테스트 162개 통과 후 `v2-mvp` 브랜치에 커밋·푸시했다.
-
+>   - v2 main 병합 후 KIS paper/live marketdata credential 경계와 workorder 아카이브 정리
+>   - Exit/Risk Manager, BEAST seed/entry, Phase 11 매수 선정 parity 개발·테스트 진행
+>   - Phase 11 루터 BLOCK 리뷰 후 blocker fix 요청, v2 테스트 200개 통과 상태까지 확인
 ---
