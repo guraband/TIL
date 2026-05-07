@@ -64,5 +64,6 @@
 >   - broker truth와 local residue를 분리해 보호 차단 원인 표시를 단순화했다.
 >   - 보호 알림 debounce와 보호 종목 lane replay로 반복 알림·WS attach 지연을 완화했다.
 >   - 청산 알림 수익률 표시, restart/preflight 보강, Claude 리뷰 후 autolog까지 완료했다.
+>   - 웹소켓 수신 관련 오류가 잡히지 않아서 기능별로 모듈을 분리하는 v2 개발 기획 착수
 
 ---
