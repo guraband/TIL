@@ -70,7 +70,7 @@
 
 ## ✏️ 2026.05.08
 > **🤖 Beast Heart v2 MVP**
->   - v2 main 병합 후 KIS paper/live marketdata credential 경계와 workorder 아카이브 정리
->   - Exit/Risk Manager, BEAST seed/entry, Phase 11 매수 선정 parity 개발·테스트 진행
->   - Phase 11 루터 BLOCK 리뷰 후 blocker fix 요청, v2 테스트 200개 통과 상태까지 확인
+>   - Phase 11~18까지 seed/entry·운영 producer·mock REST/WS·workflow readiness를 구현했다.
+>   - mock KIS URL 전환, read-only shadow, closed-gate proof를 검증하고 루터·클로드 리뷰를 통과했다.
+>   - 완료 workorder는 archive로 옮기고 Phase 8을 최종 KIS 활성화 evidence gate로 현행화했다.
 ---
