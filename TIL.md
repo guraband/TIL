@@ -73,7 +73,12 @@
 >   - Phase 11~18까지 seed/entry·운영 producer·mock REST/WS·workflow readiness를 구현했다.
 >   - mock KIS URL 전환, read-only shadow, closed-gate proof를 검증하고 루터·클로드 리뷰를 통과했다.
 >   - 완료 workorder는 archive로 옮기고 Phase 8을 최종 KIS 활성화 evidence gate로 현행화했다.
->   - V2 개발은 codex에게 시켜서 기본 구현은 몇 시간 만에 끝냈다. 다음 주 중 실전에 투입해봐야겠다.
->   - KIS API와 웹소켓이 장중에만 정상작동하기 때문에 그 외 시간에 테스트를 하기 위해 API 응답과 웹소켓 수신 데이터를 수집하고 그것을 기반으로 mock 서버도 만들어놨다.
+---
+
+## ✏️ 2026.05.09
+> **🤖 Beast Heart v2 운영·유지보수 고도화**
+>   - v2 paper 운영안을 분리하고 paper write를 narrow pilot 검증 단계로 재정의했다.
+>   - Phase 21 리팩터로 gate, handler, sanitizer, 모니터링 경계를 유지보수형으로 정리했다.
+>   - doctor·trace·heartbeat smoke·retention 명령을 추가해 장애 원인 추적성을 높였다.
 
 ---
