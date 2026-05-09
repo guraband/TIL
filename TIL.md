@@ -73,6 +73,7 @@
 >   - Phase 11~18까지 seed/entry·운영 producer·mock REST/WS·workflow readiness를 구현했다.
 >   - mock KIS URL 전환, read-only shadow, closed-gate proof를 검증하고 루터·클로드 리뷰를 통과했다.
 >   - 완료 workorder는 archive로 옮기고 Phase 8을 최종 KIS 활성화 evidence gate로 현행화했다.
+
 ---
 
 ## ✏️ 2026.05.09
@@ -80,5 +81,8 @@
 >   - v2 paper 운영안을 분리하고 paper write를 narrow pilot 검증 단계로 재정의했다.
 >   - Phase 21 리팩터로 gate, handler, sanitizer, 모니터링 경계를 유지보수형으로 정리했다.
 >   - doctor·trace·heartbeat smoke·retention 명령을 추가해 장애 원인 추적성을 높였다.
+
+> **📖 하네스 엔지니어링 공부**
+>   - 하네스 엔지니어링 관련 ebook 읽음
 
 ---
