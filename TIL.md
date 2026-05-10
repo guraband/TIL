@@ -86,3 +86,11 @@
 >   - 하네스 엔지니어링 관련 ebook 읽음
 
 ---
+
+## ✏️ 2026.05.10
+> **🤖 Market Autoresearch WO-004**
+>   - 과거 후보 outcome 백필과 close/weekly evaluator 연결로 자동개선 루프를 닫았다.
+>   - cron·evidence·Notion publish audit과 theme rule 성과 요약을 보강했다.
+>   - 루터/벤지 리뷰와 86개 테스트 통과 후 v1.3.0 autolog commit/push까지 완료했다.
+
+---
