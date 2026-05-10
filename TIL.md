@@ -93,4 +93,7 @@
 >   - cron·evidence·Notion publish audit과 theme rule 성과 요약을 보강했다.
 >   - 루터/벤지 리뷰와 86개 테스트 통과 후 v1.3.0 autolog commit/push까지 완료했다.
 
+> **🎥 개발 관련 유튜브 시청**
+>   - [Codex의 이 기능은 반드시 쓰셔야 합니다 (/goal 마스터코스)](https://youtu.be/vq37BMhoesQ?si=DF1Z2uysONlGdVII)
+
 ---
