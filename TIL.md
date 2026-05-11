@@ -97,3 +97,11 @@
 >   - [Codex의 이 기능은 반드시 쓰셔야 합니다 (/goal 마스터코스)](https://youtu.be/vq37BMhoesQ?si=DF1Z2uysONlGdVII)
 
 ---
+
+## ✏️ 2026.05.11
+> **🤖 Beast Heart v2 실시간 런타임 하드닝**
+>   - real KIS WS primary와 REST degraded fallback을 연결하고 buy readiness를 fail-closed로 고정했다.
+>   - cron start/watchdog/stop과 dry-run Telegram 억제로 장중 운영 안전성을 보강했다.
+>   - 루터·클로드 리뷰 후 Phase18/21 44개 테스트와 autolog push까지 완료했다.
+
+---
