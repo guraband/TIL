@@ -103,6 +103,7 @@
 >   - real KIS WS primary와 REST degraded fallback을 연결하고 buy readiness를 fail-closed로 고정했다.
 >   - cron start/watchdog/stop과 dry-run Telegram 억제로 장중 운영 안전성을 보강했다.
 >   - 루터·클로드 리뷰 후 Phase18/21 44개 테스트와 autolog push까지 완료했다.
+>   - v2로 전환하여 운용해봤다. 사전에 테스트를 한다고 했는데도 오류가 많아서 업무 중에 수정 요청하느라 힘들었다.
 
 > **🤖 Market Autoresearch DART 연동**
 >   - WO-005로 DART 재무·밸류에이션·공시 이벤트를 후보 evidence로 연결했다.
