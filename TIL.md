@@ -104,4 +104,9 @@
 >   - cron start/watchdog/stop과 dry-run Telegram 억제로 장중 운영 안전성을 보강했다.
 >   - 루터·클로드 리뷰 후 Phase18/21 44개 테스트와 autolog push까지 완료했다.
 
+> **🤖 Market Autoresearch DART 연동**
+>   - WO-005로 DART 재무·밸류에이션·공시 이벤트를 후보 evidence로 연결했다.
+>   - look-ahead 방지와 cutoff 일치, frozen 후보 보호를 루터 재리뷰로 검증했다.
+>   - pytest 100개와 smoke 검증 후 v1.5.0 changelog·autolog까지 push했다.
+
 ---
