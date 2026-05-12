@@ -111,3 +111,10 @@
 >   - pytest 100개와 smoke 검증 후 v1.5.0 changelog·autolog까지 push했다.
 
 ---
+## ✏️ 2026.05.12
+> **🤖 Beast Heart v2 운영 복구·웹소켓 하드닝**
+>   - safe_mode 재진입 원인을 broker truth degraded 경로로 좁히고 account mismatch 재발을 막았다.
+>   - 부분 quote 누락·REST fallback·tracker timeout을 symbol-level로 고쳐 정상 종목 scoring을 살렸다.
+>   - 벤지 구현, 루터 리뷰, v2 재시작 검증 후 autolog commit/push까지 완료했다.
+
+---
