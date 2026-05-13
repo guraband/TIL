@@ -124,5 +124,6 @@
 >   - KIS ranking seed를 endpoint별 fallback·KOSDAQ 분류·알림 억제로 안정화했다.
 >   - 재진입 시 stale TP/SL 재사용을 막고 exit sell 과노출 방지까지 보강했다.
 >   - dashboard read-only 개선과 237개 테스트 검증 후 autolog commit/push까지 완료했다.
+>   - dashboart는 급하게 만들었는데도 잘 작동했다. v2는 자잘한 오류가 많아서 여러 패치를 진행했다.
 
 ---
