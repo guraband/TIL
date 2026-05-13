@@ -121,8 +121,8 @@
 
 ## ✏️ 2026.05.13
 > **🤖 Beast Heart v2 paper 운영 안전장치 보강**
->   - 즉시체결 계좌 reconcile, expired signal 정리, 종목별 signal 예산 guard를 보강했다.
->   - TP/SL/시간청산 정책 backfill을 적용해 보유 포지션 자동청산 방어선을 복구했다.
->   - 웹 대시보드 로컬/LAN 실행을 확인하고 autolog commit/push까지 완료했다.
+>   - KIS ranking seed를 endpoint별 fallback·KOSDAQ 분류·알림 억제로 안정화했다.
+>   - 재진입 시 stale TP/SL 재사용을 막고 exit sell 과노출 방지까지 보강했다.
+>   - dashboard read-only 개선과 237개 테스트 검증 후 autolog commit/push까지 완료했다.
 
 ---
