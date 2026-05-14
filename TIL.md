@@ -111,11 +111,13 @@
 >   - pytest 100개와 smoke 검증 후 v1.5.0 changelog·autolog까지 push했다.
 
 ---
+
 ## ✏️ 2026.05.12
 > **🤖 Beast Heart v2 운영 복구·웹소켓 하드닝**
 >   - safe_mode 재진입 원인을 broker truth degraded 경로로 좁히고 account mismatch 재발을 막았다.
 >   - 부분 quote 누락·REST fallback·tracker timeout을 symbol-level로 고쳐 정상 종목 scoring을 살렸다.
 >   - 벤지 구현, 루터 리뷰, v2 재시작 검증 후 autolog commit/push까지 완료했다.
+>   - 실제 운영을 v2로 전환했다. 어느정도 안정화된 듯 하다. 오늘은 이상하게 오픈클로의 gpt-5.5가 평소보다 응답이 느린 느낌이어서 답답했지만 조바심을 내려놓고 답변이 올 때까지 기다리니까 마음이 편했다.
 
 ---
 
@@ -127,6 +129,7 @@
 >   - dashboart는 급하게 만들었는데도 잘 작동했다. v2는 자잘한 오류가 많아서 여러 패치를 진행했다.
 
 ---
+
 ## ✏️ 2026.05.14
 > **🤖 Beast Heart v2 운영·대시보드 개선**
 >   - 계좌 불일치 safe_mode에서 broker truth 자동 동기화·복구 경로를 보강했다.
