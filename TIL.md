@@ -139,8 +139,7 @@
 ---
 
 ## ✏️ 2026.05.15
-> **🛜 Beast Heart v2 대시보드 Cloudflare Tunnel 연결**
->   - Cloudflare 무료 플랜을 가입하고 도메인 설정을 AWS Route 53에서 이쪽으로 옮김.
->   - Cloudflare Tunnel로 로컬 맥미니에서 실행하는 야수의 심장 v2 웹 대시보드를 내 서브도메인에 연결해서 외부에서 접속 할 수 있도록 했다.
->       - 장기적으로는 내 홈페이지도 로컬에서 돌리는 것을 고려중.
->   - 인증처리도 간단하게 구현할 수 있었다.
+> **🛜 Beast Heart v2 운영·대시보드 복구**
+>   - Cloudflare Tunnel로 로컬 맥미니 v2 대시보드를 외부 접속 가능하게 연결했다.
+>   - unknown_submit 잔재를 broker truth로 수동 정리하고 safe mode를 해제했다.
+>   - 대시보드 collector v2 매핑을 고쳐 worker 7개·KIS_PAPER 상태 표시를 복구했다.
