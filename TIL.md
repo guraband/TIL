@@ -140,6 +140,6 @@
 
 ## ✏️ 2026.05.15
 > **🛜 Beast Heart v2 운영·대시보드 복구**
->   - Cloudflare Tunnel로 로컬 맥미니 v2 대시보드를 외부 접속 가능하게 연결했다.
->   - unknown_submit 잔재를 broker truth로 수동 정리하고 safe mode를 해제했다.
->   - 대시보드 collector v2 매핑을 고쳐 worker 7개·KIS_PAPER 상태 표시를 복구했다.
+>   - Cloudflare Tunnel 외부 대시보드와 v2 worker/KIS_PAPER 상태 표시를 복구했다.
+>   - unknown_submit 자동복구·재진입 안전장치를 보강하고 paper 런타임을 재실행했다.
+>   - 오늘 거래 성과 요약·수익률 색상·실패 주문 정리를 반영하고 autolog까지 완료했다.
