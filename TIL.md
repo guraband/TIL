@@ -143,3 +143,13 @@
 >   - Cloudflare Tunnel 외부 대시보드와 v2 worker/KIS_PAPER 상태 표시를 복구했다.
 >   - unknown_submit 자동복구·재진입 안전장치를 보강하고 paper 런타임을 재실행했다.
 >   - 오늘 거래 성과 요약·수익률 색상·실패 주문 정리를 반영하고 autolog까지 완료했다.
+
+---
+
+## ✏️ 2026.05.16
+> **🤖 Market Autoresearch 자동개선 루프**
+>   - 실패 패턴 분석→개선 후보 룰 생성→shadow 평가까지 안전한 폐루프를 구현했다.
+>   - Claude·Luther 리뷰를 반영해 재선별 평가, fail-closed, 태그 임계값을 보강했다.
+>   - 테스트 118개와 smoke 검증 후 v1.6.0 autolog commit/push까지 완료했다.
+
+---
