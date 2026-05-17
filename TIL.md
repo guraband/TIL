@@ -154,3 +154,10 @@
 
 ---
 
+## ✏️ 2026.05.17
+> **🤖 Beast Heart v2 시장온도계 주입 보강**
+>   - 최신 market regime snapshot을 seed·tracker·order gate evidence로 전파했다.
+>   - 누락·stale·불일치 regime을 보수적으로 차단해 beast_ok 낙관 fallback을 제거했다.
+>   - v2 전체 unittest 591개와 whitespace 검증 후 커밋·푸시까지 완료했다.
+
+---
