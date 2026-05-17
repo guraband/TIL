@@ -160,4 +160,7 @@
 >   - 누락·stale·불일치 regime을 보수적으로 차단해 beast_ok 낙관 fallback을 제거했다.
 >   - v2 전체 unittest 591개와 whitespace 검증 후 커밋·푸시까지 완료했다.
 
+> **🤖 openclaw 세팅**
+>   - 최신 버전으로 업데이트 하고 doctor를 실행해서 권고사항들을 수정했다. memory와 agents.md 분량이 너무 크다는 경고가 있어서 간소화하고 카테고리 별로 구분해서 저장하게 했다.
+
 ---
