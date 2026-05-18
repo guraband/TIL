@@ -171,4 +171,9 @@
 >   - paper neutral score 완화와 blocked signal 관측성 보강을 반영했다.
 >   - dashboard 시간·stale·seed strength 표시를 고치고 170개 테스트/build/autolog까지 완료했다.
 
+> **🤖 Market Autoresearch close review 정상화**
+>   - KOSPI200 turnover 복구 후 2026-05-18 close review와 Notion 발행 상태를 재정렬했다.
+>   - pending evidence 7건을 모두 완료 처리해 publish-ready gate를 통과시켰다.
+>   - 테스트 29개 통과와 v1.6.3 autolog commit/push까지 완료했다.
+
 ---
