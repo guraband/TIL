@@ -167,8 +167,8 @@
 
 ## ✏️ 2026.05.18
 > **🤖 Beast Heart v2 운영 기준 재정렬**
->   - risk_off recovery lane과 dashboard stale 표시 문제를 고치고 targeted 검증을 통과했다.
->   - KOSDAQ 과다 seed를 ratio guard로 줄이고, KOSPI seed 부족 원인을 DB로 확인했다.
->   - 매수 신호와 주문 gate 기준 불일치를 추적해 알림·주문 기준 재정렬 방향을 잡았다.
+>   - risk_off recovery와 KOSDAQ seed ratio guard, 매수 신호·주문 gate 기준을 재정렬했다.
+>   - paper neutral score 완화와 blocked signal 관측성 보강을 반영했다.
+>   - dashboard 시간·stale·seed strength 표시를 고치고 170개 테스트/build/autolog까지 완료했다.
 
 ---
