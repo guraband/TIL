@@ -164,3 +164,11 @@
 >   - 최신 버전으로 업데이트 하고 doctor를 실행해서 권고사항들을 수정했다. memory와 agents.md 분량이 너무 크다는 경고가 있어서 간소화하고 카테고리 별로 구분해서 저장하게 했다.
 
 ---
+
+## ✏️ 2026.05.18
+> **🤖 Beast Heart v2 운영 기준 재정렬**
+>   - risk_off recovery lane과 dashboard stale 표시 문제를 고치고 targeted 검증을 통과했다.
+>   - KOSDAQ 과다 seed를 ratio guard로 줄이고, KOSPI seed 부족 원인을 DB로 확인했다.
+>   - 매수 신호와 주문 gate 기준 불일치를 추적해 알림·주문 기준 재정렬 방향을 잡았다.
+
+---
