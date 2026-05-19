@@ -184,4 +184,9 @@
 >   - seed breadth, WS, signal-quality 관측 항목을 monitoring evidence sweep으로 통합했다.
 >   - 완료된 모니터링 항목은 PASS 처리하고 workorder 정리 후 autolog commit/push까지 마쳤다.
 
+> **💻 gb2026 : 홈 서버로 이관 작업**
+>   - AWS에서 집의 맥미니로 이전하는 작업을 계획하고 있다.
+>   - 우선 SQS를 redis stream으로 변경할 예정.
+>   - s3의 이미지들은 맥미니에 sync 해놨다.
+
 ---
