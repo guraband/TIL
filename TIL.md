@@ -193,8 +193,8 @@
 
 ## ✏️ 2026.05.20
 > **🤖 Beast Heart v2 WS warmup·DB lock 안정화**
->   - 후보 교체 직후 신규 종목을 REST fallback scoring에서 보류하도록 수정했다.
->   - tracker warmup defer와 module/funnel evidence로 오판·매수 신호 생성을 막았다.
->   - seed refresh DB lock은 지연 재시도로 바꾸고 106개 테스트·autolog push까지 완료했다.
+>   - WS warmup 신규 종목을 scoring 보류하고 원래 구독 집합을 유지하도록 고쳤다.
+>   - seed refresh DB lock을 지연 재시도로 바꾸고 tracker warmup 회귀 테스트를 보강했다.
+>   - 대시보드 stale cache 제거와 테스트/build 검증 후 autolog commit/push까지 완료했다.
 
 ---
