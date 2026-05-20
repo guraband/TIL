@@ -197,4 +197,7 @@
 >   - seed refresh DB lock을 지연 재시도로 바꾸고 tracker warmup 회귀 테스트를 보강했다.
 >   - 대시보드 stale cache 제거와 테스트/build 검증 후 autolog commit/push까지 완료했다.
 
+> **💻 gb2026 : 홈 서버로 이관 작업**
+>   - 기획 문서 정리
+
 ---
