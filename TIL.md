@@ -190,3 +190,11 @@
 >   - s3의 이미지들은 맥미니에 sync 해놨다.
 
 ---
+
+## ✏️ 2026.05.20
+> **🤖 Beast Heart v2 WS warmup·DB lock 안정화**
+>   - 후보 교체 직후 신규 종목을 REST fallback scoring에서 보류하도록 수정했다.
+>   - tracker warmup defer와 module/funnel evidence로 오판·매수 신호 생성을 막았다.
+>   - seed refresh DB lock은 지연 재시도로 바꾸고 106개 테스트·autolog push까지 완료했다.
+
+---
