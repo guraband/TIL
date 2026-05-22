@@ -214,8 +214,8 @@
 
 ## ✏️ 2026.05.22
 > **🤖 Beast Heart v2 WS partial warmup 안정화**
->   - partial WS warmup에서 withheld 종목이 누락되던 원인을 bounded retry로 보수 수정했다.
->   - 62개 테스트와 런타임 관측으로 retry job 생성·완료, WS 수신 정상 상태를 확인했다.
->   - CHANGELOG와 workorder를 정리하고 autolog commit/push까지 완료했다.
+>   - partial WS warmup 누락을 bounded retry로 보수 수정하고 WS 수신 정상 상태를 확인했다.
+>   - 대시보드 매수/매도 버튼, KOSPI 등락률 색상, 온도 제거, 모바일 표시를 정리했다.
+>   - 테스트 197개와 build 검증 후 Beast Heart autolog commit/push까지 완료했다.
 
 ---
