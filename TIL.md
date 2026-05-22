@@ -211,3 +211,11 @@
 >   - image-home.guraband.com 도메인을 로컬 이미지와 연결
 
 ---
+
+## ✏️ 2026.05.22
+> **🤖 Beast Heart v2 WS partial warmup 안정화**
+>   - partial WS warmup에서 withheld 종목이 누락되던 원인을 bounded retry로 보수 수정했다.
+>   - 62개 테스트와 런타임 관측으로 retry job 생성·완료, WS 수신 정상 상태를 확인했다.
+>   - CHANGELOG와 workorder를 정리하고 autolog commit/push까지 완료했다.
+
+---
