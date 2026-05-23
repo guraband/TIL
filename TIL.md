@@ -220,3 +220,6 @@
 
 ---
 
+## ✏️ 2026.05.23
+> **🎥 개발 관련 유튜브 시청**
+>   - [모든 곳에 구글이 있었다... Gemini로 바꾸려는 인터넷의 질서](https://youtu.be/jH4pZdrn-oU?si=_1xNVAhDs5Ayt6gb)
