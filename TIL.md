@@ -223,3 +223,17 @@
 ## ✏️ 2026.05.23
 > **🎥 개발 관련 유튜브 시청**
 >   - [모든 곳에 구글이 있었다... Gemini로 바꾸려는 인터넷의 질서](https://youtu.be/jH4pZdrn-oU?si=_1xNVAhDs5Ayt6gb)
+
+---
+
+## ✏️ 2026.05.24
+> **🤖 Beast Heart v2 shadow evidence**
+>   - ATR/ADX exit shadow 작업지시서를 만들고 루터 리뷰 보완까지 반영했다.
+>   - 벤지 구현과 루터 리뷰 후 shadow schema, helper, 테스트를 main에 반영했다.
+>   - dashboard broker-mode 검증 보강과 autolog commit/push까지 완료했다.
+
+> **🤖 OpenClaw 운영 개선**
+>   - 상태 전환 보고 누락 문제를 재확인하고 작업 체크포인트 보고 원칙을 강화했다.
+>   - 메모리만으로 부족해 hook, taskflow, status-report-guard 같은 절차 강제안을 검토했다.
+
+---
