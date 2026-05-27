@@ -263,4 +263,9 @@
 >   - normal/dopamine/swing intent wiring과 dashboard read-only 표시를 연결했다.
 >   - exit policy 우선순위와 broker-only unknown intent 안전 회귀 테스트를 보강했다.
 
+> **🤖 Market Autoresearch 개선 판정**
+>   - 룰 버전별 누적·최근 성과와 missing outcome 집계를 주간 리뷰에 연결했다.
+>   - improvement verdict 리포트를 추가해 현재 판정을 not_improving으로 명시했다.
+>   - 전체 테스트 128개와 smoke 검증 후 v1.6.5 커밋·푸시까지 완료했다.
+
 ---
