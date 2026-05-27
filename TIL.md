@@ -254,7 +254,11 @@
 ---
 
 ## ✏️ 2026.05.27
-> **🤖 야수의 심장 기능 개선**
+> **💻 gb2026**
+>   - IPv6를 잘못 처리해서 멀쩡한 IP를 차단하는 문제 수정
+
+> **🤖 Beast Heart v2**
+>   - 웹소켓 수신 개선
 >   - v2 주문/포지션 의도를 trade_intents 중심 모델로 정규화했다.
 >   - normal/dopamine/swing intent wiring과 dashboard read-only 표시를 연결했다.
 >   - exit policy 우선순위와 broker-only unknown intent 안전 회귀 테스트를 보강했다.
