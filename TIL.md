@@ -269,3 +269,15 @@
 >   - 전체 테스트 128개와 smoke 검증 후 v1.6.5 커밋·푸시까지 완료했다.
 
 ---
+
+## ✏️ 2026.05.28
+> **🤖 Beast Heart v2 도파민 모드**
+>   - 도파민 자동 매수의 당일 exit 이력 재진입 차단을 우회하도록 조정했다.
+>   - local/broker position과 sell residue 중복보유 안전장치는 유지했다.
+>   - KIS 모의 API shared rate-limit 버킷 설계를 문서화하고 209개 테스트를 통과했다.
+
+> **🤖 OpenClaw 운영**
+>   - benji/luther는 subagent가 아닌 configured agent 세션으로 중계해야 함을 확인했다.
+>   - 작업 지연·보고 누락을 줄이기 위해 메인 PM 중계 방식으로 운영 기준을 정리했다.
+
+---
