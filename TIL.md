@@ -288,9 +288,10 @@
 ---
 
 ## ✏️ 2026.05.29
-> **🤖 Beast Heart v2 KIS paper 안전성 보강**
->   - 실행계좌 REST bucket을 2초당 1건으로 낮춰 KIS rate limit 재발 여지를 줄였다.
->   - partial open-order truth와 stale exit residue를 보수적으로 판정해 오탐 차단을 줄였다.
->   - Redis wake namespace/ACK 안전 보강까지 리뷰·테스트·autolog push로 마무리했다.
+> **🤖 Beast Heart v2**
+>   - 이벤트 전파 방식 수정
+>       - 모듈간 이벤트 전파 방식을 기존에는 DB에 저장하고 모듈별로 폴링하는 방식에서 redis stream 방식으로 변경
+>   - 도파민 모드(초단타) 테스트
+>       - rate limit에 대응하지 못하는 오류 수정
 
 ---
