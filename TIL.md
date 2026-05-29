@@ -286,3 +286,11 @@
 >       - Threads는 크롤링이 잘 안돼서 Apify 서비스로 수집해서 받도록 했다.
 
 ---
+
+## ✏️ 2026.05.29
+> **🤖 Beast Heart v2 KIS paper 안전성 보강**
+>   - 실행계좌 REST bucket을 2초당 1건으로 낮춰 KIS rate limit 재발 여지를 줄였다.
+>   - partial open-order truth를 hard mismatch로 보지 않게 해 safe mode 오탐을 막았다.
+>   - broker truth 재동기화 후 safe mode 해제, 테스트 195개와 autolog push까지 완료했다.
+
+---
