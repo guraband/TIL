@@ -290,7 +290,7 @@
 ## ✏️ 2026.05.29
 > **🤖 Beast Heart v2 KIS paper 안전성 보강**
 >   - 실행계좌 REST bucket을 2초당 1건으로 낮춰 KIS rate limit 재발 여지를 줄였다.
->   - partial open-order truth를 hard mismatch로 보지 않게 해 safe mode 오탐을 막았다.
->   - broker truth 재동기화 후 safe mode 해제, 테스트 195개와 autolog push까지 완료했다.
+>   - partial open-order truth와 stale exit residue를 보수적으로 판정해 오탐 차단을 줄였다.
+>   - 대시보드 계좌 평가·매도 버튼 write gate를 복구하고 테스트/autolog push까지 완료했다.
 
 ---
