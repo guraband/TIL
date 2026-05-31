@@ -300,3 +300,11 @@
 > **🤖 Beast Heart v2**
 >   - rate limit 개선 버그 수정
 >   - 이벤트 전파 방식 수정 추가 보완 작업
+
+---
+
+## ✏️ 2026.05.31
+> **🤖 KOSPI 데이터 자동화**
+>   - DART buyback-family 신호를 kospi-data-collector로 이관하고 원본 로직과 맞췄다.
+>   - KOSPI200 멤버십, direct/mid buyback, 15일 보유, counts 출력 호환을 검증했다.
+>   - cron wrapper를 추가해 짧은 OpenClaw 프롬프트와 crontab 실행 기반을 마련했다.
