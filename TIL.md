@@ -324,4 +324,9 @@
 >   - 429 rate limit 로그를 확인하고 관리자 화면에 실패 안내 alert를 추가했다.
 >   - 변경 내역을 CHANGELOG에 정리하고 main 브랜치로 커밋·푸시했다.
 
+> **🤖 Beast Heart v2 대시보드 운영화**
+>   - 외부 대시보드를 Vite dev server에서 production preview로 전환했다.
+>   - LaunchAgent용 production 실행 스크립트와 backend 정적 서빙을 추가했다.
+>   - build·backend 테스트·autolog 커밋·푸시까지 완료했다.
+
 ---
