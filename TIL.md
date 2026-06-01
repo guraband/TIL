@@ -315,9 +315,9 @@
 
 ## ✏️ 2026.06.01
 > **🤖 KOSPI 추천 코어 독립화**
->   - kospi-recommendation-core 원격 저장소를 연결하고 main push까지 완료했다.
->   - 4개 추천 모델의 실행·학습·재학습 소스 이식 작업지시서를 작성했다.
->   - DB는 예외 입력으로 두되 경로를 설정값으로 분리하도록 범위를 보강했다.
+>   - kospi-recommendation-core 원격 저장소를 연결하고 4개 추천 lane 독립화 지시서를 정리했다.
+>   - native 실행·학습 범위와 DB 예외를 명확히 하고 주요 lane 검증·커밋을 이어갔다.
+>   - Overnight Gap KOSPI200 유니버스 오염과 CSV self-copy 오류를 고치고 재실행·autolog까지 완료했다.
 
 > **💻 gb2024 홈페이지 운영**
 >   - Gemini 요약 모델을 `gemini-3.5-flash`로 변경하고 서버 재시작까지 적용했다.
@@ -325,8 +325,8 @@
 >   - 변경 내역을 CHANGELOG에 정리하고 main 브랜치로 커밋·푸시했다.
 
 > **🤖 Beast Heart v2 대시보드 운영화**
->   - 외부 대시보드를 Vite dev server에서 production preview로 전환했다.
->   - LaunchAgent용 production 실행 스크립트와 backend 정적 서빙을 추가했다.
->   - build·backend 테스트·autolog 커밋·푸시까지 완료했다.
+>   - 외부 대시보드를 production preview와 backend 정적 서빙 구조로 운영화했다.
+>   - tick-driven stop-loss guard와 WS 장애 폴백 관측용 evidence summary를 추가했다.
+>   - 관련 테스트와 autolog 검증 후 Beast Heart 변경분을 커밋·푸시했다.
 
 ---
