@@ -34,6 +34,7 @@
 > **💻 gb2024 홈페이지 운영**
 >   - 스토리 요약을 Gemini API에서 로컬 Ollama `gemma4:latest` 호출로 전환했다.
 >   - compile, autolog commit/push, 재실행 스크립트 restart와 health 검증까지 완료했다.
+>   - blue-green 배포 스크립트를 적용해 새 포트 health 확인 후 nginx 전환 구조로 바꿨다.
 
 > **🤖 이미지 임베딩 cron**
 >   - 이미지 분석만 로컬 `gemma4`로 바꾸고 OpenAI 1536차원 임베딩은 유지했다.
