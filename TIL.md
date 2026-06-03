@@ -30,6 +30,7 @@
 > **🤖 투자 자동화 휴장일 가드**
 >   - Beast Heart와 KOSPI 추천 cron에 DB 기반 KRX 휴장일 skip 로직을 적용했다.
 >   - watchdog LaunchAgent와 리포트/추천 wrapper의 휴장일 no-op 검증을 완료했다.
+>   - Market Autoresearch open/close cron의 휴장일 텔레그램 발송 차단까지 반영했다.
 
 > **💻 gb2024 홈페이지 운영**
 >   - 스토리 요약을 Gemini API에서 로컬 Ollama `gemma4:latest` 호출로 전환했다.
