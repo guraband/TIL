@@ -23,3 +23,20 @@
 > **🤖 Beast Heart v2 안정화**
 >   - 모니터링 관련 작업 실행
 >   - 마이너 버그들 수정
+
+---
+
+## ✏️ 2026.06.03
+> **🤖 투자 자동화 휴장일 가드**
+>   - Beast Heart와 KOSPI 추천 cron에 DB 기반 KRX 휴장일 skip 로직을 적용했다.
+>   - watchdog LaunchAgent와 리포트/추천 wrapper의 휴장일 no-op 검증을 완료했다.
+
+> **💻 gb2024 홈페이지 운영**
+>   - 스토리 요약을 Gemini API에서 로컬 Ollama `gemma4:latest` 호출로 전환했다.
+>   - compile, autolog commit/push, 재실행 스크립트 restart와 health 검증까지 완료했다.
+
+> **🤖 이미지 임베딩 cron**
+>   - 이미지 분석만 로컬 `gemma4`로 바꾸고 OpenAI 1536차원 임베딩은 유지했다.
+>   - 1분 cron 중복 lock, limit 1 적용 후 MongoDB 적재 증가를 확인했다.
+
+---
