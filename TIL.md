@@ -44,9 +44,9 @@
 ---
 
 ## ✏️ 2026.06.04
-> **🤖 Beast Heart v2 ATR/ADX 관측 개선**
->   - tick-origin shadow evidence에 point-in-time safe ATR/ADX snapshot attachment를 추가했다.
->   - warmup 부족·future/stale/invalid snapshot reason과 monitor summary를 테스트로 고정했다.
->   - 72개 focused test, 재시작, autolog 커밋·푸시까지 완료했다.
+> **🤖 Beast Heart v2 운영 안정화**
+>   - ATR/ADX shadow evidence와 monitor summary를 point-in-time 기준으로 보강했다.
+>   - KIS paper 단일 부분체결 잔량 mismatch 자동보정 가드를 추가했다.
+>   - 관련 테스트, 리뷰, autolog 커밋·푸시까지 완료했다.
 
 ---
