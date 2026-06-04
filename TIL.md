@@ -42,3 +42,11 @@
 >   - 1분 cron 중복 lock, limit 1 적용 후 MongoDB 적재 증가를 확인했다.
 
 ---
+
+## ✏️ 2026.06.04
+> **🤖 Beast Heart v2 ATR/ADX 관측 개선**
+>   - tick-origin shadow evidence에 point-in-time safe ATR/ADX snapshot attachment를 추가했다.
+>   - warmup 부족·future/stale/invalid snapshot reason과 monitor summary를 테스트로 고정했다.
+>   - 72개 focused test, 재시작, autolog 커밋·푸시까지 완료했다.
+
+---
