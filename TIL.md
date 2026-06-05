@@ -58,8 +58,8 @@
 >   - 휴장일 skip, DB retry, post-check 오류 manifest를 보강하고 autolog 커밋·푸시했다.
 
 > **🤖 Beast Heart v2 자동복구**
->   - KIS paper residue와 부분체결 mismatch 자동복구 가드를 보강했다.
->   - 도파민 익절 net buffer를 +0.5%로 올리고 낮은 env·policy 값을 clamp했다.
->   - 매도 주문 제출 알림에 예상 수익률·수익금을 추가하고 테스트·재실행을 완료했다.
+>   - KIS paper residue·부분체결 mismatch 자동복구와 주문중 판정 가드를 보강했다.
+>   - 대시보드 주문·체결 집계 cap 오류와 stale collector 재덮어쓰기 재발을 차단했다.
+>   - 도파민 익절·매도 알림 개선과 collector 0.1.1 재시작·테스트 검증을 완료했다.
 
 ---
