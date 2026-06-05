@@ -52,7 +52,7 @@
 ---
 
 ## ✏️ 2026.06.05
-> **🤖 KOSPI 브리핑·추천 자동화**
+> **🤖 KOSPI 브리핑·추천**
 >   - 07:30 pre-open 브리핑 cron을 bounded pipeline으로 교체하고 재실행·전송을 복구했다.
 >   - Cycle C와 Daily Predictor morning job을 하나의 순차 wrapper와 manifest로 통합했다.
 >   - 휴장일 skip, DB retry, post-check 오류 manifest를 보강하고 autolog 커밋·푸시했다.
