@@ -58,8 +58,8 @@
 >   - 휴장일 skip, DB retry, post-check 오류 manifest를 보강하고 autolog 커밋·푸시했다.
 
 > **🤖 Beast Heart v2 자동복구**
->   - KIS paper submitted 주문 residue 단일 mismatch 자동복구 가드를 구현했다.
->   - safe mode 상태를 복구하고 브로커·로컬 truth 재검증까지 완료했다.
->   - CHANGELOG 반영 후 자동복구 변경분을 autolog 커밋·푸시했다.
+>   - KIS paper residue와 부분체결 mismatch 자동복구 가드를 보강했다.
+>   - 중복·매수신호·주문제출 텔레그램 알림을 줄이고 손익별 문구를 정리했다.
+>   - post-submit 재검증 priority 조정, 테스트, 재실행, autolog push까지 완료했다.
 
 ---
