@@ -63,3 +63,11 @@
 >   - 도파민 익절·매도 알림 개선과 collector 0.1.1 재시작·테스트 검증을 완료했다.
 
 ---
+
+## ✏️ 2026.06.06
+> **🤖 Market Autoresearch WO-008**
+>   - 주간 자가개선 루프의 5거래일 성숙 evidence window를 재설계했다.
+>   - horizon 태그 산출물과 lagged coverage 지표를 보강하고 루터 PASS까지 받았다.
+>   - 회귀 테스트 20개 통과 후 CHANGELOG, 커밋, 푸시까지 완료했다.
+
+---
