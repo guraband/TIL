@@ -67,7 +67,7 @@
 ## ✏️ 2026.06.06
 > **🤖 Market Autoresearch WO-008**
 >   - 주간 자가개선 루프의 5거래일 성숙 evidence window를 재설계했다.
->   - horizon 태그 산출물과 lagged coverage 지표를 보강하고 루터 PASS까지 받았다.
->   - 회귀 테스트 20개 통과 후 CHANGELOG, 커밋, 푸시까지 완료했다.
+>   - 5D 분석의 10D immaturity 태그 오염을 제거하고 루터 재리뷰 PASS까지 받았다.
+>   - WO-008 아카이브, 문서 현행화, 21개 테스트 검증 후 커밋·푸시를 완료했다.
 
 ---
