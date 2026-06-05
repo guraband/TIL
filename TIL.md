@@ -59,7 +59,7 @@
 
 > **🤖 Beast Heart v2 자동복구**
 >   - KIS paper residue와 부분체결 mismatch 자동복구 가드를 보강했다.
->   - 중복·매수신호·주문제출 텔레그램 알림을 줄이고 손익별 문구를 정리했다.
->   - post-submit 재검증 priority 조정, 테스트, 재실행, autolog push까지 완료했다.
+>   - 도파민 익절 net buffer를 +0.5%로 올리고 낮은 env·policy 값을 clamp했다.
+>   - 매도 주문 제출 알림에 예상 수익률·수익금을 추가하고 테스트·재실행을 완료했다.
 
 ---
