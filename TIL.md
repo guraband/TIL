@@ -65,9 +65,9 @@
 ---
 
 ## ✏️ 2026.06.06
-> **🤖 Market Autoresearch WO-008**
->   - 주간 자가개선 루프의 5거래일 성숙 evidence window를 재설계했다.
->   - 5D 분석의 10D immaturity 태그 오염을 제거하고 루터 재리뷰 PASS까지 받았다.
->   - WO-008 아카이브, 문서 현행화, 21개 테스트 검증 후 커밋·푸시를 완료했다.
+> **🤖 Market Autoresearch 자가개선 루프**
+>   - WO-008에서 5거래일 성숙 evidence window와 failure 분석 오염을 바로잡았다.
+>   - WO-009로 theme scoring 진단과 evidence backlog lifecycle 산출물을 추가했다.
+>   - WO-004/005/009 아카이브 후 전체 테스트 151개 검증, autolog 커밋·푸시까지 완료했다.
 
 ---
