@@ -66,8 +66,8 @@
 
 ## ✏️ 2026.06.06
 > **🤖 Market Autoresearch 자가개선 루프**
->   - WO-008에서 5거래일 성숙 evidence window와 failure 분석 오염을 바로잡았다.
->   - WO-009로 theme scoring 진단과 evidence backlog lifecycle 산출물을 추가했다.
->   - WO-004/005/009 아카이브 후 전체 테스트 151개 검증, autolog 커밋·푸시까지 완료했다.
+>   - WO-010으로 proposal 직후 shadow evaluation이 자동 실행되는 재귀개선 루프를 완성했다.
+>   - 자동매매가 아닌 수익 종목 추천 리서치 프로젝트임을 README/PRD/운영문서에 명확히 했다.
+>   - v1.7.0 문서 현행화와 autolog 릴리스 커밋·푸시, 테스트 155개 검증까지 완료했다.
 
 ---
