@@ -70,4 +70,9 @@
 >   - 자동매매가 아닌 수익 종목 추천 리서치 프로젝트임을 README/PRD/운영문서에 명확히 했다.
 >   - v1.7.0 문서 현행화와 autolog 릴리스 커밋·푸시, 테스트 155개 검증까지 완료했다.
 
+> **🤖 Beast Heart v2 ML 데이터셋**
+>   - entry outcome dataset builder와 누수 방지 테스트를 추가하고 Luther 재리뷰 PASS를 받았다.
+>   - baseline EDA 0으로 60,326행을 점검하고 realized outcome 해석 caveat를 문서화했다.
+>   - 후속 모니터링 workorder, CURRENT_TODO, CHANGELOG 정리 후 main에 커밋·푸시했다.
+
 ---
