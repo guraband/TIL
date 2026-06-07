@@ -76,3 +76,11 @@
 >   - 후속 모니터링 workorder, CURRENT_TODO, CHANGELOG 정리 후 main에 커밋·푸시했다.
 
 ---
+
+## ✏️ 2026.06.07
+> **🤖 AI 이슈 브리핑 파이프라인**
+>   - GeekNews RSS와 @choi.openai Threads를 24시간 수집 소스로 분리했다.
+>   - URL·본문 유사도 기반 중복 제거와 중요도 상위 최대 10개 선별을 추가했다.
+>   - Notion 상세본과 모바일용 짧은 Telegram 요약 전송까지 검증했다.
+
+---
