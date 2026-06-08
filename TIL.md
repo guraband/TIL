@@ -84,3 +84,11 @@
 >   - Notion 상세본과 모바일용 짧은 Telegram 요약 전송까지 검증했다.
 
 ---
+
+## ✏️ 2026.06.08
+> **🤖 Market Autoresearch 운영 안정화**
+>   - 0개 스윙 후보일 때 정상 무발행으로 분류하는 publish_decision을 추가했다.
+>   - 크론 보고 문구를 Blocked 대신 관망 정상으로 바꾸고 테스트를 보강했다.
+>   - 검증 후 market-autoresearch 변경분을 커밋·푸시했다.
+
+---
