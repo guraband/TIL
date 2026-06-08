@@ -91,10 +91,10 @@
 >   - 장마감 close loop의 후보 0개 판정도 재검토해 현행 룰상 정상 관망임을 확인했다.
 >   - 크론 문구·테스트·CHANGELOG를 정리하고 market-autoresearch 변경분을 커밋·푸시했다.
 
-> **🤖 Beast Heart v2 주문 정합성**
->   - KIS paper 0잔고 매도 차단 후 로컬 포지션·intent 정합성 복구를 추가했다.
->   - Redis wake stale timestamp로 최신 신호가 미래 시각으로 오판되던 문제를 수정했다.
->   - 회귀 테스트, order_account 재시작, autolog 커밋·푸시까지 완료했다.
+> **🤖 Beast Heart v2 주문·ML 데이터셋**
+>   - KIS paper 0잔고 매도 차단 후 로컬 포지션·intent 복구와 중복 알림 억제를 보강했다.
+>   - Redis wake timestamp 오탐을 고치고 entry outcome quality/source 결측 분류를 추가했다.
+>   - 회귀 테스트, Luther 리뷰, order_account 재시작, autolog 커밋·푸시까지 완료했다.
 
 > **🤖 KOSPI 추천 코어 안정화**
 >   - Overnight Gap post-check DB open 실패에 지수백오프 재시도 처리를 추가했다.
