@@ -96,4 +96,9 @@
 >   - Redis wake stale timestamp로 최신 신호가 미래 시각으로 오판되던 문제를 수정했다.
 >   - 회귀 테스트, order_account 재시작, autolog 커밋·푸시까지 완료했다.
 
+> **🤖 KOSPI 추천 코어 안정화**
+>   - Overnight Gap post-check DB open 실패에 지수백오프 재시도 처리를 추가했다.
+>   - 2026-06-08 close chain 재실행으로 manifest ok와 recommendation rows 5건을 확인했다.
+>   - CHANGELOG 0.2.9 정리 후 테스트 21개 검증, autolog 커밋·푸시까지 완료했다.
+
 ---
