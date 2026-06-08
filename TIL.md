@@ -91,4 +91,9 @@
 >   - 크론 보고 문구를 Blocked 대신 관망 정상으로 바꾸고 테스트를 보강했다.
 >   - 검증 후 market-autoresearch 변경분을 커밋·푸시했다.
 
+> **🤖 Beast Heart v2 주문 정합성**
+>   - KIS paper 0잔고 매도 차단 후 로컬 포지션·intent 자동 정합성 복구를 추가했다.
+>   - 반복 exit sell은 broker 호출 없이 로컬 차단하고 알림 폭주를 dedupe했다.
+>   - 회귀 테스트, order_account 재시작, autolog 커밋·푸시까지 완료했다.
+
 ---
