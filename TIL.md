@@ -105,8 +105,8 @@
 
 ## ✏️ 2026.06.09
 > **🤖 Beast Heart v2 운영 안전장치**
->   - 후성 false stop 원인을 찾아 체결 평단 기준 손절선 우선 규칙과 invariant를 보강했다.
->   - WS lane별 freshness 관측과 warmup/missing 분류를 정리해 degraded 오탐을 줄였다.
->   - Benji 구현, Luther 리뷰, focused test 94개 확인 후 v2 paper 런타임을 재실행했다.
+>   - 체결 평단 기준 손절선 우선 규칙과 WS lane freshness 관측을 보강했다.
+>   - account mismatch 자동복구에 no-effect grace와 broker-truth position/fill 복구를 추가했다.
+>   - KIS ranking API 수신 정상, focused test 136개, autolog 커밋·푸시까지 확인했다.
 
 ---
