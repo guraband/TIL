@@ -109,4 +109,9 @@
 >   - account mismatch 자동복구에 no-effect grace와 broker-truth position/fill 복구를 추가했다.
 >   - KIS ranking API 수신 정상, focused test 136개, autolog 커밋·푸시까지 확인했다.
 
+> **🤖 KOSPI 추천 코어 운영 적용**
+>   - Next Gap Up tree 정책을 leaf hit rate scoring과 quality gate parity 중심으로 개선했다.
+>   - 루터 코드리뷰 승인과 walk-forward 백테스트 개선 확인 후 main에 fast-forward merge했다.
+>   - README/CHANGELOG와 active recommendation DB path alignment autolog까지 커밋·푸시했다.
+
 ---
