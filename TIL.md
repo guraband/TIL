@@ -114,4 +114,9 @@
 >   - 루터 코드리뷰 승인과 walk-forward 백테스트 개선 확인 후 main에 fast-forward merge했다.
 >   - README/CHANGELOG와 active recommendation DB path alignment autolog까지 커밋·푸시했다.
 
+> **🤖 Market Autoresearch 자가개선**
+>   - 후보 0개 날을 전략 공백 신호로 분류하고 필터별 탈락 진단을 manifest에 남기게 했다.
+>   - weekly loop가 oversold rebound lane을 shadow 평가하도록 연결했다.
+>   - 루터 리뷰, 테스트 50개, autolog CHANGELOG 커밋·푸시까지 완료했다.
+
 ---
