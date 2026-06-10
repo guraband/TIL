@@ -120,3 +120,11 @@
 >   - 루터 리뷰, 테스트 50개, autolog CHANGELOG 커밋·푸시까지 완료했다.
 
 ---
+
+## ✏️ 2026.06.10
+> **🤖 Beast Heart v2 데이터셋 자동 모니터링**
+>   - 장마감 entry dataset quality summary에 bought-only·market-regime 판정을 보강했다.
+>   - 평일 15:45 read-only summary cron을 등록하고 오늘치 수동 실행을 검증했다.
+>   - active workorder를 daily report 해석과 market-regime report gap 중심으로 정리했다.
+
+---
