@@ -127,4 +127,9 @@
 >   - 평일 15:45 read-only summary cron을 등록하고 오늘치 수동 실행을 검증했다.
 >   - active workorder를 daily report 해석과 market-regime report gap 중심으로 정리했다.
 
+> **💻 gb2024 홈페이지 운영**
+>   - 관리자 passkey 로그인·등록·목록·삭제 흐름을 WebAuthn4J 기반으로 추가했다.
+>   - CSRF, requestId 검증, verify rate limit, Cloudflare IP 판별을 보강했다.
+>   - 루터 PASS 후 live 배포와 health 검증, autolog 커밋·푸시까지 완료했다.
+
 ---
