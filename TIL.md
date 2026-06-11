@@ -141,8 +141,8 @@
 >   - 루터 리뷰, order_account 141개 테스트, paper worker 재시작, autolog 커밋·푸시를 완료했다.
 
 > **🤖 KOSPI 추천 코어 predictor 개선**
->   - Daily Predictor 학습 종료일 고정 문제를 as-of 기준 rolling 구조로 보정했다.
->   - leaf hit rate scoring·최근 반복 추천 제외 게이트를 운영 ranking에 연결했다.
->   - predictor 전 기간과 가능한 next-gap-up 과거 추천 DB를 기준일 재학습으로 백필했다.
+>   - Daily Predictor 학습 종료일을 as-of rolling 구조로 보정하고 leaf hit rate ranking을 적용했다.
+>   - 최근 반복 추천 제외 게이트와 predictor·next-gap-up 기준일 재학습 백필을 완료했다.
+>   - 운영 cron·성과 측정·모델 문서를 현행화하고 autolog 커밋·푸시까지 마쳤다.
 
 ---
