@@ -136,9 +136,9 @@
 
 ## ✏️ 2026.06.11
 > **🤖 Beast Heart v2 매수 규칙**
->   - 고가 종목도 자동 signal buy에서 최대 1주 매수하도록 예외 규칙을 추가했다.
->   - 예산 양수 조건, 기존 안전가드, event/job evidence 전파를 테스트로 고정했다.
->   - 루터 리뷰, 225개 테스트, 런타임 재시작, autolog 커밋·푸시까지 완료했다.
+>   - 고가 종목 자동 signal buy를 최대 1주 허용하고 예산·안전가드 evidence를 고정했다.
+>   - SK하이닉스 사례로 seed/entry에도 고가·고거래대금 KRX 보통주 예외 경로를 추가했다.
+>   - 루터 리뷰, focused 335개 테스트, paper worker 재시작, autolog 커밋·푸시까지 완료했다.
 
 > **🤖 KOSPI 추천 코어 predictor 개선**
 >   - Daily Predictor 학습 종료일 고정 문제를 as-of 기준 rolling 구조로 보정했다.
