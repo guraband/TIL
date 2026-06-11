@@ -135,10 +135,10 @@
 ---
 
 ## ✏️ 2026.06.11
-> **🤖 Beast Heart v2 매수 규칙**
+> **🤖 Beast Heart v2 매수·데이터셋 품질**
 >   - 고가 signal buy 1주 허용과 seed/entry 고가·고거래대금 KRX 예외 경로를 정렬했다.
->   - risk-off recovery lane의 10만원 예산 cap을 제거하고 일반 예산 흐름에 맞췄다.
->   - 루터 리뷰, order_account 141개 테스트, paper worker 재시작, autolog 커밋·푸시를 완료했다.
+>   - risk-off recovery 예산 cap 제거 후 paper worker 재시작과 autolog 커밋·푸시를 마쳤다.
+>   - market-regime report gap을 고치고 feature gap 수정본은 24개 테스트·summary로 검증했다.
 
 > **🤖 KOSPI 추천 코어 predictor 개선**
 >   - Daily Predictor 학습 종료일을 as-of rolling 구조로 보정하고 leaf hit rate ranking을 적용했다.
