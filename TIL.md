@@ -140,4 +140,9 @@
 >   - 예산 양수 조건, 기존 안전가드, event/job evidence 전파를 테스트로 고정했다.
 >   - 루터 리뷰, 225개 테스트, 런타임 재시작, autolog 커밋·푸시까지 완료했다.
 
+> **🤖 KOSPI 추천 코어 predictor 개선**
+>   - Daily Predictor 학습 종료일 고정 문제를 as-of 기준 rolling 구조로 보정했다.
+>   - leaf hit rate scoring과 최근 반복 추천 제외 게이트를 운영 ranking에 연결했다.
+>   - 루터 리뷰, 테스트 보강, autolog 커밋·푸시까지 완료했다.
+
 ---
