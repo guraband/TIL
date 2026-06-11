@@ -142,7 +142,7 @@
 
 > **🤖 KOSPI 추천 코어 predictor 개선**
 >   - Daily Predictor 학습 종료일 고정 문제를 as-of 기준 rolling 구조로 보정했다.
->   - leaf hit rate scoring과 최근 반복 추천 제외 게이트를 운영 ranking에 연결했다.
->   - 루터 리뷰, 테스트 보강, autolog 커밋·푸시까지 완료했다.
+>   - leaf hit rate scoring·최근 반복 추천 제외 게이트를 운영 ranking에 연결했다.
+>   - predictor 전 기간과 가능한 next-gap-up 과거 추천 DB를 기준일 재학습으로 백필했다.
 
 ---
