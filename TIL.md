@@ -146,3 +146,11 @@
 >   - 운영 cron·성과 측정·모델 문서를 현행화하고 autolog 커밋·푸시까지 마쳤다.
 
 ---
+
+## ✏️ 2026.06.12
+> **🤖 Beast Heart v2 자동복구·데이터셋**
+>   - KIS paper broker truth 자동복구의 post-plan 재계산 버그를 수정했다.
+>   - 부분체결·open order·submitted residue 복구 회귀 테스트를 보강했다.
+>   - market-regime feature gap 해소와 autolog 커밋·푸시까지 완료했다.
+
+---
