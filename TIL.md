@@ -154,3 +154,10 @@
 >   - order_account 회귀 테스트 145개와 autolog·TIL 커밋·푸시까지 완료했다.
 
 ---
+
+## ✏️ 2026.06.13
+> **🎥 개발 관련 유튜브 시청**
+>   - [클로드 만든 개발자는 이제 프롬프트를 안씁니다 | Fable 5로 Loop Engineering](https://youtu.be/QI1FNnUfiZg?si=Yvnks78-QkucF3Ut)
+>       - Fable 5 기반 Loop Engineering 흐름과 프롬프트를 줄이는 개발 방식을 살펴봤다.
+
+---
