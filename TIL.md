@@ -166,6 +166,6 @@
 > **🤖 Market Autoresearch 전송 정책 정리**
 >   - Morning/Close/Weekly 모두 정상·이상 결과를 NG님 DM으로 보고하도록 정책을 통일했다.
 >   - weekly 대상도 그룹 채널에서 현재 DM으로 바꾸고 세 cron의 accountId·target을 정렬했다.
->   - cron payload·운영 문서·CHANGELOG를 갱신하고 autolog 커밋·푸시까지 완료했다.
+>   - 위클리 딜리버리 재실행·DM 전송을 검증하고 autolog·TIL 커밋·푸시까지 완료했다.
 
 ---
