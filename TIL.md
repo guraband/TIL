@@ -176,4 +176,9 @@
 >   - v2 DB retention prune을 실행해 진단성 row만 정리하고 1.7G DB를 1.3G로 줄였다.
 >   - 작업지시서 아카이브, 불필요 백업 삭제, autolog 커밋·푸시까지 마무리했다.
 
+> **🤖 KOSPI Data Collector 운영화**
+>   - KOSPI MST universe sync를 수동 실행해 13.18초 완료와 DB 반영을 확인했다.
+>   - 월간 1일 01:00 cron을 `PYTHONPATH=.` 포함 uv 실행 명령으로 등록했다.
+>   - README·crontab 예시·CHANGELOG를 현행화하고 autolog 커밋·푸시까지 완료했다.
+
 ---
