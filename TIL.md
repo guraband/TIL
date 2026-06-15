@@ -172,8 +172,8 @@
 
 ## ✏️ 2026.06.15
 > **🤖 Beast Heart v2 운영 안정화**
->   - KIS paper 부분체결 중간상태를 좁은 transient로 분류하고 위험 케이스는 safe_mode로 닫았다.
->   - KIS ranking seed timeout 오분류와 반복 알림을 고쳐 cooldown·tracking-only fallback을 적용했다.
->   - 루터·벤지 리뷰, 테스트·py_compile·diff check, worker 재시작과 autolog·TIL 반영을 완료했다.
+>   - KIS paper 부분체결·ranking timeout 케이스를 safe_mode/cooldown/fallback 기준으로 정리했다.
+>   - v2 DB retention prune을 실행해 진단성 row만 정리하고 1.7G DB를 1.3G로 줄였다.
+>   - 작업지시서 아카이브, 불필요 백업 삭제, autolog 커밋·푸시까지 마무리했다.
 
 ---
