@@ -169,3 +169,11 @@
 >   - 위클리 딜리버리 재실행·DM 전송을 검증하고 autolog·TIL 커밋·푸시까지 완료했다.
 
 ---
+
+## ✏️ 2026.06.15
+> **🤖 Beast Heart v2 계좌 스냅샷 안정화**
+>   - KIS paper 부분체결 중간상태를 좁은 transient로 분류하고 위험 케이스는 safe_mode로 닫았다.
+>   - 루터·벤지 리뷰 루프로 broker id 누락·불일치와 side 결측 mutation 리스크를 차단했다.
+>   - 테스트 159개, py_compile, diff check 후 worker 재시작과 autolog 커밋·푸시를 완료했다.
+
+---
