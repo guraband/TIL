@@ -181,4 +181,7 @@
 >   - 월간 1일 01:00 cron을 `PYTHONPATH=.` 포함 uv 실행 명령으로 등록했다.
 >   - README·crontab 예시·CHANGELOG를 현행화하고 autolog 커밋·푸시까지 완료했다.
 
+> **🤖 Hermes Agent 설치**
+>   - 설치 & 테스트.
+
 ---
