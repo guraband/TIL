@@ -185,3 +185,11 @@
 >   - 설치 & 테스트.
 
 ---
+
+## ✏️ 2026.06.16
+> **🤖 Beast Heart v2 계좌·청산 안전장치**
+>   - sell no-effect 포지션 복구와 safe_mode reduce-only 청산 경로를 보강했다.
+>   - broker truth fallback, order gate 방어층, 후보 조회 축소 hardening까지 반영했다.
+>   - 루터 리뷰와 테스트 214개 검증 후 autolog 커밋·푸시까지 완료했다.
+
+---
