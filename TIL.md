@@ -195,9 +195,9 @@
 ---
 
 ## ✏️ 2026.06.17
-> **🤖 Beast Heart v2 unknown-submit 복구**
->   - KIS 응답 단절로 생긴 007610 unknown-submit safe_mode 원인을 추적했다.
->   - partial broker truth 오분류를 고치고 미체결 조회 실패는 재시도하도록 보강했다.
->   - 거래 패턴 리포트와 토니 보완 패치까지 커밋·푸시했다.
+> **🤖 Beast Heart v2 안전복구·ML 데이터 준비**
+>   - unknown-submit safe_mode 원인 추적과 partial broker truth 재시도 보강을 마쳤다.
+>   - market-regime raw/derived 피처를 ML용 entry dataset에 read-only로 연결했다.
+>   - 토니 리뷰 보완 후 15:45 summary cron을 새 feature 포함 방식으로 교체·검증했다.
 
 ---
