@@ -201,3 +201,11 @@
 >   - 토니 리뷰 보완 후 15:45 summary cron을 새 feature 포함 방식으로 교체·검증했다.
 
 ---
+
+## ✏️ 2026.06.18
+> **🤖 Market Autoresearch 자동승격 루프**
+>   - consider_promotion 시 rule YAML·metadata를 자동승격하는 승인 스크립트를 추가했다.
+>   - weekly loop와 OpenClaw cron을 자동승격 경로로 연결하고 실거래 API 금지를 유지했다.
+>   - 전체 테스트 174개와 smoke 검증을 통과해 자동 리서치 폐루프를 확인했다.
+
+---
