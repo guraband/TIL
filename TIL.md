@@ -193,3 +193,11 @@
 >   - 루터 리뷰와 order-account 테스트 177개 검증 후 autolog 커밋·푸시까지 완료했다.
 
 ---
+
+## ✏️ 2026.06.17
+> **🤖 Beast Heart v2 unknown-submit 복구**
+>   - KIS 응답 단절로 생긴 007610 unknown-submit safe_mode 원인을 추적했다.
+>   - partial broker truth 오분류를 고치고 미체결 조회 실패는 재시도하도록 보강했다.
+>   - 거래 패턴 리포트와 토니 보완 패치까지 커밋·푸시했다.
+
+---
