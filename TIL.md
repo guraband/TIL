@@ -208,4 +208,9 @@
 >   - weekly loop와 OpenClaw cron을 자동승격 경로로 연결하고 실거래 API 금지를 유지했다.
 >   - 전체 테스트 174개와 smoke 검증을 통과해 자동 리서치 폐루프를 확인했다.
 
+> **🤖 Beast Heart v2 운영복구·데이터셋 안전장치**
+>   - KIS paper unknown-submit safe_mode를 broker truth로 복구하고 자동복구를 보강했다.
+>   - market-regime DB read-only와 summary artifact 덮어쓰기 방지 테스트를 추가했다.
+>   - 관련 테스트 31개와 실데이터 532행 summary 재검증으로 PASS 기준을 맞췄다.
+
 ---
