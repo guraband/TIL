@@ -222,8 +222,8 @@
 >   - CHANGELOG 정리 후 autolog 커밋·푸시까지 완료했다.
 
 > **🤖 Beast Heart v2 운영 정리**
->   - KIS preopen 토큰 선확보·credential-bound cache와 KOSPI collector 공유 계약을 정리했다.
->   - market-regime raw/derived 피처를 read-only entry dataset에 붙이고 누수·덮어쓰기 가드를 검증했다.
->   - unknown-submit sell 복구와 관련 테스트 302개를 통과시킨 뒤 autolog 커밋·푸시까지 완료했다.
+>   - KIS preopen credential-bound token cache와 collector 공유 계약을 정리했다.
+>   - market-regime dataset 연결과 unknown-submit sell 복구를 테스트 302개로 검증했다.
+>   - KIS paper 부분체결 durable reconcile 자동복구를 보강하고 92개 테스트·autolog까지 완료했다.
 
 ---
