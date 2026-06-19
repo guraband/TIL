@@ -221,4 +221,9 @@
 >   - live 서버를 재실행하고 로컬·공개 도메인 health `UP`을 확인했다.
 >   - CHANGELOG 정리 후 autolog 커밋·푸시까지 완료했다.
 
+> **🤖 Beast Heart KIS 토큰 운영 정리**
+>   - 08:55 preopen에서 KIS 토큰을 선확보하고 v2 캐시는 같은 토큰으로 seed하게 정리했다.
+>   - credential-bound/private cache와 중복 tokenP 방지 구조를 테스트 87개로 검증했다.
+>   - 유지보수 리뷰 후 과한 helper를 줄이고 autolog 커밋·푸시까지 완료했다.
+
 ---
