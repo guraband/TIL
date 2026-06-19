@@ -221,9 +221,9 @@
 >   - live 서버를 재실행하고 로컬·공개 도메인 health `UP`을 확인했다.
 >   - CHANGELOG 정리 후 autolog 커밋·푸시까지 완료했다.
 
-> **🤖 Beast Heart KIS 토큰 운영 정리**
->   - 08:55 preopen에서 KIS 토큰을 선확보하고 v2 캐시는 같은 토큰으로 seed하게 정리했다.
->   - credential-bound/private cache와 중복 tokenP 방지 구조를 테스트 87개로 검증했다.
->   - 유지보수 리뷰 후 과한 helper를 줄이고 autolog 커밋·푸시까지 완료했다.
+> **🤖 Beast Heart v2 운영 정리**
+>   - KIS preopen 토큰 선확보·credential-bound cache와 KOSPI collector 공유 계약을 정리했다.
+>   - market-regime raw/derived 피처를 read-only entry dataset에 붙이고 누수·덮어쓰기 가드를 검증했다.
+>   - unknown-submit sell 복구와 관련 테스트 302개를 통과시킨 뒤 autolog 커밋·푸시까지 완료했다.
 
 ---
