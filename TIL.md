@@ -226,4 +226,9 @@
 >   - market-regime dataset 연결과 unknown-submit sell 복구를 테스트 302개로 검증했다.
 >   - KIS paper 부분체결 durable reconcile 자동복구를 보강하고 92개 테스트·autolog까지 완료했다.
 
+> **🤖 KOSPI 추천 코어 알림 정책**
+>   - daily close autoresearch 성공·정상 스킵 알림을 제거하고 실패·차단만 보내게 했다.
+>   - weekly autoresearch 알림을 성숙된 과거 5일 결과와 이번 주 추천 미성숙 상태로 분리했다.
+>   - 룰 변경 보류 사유가 미성숙 후보 때문처럼 읽히지 않도록 문구 기준을 정리했다.
+
 ---
