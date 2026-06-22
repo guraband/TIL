@@ -251,3 +251,15 @@
 >   - 기존 6월 직속 문서를 월별 하위로 이관하고 검증·autolog push까지 완료했다.
 
 ---
+
+## ✏️ 2026.06.22
+> **💻 gb2024 홈페이지 운영**
+>   - 맥미니 재부팅 후 MariaDB·Redis·Spring 서버·nginx를 점검해 홈페이지를 복구했다.
+>   - Docker 컨테이너 재시작 정책과 수동 복구 순서를 README에 정리했다.
+>   - CHANGELOG 반영 후 `docs: document mac mini reboot recovery` 커밋을 main에 푸시했다.
+
+> **🤖 Beast Heart v2 전략 검토**
+>   - banbu ML·LLM·종목선택 구조를 v2 적용 관점에서 비교 분석했다.
+>   - relative score와 LLM veto shadow 적용안을 docs/reports 문서로 정리했다.
+
+---
