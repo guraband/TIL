@@ -264,3 +264,11 @@
 >   - 더 강한 dopamine profit tick이 cooldown에 막히지 않도록 보강하고 autolog 푸시했다.
 
 ---
+
+## ✏️ 2026.06.23
+> **🤖 Beast Heart v2 전략 보고서 정리**
+>   - banbu 비교 보고서에 shadow feature 공통 구현 가드와 leakage 금지를 보강했다.
+>   - relative score·LLM veto·ML baseline은 주문 영향 없이 evidence부터 검증하도록 정리했다.
+>   - Beast Heart CHANGELOG와 TIL 기록을 autolog 흐름으로 커밋·푸시했다.
+
+---
