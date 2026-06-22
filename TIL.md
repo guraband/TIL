@@ -258,8 +258,9 @@
 >   - Docker 컨테이너 재시작 정책과 수동 복구 순서를 README에 정리했다.
 >   - CHANGELOG 반영 후 `docs: document mac mini reboot recovery` 커밋을 main에 푸시했다.
 
-> **🤖 Beast Heart v2 전략 검토**
->   - banbu ML·LLM·종목선택 구조를 v2 적용 관점에서 비교 분석했다.
->   - relative score와 LLM veto shadow 적용안을 docs/reports 문서로 정리했다.
+> **🤖 Beast Heart v2 운영·전략 정리**
+>   - banbu 구조 비교와 relative score·LLM veto shadow 적용안을 문서화했다.
+>   - 재부팅으로 누락된 06-22 summary를 수동 생성하고 runtime interruption day로 분류했다.
+>   - 더 강한 dopamine profit tick이 cooldown에 막히지 않도록 보강하고 autolog 푸시했다.
 
 ---
