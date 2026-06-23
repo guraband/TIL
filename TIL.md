@@ -271,4 +271,9 @@
 >   - relative score·LLM veto·ML baseline은 주문 영향 없이 evidence부터 검증하도록 정리했다.
 >   - Beast Heart CHANGELOG와 TIL 기록을 autolog 흐름으로 커밋·푸시했다.
 
+> **🤖 KOSPI 추천 코어 LLM 검토 설계**
+>   - core·autoresearch 추천을 ticker 기준 병합하는 LLM 최종검토 작업지시서를 작성했다.
+>   - overnight-gap 제외, 08:40 KST 실행, Telegram·Notion 반영 기준을 문서화했다.
+>   - OpenClaw 업데이트 루프를 중지하고 gateway·cron 응답을 복구했다.
+
 ---
