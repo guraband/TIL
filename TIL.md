@@ -279,10 +279,10 @@
 ---
 
 ## ✏️ 2026.06.24
-> **🤖 Beast Heart v2 SQLite 안정화**
->   - Redis wake 포트를 복구하고 v2 paper worker·KIS websocket 정상 상태를 확인했다.
->   - SQLite timeout·bounded retry·transient diagnostics를 보강하고 루터 PASS를 받았다.
->   - KOSPI와 야수 변경을 focused test와 py_compile로 검증했다.
+> **🤖 Beast Heart v2 운영·exit shadow 정리**
+>   - Redis wake와 v2 worker·KIS websocket 상태를 복구 확인했다.
+>   - SQLite retry·diagnostics와 dynamic trailing exit shadow 관측 lane을 보강했다.
+>   - Phase 1 문서를 archive하고 Phase 2 관측 workorder·CHANGELOG·autolog push까지 완료했다.
 
 > **🤖 KOSPI 추천 코어 운영화**
 >   - DB open retry와 LLM 최종검토 DB 저장·백필을 적용해 복기 가능한 구조로 바꿨다.
