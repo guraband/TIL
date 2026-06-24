@@ -285,8 +285,8 @@
 >   - KOSPI와 야수 변경을 focused test와 py_compile로 검증했다.
 
 > **🤖 KOSPI 추천 코어 운영화**
->   - DB open retry와 `db_retry` manifest 기록을 pre-run/post-check 경로에 보강했다.
->   - LLM 최종검토 결과를 `llm_final_*` DB 테이블에 저장하고 2026-06-24 결과를 백필했다.
->   - 작업지시서·CHANGELOG 현행화 후 테스트 11개와 autolog 커밋·푸시를 완료했다.
+>   - DB open retry와 LLM 최종검토 DB 저장·백필을 적용해 복기 가능한 구조로 바꿨다.
+>   - Transformer shadow lane을 학습·추론·DB 저장·리포트 섹션까지 검증해 main에 올렸다.
+>   - 작업지시서·CHANGELOG 현행화 후 focused/full-minus-cron 테스트와 autolog를 완료했다.
 
 ---
