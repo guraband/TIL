@@ -277,3 +277,15 @@
 >   - OpenClaw 업데이트 루프를 중지하고 gateway·cron 응답을 복구했다.
 
 ---
+
+## ✏️ 2026.06.24
+> **🤖 Beast Heart v2 SQLite 안정화**
+>   - Redis wake 포트를 복구하고 v2 paper worker·KIS websocket 정상 상태를 확인했다.
+>   - SQLite timeout·bounded retry·transient diagnostics를 보강하고 루터 PASS를 받았다.
+>   - KOSPI와 야수 변경을 focused test와 py_compile로 검증했다.
+
+> **🤖 KOSPI 추천 코어 DB 안정화**
+>   - DB open retry와 `db_retry` manifest 기록을 pre-run/post-check 경로에 보강했다.
+>   - `check_error` manifest 2건을 `ok`로 복구하고 SQLite 손상 없음도 확인했다.
+
+---
