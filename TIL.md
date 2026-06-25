@@ -300,6 +300,6 @@
 > **🤖 Beast Heart v2 shadow 전략 정리**
 >   - guardian 감시창을 09:00~15:29 KST로 제한해 정상 장마감 알림을 줄였다.
 >   - 외부 전략 3종을 shadow 수집·실매매 적용 workorder로 분리하고 리뷰했다.
->   - 3-lane shadow 수집 구현·리뷰 보완·94개 테스트 후 autolog 커밋·푸시했다.
+>   - 3-lane 구현 후 완료 workorder를 archive하고 관측 workorder만 active로 남겼다.
 
 ---
