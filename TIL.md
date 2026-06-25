@@ -295,7 +295,7 @@
 > **🤖 KOSPI 추천 코어 운영 안정화**
 >   - morning wrapper post-check DB open 실패를 immutable read-only fallback으로 보강했다.
 >   - 07:50 추천 cron을 08:00으로 조정해 오전 작업 밀집 시간대 충돌을 줄였다.
->   - post-check 재실행·테스트 27개 통과 후 autolog 커밋·푸시까지 완료했다.
+>   - 장후 gap-close 성공 알림을 next-gap-up 메시지로 병합하고 테스트 30개·autolog까지 완료했다.
 
 > **🤖 Beast Heart v2 shadow 전략 정리**
 >   - guardian 감시창을 09:00~15:29 KST로 제한해 정상 장마감 알림을 줄였다.
