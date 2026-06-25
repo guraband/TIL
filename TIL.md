@@ -297,9 +297,9 @@
 >   - 07:50 추천 cron을 08:00으로 조정해 오전 작업 밀집 시간대 충돌을 줄였다.
 >   - post-check 재실행·테스트 27개 통과 후 autolog 커밋·푸시까지 완료했다.
 
-> **🤖 Beast Heart v2 운영·전략 문서 정리**
+> **🤖 Beast Heart v2 shadow 전략 정리**
 >   - guardian 감시창을 09:00~15:29 KST로 제한해 정상 장마감 알림을 줄였다.
->   - 외부 전략 3종을 shadow 수집·실매매 적용 workorder로 분리하고 루터 리뷰를 받았다.
->   - 실제 적용은 충분한 shadow 데이터·리뷰·승인 뒤로 잠그고 autolog 커밋·푸시했다.
+>   - 외부 전략 3종을 shadow 수집·실매매 적용 workorder로 분리하고 리뷰했다.
+>   - 3-lane shadow 수집 구현·리뷰 보완·94개 테스트 후 autolog 커밋·푸시했다.
 
 ---
