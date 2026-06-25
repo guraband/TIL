@@ -290,3 +290,16 @@
 >   - 작업지시서·CHANGELOG 현행화 후 focused/full-minus-cron 테스트와 autolog를 완료했다.
 
 ---
+
+## ✏️ 2026.06.25
+> **🤖 KOSPI 추천 코어 운영 안정화**
+>   - morning wrapper post-check DB open 실패를 immutable read-only fallback으로 보강했다.
+>   - 07:50 추천 cron을 08:00으로 조정해 오전 작업 밀집 시간대 충돌을 줄였다.
+>   - post-check 재실행·테스트 27개 통과 후 autolog 커밋·푸시까지 완료했다.
+
+> **🤖 Beast Heart v2 guardian 알림 정리**
+>   - 장마감 15:30 정지 루틴은 유지하고 정상 정지 후 불필요 알림만 차단했다.
+>   - guardian 감시창을 09:00~15:29 KST로 제한해 장중 장애만 감지하게 했다.
+>   - 경계 조건 직접 검증과 autolog 커밋·푸시까지 마무리했다.
+
+---
