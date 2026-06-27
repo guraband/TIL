@@ -311,3 +311,11 @@
 >   - 실패 시 텍스트만 남기지 않고 non-zero exit로 cron 상태가 error가 되도록 보정했다.
 
 ---
+
+## ✏️ 2026.06.27
+> **🤖 나무위키 블로그 발행 cron 재발방지**
+>   - OpenClaw false-ok 우회를 위해 Codex CLI 래퍼와 final FAILED 감지를 추가했다.
+>   - 6월 26일분 키워드·나무위키 URL·커버·본문 산출물을 재생성했다.
+>   - 발행 검증 기준을 `published_posts.json`과 공개 페이지 확인으로 고정했다.
+
+---
