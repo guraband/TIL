@@ -330,7 +330,7 @@
 ## ✏️ 2026.06.29
 > **🤖 Beast Heart v2 계좌 자동복구**
 >   - KIS paper 계좌 mismatch를 broker truth 기반 strict 자동복구로 보강했다.
->   - partial exit residue와 safe mode clear 경계를 분리하고 후속 consistency 확인을 강제했다.
->   - 루터·벤지 리뷰와 order_account 테스트 193개 검증 후 autolog 커밋·푸시까지 완료했다.
+>   - partial exit residue, safe mode clear, sell full-fill recovery 경계를 분리했다.
+>   - transient classifier와 alert telemetry를 보강하고 테스트 199개·autolog까지 완료했다.
 
 ---
