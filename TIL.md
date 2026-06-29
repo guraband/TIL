@@ -326,3 +326,11 @@
 >       - AI 활용 격차와 개발·생산성 변화에 대한 코드팩토리 영상을 시청했다.
 
 ---
+
+## ✏️ 2026.06.29
+> **🤖 Beast Heart v2 계좌 자동복구**
+>   - KIS paper 계좌 mismatch를 broker truth 기반 strict 자동복구로 보강했다.
+>   - partial exit residue와 safe mode clear 경계를 분리하고 후속 consistency 확인을 강제했다.
+>   - 루터·벤지 리뷰와 order_account 테스트 193개 검증 후 autolog 커밋·푸시까지 완료했다.
+
+---
