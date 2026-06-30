@@ -341,4 +341,8 @@
 >   - broker_order_id 기반 다중 open-order delta 복구와 fail-closed 테스트를 추가함
 >   - 리뷰 니트 반영 후 order-account 테스트 202개 통과를 확인함
 
+> **🤖 GitHub 인증 정리**
+>   - macOS Keychain의 GitHub PAT 교체 절차와 gh CLI 재로그인 방법을 정리함
+>   - credential erase 실패 원인을 stdin 누락으로 확인하고 reject 대안을 제시함
+
 ---
