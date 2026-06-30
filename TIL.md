@@ -334,3 +334,11 @@
 >   - transient classifier와 alert telemetry를 보강하고 테스트 199개·autolog까지 완료했다.
 
 ---
+
+## ✏️ 2026.06.30
+> **🤖 야수의 심장 v2**
+>   - KIS paper 다중 부분체결 account_mismatch 원인을 규명하고 자동복구를 보강함
+>   - broker_order_id 기반 다중 open-order delta 복구와 fail-closed 테스트를 추가함
+>   - 리뷰 니트 반영 후 order-account 테스트 202개 통과를 확인함
+
+---
