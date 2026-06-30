@@ -337,9 +337,14 @@
 
 ## ✏️ 2026.06.30
 > **🤖 야수의 심장 v2**
->   - KIS paper 다중 부분체결 account_mismatch 원인을 규명하고 자동복구를 보강함
->   - broker_order_id 기반 다중 open-order delta 복구와 fail-closed 테스트를 추가함
->   - 리뷰 니트 반영 후 order-account 테스트 202개 통과를 확인함
+>   - KIS paper account_mismatch와 partial exit residue 자동복구를 보강했다.
+>   - hard halt·safe mode 레이스를 fail-closed로 막고 회귀 테스트를 추가했다.
+>   - order-account 테스트 210개 통과 후 운영 재기동·커밋·푸시까지 완료했다.
+
+> **🤖 kospi-recommendation-core**
+>   - overnight gap 요약 누락 시 next-gap-up 메시지가 DB fallback으로 병합되게 했다.
+>   - post-check DB open 실패여도 추천 row가 있으면 close summary를 복구하도록 보강했다.
+>   - 관련 테스트 38개와 py_compile·diff check 통과 후 커밋·푸시했다.
 
 > **🤖 GitHub 인증 정리**
 >   - macOS Keychain의 GitHub PAT 교체 절차와 gh CLI 재로그인 방법을 정리함
