@@ -351,3 +351,11 @@
 >   - credential erase 실패 원인을 stdin 누락으로 확인하고 reject 대안을 제시함
 
 ---
+
+## ✏️ 2026.07.01
+> **🤖 Beast Heart v2 계좌 복구**
+>   - KIS paper 계좌 mismatch를 캡처와 API truth로 대조해 safe_mode를 복구했다.
+>   - `account_sync_check` broker truth resync와 terminal sell fill 복구 경로를 보강했다.
+>   - 수동확인 알림 증거와 TTL retry 테스트를 추가하고 autolog 커밋·푸시까지 완료했다.
+
+---
