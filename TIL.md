@@ -9,4 +9,8 @@
 >   - 세로·좌우 이동을 활성화 시점 기준으로 바꾸고 튐/여백을 완화했다.
 >   - Playwright 검증, blue-green 배포, CHANGELOG autolog까지 완료했다.
 
+> **📈 Market Autoresearch 운영 정리**
+>   - OpenClaw→Hermes cron 이관 권장안을 WO-013으로 문서화했다.
+>   - 완료된 WO-011/012를 현행화해 archive로 옮기고 CHANGELOG autolog까지 마쳤다.
+
 ---
