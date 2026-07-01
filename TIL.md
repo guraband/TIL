@@ -10,7 +10,8 @@
 >   - Playwright 검증, blue-green 배포, CHANGELOG autolog까지 완료했다.
 
 > **📈 Market Autoresearch 운영 정리**
->   - OpenClaw→Hermes cron 이관 권장안을 WO-013으로 문서화했다.
->   - 완료된 WO-011/012를 현행화해 archive로 옮기고 CHANGELOG autolog까지 마쳤다.
+>   - OpenClaw→Hermes cron 이관안을 WO-013으로 만들고 Ned 리뷰 보강까지 반영했다.
+>   - weekly 승격 차단·Hermes 감사·shadow 비교·morning 안전모드를 이관 게이트로 명시했다.
+>   - WO-011/012 archive와 개선 산출물 정리, CHANGELOG autolog까지 완료했다.
 
 ---
