@@ -354,8 +354,8 @@
 
 ## ✏️ 2026.07.01
 > **🤖 Beast Heart v2 계좌 복구**
->   - KIS paper 계좌 mismatch를 캡처와 API truth로 대조해 safe_mode를 복구했다.
->   - 수동확인 전 broker truth resync와 partial/terminal fill 복구 우선순위를 보강했다.
->   - partial followup 지연·알림 증거·TTL retry 테스트를 검증하고 autolog까지 완료했다.
+>   - KIS paper mismatch를 캡처·API truth로 복구하고 broker truth resync를 보강했다.
+>   - next gap up 누락 원인을 KRX 지수 수집 실패로 잡고 backfill·재전송까지 완료했다.
+>   - v2 shadow observation 일일 summary와 테스트·리뷰 산출물을 추가하고 autolog했다.
 
 ---
