@@ -15,3 +15,11 @@
 >   - WO-011/012 archive와 개선 산출물 정리, CHANGELOG autolog까지 완료했다.
 
 ---
+
+## ✏️ 2026.07.02
+> **🗺️ gb2024 v2 Travel atlas**
+>   - dot-map 기반 이모지 핀·카드 필터·확대/팬/핀치 조작을 정리했다.
+>   - 지도 좌표 보정, wrap 안정화, 버튼 줌 중심 유지와 100% 리셋을 구현했다.
+>   - focused test·브라우저 검증·CHANGELOG autolog·redesign push까지 완료했다.
+
+---
