@@ -17,9 +17,12 @@
 ---
 
 ## ✏️ 2026.07.02
-> **🗺️ gb2024 v2 Travel atlas**
->   - dot-map 기반 이모지 핀·카드 필터·확대/팬/핀치 조작을 정리했다.
->   - 지도 좌표 보정, wrap 안정화, 버튼 줌 중심 유지와 100% 리셋을 구현했다.
+> **🗺️ gb2024 v2 redesign**
+>   - Travel atlas 이모지 핀·카드 필터·확대/팬/핀치 UX를 정리했다.
+>   - 지도 좌표·wrap·버튼 줌 중심·100% 리셋과 모바일 nav 25% 배치를 보정했다.
 >   - focused test·브라우저 검증·CHANGELOG autolog·redesign push까지 완료했다.
+
+> **⚙️ Hermes 설정**
+>   - default·prada 프로필의 fast priority service tier를 normal로 낮췄다.
 
 ---
