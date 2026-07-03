@@ -33,4 +33,9 @@
 >   - Story Archive Navigator·해시태그·본문 캐러셀·댓글 모바일 동작을 v2 톤으로 정리했다.
 >   - focused test·bootJar·8083 브라우저 검증 후 CHANGELOG와 함께 push했다.
 
+> **🤖 Beast Heart v2 분석 준비**
+>   - KIS paper 부분체결 mismatch 복구 경로를 점검하고 safe-mode 반복 원인을 정리했다.
+>   - Entry ML·dynamic exit·3-lane shadow 전체 CSV를 추출해 Claude fable 리뷰를 받았다.
+>   - 분석 작업지시서 3종을 보강하고 CHANGELOG와 함께 autolog push까지 완료했다.
+
 ---
