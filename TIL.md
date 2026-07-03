@@ -29,8 +29,8 @@
 
 ## ✏️ 2026.07.03
 > **🖼️ gb2024 v2 redesign**
->   - Gallery 상세를 filmstrip·stage·inspector 기반 Lightroom형 뷰어로 추가했다.
->   - Story 상세 댓글 폼·목록을 본문 톤에 맞추고 삭제 버튼을 compact하게 줄였다.
+>   - Gallery 상세를 Lightroom형 뷰어로 추가하고 v2 Story 상세 UX를 확장했다.
+>   - Story Archive Navigator·해시태그·본문 캐러셀·댓글 모바일 동작을 v2 톤으로 정리했다.
 >   - focused test·bootJar·8083 브라우저 검증 후 CHANGELOG와 함께 push했다.
 
 ---
