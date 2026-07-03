@@ -39,3 +39,11 @@
 >   - 분석 작업지시서 3종을 보강하고 CHANGELOG와 함께 autolog push까지 완료했다.
 
 ---
+
+## ✏️ 2026.07.04
+> **🤖 Beast Heart v2 Entry ML**
+>   - Entry ML EDA·로지스틱 baseline을 완료하고 full-population 기준 약한 랭킹 신호를 확인했다.
+>   - orderbook·market context·seed payload 결측을 빌더/아티팩트 갭으로 추적해 enriched 재평가했다.
+>   - 완료 WO를 아카이브하고 7/20 이후 모니터링·재평가 후속 WO로 전환했다.
+
+---
