@@ -46,4 +46,8 @@
 >   - orderbook·market context·seed payload 결측을 빌더/아티팩트 갭으로 추적해 enriched 재평가했다.
 >   - 완료 WO를 아카이브하고 7/20 이후 모니터링·재평가 후속 WO로 전환했다.
 
+> **🖼️ gb2024 v2 redesign**
+>   - Story 상세의 YouTube/video 입력 필드 노출과 모바일 가로 overflow를 v2 전용으로 수정했다.
+>   - focused test·bootJar·8083 격리 JAR 검증 후 CHANGELOG와 함께 redesign 브랜치에 push했다.
+
 ---
