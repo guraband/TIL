@@ -56,3 +56,11 @@
 >   - focused test·bootJar·8083 격리 JAR 검증 후 CHANGELOG와 함께 redesign 브랜치에 push했다.
 
 ---
+
+## ✏️ 2026.07.05
+> **🤖 Beast Heart v2 관측 분석 도구 선행 준비**
+>   - dynamic exit 관측 분석 스크립트에 v2 레인(TP vs 실제 청산, v2 vs v1 stop, 목표 밴드·누수 감사) 비교를 확장했다.
+>   - 1회성이던 3-lane shadow 추출을 재사용 가능한 read-only 스크립트(CSV+summary, 조인키·field population·재진입 조인)로 만들었다.
+>   - TDD로 synthetic fixture 테스트 15건을 추가하고 작업지시서 2종 현행화 후 71 tests OK로 커밋·푸시했다.
+
+---
