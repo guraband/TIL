@@ -64,3 +64,11 @@
 >   - TDD로 synthetic fixture 테스트 15건을 추가하고 작업지시서 2종 현행화 후 71 tests OK로 커밋·푸시했다.
 
 ---
+
+## ✏️ 2026.07.06
+> **🤖 Beast Heart v2 ML 운영 검증**
+>   - Transformer Shadow benchmark 결측을 proxy 보강으로 복구하고 morning Top5를 재생성했다.
+>   - Entry ML 장중 반사실 검증 결과 buy gate 금지, candidate-priority 연구 지속으로 정리했다.
+>   - Claude 리뷰를 반영해 평가 감사·shadow readiness 작업지시서를 만들고 커밋·푸시했다.
+
+---
