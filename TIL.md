@@ -67,8 +67,8 @@
 
 ## ✏️ 2026.07.06
 > **🤖 Beast Heart v2 ML 운영 검증**
->   - Transformer Shadow benchmark 결측을 proxy 보강으로 복구하고 morning Top5를 재생성했다.
->   - ML·보조지표 Claude 리뷰로 buy gate 금지와 레짐 ranking-confidence 연구를 정리했다.
->   - KIS paper 계좌 mismatch를 broker truth로 정합화하고 ML 감사 WO를 보강·푸시했다.
+>   - Transformer Shadow benchmark 결측과 KIS paper mismatch를 각각 복구했다.
+>   - ML·보조지표 Claude 리뷰로 buy gate 금지와 레짐 confidence 연구를 정리했다.
+>   - KRX 로그인 재갱신 후 benchmark/수급/FX 백필과 next-gap 재실행을 완료했다.
 
 ---
