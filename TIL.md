@@ -75,8 +75,8 @@
 
 ## ✏️ 2026.07.07
 > **🤖 OpenClaw/Beast Heart 운영 복구**
->   - 토큰 한도 여파로 누락된 00:10~10:50 cron을 점검하고 블로그·KOSPI 잡을 재실행했다.
->   - Beast Heart watchdog의 “셸 도구 없음” 원인을 agentTurn 도구 미노출로 확정했다.
->   - watchdog 2개를 Gateway command cron으로 전환하고 force run·정규 실행·autolog까지 확인했다.
+>   - 누락 cron을 재실행하고 Beast Heart watchdog 2개를 Gateway command cron으로 전환했다.
+>   - KIS paper safe-mode 알림 한글화와 submitted buy/terminal partial-exit 자동복구를 보강했다.
+>   - DB-resume·Entry ML·dynamic exit 검증과 계좌복구 변경을 테스트 후 autolog push했다.
 
 ---
