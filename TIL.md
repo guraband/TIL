@@ -79,4 +79,9 @@
 >   - DB-resume 1~5단계로 3-lane·Entry ML·dynamic exit 검증/아카이브를 완료했다.
 >   - Claude Fable 리뷰 후 가격 추정 플래그·복구 방어 tests 300개 검증까지 마쳤다.
 
+> **📈 Market Autoresearch**
+>   - 품질 게이트/마감 대기 상태 Telegram 문구를 한국어 사용자 요약으로 바꿨다.
+>   - morning/close/weekly cron 정책에서 raw JSON·영어 내부 라벨 발송을 금지했다.
+>   - manifest·close wrapper 회귀 tests 24개로 재발 방지 계약을 고정했다.
+
 ---
