@@ -74,10 +74,10 @@
 ---
 
 ## ✏️ 2026.07.07
-> **🤖 OpenClaw/Beast Heart 운영 복구**
->   - watchdog cron 전환과 KIS safe-mode 알림·계좌복구 자동화를 보강했다.
->   - DB-resume 1~5단계로 3-lane·Entry ML·dynamic exit 검증/아카이브를 완료했다.
->   - Claude Fable 리뷰 후 가격 추정 플래그·복구 방어 tests 300개 검증까지 마쳤다.
+> **🤖 Beast Heart v2 운영·작업지시서 정리**
+>   - watchdog/KIS safe-mode 복구와 DB-resume 1~5단계 검증·아카이브를 완료했다.
+>   - Entry ML baseline을 정리하고 read-only advisory artifact·tests를 추가했다.
+>   - Dynamic Exit/3-lane/ML active WO 5개로 줄여 내일 handoff를 현행화했다.
 
 > **📈 Market Autoresearch**
 >   - 품질 게이트/마감 대기 상태 Telegram 문구를 한국어 사용자 요약으로 바꿨다.
