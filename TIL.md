@@ -75,8 +75,8 @@
 
 ## ✏️ 2026.07.07
 > **🤖 OpenClaw/Beast Heart 운영 복구**
->   - 누락 cron을 재실행하고 Beast Heart watchdog 2개를 Gateway command cron으로 전환했다.
->   - KIS paper safe-mode 알림 한글화와 submitted buy/terminal partial-exit 자동복구를 보강했다.
->   - DB-resume·Entry ML·dynamic exit 검증과 계좌복구 변경을 테스트 후 autolog push했다.
+>   - watchdog cron 전환과 KIS safe-mode 알림·계좌복구 자동화를 보강했다.
+>   - DB-resume 1~5단계로 3-lane·Entry ML·dynamic exit 검증/아카이브를 완료했다.
+>   - Claude Fable 리뷰 지적을 반영하고 tests 21개 검증 후 autolog·push까지 마쳤다.
 
 ---
