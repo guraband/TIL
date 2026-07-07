@@ -72,3 +72,11 @@
 >   - KRX 로그인 재갱신 후 benchmark/수급/FX 백필과 next-gap 재실행을 완료했다.
 
 ---
+
+## ✏️ 2026.07.07
+> **🤖 OpenClaw/Beast Heart 운영 복구**
+>   - 토큰 한도 여파로 누락된 00:10~10:50 cron을 점검하고 블로그·KOSPI 잡을 재실행했다.
+>   - Beast Heart watchdog의 “셸 도구 없음” 원인을 agentTurn 도구 미노출로 확정했다.
+>   - watchdog 2개를 Gateway command cron으로 전환하고 force run·정규 실행·autolog까지 확인했다.
+
+---
