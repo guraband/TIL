@@ -98,3 +98,11 @@
 >   - cache-busting·history·썸네일 fallback을 보강하고 test·bootJar·브라우저 검증 후 push했다.
 
 ---
+
+## ✏️ 2026.07.09
+> **🖼️ gb2024 v2 운영 전환**
+>   - v2 디자인을 public URL로 전환하고 main 브랜치 머지·blue-green 운영 배포를 완료했다.
+>   - 오늘의 이야기 상세·이어보기·큰 중복 제목을 제거하고 rate-limit 정책을 정리했다.
+>   - 관리자 main 저장 후 제거된 /main/{num} 대신 홈으로 돌아가게 수정·배포했다.
+
+---
