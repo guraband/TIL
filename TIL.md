@@ -85,3 +85,11 @@
 >   - manifest·close wrapper 회귀 tests 24개로 재발 방지 계약을 고정했다.
 
 ---
+
+## ✏️ 2026.07.08
+> **🤖 Beast Heart v2 계좌복구·분석 현행화**
+>   - KIS paper terminal sell·visible buy 부분체결 자동복구 경계를 보강했다.
+>   - Entry ML advisory에 scored CSV/JSONL 입력과 read-only rank/bucket 산출을 추가했다.
+>   - 3-lane shadow 분석 리포트·WO 아카이브·CHANGELOG autolog까지 완료했다.
+
+---
