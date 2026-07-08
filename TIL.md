@@ -93,8 +93,8 @@
 >   - 3-lane shadow 분석 리포트·WO 아카이브·CHANGELOG autolog까지 완료했다.
 
 > **🖼️ gb2024 v2 redesign**
->   - Travel 상세 SSR/API와 journey 이전·다음 탐색·댓글/해시태그 흐름을 추가했다.
->   - Gallery Lightroom에 이미지·YouTube/video filmstrip/stage 전환을 넣었다.
->   - focused test·bootJar·브라우저 검증·Claude 리뷰 후 CHANGELOG와 함께 push했다.
+>   - Travel/Gallery 상세 SSR·Lightroom·댓글/해시태그 흐름을 v2 화면으로 확장했다.
+>   - v2 검색/해시태그 페이지를 추가하고 MAIN/Story/Travel/Gallery 결과를 카드형 UI로 통일했다.
+>   - cache-busting·history·썸네일 fallback을 보강하고 test·bootJar·브라우저 검증 후 push했다.
 
 ---
