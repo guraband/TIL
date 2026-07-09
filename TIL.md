@@ -106,8 +106,8 @@
 >   - 관리자 main 저장 후 제거된 /main/{num} 대신 홈으로 돌아가게 수정·배포했다.
 
 > **📈 Market Autoresearch**
->   - TradingAgents 비교·WO-014~016 작업지시서와 Fable 리뷰 반영안을 문서화했다.
->   - WO-016 schema/hash/checkpoint와 WO-014 council package 준비 스크립트를 구현했다.
->   - 전체 pytest·smoke·check_setup·ruff 검증 후 두 커밋을 푸시했다.
+>   - TradingAgents 비교와 WO-014~016 보강안을 문서화하고 Fable 리뷰 지적을 반영했다.
+>   - council/reflection package·finalize·schema/hash/checkpoint 기반을 구현했다.
+>   - reflection relevance selector와 cross-theme cap까지 검증 후 커밋·푸시했다.
 
 ---
