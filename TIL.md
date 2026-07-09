@@ -101,9 +101,9 @@
 
 ## ✏️ 2026.07.09
 > **🖼️ gb2024 v2 운영 전환**
->   - v2 디자인을 public URL로 전환하고 main 브랜치 머지·blue-green 운영 배포를 완료했다.
->   - 오늘의 이야기 상세·이어보기·큰 중복 제목을 제거하고 rate-limit 정책을 정리했다.
->   - 관리자 main 저장 후 제거된 /main/{num} 대신 홈으로 돌아가게 수정·배포했다.
+>   - v2 디자인 public URL 전환과 main 머지·blue-green 운영 배포를 완료했다.
+>   - 오늘의 이야기 상세/이어보기 제거와 관리자 main 저장 redirect를 홈 기준으로 정리했다.
+>   - 비공개 상세 redirect·삭제댓글 배지·Story 조회수·댓글 알림 조건을 보정해 운영 배포했다.
 
 > **📈 Market Autoresearch**
 >   - TradingAgents 비교와 WO-014~016 보강안을 문서화하고 Fable 리뷰 지적을 반영했다.
