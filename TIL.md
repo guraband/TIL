@@ -119,14 +119,14 @@
 >   - Notion·Telegram 리포트 발행까지 확인해 오늘자 추천 산출물을 정상 복구했다.
 
 > **📈 Market Autoresearch 자동개선 루프**
->   - Codex 리뷰 결과를 바탕으로 자동 승격·발행·evidence·weekly gate를 하드닝했다.
->   - Claude fable 재리뷰 PASS와 full suite 240 passed를 확인했다.
->   - CHANGELOG autolog 후 `d223cbe`로 main에 커밋·푸시했다.
+>   - 자동 승격·발행·evidence·weekly gate 하드닝 후 Claude PASS와 240 tests를 통과했다.
+>   - 7/10 evidence `published_at` 누락을 보정하고 checked_at 기본값 test를 추가했다.
+>   - 7/10 h5 제안·shadow·oversold·variant 산출물을 CHANGELOG와 함께 autolog했다.
 
 > **🤖 Beast Heart v2 안전성 하드닝**
->   - safe-mode reduce-only 청산·submit-state·command side 검증을 보강했다.
->   - paper session stop/WS observer health를 개선하고 관련 tests 569개를 통과했다.
->   - CHANGELOG autolog 후 `a67709b`로 main에 커밋·푸시했다.
+>   - safe-mode reduce-only 청산·submit-state·command 검증과 WS health를 보강했다.
+>   - DB 6월 이전 원천·로그를 백업 정리하고 VACUUM으로 3.0G→2.2G compact했다.
+>   - KIS timeout 미확정 매도를 broker truth로 확인해 장마감 전량 청산을 완료했다.
 
 > **🤖 CLI 코드리뷰 운영**
 >   - Codex/Claude CLI는 headless 실행, prompt/output 파일 처리 원칙으로 정리했다.
