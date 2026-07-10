@@ -124,9 +124,9 @@
 >   - 7/10 h5 제안·shadow·oversold·variant 산출물을 CHANGELOG와 함께 autolog했다.
 
 > **🤖 Beast Heart v2 안전성 하드닝**
->   - safe-mode reduce-only 청산·submit-state·command 검증과 WS health를 보강했다.
->   - DB 6월 이전 원천·로그를 백업 정리하고 VACUUM으로 3.0G→2.2G compact했다.
->   - KIS timeout 미확정 매도를 broker truth로 확인해 장마감 전량 청산을 완료했다.
+>   - safe-mode·submit-state·command 검증과 스냅샷 truth 경계를 보강했다.
+>   - KIS pagination·baseline·unknown sell 복구를 구조화하고 434 tests OK로 autolog했다.
+>   - DB·백업·guardian 알림·v2 메시지 한글화를 정리하고 런타임 복구를 반복 검증했다.
 
 > **🤖 CLI 코드리뷰 운영**
 >   - Codex/Claude CLI는 headless 실행, prompt/output 파일 처리 원칙으로 정리했다.
