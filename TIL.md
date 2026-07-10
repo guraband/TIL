@@ -123,6 +123,11 @@
 >   - Claude fable 재리뷰 PASS와 full suite 240 passed를 확인했다.
 >   - CHANGELOG autolog 후 `d223cbe`로 main에 커밋·푸시했다.
 
+> **🤖 Beast Heart v2 안전성 하드닝**
+>   - safe-mode reduce-only 청산·submit-state·command side 검증을 보강했다.
+>   - paper session stop/WS observer health를 개선하고 관련 tests 569개를 통과했다.
+>   - CHANGELOG autolog 후 `a67709b`로 main에 커밋·푸시했다.
+
 > **🤖 CLI 코드리뷰 운영**
 >   - Codex/Claude CLI는 headless 실행, prompt/output 파일 처리 원칙으로 정리했다.
 >   - Beast Heart v2 Codex 리뷰로 safe-mode·submit-state·command 검증 리스크를 뽑았다.
