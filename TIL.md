@@ -133,9 +133,9 @@
 >   - Beast Heart v2 Codex 리뷰로 safe-mode·submit-state·command 검증 리스크를 뽑았다.
 >   - Ned 장애는 `gpt-5.6-sol` fallback timeout으로 확인하고 `gpt-5.5` 복구를 확인했다.
 
-> **🖼️ gb2024 v2 공통화·운영 배포**
->   - 네 메뉴 공통 head/footer/lightbox와 상세 CSS·modal/swipe JS 중복을 fragment/helper로 정리했다.
->   - 계약 테스트·bootJar·Chrome 데스크톱/모바일 15종 검증을 통과했다.
->   - `c9403f2`를 blue-green 배포하고 asset·health 확인 후 autolog까지 push했다.
+> **🖼️ gb2024 v2 공통화·상세 UI 운영 배포**
+>   - 네 메뉴 공통 fragment·CSS·modal/swipe helper로 중복을 정리했다.
+>   - Story 제목·본문 간격을 절반으로 줄이고 Travel 상단 breadcrumb·이전/다음 카드를 제거했다.
+>   - 계약 테스트·Playwright 검증 후 `e569e36`을 blue-green 배포하고 autolog까지 push했다.
 
 ---
