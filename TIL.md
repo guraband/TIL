@@ -135,7 +135,7 @@
 
 > **🖼️ gb2024 v2 공통화·상세 UI 운영 배포**
 >   - 네 메뉴 공통 fragment·CSS·modal/swipe helper로 중복을 정리했다.
->   - Story 간격을 줄이고 Travel 상단 탐색 제거·그룹명/기간 2줄·작성일 제거를 적용했다.
->   - Travel 간격을 84→52px로 줄여 검증 후 `e674a79`을 blue-green 배포하고 autolog했다.
+>   - Story·Travel 상세 간격과 탐색·그룹 메타를 다듬고 작성일 중복을 제거했다.
+>   - About 헤더/Timeline과 세 목록 제목을 정리해 `148b98a`까지 배포·검증하고 autolog했다.
 
 ---
