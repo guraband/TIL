@@ -124,9 +124,9 @@
 >   - 7/10 h5 제안·shadow·oversold·variant 산출물을 CHANGELOG와 함께 autolog했다.
 
 > **🤖 Beast Heart v2 안전성 하드닝**
->   - safe-mode·submit-state·command 검증과 스냅샷 truth 경계를 보강했다.
->   - KIS pagination·baseline·unknown sell 복구를 구조화하고 434 tests OK로 autolog했다.
->   - DB·백업·guardian 알림·v2 메시지 한글화를 정리하고 런타임 복구를 반복 검증했다.
+>   - 계좌 스냅샷 mismatch 구조를 `provided/exhaustive` truth와 deferred 판정으로 분리했다.
+>   - baseline·unknown submit·manual clear 게이트와 terminal sell 복구 evidence를 fail-closed로 보강했다.
+>   - Codex 구현·Fable 리뷰·435 focused tests OK 후 `66bdc8d`까지 push했다.
 
 > **🤖 CLI 코드리뷰 운영**
 >   - Codex/Claude CLI는 headless 실행, prompt/output 파일 처리 원칙으로 정리했다.
