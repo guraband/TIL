@@ -111,3 +111,21 @@
 >   - reflection relevance selector와 cross-theme cap까지 검증 후 커밋·푸시했다.
 
 ---
+
+## ✏️ 2026.07.10
+> **📈 KOSPI 추천 리포트 복구**
+>   - Gateway drain 크론 실패와 Cycle C `selection_mode` 빈 후보 버그를 분리 진단했다.
+>   - fallback schema를 보강하고 focused test 4건 통과 후 morning wrapper를 재실행했다.
+>   - Notion·Telegram 리포트 발행까지 확인해 오늘자 추천 산출물을 정상 복구했다.
+
+> **📈 Market Autoresearch 자동개선 루프**
+>   - Codex 리뷰 결과를 바탕으로 자동 승격·발행·evidence·weekly gate를 하드닝했다.
+>   - Claude fable 재리뷰 PASS와 full suite 240 passed를 확인했다.
+>   - CHANGELOG autolog 후 `d223cbe`로 main에 커밋·푸시했다.
+
+> **🤖 CLI 코드리뷰 운영**
+>   - Codex/Claude CLI는 headless 실행, prompt/output 파일 처리 원칙으로 정리했다.
+>   - Beast Heart v2 Codex 리뷰로 safe-mode·submit-state·command 검증 리스크를 뽑았다.
+>   - Ned 장애는 `gpt-5.6-sol` fallback timeout으로 확인하고 `gpt-5.5` 복구를 확인했다.
+
+---
