@@ -139,3 +139,11 @@
 >   - About 헤더/Timeline과 세 목록 제목을 정리해 `148b98a`까지 배포·검증하고 autolog했다.
 
 ---
+
+## ✏️ 2026.07.11
+> **🤖 Beast Heart v2 작업지시서 정리**
+>   - Dynamic Exit readiness WO를 완료 판정하고 archive/2026-07-11로 이동했다.
+>   - live 관측·clean-session rule·다음 readiness 판단을 recalibration WO로 승계했다.
+>   - Entry dataset checkpoint는 7/20 이후와 신규 10 trading days 조건 미충족으로 유지했다.
+
+---
