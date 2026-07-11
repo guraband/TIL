@@ -146,4 +146,9 @@
 >   - live 관측·clean-session rule·다음 readiness 판단을 recalibration WO로 승계했다.
 >   - Entry dataset checkpoint는 7/20 이후와 신규 10 trading days 조건 미충족으로 유지했다.
 
+> **🖼️ face-mosaic 로컬 앱 운영**
+>   - `apps.guraband.com/face-mosaic`용 로컬 서버와 LaunchAgent 운영 구성을 완료했다.
+>   - 모바일·태블릿 모자이크 추가를 Pointer Events 기반으로 개선했다.
+>   - CHANGELOG 작성 후 `20e8100`까지 커밋·푸시했다.
+
 ---
