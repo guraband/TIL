@@ -163,8 +163,8 @@
 
 ## ✏️ 2026.07.13
 > **🤖 Beast Heart v2 order/account 안정화**
->   - 계좌 mismatch·pre-submit baseline 반복 차단 원인을 정리하고 fail-closed 복구로 보강했다.
->   - terminal history 수량 검증과 symbol/side 알림 key를 회귀 테스트로 고정했다.
->   - 288 tests OK 후 `801f0ae`까지 autolog push하고 v2 runtime을 재실행 검증했다.
+>   - 계좌 mismatch·pre-submit baseline·흥아해운 보유정합 이슈를 fail-closed 복구로 보강했다.
+>   - 텔레그램 사유 한글화와 terminal history 주문번호/수량 검증을 Codex 리뷰로 보완했다.
+>   - order_account 301 tests·dispatcher 69 tests 통과 후 `5fb303b`까지 push했다.
 
 ---
