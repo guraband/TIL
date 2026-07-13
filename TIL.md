@@ -166,5 +166,13 @@
 >   - 계좌 mismatch·pre-submit baseline·흥아해운 보유정합 이슈를 fail-closed 복구로 보강했다.
 >   - 텔레그램 사유 한글화와 terminal history 주문번호/수량 검증을 Codex 리뷰로 보완했다.
 >   - order_account 301 tests·dispatcher 69 tests 통과 후 `5fb303b`까지 push했다.
+>
+> **🌍 Guraband Travel 지도 마커 개선**
+>   - 여행 공통코드 메타 기반 지도 마커와 code 기반 필터를 main에 배포했다.
+>   - 10/30/50 밀도 정책을 문서화하고 8083·운영 DOM 검증까지 완료했다.
+>
+> **📈 QLD DCA 알림 기준 수정**
+>   - 22시 매수 전 리마인더를 시장일이 아닌 KST 알림일 기준으로 중복 방지하게 바꿨다.
+>   - 같은 시장 데이터여도 새 KST 날짜에는 알림이 나가도록 테스트로 고정했다.
 
 ---
