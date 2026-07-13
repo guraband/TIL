@@ -160,3 +160,11 @@
 >   - `bootJar` 통과 후 `a4dcd00`을 main push하고 blue-green 운영 배포까지 완료했다.
 
 ---
+
+## ✏️ 2026.07.13
+> **🤖 Beast Heart v2 order/account 안정화**
+>   - 계좌 mismatch·pre-submit baseline 반복 차단 원인을 정리하고 fail-closed 복구로 보강했다.
+>   - terminal history 수량 검증과 symbol/side 알림 key를 회귀 테스트로 고정했다.
+>   - 288 tests OK 후 `801f0ae`까지 autolog push하고 v2 runtime을 재실행 검증했다.
+
+---
