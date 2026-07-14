@@ -176,3 +176,11 @@
 >   - 같은 시장 데이터여도 새 KST 날짜에는 알림이 나가도록 테스트로 고정했다.
 
 ---
+
+## ✏️ 2026.07.14
+> **🤖 Beast Heart v2 매매 재개**
+>   - 주문 전 계좌 스냅샷 부재 시 KIS paper 동기 캡처 후 제출하도록 보강했다.
+>   - pre-submit baseline 차단을 fail-closed로 유지하며 order/account 301 tests OK를 확인했다.
+>   - v2 재시작 후 buy/sell 체결·계좌대사까지 확인해 paper 매매를 재개했다.
+
+---
