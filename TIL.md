@@ -178,9 +178,9 @@
 ---
 
 ## ✏️ 2026.07.14
-> **🤖 Beast Heart v2 매매 재개**
->   - 주문 전 계좌 스냅샷 부재 시 KIS paper 동기 캡처 후 제출하도록 보강했다.
->   - pre-submit baseline 차단을 fail-closed로 유지하며 order/account 301 tests OK를 확인했다.
->   - v2 재시작 후 buy/sell 체결·계좌대사까지 확인해 paper 매매를 재개했다.
+> **🤖 Beast Heart v2 order/account 안정화**
+>   - KIS open-orders 불완전성→sell residue→Safe Mode 루프를 복구·문서화했다.
+>   - pre-submit 동기 baseline과 strict terminal-history proof를 보강했다.
+>   - 308 tests OK, `0e73f4c`·CHANGELOG push 후 v2 paper를 정상 재개했다.
 
 ---
