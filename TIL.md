@@ -184,3 +184,11 @@
 >   - 308 tests OK, `0e73f4c`·CHANGELOG push 후 v2 paper를 정상 재개했다.
 
 ---
+
+## ✏️ 2026.07.15
+> **📈 KOSPI LLM 최종검토 자동화**
+>   - 08:40 최종검토 알림의 Hermes cron job과 실행 스크립트를 특정했다.
+>   - Claude headless 인증 실패 시 Codex read-only fallback을 수행하도록 보강했다.
+>   - Codex smoke·focused 13 tests OK 후 `b4f484a`를 main에 push했다.
+
+---
