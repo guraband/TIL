@@ -191,4 +191,9 @@
 >   - Claude headless 인증 실패 시 Codex read-only fallback을 수행하도록 보강했다.
 >   - Codex smoke·focused 13 tests OK 후 `b4f484a`를 main에 push했다.
 
+> **🤖 Beast Heart v2 Safe Mode 자동복구**
+>   - source_event_id 바인딩과 deadline 경계 보강으로 stale sync 해제를 차단했다.
+>   - KIS open-orders non-exhaustive 계좌 mismatch를 source-bound sync로 자동 복구하게 했다.
+>   - focused tests·dispatcher 71 tests OK 후 v2 paper를 새 코드로 재기동했다.
+
 ---
