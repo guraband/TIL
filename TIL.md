@@ -200,8 +200,8 @@
 
 ## ✏️ 2026.07.16
 > **🤖 Beast Heart v2 Safe Mode 자동복구**
->   - 09:50 계좌 mismatch를 buy/sell terminal residue 복합 케이스로 분리 복구했다.
->   - position-synced order residue 자동복구 lane과 회귀 테스트를 추가했다.
->   - Safe Mode 해제, 포지션 0, fresh worker 8개 재기동 후 `bd6f64b`까지 push했다.
+>   - 09:50·13:32 계좌 mismatch를 KIS pagination·terminal residue 근원으로 분리 복구했다.
+>   - NK-only continuation·mixed terminal sell history 복구와 회귀 테스트를 추가했다.
+>   - Safe Mode 해제, 포지션 0, fresh worker 8개 재기동 후 `82ed5c7`까지 push했다.
 
 ---
