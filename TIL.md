@@ -197,3 +197,11 @@
 >   - focused tests·dispatcher 71 tests OK 후 v2 paper를 새 코드로 재기동했다.
 
 ---
+
+## ✏️ 2026.07.16
+> **🤖 Beast Heart v2 Safe Mode 자동복구**
+>   - 09:50 계좌 mismatch를 buy/sell terminal residue 복합 케이스로 분리 복구했다.
+>   - position-synced order residue 자동복구 lane과 회귀 테스트를 추가했다.
+>   - Safe Mode 해제, 포지션 0, fresh worker 8개 재기동 후 `bd6f64b`까지 push했다.
+
+---
