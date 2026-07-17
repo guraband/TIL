@@ -205,3 +205,11 @@
 >   - Safe Mode 해제, 포지션 0, fresh worker 8개 재기동 후 `82ed5c7`까지 push했다.
 
 ---
+
+## ✏️ 2026.07.18
+> **🤖 Beast Heart v2 order/account 리팩터링**
+>   - Codex gpt-5.6-sol 단계 루프로 `service.py`를 7,578→3,780줄로 분리했다.
+>   - reconcile·snapshot·submit·recovery writer 경계를 만들고 WO를 archive 처리했다.
+>   - Phase2 325 tests·dispatcher 71 tests OK 후 `0679171` 브랜치를 push했다.
+
+---
