@@ -212,4 +212,8 @@
 >   - reconcile·snapshot·submit·recovery writer 경계를 만들고 WO를 archive 처리했다.
 >   - Phase2 325 tests·dispatcher 71 tests OK 후 `0679171` 브랜치를 push했다.
 
+> **⚙️ Hermes/OpenClaw 운영 복구**
+>   - Hermes Agent와 OpenClaw 인증을 재설정해 자동화 실행 기반을 복구했다.
+>   - 토큰 한도 소진으로 실패한 스케줄을 재실행하고 Notion 리포트 발행을 확인했다.
+
 ---
