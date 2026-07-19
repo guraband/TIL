@@ -225,3 +225,11 @@
 >   - focused 29 tests·Phase2 325 tests·dispatcher 71 tests·py_compile을 재검증했다.
 
 ---
+
+## ✏️ 2026.07.20
+> **🌍 gb2024 홈페이지 DB 시간대 정리**
+>   - `gb_content.reg_date` UTC 저장 원인을 MariaDB 기본 UTC 설정으로 확인했다.
+>   - 소스 변경은 revert하고 DB `default_time_zone='+09:00'` 영구 설정으로 전환했다.
+>   - MariaDB·홈페이지 앱 재시작 후 `NOW()-UTC=09:00`, health UP을 검증했다.
+
+---
