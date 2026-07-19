@@ -232,4 +232,9 @@
 >   - 소스 변경은 revert하고 DB `default_time_zone='+09:00'` 영구 설정으로 전환했다.
 >   - MariaDB·홈페이지 앱 재시작 후 `NOW()-UTC=09:00`, health UP을 검증했다.
 
+> **📈 KOSPI 추천 자동화 안정화**
+>   - combined morning 본 작업 성공과 post_checks DB open false alarm을 분리 진단했다.
+>   - transient SQLite open 실패를 fresh process post-check로 복구하도록 보강했다.
+>   - 회귀 테스트 36개 통과 후 CHANGELOG와 함께 `d94768c`까지 push했다.
+
 ---
