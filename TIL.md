@@ -206,6 +206,14 @@
 
 ---
 
+## ✏️ 2026.07.17
+> **🤖 Beast Heart v2 order/account 리팩터링**
+>   - evidence artifact·safe-mode gate·broker-truth 후보 선택 helper를 분리했다.
+>   - account snapshot plan helper와 관련 테스트를 추가해 service 책임을 축소했다.
+>   - method inventory·CURRENT_TODO·workorder에 리팩터링 진행 상태를 기록했다.
+
+---
+
 ## ✏️ 2026.07.18
 > **🤖 Beast Heart v2 order/account 리팩터링**
 >   - Codex gpt-5.6-sol 단계 루프로 `service.py`를 7,578→3,780줄로 분리했다.
