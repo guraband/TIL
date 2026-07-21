@@ -246,3 +246,11 @@
 >   - 회귀 테스트 36개 통과 후 CHANGELOG와 함께 `d94768c`까지 push했다.
 
 ---
+
+## ✏️ 2026.07.21
+> **🤖 Beast Heart v2 Entry ML 체크포인트**
+>   - 30일 enriched artifact로 checkpoint ML 재평가를 실행하고 리포트를 남겼다.
+>   - candidate는 약한 개선이나 stable 기준 미달, signal은 표본 부족으로 판정했다.
+>   - CHANGELOG·CURRENT_TODO·workorder 현행화 후 `2defc78`까지 push했다.
+
+---
