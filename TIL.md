@@ -254,3 +254,11 @@
 >   - CHANGELOG·CURRENT_TODO·workorder 현행화 후 `2defc78`까지 push했다.
 
 ---
+
+## ✏️ 2026.07.22
+> **🤖 Beast Heart v2 Safe Mode 자동복구**
+>   - KIS partial buy 잔량→terminal 전량체결 케이스를 자동복구하도록 보강했다.
+>   - malformed 수량·prior evidence를 strict parser로 fail-closed 처리했다.
+>   - 329 tests OK, v2 paper fresh worker 재기동 후 `f2cc2c0`까지 push했다.
+
+---
