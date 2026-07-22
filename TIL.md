@@ -261,4 +261,14 @@
 >   - malformed 수량·prior evidence를 strict parser로 fail-closed 처리했다.
 >   - 329 tests OK, v2 paper fresh worker 재기동 후 `f2cc2c0`까지 push했다.
 
+> **📈 Market Autoresearch DART 점검**
+>   - DART 이벤트·재무 DB 수집 크론과 최신 갱신 시각을 확인했다.
+>   - 마켓 오토리서치 후보에 재무·DART 이벤트 컨텍스트가 연결됨을 검증했다.
+>   - Beast Heart 매매 런타임에는 DART 직접 연결이 없다고 분리 정리했다.
+
+> **📝 Notion 매매일지 복구**
+>   - 7월 초 이후 복기 누락 원인을 Beast Heart 품질검사 gate 실패로 특정했다.
+>   - 16:00 close-review cron을 deterministic wrapper 방식으로 교체했다.
+>   - 7/6~7/22 거래일 누락분을 Notion에 백필하고 7/17 휴장을 skip 처리했다.
+
 ---
