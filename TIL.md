@@ -280,3 +280,11 @@
 >   - `ai_strategy_review_shadow`로 안전한 적용 범위와 금지선을 도출했다.
 
 ---
+
+## ✏️ 2026.07.24
+> **🤖 Beast Heart v2 알림 라우팅**
+>   - 일반 매매 알림은 `gura_beast_log_bot`, safety 계열은 Tony DM으로 분리했다.
+>   - v1 notifier와 v2 dispatcher에 fallback-safe 라우팅을 추가했다.
+>   - focused 85 tests OK 후 CHANGELOG와 함께 `c3d1a53`까지 push했다.
+
+---
