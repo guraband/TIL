@@ -272,3 +272,11 @@
 >   - 7/6~7/22 거래일 누락분을 Notion에 백필하고 7/17 휴장을 skip 처리했다.
 
 ---
+
+## ✏️ 2026.07.23
+> **🤖 Beast Heart v2 AI 전략 검토**
+>   - Claude+TradingView AI trading 영상을 분석하고 v2 적용 가능성을 비교했다.
+>   - 실시간 매매 연결은 배제하고 read-only shadow 리뷰 방향을 우선 후보로 정리했다.
+>   - `ai_strategy_review_shadow`로 안전한 적용 범위와 금지선을 도출했다.
+
+---
