@@ -287,4 +287,9 @@
 >   - v1 notifier와 v2 dispatcher에 fallback-safe 라우팅을 추가했다.
 >   - focused 85 tests OK 후 CHANGELOG와 함께 `c3d1a53`까지 push했다.
 
+> **📈 KOSPI 추천 자동화 안정화**
+>   - cron post-check의 SQLite `mode=ro` 첫 쿼리 실패를 재발 원인으로 특정했다.
+>   - read-only 연결 검증과 plain/immutable fallback을 추가해 DB open false alarm을 줄였다.
+>   - 회귀 테스트 37개 OK 후 CHANGELOG와 함께 `f2a7512`까지 push했다.
+
 ---
