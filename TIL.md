@@ -282,10 +282,10 @@
 ---
 
 ## ✏️ 2026.07.24
-> **🤖 Beast Heart v2 알림 라우팅**
->   - 일반 매매 알림은 `gura_beast_log_bot`, safety 계열은 Tony DM으로 분리했다.
->   - 주문 차단 알림 제목을 매수/매도로 바꾸고 본문 방향 줄을 제거했다.
->   - 차단 알림 outbox를 telegram으로 전환하고 tests OK 후 `e7464b6`까지 push했다.
+> **🤖 Beast Heart v2 운영 안정화**
+>   - 매매 알림 채널을 분리하고 주문 차단 알림 제목/telegram 라우팅을 정리했다.
+>   - 신호 TTL 만료 작업지시서를 만들고 Hermes 리뷰 반영 후 active로 등록했다.
+>   - submit 직전 TTL 재검사·refresh backlog 관측 패치를 `48acd25`까지 push했다.
 
 > **📈 KOSPI 추천 자동화 안정화**
 >   - cron post-check의 SQLite `mode=ro` 첫 쿼리 실패를 재발 원인으로 특정했다.
