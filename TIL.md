@@ -300,4 +300,9 @@
 >   - 캐릭터·배경·파트별 스프라이트 시트 생성·QA 후 웹 MVP 자산으로 적용했다.
 >   - 공고·이력서·면접 볼륨을 늘리고 부드러운 캐릭터 모션까지 터널 URL로 검증했다.
 
+> **🌐 gb2024 v2 favicon 복구**
+>   - v1과 비교해 v2 공통 head에서 빠진 iPhone/iPad Apple Touch Icon 설정을 확인했다.
+>   - 표준 favicon 선언과 Apple Touch Icon을 복원하고 계약 테스트를 추가했다.
+>   - `bootJar`·8083 렌더링 HTML·CDN 아이콘 200 확인 후 `4a05bf2`까지 push했다.
+
 ---
