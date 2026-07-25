@@ -311,6 +311,6 @@
 > **🖼️ gb2024 v2 메인 히어로**
 >   - 최신 글 9개에서 히어로 1개를 승격하고, 남은 최근 기록 8개에 Travel·Gallery를 보장했다.
 >   - 히어로는 4:3 프레임의 `@2x` 이미지 우선·원본 fallback과 무이미지 그라데이션을 적용했다.
->   - Travel 최신글 정렬·PID 격리를 보강하고 테스트·blue-green 배포·CHANGELOG를 `98c6604`까지 완료했다.
+>   - Travel 최신순·PID 격리와 이미지 radius token화를 반영해 테스트·blue-green 배포·CHANGELOG를 `85a5b72`까지 완료했다.
 
 ---
