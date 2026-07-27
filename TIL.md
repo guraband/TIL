@@ -314,3 +314,11 @@
 >   - About 캐러셀·메인 히어로를 main에서 검증 후 `620222b` blue-green 운영 배포했다.
 
 ---
+
+## ✏️ 2026.07.27
+> **🤖 Beast Heart v2 알림 라우팅**
+>   - 주문 차단 알림을 매매 모니터링봇 채널로 보내도록 dispatcher route를 수정했다.
+>   - safety 알림은 primary 경로에 남기고 route 회귀 테스트로 경계를 고정했다.
+>   - dispatcher 74 tests OK 후 CHANGELOG와 함께 `4f9a09e`까지 push했다.
+
+---
