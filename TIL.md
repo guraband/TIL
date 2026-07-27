@@ -316,14 +316,9 @@
 ---
 
 ## ✏️ 2026.07.27
-> **🤖 Beast Heart v2 알림 라우팅**
->   - 주문 차단 알림을 매매 모니터링봇 채널로 보내도록 dispatcher route를 수정했다.
->   - safety 알림은 primary 경로에 남기고 route 회귀 테스트로 경계를 고정했다.
->   - dispatcher 74 tests OK 후 CHANGELOG와 함께 `4f9a09e`까지 push했다.
-
-> **🗄️ Beast Heart v2 운영 DB 경량화**
->   - 보호 참조 one-pass 검사와 retention/compact/swap/rollback 안전 절차를 구현·검증했다.
->   - 운영 DB에서 만료 데이터 84,842행을 삭제하고 integrity 검증 후 compact atomic swap을 완료했다.
->   - DB page 5.74% 축소, 생성 backup 삭제, source integrity `ok`·freelist 0을 확인했다.
+> **🤖 Beast Heart v2 운영 안전·관측**
+>   - 주문 차단 알림을 매매 채널로 분리하고 safety 경로는 유지해 dispatcher 74 tests로 고정했다.
+>   - DB 보존·compaction 절차를 안전화하고 Dynamic Exit raw tick은 기본 prune/downsampling 금지로 현행화했다.
+>   - clean-session blocker와 Entry ML 독립 리뷰 패킷을 추가했다; advisory focused 5 tests OK, 외부 리뷰는 미실행.
 
 ---
