@@ -329,4 +329,9 @@
 >   - broker-truth ledger를 운영 반영·fresh 8 workers로 재기동해 Safe Mode·queue/stuck 0을 확인했다.
 >   - Dynamic Exit는 23/86 evidence audit 뒤 기존 WO를 archive하고 provenance 수집 WO로 전환·push했다.
 
+> **🌍 gb2024 v2 운영 안정화·타이포그래피**
+>   - 재부팅 뒤 Docker·MariaDB·Redis·웹·리사이즈 워커를 순서대로 복구하는 자동화 경로를 마련했다.
+>   - v2 10개 화면의 일반 텍스트를 7단계 반응형 타입 토큰으로 표준화했다.
+>   - Travel 상세 Journey Index의 기간 한 줄 표시·여백·불필요한 안내 문구를 정리했다.
+
 ---
