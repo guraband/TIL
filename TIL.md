@@ -324,9 +324,9 @@
 ---
 
 ## ✏️ 2026.07.28
-> **🤖 Beast Heart v2 DB 보존 안전화**
->   - order·position symbol과 ID↔symbol 충돌 과보호를 bounded causal window로 교정했다.
->   - current identity 365,341행을 append-only copy하고 hot DB mutation/deletion 0을 확인했다.
->   - 장중 검증을 중단하고 healthy workers 8개·장마감 후 재개 gate를 문서화·autolog했다.
+> **🤖 Beast Heart v2 운영 안전·문서 현행화**
+>   - DB 보존 과보호를 bounded causal window로 교정하고 365,341행 append-only copy를 검증했다.
+>   - broker-truth ledger를 운영 반영·fresh 8 workers로 재기동해 Safe Mode·queue/stuck 0을 확인했다.
+>   - Dynamic Exit는 23/86 evidence audit 뒤 기존 WO를 archive하고 provenance 수집 WO로 전환·push했다.
 
 ---
