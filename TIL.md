@@ -322,3 +322,11 @@
 >   - clean-session blocker와 Entry ML 독립 리뷰 패킷을 추가했다; advisory focused 5 tests OK, 외부 리뷰는 미실행.
 
 ---
+
+## ✏️ 2026.07.28
+> **🤖 Beast Heart v2 DB 보존 안전화**
+>   - order·position symbol과 ID↔symbol 충돌 과보호를 bounded causal window로 교정했다.
+>   - current identity 365,341행을 append-only copy하고 hot DB mutation/deletion 0을 확인했다.
+>   - 장중 검증을 중단하고 healthy workers 8개·장마감 후 재개 gate를 문서화·autolog했다.
+
+---
