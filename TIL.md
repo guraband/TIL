@@ -342,4 +342,9 @@
 >   - Story Archive Navigator 안내 문구를 제거해 화면 밀도를 낮췄다.
 >   - About에 이메일을 추가하고 Instagram 계정 링크를 새 창으로 연결해 운영 배포했다.
 
+> **🤖 Beast Heart v2 DB tiering**
+>   - qualified archive 386,834행을 검증하고 coverage-gated retention 191,964행을 정리했다.
+>   - backup 보호 compact·atomic swap으로 hot DB를 3.4 GiB에서 2.7 GiB로 축소했다.
+>   - 완료 WO는 archive, offline parity·recovery·backup 정책은 후속 WO로 분리했다.
+
 ---
