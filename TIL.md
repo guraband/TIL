@@ -352,7 +352,7 @@
 ## ✏️ 2026.07.30
 > **📈 Market Autoresearch 판단 계보 PoC**
 >   - Guru Maker 분석을 바탕으로 immutable Decision·Lens candidate-only WO-017을 작성했다.
->   - Ned 리뷰를 반영해 idempotency, holdout 누수 차단, 반례 전수 audit을 작업 계약으로 고정했다.
->   - CHANGELOG와 함께 `1258a97`로 main push했으며 KIS·Notion·runtime 변경은 없다.
+>   - WO-014/015/016을 council shadow 감사·reflection memory·checkpoint lock/restart 검증으로 archive했다.
+>   - WO-017 누수 차단 계약과 closeout CHANGELOG를 main에 push했고 KIS·Notion·runtime 변경은 없다.
 
 ---
