@@ -348,3 +348,11 @@
 >   - 문서 변경을 `1799675`로 main에 fast-forward·push했고 런타임·DB·브로커 변경은 없었다.
 
 ---
+
+## ✏️ 2026.07.30
+> **📈 Market Autoresearch 판단 계보 PoC**
+>   - Guru Maker 분석을 바탕으로 immutable Decision·Lens candidate-only WO-017을 작성했다.
+>   - Ned 리뷰를 반영해 idempotency, holdout 누수 차단, 반례 전수 audit을 작업 계약으로 고정했다.
+>   - CHANGELOG와 함께 `1258a97`로 main push했으며 KIS·Notion·runtime 변경은 없다.
+
+---
