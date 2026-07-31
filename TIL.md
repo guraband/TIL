@@ -356,3 +356,11 @@
 >   - WO-017 누수 차단 계약과 closeout CHANGELOG를 main에 push했고 KIS·Notion·runtime 변경은 없다.
 
 ---
+
+## ✏️ 2026.07.31
+> **🤖 Beast Heart v2 계좌 자동복구**
+>   - terminal buy/sell 잔재와 visible partial fill을 broker truth 기반으로 복원했다.
+>   - 1주 open-order skew·비원자 partial-buy snapshot을 bounded retry로 분리했다.
+>   - Hard Halt 알림 dedupe·사유 표기, focused 344+16 tests와 paper recovery를 검증했다.
+
+---
