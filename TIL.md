@@ -364,3 +364,11 @@
 >   - Hard Halt 알림 dedupe·사유 표기, focused 344+16 tests와 paper recovery를 검증했다.
 
 ---
+
+## ✏️ 2026.08.01
+> **📈 Market Autoresearch Decision/Lens 자가개선**
+>   - WO-017 Decision lineage·Lens PoC를 330 tests와 source DB 불변 감사로 완료·push했다.
+>   - 권위·동시성·누수·승격 우회를 막고 candidate-only 계약으로 archive했다.
+>   - WO-018에 일간·주간 연결, agent fallback, promotion veto, 승인형 적용 단계를 설계·push했다.
+
+---
