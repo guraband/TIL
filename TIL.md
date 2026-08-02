@@ -372,3 +372,11 @@
 >   - WO-018에 일간·주간 연결, agent fallback, promotion veto, 승인형 적용 단계를 설계·push했다.
 
 ---
+
+## ✏️ 2026.08.02
+> **📈 Market Autoresearch WO-018 운영 통합**
+>   - Decision/Lens 일간·주간 통합을 main에 병합하고 독립 리뷰 PASS·416 tests를 확인했다.
+>   - canonical 권위·claim provenance·registry 원자성·동시 writer 경합을 회귀 테스트로 막았다.
+>   - 운영 관측 3개 gate는 열어 두고 audit receipt와 새 세션 인수인계 문서를 현행화했다.
+
+---
