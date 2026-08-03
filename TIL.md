@@ -387,4 +387,9 @@
 >   - 두 CLI 불가 시 검증 후보만 WATCH로 내는 source-only 결정론적 fallback을 구현했다.
 >   - 실제 입력 19→18개를 재실행해 WATCH 5개·DB OK를 확인하고 main에 배포했다.
 
+> **📈 KOSPI 추천 데이터 품질 방어**
+>   - Overnight Gap이 정상 일봉을 pykrx 무거래 placeholder로 덮어쓰던 원인을 차단했다.
+>   - 숫자형 정규화·good row downgrade 방지·Next Gap Up 조기 진단을 보강했다.
+>   - 재현 검증·Luther 리뷰 PASS 후 `560079f`를 main에 푸시했다.
+
 ---
