@@ -380,3 +380,11 @@
 >   - 운영 관측 3개 gate는 열어 두고 audit receipt와 새 세션 인수인계 문서를 현행화했다.
 
 ---
+
+## ✏ 2026.08.03
+> **📊 KOSPI LLM 최종검토 복구**
+>   - Claude 로그아웃·Codex quota 동시 실패를 분리 진단하고 오류 tail 보존으로 오분류를 막았다.
+>   - 두 CLI 불가 시 검증 후보만 WATCH로 내는 source-only 결정론적 fallback을 구현했다.
+>   - 실제 입력 19→18개를 재실행해 WATCH 5개·DB OK를 확인하고 main에 배포했다.
+
+---
