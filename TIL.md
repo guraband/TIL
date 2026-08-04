@@ -398,6 +398,6 @@
 > **🤖 Beast Heart v2 Dynamic Exit 연구 계약**
 >   - episode identity·provenance·controlled missingness 기반 append-only Stage A 계약을 구현했다.
 >   - secret redaction·출력 경계·동시 중복 방어를 보강하고 독립 리뷰 PASS와 41 tests를 확인했다.
->   - workorder를 현행화해 기능 브랜치 `9ac100f`까지 push했고 runtime 적용은 계속 차단했다.
+>   - workorder는 main `09843a9`, 구현은 기능 브랜치 `9ac100f`까지 push해 runtime 적용과 분리했다.
 
 ---
