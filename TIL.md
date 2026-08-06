@@ -47,4 +47,8 @@
 >   - Legacy 86건은 0 accepted로 남기고 main worker 8개와 매매 경로를 건드리지 않았다.
 >   - 장 마감 read-only snapshot 수동 관측 계획을 workorder에 추가해 `cfd04eb`까지 push했다.
 
+> **📈 Market Autoresearch 성과 방어 설계**
+>   - v4의 부진 성과를 확인하고, 추천 발행을 멈추는 health gate의 필요성을 확정했다.
+>   - WO-019에 pause·watchlist·prospective 회복 증거·NG 승인 재개 계약을 설계해 main에 푸시했다.
+
 ---
