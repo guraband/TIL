@@ -40,3 +40,11 @@
 >       - Claude Code로 상품 제작·판매를 자동화한 수익화 과정을 살펴봤다.
 
 ---
+
+## ✏ 2026.08.06
+> **🤖 Beast Heart v2 Dynamic Exit 증거 수집**
+>   - Stage B/C 승인 registry·원자 bundle·checkpoint를 구현하고 69 tests로 검증했다.
+>   - Legacy 86건은 0 accepted로 남기고 main worker 8개와 매매 경로를 건드리지 않았다.
+>   - 장 마감 read-only snapshot 수동 관측 계획을 workorder에 추가해 `cfd04eb`까지 push했다.
+
+---
