@@ -53,6 +53,13 @@
 
 ---
 
+## ✏ 2026.08.07
+> **🎥 개발 관련 유튜브 시청**
+>   - [옵시디언, 단순한 메모앱이 아닙니다 | 설치, 개념, 사용법 총정리 [Obsidian]](https://youtu.be/jSFvVxmZQPQ?si=YrVQlyvz944KUEnb)
+>       - Obsidian의 설치·핵심 개념·기본 활용 방식을 정리한 영상을 시청했다.
+
+---
+
 ## ✏ 2026.08.08
 > **🤖 Beast Heart v2 Dynamic Exit source 교정**
 >   - 실제 position→intent→order→signal→fill 경로를 복구해 기존 signal-linkage 0/5 판단을 철회했다.
