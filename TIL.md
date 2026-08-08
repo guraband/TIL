@@ -52,3 +52,11 @@
 >   - WO-019에 pause·watchlist·prospective 회복 증거·NG 승인 재개 계약을 설계해 main에 푸시했다.
 
 ---
+
+## ✏ 2026.08.08
+> **🤖 Beast Heart v2 Dynamic Exit source 교정**
+>   - 실제 position→intent→order→signal→fill 경로를 복구해 기존 signal-linkage 0/5 판단을 철회했다.
+>   - 매도 체결가 5건이 모두 estimated라 authoritative Stage A는 0/5로 fail-closed했다.
+>   - Safe Mode carry-in까지 보강해 138 tests·독립 리뷰 PASS 후 `c164452`·`0aa6fd2`를 push했다.
+
+---
