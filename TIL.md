@@ -60,3 +60,11 @@
 >   - Safe Mode carry-in까지 보강해 138 tests·독립 리뷰 PASS 후 `c164452`·`0aa6fd2`를 push했다.
 
 ---
+
+## ✏ 2026.08.09
+> **🤖 Beast Heart v2 Dynamic Exit broker-history checkpoint**
+>   - broker-history 평균가 fallback과 원본 estimated fill 증거 분리를 구현해 v14 local 5/5를 확인했다.
+>   - 공개 식별자·JSON/history 경계를 보강하고 Dynamic Exit 149 tests를 통과했다.
+>   - 독립 리뷰의 cleanup·누적 payload·full quantity·docs lock 4건은 다음 보완으로 남겼다.
+
+---
