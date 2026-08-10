@@ -68,3 +68,11 @@
 >   - 독립 리뷰의 cleanup·누적 payload·full quantity·docs lock 4건은 다음 보완으로 남겼다.
 
 ---
+
+## ✏ 2026.08.10
+> **📈 Market Autoresearch WO-018·019 복구 체크포인트**
+>   - fallback 뒤 WO-018 cutoff·WO-019 Phase 0/1을 분리 복구하고 검증 커밋을 만들었다.
+>   - 늦은 권위 감사의 frozen-row·lineage·bounded-read blocker를 작업지시서에 현행화했다.
+>   - 두 review-failed 브랜치를 push했으며 main 병합·운영 적용은 재검증까지 차단했다.
+
+---
