@@ -90,4 +90,9 @@
 >   - 기본 Hermes에서 Google Codex `CODEX_OK` 실호출을 확인해 Gemma fallback 원인을 쿼터 상태로 확정했다.
 >   - `/status`에 안전한 OAuth 라벨·Codex Usage 섹션을 구현하고 18개 관련 테스트를 통과했다.
 
+> **📈 Market Autoresearch WO-018 권위 경로 완료**
+>   - 완료 receipt·경합 run·snapshot cutoff 검증을 fail-closed로 보강해 main에 병합했다.
+>   - writer lock 이후 snapshot 선택과 필수 DB trigger 정확성 검증으로 TOCTOU 우회를 차단했다.
+>   - 독립 리뷰 PASS, 446 tests·smoke 통과 후 WO-018을 archive했다.
+
 ---
