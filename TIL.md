@@ -76,3 +76,11 @@
 >   - 두 review-failed 브랜치를 push했으며 main 병합·운영 적용은 재검증까지 차단했다.
 
 ---
+
+## ✏ 2026.08.11
+> **🤖 Hermes Codex OAuth·상태 가시성 보강**
+>   - Codex 429 fallback을 credential pool cooldown으로 분리 진단하고 Google OAuth를 재등록·우선 전환했다.
+>   - 기본 Hermes에서 Google Codex `CODEX_OK` 실호출을 확인해 Gemma fallback 원인을 쿼터 상태로 확정했다.
+>   - `/status`에 안전한 OAuth 라벨·Codex Usage 섹션을 구현하고 18개 관련 테스트를 통과했다.
+
+---
