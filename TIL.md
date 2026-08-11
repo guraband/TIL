@@ -95,4 +95,9 @@
 >   - writer lock 이후 snapshot 선택과 필수 DB trigger 정확성 검증으로 TOCTOU 우회를 차단했다.
 >   - 독립 리뷰 PASS, 446 tests·smoke 통과 후 WO-018을 archive했다.
 
+> **🤖 Beast Heart v2 Dynamic Exit·주문 TTL 개선**
+>   - dynamic_shadow control plane을 main에 통합하고 독립 리뷰 PASS·0 BLOCKING을 확인했다.
+>   - fixed 청산을 유지한 채 coverage 80%·clean live 20건 관찰 gate와 새 세션 인수인계를 남겼다.
+>   - 매수 전 계좌조회가 TTL을 평균 24.8초 소모하는 원인을 확정하고 안전 개선 workorder를 작성했다.
+
 ---
