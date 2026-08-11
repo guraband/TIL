@@ -96,9 +96,9 @@
 >   - 독립 리뷰 PASS, 446 tests·smoke 통과 후 WO-018을 archive했다.
 
 > **🤖 Beast Heart v2 Dynamic Exit·주문 TTL 개선**
->   - dynamic_shadow control plane을 main에 통합하고 독립 리뷰 PASS·0 BLOCKING을 확인했다.
->   - fixed 청산을 유지한 채 coverage 80%·clean live 20건 관찰 gate와 새 세션 인수인계를 남겼다.
->   - 자동매수 submit을 일반 계좌조회보다 우선 처리해 TTL 지연을 해소하고 회귀 테스트·워커 상태를 검증했다.
+>   - dynamic_shadow를 main에 통합하고 fixed 청산·coverage 80%·clean live 20건 gate를 유지했다.
+>   - TTL Stage A에 KIS 계측·source-time·durable generation·strict eligibility를 구현해 리뷰 PASS를 받았다.
+>   - 33개 집중·1,590개 broad 회귀 후 80ede84를 push했으며 배포·재시작과 Stage B-C는 남겼다.
 
 > **🌐 gb2024 로컬 빌드 저장공간 정리**
 >   - 반복 빌드로 누적된 실행 JAR 142개를 정리해 디스크 여유 공간을 약 10GB에서 35GB로 확보했다.
