@@ -85,10 +85,10 @@
 ---
 
 ## ✏ 2026.08.11
-> **🤖 Hermes Codex OAuth·상태 가시성 보강**
->   - Codex 429 fallback을 credential pool cooldown으로 분리 진단하고 Google OAuth를 재등록·우선 전환했다.
->   - 기본 Hermes에서 Google Codex `CODEX_OK` 실호출을 확인해 Gemma fallback 원인을 쿼터 상태로 확정했다.
->   - `/status`에 안전한 OAuth 라벨·Codex Usage 섹션을 구현하고 18개 관련 테스트를 통과했다.
+> **🤖 Hermes Codex OAuth·Telegram 계정 관리**
+>   - Codex 429를 pool cooldown으로 분리하고 OAuth 우선순위 복구 뒤 KOSPI 최종검토 실호출을 정상화했다.
+>   - `/status`·`/auth`에 안전 라벨, 계정별 usage, 한국어 Telegram 버튼·DM 전환을 구현해 128개 회귀를 통과했다.
+>   - Prada gate를 활성화해 `/auth help`를 검증했으며 Hermes 기능 커밋은 로컬 상태로 원격 미반영이다.
 
 > **📈 Market Autoresearch WO-018 권위 경로 완료**
 >   - 완료 receipt·경합 run·snapshot cutoff 검증을 fail-closed로 보강해 main에 병합했다.
