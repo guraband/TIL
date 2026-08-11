@@ -98,6 +98,6 @@
 > **🤖 Beast Heart v2 Dynamic Exit·주문 TTL 개선**
 >   - dynamic_shadow control plane을 main에 통합하고 독립 리뷰 PASS·0 BLOCKING을 확인했다.
 >   - fixed 청산을 유지한 채 coverage 80%·clean live 20건 관찰 gate와 새 세션 인수인계를 남겼다.
->   - 매수 전 계좌조회가 TTL을 평균 24.8초 소모하는 원인을 확정하고 안전 개선 workorder를 작성했다.
+>   - 자동매수 submit을 일반 계좌조회보다 우선 처리해 TTL 지연을 해소하고 회귀 테스트·워커 상태를 검증했다.
 
 ---
