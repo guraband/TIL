@@ -106,3 +106,12 @@
 >   - 운영 health `UP`과 정리 로직을 검증하고 `3172c3f`로 커밋·푸시했다.
 
 ---
+
+## ✏ 2026.08.12
+> **🎥 개발 관련 유튜브 시청**
+>   - ["AI 냄새"](https://youtu.be/p5FzBvDvt8A?si=FU5QsVM4M1DLJJXD)
+>       - AI가 만든 듯한 코드·표현의 특징과 자연스러운 결과물을 위한 점검 관점을 살펴봤다.
+>   - [LLM wiki랑 RAG랑 뭐가 다른건지 알려드려요. 옵시디언+클로드 코드 조합은 필수입니다.](https://youtu.be/t4XEda3CB3Q?si=A42iNMxAGe6S4rc3)
+>       - LLM Wiki·RAG의 차이와 Obsidian·Claude Code 기반 지식 관리 조합을 살펴봤다.
+
+---
