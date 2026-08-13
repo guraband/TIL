@@ -115,3 +115,11 @@
 >       - LLM Wiki·RAG의 차이와 Obsidian·Claude Code 기반 지식 관리 조합을 살펴봤다.
 
 ---
+
+## ✏ 2026.08.13
+> **🤖 Beast Heart v2 계좌 truth 지연 재설계**
+>   - Stage A 장마감 39건에서 p99 67.005초와 30초 freshness gate 실패를 확정했다.
+>   - 로컬 ledger+KIS 현재 미체결을 결합하고 전체 체결 이력은 복구로 분리하는 계약을 main에 반영했다.
+>   - Stage C는 리뷰 BLOCKED로 코드 병합·배포를 막고 문서 checkpoint `b171966`만 push했다.
+
+---
