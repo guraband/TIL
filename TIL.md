@@ -124,10 +124,15 @@
 
 ---
 
-## ✏️ 2026.08.14
+## ✏ 2026.08.14
 > **📈 Market Autoresearch WO-019 사양·Git 정책 보강**
 >   - 상태 우선순위·KRX 성숙도·중복 제거·hash receipt·복구 전환 계약을 명확히 했다.
 >   - 연구 증거는 추적하고 운영 receipt·백업·렌더링 HTML은 gitignore하도록 정리했다.
 >   - WO-019를 우선 과제로 확정하고 WO-013 Hermes 이관은 후순위로 조정했다.
+
+> **🤖 Beast Heart v2 fast-truth 운영 보완**
+>   - 중단 코드를 복구해 deadline·TTL·ledger·broker 경계를 보강하고 독립 리뷰 PASS를 받았다.
+>   - main에 push하고 old worker 0 확인 후 fresh 8개를 기동해 안전 상태를 검증했다.
+>   - 35초 margin은 유지하며 30개 eligible 시도 또는 한 세션의 bounded 관측을 남겼다.
 
 ---
