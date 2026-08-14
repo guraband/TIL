@@ -123,3 +123,11 @@
 >   - Stage C는 리뷰 BLOCKED로 코드 병합·배포를 막고 문서 checkpoint `b171966`만 push했다.
 
 ---
+
+## ✏️ 2026.08.14
+> **📈 Market Autoresearch WO-019 사양·Git 정책 보강**
+>   - 상태 우선순위·KRX 성숙도·중복 제거·hash receipt·복구 전환 계약을 명확히 했다.
+>   - 연구 증거는 추적하고 운영 receipt·백업·렌더링 HTML은 gitignore하도록 정리했다.
+>   - WO-019를 우선 과제로 확정하고 WO-013 Hermes 이관은 후순위로 조정했다.
+
+---
