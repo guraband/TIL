@@ -136,3 +136,11 @@
 >   - main 1402eed 배포·fresh worker 8개·residue 0을 확인하고 다음 세션 관측만 남겼다.
 
 ---
+
+## ✏️ 2026.08.15
+> **📈 Market Autoresearch WO-020 완료**
+>   - 주간 judgment를 closed-v1의 정확한 8개 키 계약으로 복구했다.
+>   - performance-health 증거의 중첩 보존과 recorder 경계를 106 tests로 검증했다.
+>   - 리뷰 PASS 후 작업지시서·인덱스·CHANGELOG를 갱신하고 main에 푸시했다.
+
+---
