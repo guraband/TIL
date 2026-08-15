@@ -137,10 +137,15 @@
 
 ---
 
-## ✏️ 2026.08.15
+## ✏ 2026.08.15
 > **📈 Market Autoresearch WO-020 완료**
 >   - 주간 judgment를 closed-v1의 정확한 8개 키 계약으로 복구했다.
 >   - performance-health 증거의 중첩 보존과 recorder 경계를 106 tests로 검증했다.
 >   - 리뷰 PASS 후 작업지시서·인덱스·CHANGELOG를 갱신하고 main에 푸시했다.
+
+> **🤖 Beast Heart v2 관측 인수인계**
+>   - fast-truth 분석기·리뷰·main 통합을 마치고 8월 18일 장마감 자동 관측을 예약했다.
+>   - Dynamic Exit는 offline·shadow·실적용을, Entry ML은 read-only·runtime 경계를 분리했다.
+>   - 세 active workorder와 CURRENT_TODO·CHANGELOG를 보강해 `e0efb81`로 push했다.
 
 ---
