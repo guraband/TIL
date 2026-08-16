@@ -149,3 +149,11 @@
 >   - 세 active workorder와 CURRENT_TODO·CHANGELOG를 보강해 `e0efb81`로 push했다.
 
 ---
+
+## ✏ 2026.08.16
+> **📺 경제 유튜브 리포트 출력 정리**
+>   - Notion·Telegram 생성기에서 반복 투자 조언·매매 지시 고지 문구를 제거했다.
+>   - 구형 daily 경로와 Hermes 스킬도 수정해 다음 배치에서 문구가 재생성되지 않게 했다.
+>   - 8월 16일 Notion을 갱신하고 API readback·출력 fixture·py_compile을 통과했다.
+
+---
