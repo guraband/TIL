@@ -175,3 +175,11 @@
 >   - 35+9개 테스트·공개 E2E 6개를 통과하고 4c97789 릴리스와 launchd 전환을 검증했다.
 
 ---
+
+## ✏ 2026.08.18
+> **📈 Market Autoresearch 발행 경로 복구**
+>   - 동결 행 수정 충돌을 append-only 근거 연결로 해소하고 14건의 유효 근거를 복구했다.
+>   - 신규 DB 시간은 KST ISO로 통일하고 기존 naive 시간은 감사 가능한 copy-and-swap으로 교체했다.
+>   - 성과 receipt supersession과 quality gate를 복구해 492 tests 후 Notion 최종본을 발행했다.
+
+---
