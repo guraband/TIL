@@ -182,4 +182,9 @@
 >   - 신규 DB 시간은 KST ISO로 통일하고 기존 naive 시간은 감사 가능한 copy-and-swap으로 교체했다.
 >   - 성과 receipt supersession과 quality gate를 복구해 492 tests 후 Notion 최종본을 발행했다.
 
+> **Beast Heart Dynamic Shadow·Entry ML 마감**
+>   - Dynamic Shadow를 KIS paper epoch 1로 배포하고 실제 청산은 fixed authority로 유지했다.
+>   - 로컬 Entry ML 생성기를 fail-closed로 보강해 39 tests와 500행 bundle·리뷰 PASS를 확인했다.
+>   - 완료 변경을 `5f9d020` merge commit으로 main에 `--no-ff` 통합·push했다.
+
 ---
