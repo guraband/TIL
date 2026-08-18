@@ -178,9 +178,9 @@
 
 ## ✏ 2026.08.18
 > **📈 Market Autoresearch 발행 경로 복구**
->   - 동결 행 수정 충돌을 append-only 근거 연결로 해소하고 14건의 유효 근거를 복구했다.
->   - 신규 DB 시간은 KST ISO로 통일하고 기존 naive 시간은 감사 가능한 copy-and-swap으로 교체했다.
->   - 성과 receipt supersession과 quality gate를 복구해 492 tests 후 Notion 최종본을 발행했다.
+>   - 오전 동결 충돌을 append-only 근거로 해소하고 DB 시간을 KST ISO·감사 가능 마이그레이션으로 통일했다.
+>   - 오전 추천 게이트는 유지하고 종가 스냅샷·무결성·Notion 재실행 경로를 별도로 분리했다.
+>   - 492+51개 회귀를 통과하고 오전 최종본과 별도 8월 18일 종가 리포트를 정상 발행했다.
 
 > **Beast Heart Dynamic Shadow·Entry ML 마감**
 >   - Dynamic Shadow를 KIS paper epoch 1로 배포하고 실제 청산은 fixed authority로 유지했다.
