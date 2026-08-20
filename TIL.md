@@ -196,3 +196,11 @@
 >   - 장마감 게이트를 오전 성과 게이트와 분리해 오후 결과를 Notion에 반영하고 회귀 테스트를 통과했다.
 
 ---
+
+## ✏ 2026.08.20
+> **Beast Heart archive cold storage checkpoint**
+>   - Exact-path freeze/thaw·receipt·lineage를 구현하고 focused 24·archive 47·retention 35 tests를 통과했다.
+>   - 2차 리뷰 race를 수정했지만 새 exact review 전이라 main 병합·실제 archive 압축은 차단했다.
+>   - Review-failed checkpoint `49ea566`을 feature branch에 push하고 원격 정렬을 확인했다.
+
+---
