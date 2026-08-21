@@ -222,3 +222,11 @@
 >   - 리뷰 blocking 0·focused 125 tests 후 `8958153`으로 main에 병합·push했으며 운영 재시작은 하지 않았다.
 
 ---
+
+## ✏ 2026.08.22
+> **OpenClaw→Hermes 크론 이관**
+>   - 결정론적 KOSPI 크론 3개를 Hermes no-agent로 옮기고 OpenClaw 원본을 비활성화했다.
+>   - 투자일지 마감 복기를 중립 프로젝트로 분리해 OpenClaw 경로·credential fallback을 제거했다.
+>   - Notion 비게시 shadow parity와 단일 writer cutover를 검증하고 평일 16시 실행을 활성화했다.
+
+---
