@@ -238,8 +238,8 @@
 >   - 8월 23일 Notion 발행·Telegram 전달을 검증했으며 remote 없는 로컬 운영 저장소다.
 
 > **OpenClaw→Hermes KOSPI 크론 이관**
->   - 기준선 20개를 복원하고 Next Gap Up·Gap Close·Combined Morning의 writer 계약을 감사했다.
->   - 리뷰 HIGH 교정과 main 113 tests 후 이관 코드를 `4666afe`로 병합·push했다.
->   - OpenClaw 원본 3개를 보존·비활성화하고 Hermes 정규 실행과 8월 24일 통합 관찰을 예약했다.
+>   - 기준선 20개 중 KOSPI·Preopen·Market Close 등 10개를 Hermes로 전환하고 원본을 비활성화했다.
+>   - 휴일 DB 직접 조회·writer·credential·state binding 경계를 검증하고 두 저장소 main에 push했다.
+>   - 남은 10개를 이관 6·퇴역 4로 재계획하고 8월 24일 첫 정규 실행 통합 관찰을 예약했다.
 
 ---
