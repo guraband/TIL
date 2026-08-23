@@ -230,3 +230,11 @@
 >   - Notion 비게시 shadow parity와 단일 writer cutover를 검증하고 평일 16시 실행을 활성화했다.
 
 ---
+
+## ✏ 2026.08.23
+> **AI 이슈 브리핑 Hermes 이관**
+>   - OpenClaw 의존을 제거하고 no-agent·origin 전달로 전환해 원본 크론을 비활성화했다.
+>   - Threads 경계 과잉 실패 조건을 원래 동작으로 복원하고 16개 테스트·shadow를 통과했다.
+>   - 8월 23일 Notion 발행·Telegram 전달을 검증했으며 remote 없는 로컬 운영 저장소다.
+
+---
