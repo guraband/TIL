@@ -242,4 +242,9 @@
 >   - Korea Close를 217 tests·B0/H0/M0로 main에 병합하고 Hermes `398966fae006`으로 전환했다.
 >   - Weekly Lighten을 no-agent `5d73dfb5822e`으로 전환하고 8월 30일 관찰을 예약해 잔여를 이관 5·퇴역 3으로 줄였다.
 
+> **Guraband v2 관리자 상세 기능**
+>   - Story·Travel·Gallery 상세에 관리자 전용 작성·수정·공개·삭제 버튼을 v2 디자인으로 추가했다.
+>   - 비관리자 응답에는 관리 UI와 스크립트가 포함되지 않도록 서버 렌더링 조건을 적용했다.
+>   - 계약 테스트·빌드와 blue-green 운영 배포를 검증하고 `8a6c349`로 main에 push했다.
+
 ---
