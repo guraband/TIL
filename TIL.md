@@ -237,4 +237,9 @@
 >   - Threads 경계 과잉 실패 조건을 원래 동작으로 복원하고 16개 테스트·shadow를 통과했다.
 >   - 8월 23일 Notion 발행·Telegram 전달을 검증했으며 remote 없는 로컬 운영 저장소다.
 
+> **OpenClaw→Hermes KOSPI 크론 이관**
+>   - 기준선 20개를 복원하고 Next Gap Up의 producer→DB→consumer·single-writer 계약을 감사했다.
+>   - true shadow·84 tests와 리뷰 HIGH 교정 후 `bac0354`를 main에 병합·push했다.
+>   - OpenClaw 원본은 보존·비활성화하고 Hermes 전환과 첫 정규 실행 자동 관찰을 예약했다.
+
 ---
