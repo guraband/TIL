@@ -255,4 +255,9 @@
 >   - Hermes `naver` 전용 profile이 loopback CDP에 attach하도록 구성하고 실제 attach를 확인했다.
 >   - OpenClaw Naver browser 설정·launcher·활성 스크립트 참조를 제거하고 gateway 재기동 뒤 검증했다.
 
+> **Beast Heart SQLite·watchdog 안정화**
+>   - WAL 517 잠금, secondary 기록 실패, max-attempt·NO_AUTO_RETRY 재실행을 함께 차단했다.
+>   - guardian을 관찰 전용으로 줄이고 watchdog에 repo venv·import preflight·단일 시작 권한을 고정했다.
+>   - 리뷰 PASS 후 main 배포와 fresh 8-worker·DB·계좌 snapshot·queue 정상 상태를 확인했다.
+
 ---
