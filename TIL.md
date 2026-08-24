@@ -265,4 +265,9 @@
 >   - 정상 manifest의 `weekly_review=null`만 허용하고 close·임의 null은 계속 fail-closed했다.
 >   - Benji 구현·Luther PASS 후 60개 테스트와 실제 artifact read-only 검증을 마치고 main에 반영했다.
 
+> **Tony Telegram OpenClaw→Hermes 이관**
+>   - 기존 `@gura_claw_tony_bot`의 Telegram identity·DM을 유지한 채 polling 소유권을 Hermes Tony로 전환했다.
+>   - Tony 전용 account·binding·policy·allow-list·offset rollback 자료를 0600으로 보관하고 전체 config 복원은 금지했다.
+>   - Ned/Gemma 연결을 재검증하고 Tony DM 왕복·OAuth 전환 gate 활성화까지 실제로 확인했다.
+
 ---
