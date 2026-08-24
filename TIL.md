@@ -248,3 +248,11 @@
 >   - 계약 테스트·빌드와 blue-green 운영 배포를 검증하고 `8a6c349`로 main에 push했다.
 
 ---
+
+## ✏ 2026.08.24
+> **🤖 Naver 블로그 Chrome OpenClaw 분리**
+>   - 로그인 Chrome profile을 macOS Application Support 경로로 안전 이동하고 OS LaunchAgent로 독립시켰다.
+>   - Hermes `naver` 전용 profile이 loopback CDP에 attach하도록 구성하고 실제 attach를 확인했다.
+>   - OpenClaw Naver browser 설정·launcher·활성 스크립트 참조를 제거하고 gateway 재기동 뒤 검증했다.
+
+---
