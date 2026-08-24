@@ -262,8 +262,8 @@
 
 > **Market Autoresearch Hermes Close 안정화**
 >   - Hermes Close의 113KB 상세 출력을 828B bounded receipt로 분리하고 full audit는 보존했다.
->   - 정상 manifest의 `weekly_review=null`만 허용하고 close·임의 null은 계속 fail-closed했다.
->   - Benji 구현·Luther PASS 후 60개 테스트와 실제 artifact read-only 검증을 마치고 main에 반영했다.
+>   - 정상 `weekly_review=null`만 허용하고 audit·manifest·DB 결속의 continuation replay를 추가했다.
+>   - producer 재실행 없이 오늘 Notion·notes를 복구하고 API read-back·setup·smoke를 통과했다.
 
 > **Tony Telegram OpenClaw→Hermes 이관**
 >   - 기존 `@gura_claw_tony_bot`의 Telegram identity·DM을 유지한 채 polling 소유권을 Hermes Tony로 전환했다.
