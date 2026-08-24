@@ -260,4 +260,9 @@
 >   - guardian을 관찰 전용으로 줄이고 watchdog에 repo venv·import preflight·단일 시작 권한을 고정했다.
 >   - 리뷰 PASS 후 main 배포와 fresh 8-worker·DB·계좌 snapshot·queue 정상 상태를 확인했다.
 
+> **Market Autoresearch Hermes Close 안정화**
+>   - Hermes Close의 113KB 상세 출력을 828B bounded receipt로 분리하고 full audit는 보존했다.
+>   - 정상 manifest의 `weekly_review=null`만 허용하고 close·임의 null은 계속 fail-closed했다.
+>   - Benji 구현·Luther PASS 후 60개 테스트와 실제 artifact read-only 검증을 마치고 main에 반영했다.
+
 ---
