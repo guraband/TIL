@@ -271,3 +271,11 @@
 >   - Ned/Gemma 연결을 재검증하고 Tony DM 왕복·OAuth 전환 gate 활성화까지 실제로 확인했다.
 
 ---
+
+## ✏️ 2026.08.25
+> **Guraband 방문 통계·IP 추적 안정화 설계**
+>   - 중복 집계 원인을 점검하고 보안·유일키/Upsert·신뢰 프록시·WHOIS·Redis 개선 범위를 정리했다.
+>   - lease fencing/CAS, Telegram outbox 원자적 선점, Asia/Seoul 집계 경계를 작업지시서에 명시했다.
+>   - 루터 최종 PASS 후 문서와 CHANGELOG를 main에 커밋·push하고 워크트리를 정리했다.
+
+---
