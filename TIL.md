@@ -272,10 +272,15 @@
 
 ---
 
-## ✏️ 2026.08.25
+## ✏ 2026.08.25
 > **Guraband 방문 통계·IP 추적 안정화 설계**
 >   - 중복 집계 원인을 점검하고 보안·유일키/Upsert·신뢰 프록시·WHOIS·Redis 개선 범위를 정리했다.
 >   - lease fencing/CAS, Telegram outbox 원자적 선점, Asia/Seoul 집계 경계를 작업지시서에 명시했다.
 >   - 루터 최종 PASS 후 문서와 CHANGELOG를 main에 커밋·push하고 워크트리를 정리했다.
+
+> **Market Autoresearch 1.8.0**
+>   - paused를 발행 중단이 아닌 경고·자가개선 신호로 바꾸고 후보 4건을 Notion에 발행했다.
+>   - 현행 제품 계약·상태·문서 우선순위와 drift checker·read-only status 명령을 추가했다.
+>   - Luther PASS·664 tests 후 1.8.0을 `b090c45`로 main에 push하고 원격 정렬을 확인했다.
 
 ---
