@@ -291,4 +291,9 @@
 >   - 제목·핵심 내용을 자연어 경계로 요약하고 반례 포함 22개 테스트와 오늘자 shadow를 통과했다.
 >   - 개선된 오늘 브리핑을 09:20에 재발송하고 Hermes 실행·Telegram 전달 성공을 확인했다.
 
+> **OpenClaw→Hermes 에이전트·크론 이관**
+>   - Tony·Zara·Ned Telegram 소유권을 전용 Hermes 프로필로 옮기고 기존 DM·rollback을 보존했다.
+>   - 크론 20개를 Hermes 이관 16·퇴역 4·미처리 0으로 정리하고 OpenClaw 활성 작업을 0으로 만들었다.
+>   - Naver 독립 실행과 14개 정규 성공을 확인하고 ownership 설정·중앙 문서를 현행화했다.
+
 ---
