@@ -296,4 +296,9 @@
 >   - 크론 20개를 Hermes 이관 16·퇴역 4·미처리 0으로 정리하고 OpenClaw 활성 작업을 0으로 만들었다.
 >   - Naver 독립 실행과 14개 정규 성공을 확인하고 ownership 설정·중앙 문서를 현행화했다.
 
+> **Beast Heart 장마감 관측 패치**
+>   - 정상 종료·부분체결 잔재·SQLite/Redis backlog를 fail-closed로 분류하는 요약기를 추가했다.
+>   - Entry ML 승인 artifact와 Dynamic 연구/runtime 증거를 분리하고 Telegram redaction을 보강했다.
+>   - 30+25 tests·독립 PASS 후 5개 작업지시서와 CHANGELOG를 갱신해 기능 브랜치에 push했다.
+
 ---
