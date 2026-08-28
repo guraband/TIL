@@ -328,3 +328,11 @@
 >   - Phase 1.1은 38 tests·격리 Python 3.11 검증을 통과했지만 저장소는 미커밋 상태로 남겼다.
 
 ---
+
+## ✏ 2026.08.29
+> **Market Autoresearch 종목 추천 자가개선**
+>   - Morning baseline·Weekly shadow·1/3/5/10일 성과를 연결해 추천 자가개선 폐루프를 배포했다.
+>   - KIS·주문 권한 없이 AI 판단 근거·반대증거·hash 이력과 자동 교체·rollback을 구현했다.
+>   - 733 tests·65 subtests·Luther PASS 후 cron·운영 receipt를 `14cd8e7`로 main에 push했다.
+
+---
