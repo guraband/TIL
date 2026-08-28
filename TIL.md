@@ -322,4 +322,9 @@
 >   - 운영 통계 3종을 백업·대조한 뒤 Top-IP 컬럼을 IPv6 안전 폭인 varchar(45)로 확장했다.
 >   - 124 tests·bootJar 후 블루그린 배포하고 health UP·공개 200·main push를 확인했다.
 
+> **Hermes Kanban ETF 파일럿**
+>   - ETF Autoresearch 보드에 Benji 구현→Luther 리뷰→Hermes 검증 흐름을 실제 적용했다.
+>   - blocked 자동 재승격을 확인해 백로그 4개를 scheduled/BACKLOG_HOLD로 고정했다.
+>   - Phase 1.1은 38 tests·격리 Python 3.11 검증을 통과했지만 저장소는 미커밋 상태로 남겼다.
+
 ---
