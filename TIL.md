@@ -345,4 +345,9 @@
 >   - transcript 204개 중 세금·절세계좌 관련 129개를 분석해 국내 상장 ETF 100% 후보를 구성했다.
 >   - ISA·연금저축·IRP 배치와 세전 월 235만원을 검증하고 보고서 `bf2acc4`를 로컬 커밋했다.
 
+> **🧠 LLM Wiki·Obsidian NG Brain 구축**
+>   - Karpathy LLM Wiki·Obsidian·Hermes 연동 개념과 공식·커뮤니티 사례를 조사했다.
+>   - Obsidian 1.13.7과 NG Brain Vault·스키마·템플릿을 구축해 Ned 프로필과 연결했다.
+>   - 앱 로딩·링크 lint·비밀정보 검사·Git 복구 기반을 검증하고 Sync는 비활성화했다.
+
 ---
