@@ -340,4 +340,9 @@
 >   - 1.5GB qualified research DB를 SHA-256·복원 검증한 72MB zstd cold archive로 전환했다.
 >   - retention/exporter에 offline 복원·보존 계약을 기록하고 `0e41b45`로 main에 push했다.
 
+> **ETF Autoresearch 수집·포트폴리오 후보**
+>   - 초기 백필 188개와 증분 16개를 확보하고 수집 Cron을 매일 04시 1회 실행으로 단순화했다.
+>   - 고유 transcript 204개를 분석해 7억원 현금흐름형 후보와 세전 월 245만원 sample을 작성했다.
+>   - 수집 97 tests·16 subtests와 포트폴리오 합계·근거 영상 8개를 검증하고 로컬 커밋했다.
+
 ---
