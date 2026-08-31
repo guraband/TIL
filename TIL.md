@@ -364,6 +364,11 @@
 > **Market Autoresearch 장전 발행 복구**
 >   - paused 상태 상속 오류와 근거 신선도 후행 검사를 수정해 발행 차단 원인을 제거했다.
 >   - 최신 근거 3건을 보강하고 품질 게이트 13/13 통과 후 Notion 2개를 발행·read-back했다.
->   - 735 tests·setup·smoke 통과 후 재발 방지 커밋 `eb2e435`를 main에 push했다.
+>   - 735 tests·setup·smoke와 8월 복기 기록을 검증해 `eb2e435`·`760e719`을 main에 push했다.
+
+> **🤖 KOSPI Hermes 브리핑·경로 이관**
+>   - 장전·장마감·Overnight Gap 브리핑 수신처를 현재 Telegram 채널로 명시 고정했다.
+>   - Core의 레거시 경로·직접 Telegram 전송을 Hermes 전달 경계로 정리해 `2ef83e4`를 push했다.
+>   - ML Predictor 장전·Next Gap Up 경로 정렬과 과거 산출물 정리를 `f89a437`로 push했다.
 
 ---
