@@ -1,7 +1,7 @@
 ## ✏ 2026.09.01
-> **ETF Autoresearch 운영 검증**
->   - Production DB·artifact·Notion·Telegram receipt를 대조해 근거 부족 안전 분기를 재검증했다.
->   - 활성 수집·claim·주간 연구·발행 Cron을 read-back하고 9월 2·6·13일 감사·복구를 예약했다.
->   - README 운영 상태를 동기화해 로컬 전용 저장소 `a1ffc17`에 커밋하고 Git clean을 확인했다.
+> **ETF Autoresearch 단순화·운영 정책**
+>   - YouTube는 근거 수집, 비중은 deterministic 정책으로 분리하고 3개 전략·조건부 최대 3+3 구조를 완성했다.
+>   - 기준 시드를 5억원으로 고정하고 현금흐름형의 세후 월 250만원 목표·target_shortfall 계약을 반영했다.
+>   - 매일 수집·적재, 주 1회 리포트·자가개선 cadence와 감사 Cron을 동기화하고 308 tests를 통과했다.
 
 ---
