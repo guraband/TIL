@@ -23,3 +23,11 @@
 >   - 공개 Chrome·WebKit E2E 17개를 통과하고 apps.guraband.com 운영 배포를 확인했다.
 
 ---
+
+## ✏️ 2026.09.03
+> **Beast Heart v2 운영 정합성·이관 알림**
+>   - broker truth 기준 온타이드 주문·포지션 원장을 860주 @ 1,156원으로 정합화하고 Safe Mode를 해제했다.
+>   - OpenClaw guardian delivery를 퇴역시키고 Hermes 장마감 관측을 이상 발생 시에만 알리도록 전환했다.
+>   - stale partial-buy 복구를 broker history 총수량으로 제한하고 order/account 362건·guardian 7건을 검증했다.
+
+---
