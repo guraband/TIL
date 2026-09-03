@@ -25,9 +25,9 @@
 ---
 
 ## ✏️ 2026.09.03
-> **Beast Heart v2 운영 정합성·이관 알림**
->   - broker truth 기준 온타이드 주문·포지션 원장을 860주 @ 1,156원으로 정합화하고 Safe Mode를 해제했다.
->   - OpenClaw guardian delivery를 퇴역시키고 Hermes 장마감 관측을 이상 발생 시에만 알리도록 전환했다.
->   - stale partial-buy 복구를 broker history 총수량으로 제한하고 order/account 362건·guardian 7건을 검증했다.
+> **Beast Heart v2 TTL 안전·운영 이관**
+>   - broker truth 원장 정합화·Safe Mode 해제와 stale partial-buy 복구 경계를 검증했다.
+>   - OpenClaw guardian delivery를 퇴역시키고 Hermes 관측 알림으로 이관했다.
+>   - TTL Lane A/D를 main 반영하고 B/C는 근거 부족으로 fail-closed 종료·관측 이관했다.
 
 ---
