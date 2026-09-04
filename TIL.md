@@ -31,3 +31,11 @@
 >   - TTL Lane A/D를 main 반영하고 B/C는 근거 부족으로 fail-closed 종료·관측 이관했다.
 
 ---
+
+## ✏️ 2026.09.04
+> **Beast Heart v2 계좌 정합 자동복구**
+>   - 부분매수가 follow-up truth 사이 전량 체결되는 race를 broker-history 기반으로 안전 복구하도록 보완했다.
+>   - 기존 보유분 혼입은 broker 보유수량·주문체결 수량의 정확한 방정식으로 fail-closed 처리했다.
+>   - Phase 2 order/account 363개 테스트와 focused 회귀를 통과하고 main에 반영했다.
+
+---
