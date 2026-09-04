@@ -34,8 +34,8 @@
 
 ## ✏️ 2026.09.04
 > **Beast Heart v2 계좌 정합 자동복구**
->   - 부분매수가 follow-up truth 사이 전량 체결되는 race를 broker-history 기반으로 안전 복구하도록 보완했다.
->   - 기존 보유분 혼입은 broker 보유수량·주문체결 수량의 정확한 방정식으로 fail-closed 처리했다.
->   - Phase 2 order/account 363개 테스트와 focused 회귀를 통과하고 main에 반영했다.
+>   - terminal follow-up race와 progressing partial-buy를 broker-history·독립 KIS truth quorum으로 안전 수렴시켰다.
+>   - 증명 불가 시 수동확인 대신 Safe Mode 유지·`blocked_unprovable`로 자동 보류하고 broker write는 차단했다.
+>   - price provenance 보존, planner 11·Phase2 366·dispatcher 77 통과와 Luther PASS 후 main 반영을 완료했다.
 
 ---
