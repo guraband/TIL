@@ -39,3 +39,14 @@
 >   - price provenance 보존, planner 11·Phase2 366·dispatcher 77 통과와 Luther PASS 후 main 반영을 완료했다.
 
 ---
+
+## ✏ 2026.09.05
+> **Beast Heart v2 관측 문서 정리**
+>   - 마감 silent가 승인된 이상 전용 알림의 정상 동작임을 확인하고, 세션 정상 증명과 구분했다.
+>   - 완료 하위 작업 3건을 아카이브하고 근거 사본 10개·해시를 보존해 문서를 main에 push했다.
+>   - 운영 관측 2건은 계속 열어두고, 격리 테스트 변경은 미통합·미배포 상태로 보존했다.
+
+> **Hermes ship 스킬**
+>   - autolog 후 프로젝트 push를 검증하고 TIL 기록·push를 순차 수행하는 ship 스킬을 만들었다.
+
+---
