@@ -50,3 +50,16 @@
 >   - autolog 후 프로젝트 push를 검증하고 TIL 기록·push를 순차 수행하는 ship 스킬을 만들었다.
 
 ---
+
+## ✏ 2026.09.06
+> **Market Autoresearch P1–P2**
+>   - 규칙별 증거·복구·재시도·관측 수명주기를 완성하고 938 tests/65 subtests와 루터 최종 리뷰를 통과했다.
+>   - 최초 근거가 검증될 때만 35일 만료하며, 손상 시 차단·무쓰기를 유지하도록 인수 기준을 확정했다.
+>   - 완료 문서와 영향 테스트 지침을 기능 브랜치에 push했다. main 병합·운영 적용은 아직 하지 않았다.
+
+> **ETF Autoresearch 주간 감사·복구**
+>   - claim schema 문자열 계약을 보강하고 312 tests/91 subtests·독립 리뷰 PASS 결과를 main에 push했다.
+>   - 정량 근거 부족으로 후보 평가·신규 shadow 없이 안전 보류했으며, 감사에서 Notion·Telegram 발행을 확인했다.
+>   - 12+12 평가 완료나 성과 개선으로 과장하지 않고 current/champion 미변경과 후속 관측 경계를 기록했다.
+
+---
