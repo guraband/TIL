@@ -75,4 +75,9 @@
 >   - 취소 오판 복구와 Safe Mode 해제·워커 8개 확인 뒤, 재발 방지 코드·운영정책을 현행화했다.
 >   - 매 거래일 복기에 사고 상태·receipt 재시도를 추가하고 9/7 재발행·원격 read-back을 확인했다(29+9 tests).
 
+> **ETF Autoresearch FX 수치 보고 복구**
+>   - Yahoo `KRW=X` 요청의 `USDKRW=X` 응답 alias를 제한적으로 허용하고 역방향·타통화는 차단했다.
+>   - 독립 리뷰 PASS와 29개 관련 테스트 후 main·GitHub에 반영했다.
+>   - 9/7 frozen 재생에서 12 view·JSON/Markdown/receipt 일치를 확인하고 9/8 자연 실행 검증을 예약했다.
+
 ---
