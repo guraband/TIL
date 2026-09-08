@@ -81,3 +81,11 @@
 >   - 9/7 frozen 재생에서 12 view·JSON/Markdown/receipt 일치를 확인하고 9/8 자연 실행 검증을 예약했다.
 
 ---
+
+## ✏️ 2026.09.08
+> **Beast Heart v2 terminal 매도 자동복구**
+>   - terminal history와 fresh H-O-H가 일치할 때만 원장 보정·Safe Mode 해제하도록 구현했다.
+>   - activation 연결과 15개 독립 오류 테스트를 보강해 868 PASS, Luther blocker 0을 확인했다.
+>   - core·activation을 main에 push했다. 운영 DB·paper 활성화는 내일 장중 검증으로 남겼다.
+
+---
