@@ -89,3 +89,11 @@
 >   - core·activation을 main에 push했다. 운영 DB·paper 활성화는 내일 장중 검증으로 남겼다.
 
 ---
+
+## ✏️ 2026.09.09
+> **Beast Heart v2 KIS-SSOT 계좌 복구**
+>   - 해결된 terminal residue와 `fetched_at_stale` handoff를 고쳐 관련 108 tests 후 main에 배포했다.
+>   - KIS 전량체결 62주@15,914원을 원자 반영해 Safe Mode를 해제하고 workers8·queue0을 확인했다.
+>   - watchdog 경쟁·exit-code·dotenv·DB 복사 오판을 스킬·운영문서·Hermes 규칙에 재발 방지로 남겼다.
+
+---
