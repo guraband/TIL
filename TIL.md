@@ -97,3 +97,11 @@
 >   - watchdog 경쟁·exit-code·dotenv·DB 복사 오판을 스킬·운영문서·Hermes 규칙에 재발 방지로 남겼다.
 
 ---
+
+## ✏ 2026.09.10
+> **ETF Autoresearch 평가·승격 안전화**
+>   - 입력을 단일 read로 동결하고 receipt v2에 bundle/outcome 해시를 결합해 재실행 시 불변 산출물로 검증했다.
+>   - 포트폴리오 정책·후보 lineage에 결합된 호환성 정책을 도입하고 월 단위 maturity·승격 조건을 보수적으로 제한했다.
+>   - symlink·mutable path·exact-byte retry·legacy receipt 공격 테스트를 추가해 전체 416개·독립 리뷰를 통과했다.
+
+---
