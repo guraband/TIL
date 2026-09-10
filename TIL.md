@@ -104,4 +104,9 @@
 >   - 포트폴리오 정책·후보 lineage에 결합된 호환성 정책을 도입하고 월 단위 maturity·승격 조건을 보수적으로 제한했다.
 >   - symlink·mutable path·exact-byte retry·legacy receipt 공격 테스트를 추가해 전체 416개·독립 리뷰를 통과했다.
 
+> **Beast Heart v2 Safe Mode 복구**
+>   - KIS terminal 매도 203주 원장 불일치를 복구하고 마지막 페이지 토큰 판정을 수정했다.
+>   - unknown-submit의 stale 사고 해제와 잔여 mismatch 오해제를 막고 Benji·Luther 검증을 통과했다.
+>   - main `f83a893`까지 push하고 병합 바이트에서 focused 6·Phase2 366 테스트를 통과했다.
+
 ---
