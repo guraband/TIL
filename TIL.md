@@ -112,9 +112,9 @@
 ---
 
 ## ✏ 2026.09.11
-> **Beast Heart v2 terminal BUY 자동복구**
->   - KIS 전량체결 103주@9,660원 stale 사고를 원자 복구하고 broker/local flat을 확인했다.
->   - fresh 증거를 동일 잠금 경계에서 적용하고 경쟁 submit TOCTOU를 재검증·rollback하도록 수정했다.
->   - 독립 리뷰 PASS·370 tests 후 main `c72576a` push, workers8·queue0·Safe/Hard false를 확인했다.
+> **Beast Heart v2 Safe Mode 복구·재설계**
+>   - terminal BUY 103주와 SELL 676주 원장 사고를 KIS exact truth로 복구하고 Safe/Hard false를 확인했다.
+>   - BUY 원자복구를 구현하고 endpoint skew·fence·H-O-H·증명 실패 Telegram 계약을 설계했다.
+>   - BUY 370 tests와 Luther R5 HIGH/MEDIUM 0을 확인하고 main `a72f2a0`까지 push했다.
 
 ---
