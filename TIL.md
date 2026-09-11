@@ -117,4 +117,9 @@
 >   - BUY 원자복구를 구현하고 endpoint skew·fence·H-O-H·증명 실패 Telegram 계약을 설계했다.
 >   - BUY 370 tests와 Luther R5 HIGH/MEDIUM 0을 확인하고 main `a72f2a0`까지 push했다.
 
+> **Market Autoresearch 주간 출력 오류 복구**
+>   - Weekly·Close 성과 갱신과 shadow 평가의 출력 초과를 수정하고 독립 리뷰 후 main `06bbea8`까지 push했다.
+>   - 기존 실패 기록·DB 백업을 보존해 주간 15단계를 재실행하고 Decision 저장·Notion 136블록 일치를 확인했다.
+>   - 개선안 표본 부족으로 현행 규칙·성과 경고를 유지하고 중복 실행 방지를 검증했다. 다음 정규 실행은 별도 관측이다.
+
 ---
