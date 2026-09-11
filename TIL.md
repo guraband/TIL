@@ -110,3 +110,11 @@
 >   - main `f83a893`까지 push하고 병합 바이트에서 focused 6·Phase2 366 테스트를 통과했다.
 
 ---
+
+## ✏ 2026.09.11
+> **Beast Heart v2 terminal BUY 자동복구**
+>   - KIS 전량체결 103주@9,660원 stale 사고를 원자 복구하고 broker/local flat을 확인했다.
+>   - fresh 증거를 동일 잠금 경계에서 적용하고 경쟁 submit TOCTOU를 재검증·rollback하도록 수정했다.
+>   - 독립 리뷰 PASS·370 tests 후 main `c72576a` push, workers8·queue0·Safe/Hard false를 확인했다.
+
+---
