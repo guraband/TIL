@@ -148,3 +148,11 @@
 >   - 498 tests·독립 리뷰·p95 4.05초를 통과하고 작업 브랜치 `4149a2b`를 push했다. main은 미병합이다.
 
 ---
+
+## ✏ 2026.09.14
+> **ETF Autoresearch Portfolio Planner**
+>   - 실제 ETF 9종과 KODEX 단기채권PLUS를 적용해 balanced FX 70% 안에서 대안 2개를 생성했다.
+>   - 123 tests·추가 회귀 18개와 Luther PASS 후 기능 `fba88d1`, 기록 `b11a915`를 push했다.
+>   - release `fba88d131014` 배포와 공개 API·snapshot 차단을 확인했다. main은 미병합이다.
+
+---
