@@ -164,4 +164,9 @@
 >   - 제외 목록·chunk 입력 분리·무작업 상태와 하위 프로세스 정리를 검증해 17 tests·문법 검사를 통과했다.
 >   - Git 미관리 운영 경로에 직접 적용하고 스킬을 갱신했다. 오늘 실제 다운로드 배치 재실행은 미수행이다.
 
+> **Beast Heart v2 terminal BUY 복구**
+>   - exact 종목·주문 3회 조회와 30초 freshness·60초 quorum으로 전체 계좌 반복 조회를 줄였다.
+>   - 원자 projection·후속 검증을 계좌·세대·causation에 묶고 593+27 tests와 Luther PASS를 확인했다.
+>   - 기능 `a022e3b`, 기록 `75ba5c9`를 feature branch에 push했다. main·runtime은 미적용이다.
+
 ---
