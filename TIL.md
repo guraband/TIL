@@ -172,9 +172,9 @@
 ---
 
 ## ✏ 2026.09.15
-> **Beast Heart v2 terminal BUY 원자복구**
->   - generation 재시작·target scoping·proof-time 고정을 구현해 451 tests와 Luther PASS를 통과했다.
->   - `031980` 5주와 `069640` 부분매도 잔여를 KIS exact truth로 원자 보정했다.
->   - main `28dbd6e`를 push하고 mismatch·Safe Mode·Hard Halt false, workers8·queue0을 확인했다.
+> **Beast Heart v2 Safe Mode·원자복구**
+>   - terminal BUY proof race를 수정하고 `031980`·`069640`을 KIS exact truth로 보정해 main `28dbd6e`에 반영했다.
+>   - Safe Mode 오판 방지와 KIS-SSOT 원자복구·재시작 계약을 구현해 전체 필수 테스트와 Luther PASS를 확인했다.
+>   - feature `d197a39`를 원격 push했다. `372910` 481주 복구는 완료했고 main·runtime 반영은 미수행이다.
 
 ---
