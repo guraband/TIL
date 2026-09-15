@@ -170,3 +170,11 @@
 >   - 기능 `a022e3b`, 기록 `75ba5c9`를 feature branch에 push했다. main·runtime은 미적용이다.
 
 ---
+
+## ✏ 2026.09.15
+> **Beast Heart v2 terminal BUY 원자복구**
+>   - generation 재시작·target scoping·proof-time 고정을 구현해 451 tests와 Luther PASS를 통과했다.
+>   - `031980` 5주와 `069640` 부분매도 잔여를 KIS exact truth로 원자 보정했다.
+>   - main `28dbd6e`를 push하고 mismatch·Safe Mode·Hard Halt false, workers8·queue0을 확인했다.
+
+---
