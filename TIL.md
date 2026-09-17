@@ -178,3 +178,9 @@
 >   - feature `d197a39`를 원격 push했다. `372910` 481주 복구는 완료했고 main·runtime 반영은 미수행이다.
 
 ---
+
+## ✏ 2026.09.17
+> **YouTube 학습**
+>   - 코드팩토리의 [앤트로픽이 직접 말아주는 Fable 5.1 지리게 잘 사용하는 법](https://youtu.be/BDN9i5TucEI?si=amAM7MbihSxLaNDb)을 시청했다.
+
+---
