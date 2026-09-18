@@ -184,3 +184,11 @@
 >   - 코드팩토리의 [앤트로픽이 직접 말아주는 Fable 5.1 지리게 잘 사용하는 법](https://youtu.be/BDN9i5TucEI?si=amAM7MbihSxLaNDb)을 시청했다.
 
 ---
+
+## ✏ 2026.09.18
+> **Beast Heart v2 Safe Mode 원자복구·분석 리포트**
+>   - 043260 buy 40 unknown_submit_state 원인을 KIS URLError로 확인하고 broker truth 2회·evidence 파일로 no-submit 증명했다.
+>   - recovery 스냅샷 allowlist 분류 버그(`kis_paper_account_snapshot`)를 원인으로 분석했고 코드 패치는 보류했으며 리포트 문서화했다.
+>   - safe_mode 해제(운영 승인) 후 DB 상태 확인 완료; 개선 3가지(분류 순서/timeout/dispatcher)는 추후 검토 대상.
+
+---
