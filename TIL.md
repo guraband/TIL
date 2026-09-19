@@ -195,8 +195,10 @@
 
 ## ✏ 2026.09.19
 > **cron 재실행 4건 승인 및 처리**
-> - 09-18 투자일지 재실행 완료; 4 cron 별도 승인 처리; Notion 발행 시도는 환경 제약으로 미완료
-> - 각 cron 별도 승인(Y/Y/Y) 처리, 이전 승인 혼동 방지; Notion 발행 시도는 credential/환경 제약으로 미완료
+> - 투자일지 재실행 완료. 네 작업은 각각 별도 승인·처리해 이전 승인 혼동을 방지했다.
+> - Market Autoresearch는 dry-run 완료 후 발행을 시도했으나 credential 제약으로 실패했다.
+> - Economic YouTube는 자료 부족(exit 1), ETF Autoresearch는 ModuleNotFoundError(exit 1)로 중단됐다.
+
 ---
 
 ## ✏ 2026.09.20
