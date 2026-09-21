@@ -213,4 +213,9 @@
 >   - SQLite lifecycle·tracker transaction·heartbeat·retry 경계를 보강해 280 tests와 Luther PASS를 확인했다.
 >   - force-restart import 결함으로 0-worker 격리 후 official watchdog으로 새 revision 8개와 queue 0을 복구했다.
 
+> **ETF Autoresearch Cron 복구**
+>   - 9월 19~21일 daily claim과 9월 20일 weekly 발행 체인을 원 날짜 권위로 복구했다.
+>   - stage-aware 재시도·prompt 해시 결합·terminal 선검증으로 지연은 무작업, 변조는 차단했다.
+>   - 핵심 56·운영 90·모델 22 테스트와 독립 리뷰 PASS 후 `f3b55a2`를 원격에 푸시했다.
+
 ---
