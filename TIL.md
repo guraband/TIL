@@ -204,3 +204,11 @@
 >   - [내가 대규모 트래픽을 만나면 제일 먼저 하는 일](https://youtu.be/1CRNXpfYvZE?si=cqTJW5Tv_8WbNWoN)
 
 ---
+
+## ✏ 2026.09.21
+> **Beast Heart v2 작업트리·운영 기록 정리**
+>   - KIS-SSOT 중복 브랜치의 patch-id가 main과 같음을 확인하고 작업트리를 main 하나로 정리했다.
+>   - Safe Mode WIP는 714 tests 중 28 failures·37 errors로 병합 거부하고 체크섬 아카이브에 보존했다.
+>   - cron 이식성과 사고·감사 기록을 검증해 main `ec6e765`로 push하고 관련 88 tests를 통과했다.
+
+---
