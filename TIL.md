@@ -226,4 +226,9 @@
 >   - exact 수량·완전 스냅샷 2회·strict 단일 행에서만 BUY 자동복구하고 나머지는 차단했다.
 >   - 신규 7·관련 23·Phase2 381 테스트와 독립 PASS 후 main `0bfb344`를 배포했다.
 
+> **ETF Autoresearch Claim worker 복구**
+>   - 빈 claim draft가 재사용돼 finalizer가 27회 실패한 poison artifact 구조를 수정했다.
+>   - malformed 일반 draft는 worker 재처리, finalizer 무음 대기, 위험 경로는 fail-closed로 유지했다.
+>   - 전체 622 테스트·독립 PASS 후 `7ccbc2d`를 기능 브랜치에 push하고 자연 실행 검증을 예약했다.
+
 ---
