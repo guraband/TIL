@@ -232,3 +232,11 @@
 >   - 전체 622 테스트·독립 PASS 후 `7ccbc2d`를 기능 브랜치에 push하고 자연 실행 검증을 예약했다.
 
 ---
+
+## ✏ 2026.09.23
+> **Beast Heart watchdog Redis TTL lock**
+>   - directory lock을 Redis `SET NX PX 300000`으로 교체해 stale lock을 5분 TTL로 자동 해제했다.
+>   - busy는 exit 0, Redis 오류는 exit 75로 처리하고 갱신·삭제·guardian·Safe Mode 변경은 배제했다.
+>   - 구현 `89a2ee1`, 기록 `672094f`를 기능 브랜치에 push했다. main·배포는 미수행이다.
+
+---
