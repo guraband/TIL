@@ -234,9 +234,9 @@
 ---
 
 ## ✏ 2026.09.23
-> **Beast Heart watchdog Redis TTL lock**
->   - directory lock을 Redis `SET NX PX 300000`으로 교체해 stale lock을 5분 TTL로 자동 해제했다.
->   - busy는 exit 0, Redis 오류는 exit 75로 처리하고 갱신·삭제·guardian·Safe Mode 변경은 배제했다.
->   - 구현 `89a2ee1`, 기록 `672094f`를 기능 브랜치에 push했다. main·배포는 미수행이다.
+> **Beast Heart v2 Safe Mode 복구·watchdog**
+>   - KIS 계좌의 주문·체결·포지션 불일치를 대조해 Safe Mode를 복구하고, 외부 자동복구 경로·로직·운영 문서를 보강했다.
+>   - 복구 변경을 검증해 main에 커밋·push했고 Safe Mode·Hard Halt 해제를 확인했다.
+>   - watchdog Redis TTL lock은 5분 만료·busy 0·오류 75로 구현해 기능 브랜치에 push했다. main·배포는 미수행이다.
 
 ---
