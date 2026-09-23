@@ -237,6 +237,6 @@
 > **Beast Heart v2 Safe Mode 복구·watchdog**
 >   - KIS 계좌의 주문·체결·포지션 불일치를 대조해 Safe Mode를 복구하고, 외부 자동복구 경로·로직·운영 문서를 보강했다.
 >   - 복구 변경을 검증해 main에 커밋·push했고 Safe Mode·Hard Halt 해제를 확인했다.
->   - watchdog Redis TTL lock은 5분 만료·busy 0·오류 75로 구현해 기능 브랜치에 push했다. main·배포는 미수행이다.
+>   - watchdog Redis TTL lock은 5분 만료·busy 0·오류 75로 구현해 main에 병합했다. 운영 적용 여부는 별도 확인이 필요하다.
 
 ---
