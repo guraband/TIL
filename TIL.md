@@ -262,3 +262,15 @@
 >   - [5주만에 50만 구독자 달성한 레전드 숏츠 만드는법](https://youtu.be/7-pp5gNNdKo?si=iXRnV7czVjl5Awzm) — 코드팩토리
 
 ---
+
+## ✏ 2026.09.27
+> **나무위키 인기검색어 포스팅 Cron 개선**
+>   - 25일 실행 누락·26일 커버 생성 실패를 확인하고 두 날짜 글을 백필했다.
+>   - `봉누도2 → 봉누도 2` 링크 별칭을 보완해 46개 테스트를 통과했다.
+>   - 두 기존 글의 누락 링크를 수정하고 PC·모바일 순위·링크·태그 각 10개를 검증했다.
+
+> **Claude Code·Codex 전환**
+>   - ChatGPT 구독용 프록시를 설치하고 `claude-codex`로 Claude/Codex 선택·자동 기동을 구현했다.
+>   - Fable→Astra, Opus→Sol, Sonnet·Haiku→Luna와 opusplan 단계별 매핑을 실제 호출로 검증했다.
+
+---
