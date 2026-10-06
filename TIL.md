@@ -78,3 +78,11 @@
 >   - worktree2개·테스트DB7개와 부속 파일을 정리하고 운영DB를 보존했다. 전체012 인수·첫 개장 자연 관측은 미완료다.
 
 ---
+
+## ✏ 2026.10.07
+> **Market Autoresearch Close 복구·main 통합·정리**
+>   - 생산자·발행 복구를 운영 적용하고 기존 Notion 147 blocks를 검증했다. 정상 결과·실패 이력을 보존했다.
+>   - 자정 KST 오류 수정·관련67 tests/25 subtests·독립 리뷰 PASS. 기존 WIP도 main `f730aef`로 병합·push했다.
+>   - worktree1개·임시DB751개를 정리하고 증거를 보관했다. 감시 활성·자연 실행 미관측·기존 setup 문서 불일치는 유지했다.
+
+---
