@@ -80,10 +80,10 @@
 ---
 
 ## ✏ 2026.10.07
-> **Market Autoresearch Close 복구·main 통합·정리**
->   - 생산자·발행 복구를 운영 적용하고 기존 Notion 147 blocks를 검증했다. 정상 결과·실패 이력을 보존했다.
->   - 자정 KST 오류 수정·관련67 tests/25 subtests·독립 리뷰 PASS. 기존 WIP도 main `f730aef`로 병합·push했다.
->   - worktree1개·임시DB751개를 정리하고 증거를 보관했다. 감시 활성·자연 실행 미관측·기존 setup 문서 불일치는 유지했다.
+> **Market Autoresearch Close·Morning 복구·운영 적용**
+>   - Close 생산자·발행 및 자정 KST 수정, 67 tests/25 subtests·독립 PASS. 기존 Notion147 blocks 검증·감사 보존.
+>   - Morning 숨은 실패·최대2회 native 복구와 watcher 전환, 독립 PASS·74 tests/6 subtests. 오늘자8테마·9후보·발행 보존.
+>   - main `c58e79e` push·원격 일치. WIP·setup 불일치 보존, 앞선 worktree1·임시DB751 정리 기록 유지·자연 실행 미관측.
 
 > **야수의 심장 체결 연결·운영 정상화**
 >   - 정상 체결 반영·불완전 응답 재조회·복구 이관과 snapshot 연결을 최소 수정했다. 검사15·42건과 Luther 종결 리뷰 PASS.
