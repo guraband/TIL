@@ -85,9 +85,9 @@
 >   - Morning 숨은 실패·최대2회 native 복구와 watcher 전환, 독립 PASS·74 tests/6 subtests. 오늘자8테마·9후보·발행 보존.
 >   - main `c58e79e` push·원격 일치. WIP·setup 불일치 보존, 앞선 worktree1·임시DB751 정리 기록 유지·자연 실행 미관측.
 
-> **야수의 심장 체결 연결·sweep 복구 보완**
->   - BUY·SELL 반영과 장중 원장 복구 후 자연 SELL·보유0 확인. 앞선 코드0439226은 운영 적용, 전체 안정성은 별도다.
->   - sweep 이벤트→완료job 연결을 +2/-2로 보완. 회귀19·기존24·보완16 PASS와 실제 Luther 독립19 PASS를 확인했다.
->   - main76b2674 push·원격 일치. WIP·실패 증거·worktree 보존, 이번 sweep 운영 반영·자연 복구는 미관측이다.
+> **야수의 심장 체결·sweep·진단·대시보드 보완**
+>   - BUY·SELL 원장 복구·자연 SELL/보유0 확인, sweep 연결 회귀19·기존24·보완16·Luther19 PASS.
+>   - KIS 조회 진단·P2 누적 표시/영수증 정정, 통합30·대시보드92/main7·빌드/모바일 검증·P2 Luther PASS.
+>   - main `e7ae83e` push·원격 일치·worktree 정리. 복구0439226 적용 이력 유지; 이번 변경 미배포·자연 관측 미완료·WIP 보존.
 
 ---
