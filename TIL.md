@@ -91,3 +91,11 @@
 >   - main `e7ae83e` push·원격 일치·worktree 정리. 복구0439226 적용 이력 유지; 이번 변경 미배포·자연 관측 미완료·WIP 보존.
 
 ---
+
+## ✏ 2026.10.08
+> **경제 YouTube 리포트 오류 복구·발행**
+>   - default 단일 운영·producer 락·전사 receipt·불완전 발행 차단·Python 경로 보완, 61/17 tests·독립 PASS.
+>   - same-run 복구로 전사45·요약21 chunk 완료, Notion91블록·상위 경로·채팅 전달 확인·실패 이력 보존.
+>   - 로컬 CHANGELOG 기록·운영 적용, 프로젝트 Git 작업은 요청으로 생략. 내일 정규 자연 실행은 미관측.
+
+---
