@@ -98,9 +98,9 @@
 >   - same-run 복구로 전사45·요약21 chunk 완료, Notion91블록·상위 경로·채팅 전달 확인·실패 이력 보존.
 >   - 로컬 CHANGELOG 기록·운영 적용, 프로젝트 Git 작업은 요청으로 생략. 내일 정규 자연 실행은 미관측.
 
-> **야수의 심장 첫 체결·Safe 알림 복구·운영 인수**
->   - 첫 terminal 반영·Safe 알림 수정과 실측 기반 timeout8초 조정, 집중 회귀·Luther PASS·기존 테스트 부채 유지.
->   - 사고2건 복구·Safe 해제·워커8/큐0·후속 BUY/SELL 완료 확인. 진행 중 정합성 실패 원인·장기 안정성은 남았다.
->   - main `71baf04` push·원격 일치, worktree2개 정리·증거/WIP 보존. 구조적 인수 규칙·다음 세션 인계 기록.
+> **야수의 심장 체결 복구·실행권 정합·Git 전달**
+>   - 첫 terminal·Safe 알림·복수 owner 보완, native 조회15초/budget120초/lease150초·회귀30·Luther PASS.
+>   - 장중 복구·Safe 해제, 워커8 기동 뒤15:30 예약 종료. 현재 워커0·자동 exit 비활성·다음 장중 인수는 남았다.
+>   - main `e02f9db` push·원격 일치, 012 문서2커밋 포함·worktree 정리·증거/WIP 보존·기존 테스트 부채 유지.
 
 ---
