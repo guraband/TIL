@@ -158,8 +158,8 @@
 
 ## ✏ 2026.10.13
 > **야수의 심장 주문 보완·020 정리·SQLite 초기화 통합**
->   - SELL·BUY owner 보완(32/92 PASS)·020 정리(집중10 PASS)·SQLite 초기화를 통합, 독립 리뷰 통과.
->   - main `2f1d813` push·원격 일치, 020 worktree2개 정리. 워커8·최신 heartbeat·queue0·Safe off 확인.
->   - 모의투자 유지·금호건설 active 정리는 미완료다. C019 보호 유지·보류, 전체012 인수·장기 안정성·기존 테스트 부채는 남았다.
+>   - SELL·BUY owner(32/92 PASS)·020 정리(집중10 PASS)·SQLite 원자성을 main에 통합, 독립 리뷰 PASS.
+>   - main `2f1d813` push·원격 일치. 결합150중148 PASS·기존 실패2 유지, 작업 워크트리3개 정리.
+>   - 모의 워커8·queue0·Safe/Hard off·자연 watchdog 유지. 금호건설 active·C019 보류·전체012 인수·장기 안정성 미완료.
 
 ---
