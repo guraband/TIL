@@ -300,10 +300,10 @@
 >   - 관련28개·Luther 최종 PASS, 운영8d2730b 적용·8워커 정상·자연 중립 수신 확인. 기존 localization 부채는 보존했다.
 >   - main `f9286a8` push·작업트리 정리·증거 보존. 자연 theme_only·실제 한글 알림·하루 안정성은 미관측이다.
 
-> **Market Autoresearch 장전 원천 정정·발행 복구**
->   - 원천59건 정정·4개 평가·실패 단계 재개를 적용했다. 통합98개·Luther PASS, 후보·Decision·실패 이력 보존.
->   - 근거21건·Notion 두 본문 대조·멱등성 확인. paused·참고용 유지, 자연 실행·별도 shadow 차단은 남았다.
->   - main `13bb637` push·문서60개 PASS·작업트리3개 정리·증거 보존. 적용 코드는 `0d42348`, ship 재실행 없음.
+> **Market Autoresearch 장전 복구·구조 보완**
+>   - 원천59건 정정·4평가·근거21건·Notion 대조 후, 사전검사·완료 판정·연쇄 알림을 통합했다.
+>   - 구현 `9e621fe`·Luther PASS_WITH_NOTES, 관련289 PASS·기존6실패. paused 참고용·부모69/루터40 통과.
+>   - main `5868bc3` push·후속 작업트리3개 정리·증거 보존. 운영 `84ba0cb`, 원천부족·shadow·자연 관측은 남았다.
 
 > **ETF YouTube 공통 차단 보완·수집 복구**
 >   - HTTP429·봇 차단 시 대기·재개와 재시도 보존을 적용했다. 전체662개·119 subtests·Luther 최종 PASS.
