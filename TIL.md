@@ -300,4 +300,9 @@
 >   - 관련4개·독립 리뷰 PASS. 기존 localization 실패1건은 기준 코드 재현 부채로 분리했다.
 >   - main `2a04a26` push·원격 일치·작업트리1개 정리. 워커 재시작·자연 Telegram 전달은 미확인.
 
+> **Market Autoresearch 장전 원천 정정·발행 복구**
+>   - 원천59건 정정·4개 평가·실패 단계 재개를 적용했다. 통합98개·Luther PASS, 후보·Decision·실패 이력 보존.
+>   - 근거21건·Notion 두 본문 대조·멱등성 확인. paused·참고용 유지, 자연 실행·별도 shadow 차단은 남았다.
+>   - main `13bb637` push·문서60개 PASS·작업트리3개 정리·증거 보존. 적용 코드는 `0d42348`, ship 재실행 없음.
+
 ---
