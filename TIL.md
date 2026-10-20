@@ -333,7 +333,7 @@
 ## ✏ 2026.10.21
 > **ETF Planner 신규 후보 caller·코드-only 전달**
 >   - 노트→등록·가격·M6/K5와 명시 상품심사→새 private root·전체 pool·추천 caller를 연결했다. 합성 기존6+신규1 종단을 검증했다.
->   - 고정본 `742eb5b`의 Ned R1·Luther 종료 통과, 독립 각9 PASS. 실제494210 입력 생성·consume은 성공했지만 가격243/244 결측으로 신규 종단 실증은 미완료다.
->   - main `f77f70d` push·운영 공개/독립 API 두 계산 일치·기존6종/보유5종/현금흐름 유지·작업트리1개 정리. AGENTS·ACTIVE·Cron 보존, 새 편입/자연 관측 없음.
+>   - 고정 `742eb5b` Ned R1·Luther 종료·각9 PASS. 실제494210 입력·consume 성공, 가격243/244 결측으로 신규 종단 미완료.
+>   - main `f77f70d` push·공개/API 두 계산·기존6종/보유5종·현금흐름 유지. 작업트리1개 정리, AGENTS·ACTIVE·Cron 보존·자연 미관측.
 
 ---
