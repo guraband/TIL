@@ -323,4 +323,9 @@
 >   - readonly 소비자 보완·Ned 교차/Luther PASS. 초기56·보완83 PASS/기존1 SKIP, 날짜 fixture1실패는 base 재현.
 >   - main `e63cdeb` push·작업트리2개 정리·AGENTS 보존. 09/18시 Cron 강제 current/200·첫 자연 갱신 미관측.
 
+> **마리오 모바일 웹 리마스터**
+>   - 네이티브 core를 WebAssembly로 이식하고 리마스터 전용·2단 점프·불꽃·생성형 본체·멀티터치 UI를 구현했다.
+>   - 관련58개·독립 리뷰·브라우저 두 화면/화살표 검증, README·READMD와 사설 LAN 접속을 정리했다.
+>   - 로컬 브랜치 `75d4186` 커밋·clean 확인. main 미병합·공개 배포 없음·실제 휴대폰/스피커 검증은 남았다.
+
 ---
