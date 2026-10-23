@@ -392,3 +392,11 @@
 >   - main `c6b118a` push·작업트리3개 정리·증거79개 보존. Backfill 중지 유지·다음 자연 실행 미관측.
 
 ---
+
+## ✏ 2026.10.24
+> **Hermes Cron owner 수정·운영 적용**
+>   - macOS 시작 지문 보정에 따른 owner 오판을 수정했다. 운영 `d87742a`·Gateway5개 새 코드 적용을 확인했다.
+>   - Zara의 default Cron 차단·default/ned 허용, pause25개 복원·WIP5개·과거 unknown3행 보존을 확인했다.
+>   - default 자연 catch-up 완료·등급제5개 유지를 확인했다. Luna 추론·전달 미관측, stop 강제종료2건은 별도다.
+
+---
