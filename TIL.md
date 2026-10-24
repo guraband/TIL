@@ -394,9 +394,9 @@
 ---
 
 ## ✏ 2026.10.24
-> **Hermes Cron owner 수정·운영 적용**
->   - macOS 시작 지문 보정에 따른 owner 오판을 수정했다. 운영 `d87742a`·Gateway5개 새 코드 적용을 확인했다.
->   - Zara의 default Cron 차단·default/ned 허용, pause25개 복원·WIP5개·과거 unknown3행 보존을 확인했다.
->   - default 자연 catch-up 완료·등급제5개 유지를 확인했다. Luna 추론·전달 미관측, stop 강제종료2건은 별도다.
+> **Hermes Cron 운영·YouTube 검증 보완**
+>   - owner 오판 수정·운영 `d87742a`·Zara 차단을 확인했다. pause25개·WIP5개·unknown3행·등급제를 보존했다.
+>   - 경제 YouTube 의미/파일 해시 혼동을 보완했다. 회귀6개·독립검토 PASS, 49건·17청크·기존41파일을 검증했다.
+>   - ETF 감시 경로 정합화·gate 자연실행 확인. 수정 후 AI·ETF 자연감시 미관측, stop 강제종료2건은 별도다.
 
 ---
