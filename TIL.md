@@ -427,7 +427,7 @@
 
 > **Market Autoresearch 장전 복구·수집 timeout ship**
 >   - 수집 timeout·원천 인증 복구, 근거11건·Notion142/31블록 전체 일치·멱등 발행을 확인했다.
->   - 리뷰 PASS만 통합·회귀52/30개 통과. Market `aaca4b9`·수집기 `ad1c181` main push·원격 일치.
->   - 완료 작업트리1개 정리·증거24개/WIP 보존. 추가 확장 BLOCK·미병합, Cron 중지·자연 관측 별도.
+>   - 리뷰 PASS만 통합·회귀52/30개 통과. Market `3ba8051`·수집기 `ad1c181` main push·원격 일치.
+>   - 불필요한 추가안·브랜치와 완료 작업트리 정리, 검증 증거·WIP 보존. Cron 중지·자연 관측 별도.
 
 ---
